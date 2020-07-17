@@ -1,0 +1,4487 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+
+<head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        <meta property="og:title" content="400 dias de governo" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo" />
+<meta property="og:image" content="https://www.gov.br/logo.png" />
+
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="Governo do Brasil" />
+
+
+  
+
+  
+  
+  <script>
+    (function() {
+        var po = document.createElement('script');
+        po.async = true;
+        po.src = document.location.protocol + '//connect.facebook.net/pt_BR/all.js#xfbml=1';
+        var head = document.getElementsByTagName('head')[0];
+        head.appendChild(po);
+    }());
+    </script>
+
+
+
+  
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@" />
+  
+
+
+
+
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-8bd497bdf87f5320f54aaa94a073925b.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-d9357484cb7acdefc44d89a59ad35e70.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-ba3288bff4d57c24eaba8aee9b1946dd.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-6977d22b20dd409d7f4b7bef5fed2418.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-3466b62202cfc610eb2933a25b3f4146.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-d31a0b36d8ff90f4ad47e8c315290318.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-8dbe24e54c00e1846f843dc4c74f4e04.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-745c70346aecf56d1b67e38f951b92e4.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-667c722cf33c901f678335cfac00f75e.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-cecf1b75c1d82ec0b35111f73fb9ac10.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-16f613b2c248e2188c6a22ab11fca9b8.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-d0c2e26fdcb1222013e6449a8f8248c9.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-7b982140fba07929007d99968fa12096.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-0d5b7c7998c2518cf9645f37250f12fa.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-78c184b1a47f1723289c07e0da4b6a17.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-140e7cfbb5275b9add3cc6fbc5fd7cdf.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-45183841b669f6d95a266445182838d4.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-37f614a.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-37f614a.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.tiles/brasilgovtiles-7d5753d.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.tiles/brasilgovtiles-7d5753d.js"></script>
+
+
+
+<title>400 dias de governo — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/86386522168" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+
+    <link rel="search" href="https://www.gov.br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+  
+
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+  <meta charset="utf-8" />
+  
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+  <link rel="manifest" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/manifest.json" />
+  <link rel="mask-icon" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+  <meta name="msapplication-config" content="++theme++padrao_govbr/favicons/browserconfig.xml" />
+  <meta name="theme-color" content="#00a300" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+  <script src="https://www.youtube.com/iframe_api"></script>
+<link href="/++theme++padrao_govbr/++theme++padrao_govbr/govbrtheme-803327f.css" rel="stylesheet" /></head>
+
+<body id="" class="default-header-template portal-govbr cover-layout-layout-vazio template-view portaltype-collective-cover-content site-pt-br section-noticias subsection-financas-impostos-e-gestao-publica subsection-financas-impostos-e-gestao-publica-400-dias subsection-financas-impostos-e-gestao-publica-400-dias-400 dias de governo userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><ul id="skip-menu">
+    <li><a accesskey="i" href="/">Ir para página inicial</a></li>
+    <li><a accesskey="c" href="#content">Ir para o conteúdo</a></li>
+    <li><a accesskey="n" href="#menu-institucional">Ir para o menu</a></li>
+    <li><a accesskey="4" href="#portal-footer">Ir para o rodapé</a></li>
+  </ul><!-- User --><!-- Header --><!-- <header id="main-header" class="has-navigation-swipe"> --><header id="main-header" class="has-navigation-dropdown">
+    <div class="header-wrapper">
+      <div class="header-icons">
+        <a class="ico-navegacao">
+          Navegação
+          <i class="fa fa-bars" aria-hidden="true"></i>
+          <i class="fa fa-times" aria-hidden="true"></i>
+        </a>
+      </div>
+      <div id="logo">
+        <a id="portal-img" href="https://www.gov.br/pt-br" title="O portal do Brasil"></a>
+        <a id="portal-logo" title="O portal do Brasil" href="https://www.gov.br/pt-br">
+          <span id="portal-title-1">Governo do</span>
+          <div id="portal-title" class="corto">Brasil</div>
+        </a>
+        
+      </div>
+
+      <div class="header-accessibility">
+        <ul>
+          <li>
+            <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+          </li>
+          <li>
+            <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+          </li>
+          <li>
+            <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+          </li>
+          <li>
+            <a href="/accessibility-info">Acessibilidade</a>
+          </li>
+          <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <i class="fas fa-assistive-listening-systems"></i>
+                </a>
+              </li>-->
+          <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+          <li>
+            <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+              <i class="fas fa-user"></i>
+              Acesso GOV.BR
+            </a>
+          </li>
+          <li>
+            <a href="#" class="link-contraste">
+              <i class="fas fa-adjust"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" accesskey="&#10;b" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="https://www.gov.br/pt-br/@@search" accesskey="5">Busca Avançada…</a>
+    </div>
+
+</div>
+    </div>
+    <div class="header-wrapper">
+      
+    </div>
+
+    <!-- Main Menu -->
+    <div class="navigation-wrapper navigation-dropdown">
+      <div class="navigation-content">
+        <nav id="main-navigation" class="navigation-cell">
+          <ul class="list-navigation"><li id="portaltab-servicos" class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-galeria-de-aplicativos" class="plain"><a href="/clientes/portalgovbr/portalgovbr/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li id="portaltab-noticias" class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-planalto" class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li id="portaltab-canais-do-executivo-federal" class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li id="portaltab-navegacao" class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-acesse-sua-conta-gov.br" class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li id="portaltab-guia-de-edicao-de-servicos-do-gov.br" class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li id="portaltab-orgaos-do-governo" class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li id="portaltab-todosportodos" class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+        </nav>
+      </div>
+      <div class="navigation-content-extra">
+        <div class="links-redes-wrap">
+          <div class="links-uteis links-uteis-mobile">
+            <ul>
+              <li>
+                <a href="#">Acessibilidade</a>
+              </li>
+              <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+              <li>
+                <a href="#" class="link-contraste">
+                  <i class="fas fa-adjust"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="links-uteis">
+            <h3>
+              Links Úteis
+            </h3>
+            <ul>
+              <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+              <li>
+                <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+              </li>
+            </ul>
+          </div>
+          <div class="header-accessibility">
+            <ul>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+              </li>
+            </ul>
+          </div>
+          <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Menu -->
+    
+    
+
+    <div id="beta"><a href="/sobre">Versão Beta</a></div>
+  </header><div id="portal-breadcrumbs-wrapper">
+    <div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica">Economia e Gestão Pública</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">400 dias</span>
+         
+    </span>
+
+</div>
+  </div><div class="video"></div><div id="wrapper">
+    <!-- Columns -->
+
+    <div id="main">
+      
+
+      <main id="main-content" role="main">
+
+            <div id="viewlet-above-content">
+
+
+
+<div id="viewlet-tileshare" data-title-fb="Compartilhar no Facebook (abre em nova janela)" data-title-twitter="Tweet (abre em nova janela)" data-title-linkedin="Compartilhar no Linkedin  (abre em nova janela)" data-title-gplus="Compartilhar no Google+  (abre em nova janela)" data-title-link="Copiar para área de transferência" data-title-more="Mais opções">
+</div>
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+    
+    
+        
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row hidden-mobile-ls hidden-tablet-ls">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="c872702c-0964-4a88-9106-b924b1917b2d">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/pdf-400-dias-atualizado.pdf">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.cover.banner/c872702c-0964-4a88-9106-b924b1917b2d/@@images/4459ff3a-e541-419c-8a87-3eeece238cfb.jpeg" width="1150" height="315" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row hidden-notebook">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="cb77d1fc-6a37-4290-b46f-d270397b4906">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/pdf-400-dias-atualizado.pdf">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.cover.banner/cb77d1fc-6a37-4290-b46f-d270397b4906/@@images/130ecf5d-5548-4f5b-b092-d33883e3a66c.jpeg" width="1024" height="416" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="a611fe9a-0e63-427c-bb7d-8908d7dc8794">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/leiloes-de-energia-e-expansao-dos-sistemas-de-transmissao-sao-prioridades-do-governo" title="Ministério de Minas e Energia destaca também leilão da Cessão Onerosa, onde foram arrematadas as áreas de Búzios e Atapu, gerando uma arrecadação recorde de R$ 69,96 bilhões em bônus de assinatura">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/a611fe9a-0e63-427c-bb7d-8908d7dc8794/@@images/9409bfc2-3523-44c6-8c27-287425a2b792.jpeg" width="565" height="388" class="left" alt="Minas e Energia" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/leiloes-de-energia-e-expansao-dos-sistemas-de-transmissao-sao-prioridades-do-governo">Minas e Energia</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="d7ad59ab-1206-404c-8bf6-c11664843498">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/sistema-unico-de-saude-amplia-atendimento-a-populacao" title="Em 400 dias de governo na saúde, rede do SUS é informatizada e recebe novos serviços voltados à família e à atenção especializada">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/d7ad59ab-1206-404c-8bf6-c11664843498/@@images/18b736d9-e918-48cf-a5ff-de5ab922b661.jpeg" width="512" height="349" class="left" alt="Saúde" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/sistema-unico-de-saude-amplia-atendimento-a-populacao">Saúde</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="b75b3aad-848c-4c81-9dc1-9f9bce903df2">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/seguranca-publica-e-reforcada-com-banco-de-dados-de-procurados-pela-justica" title="Ministério da Justiça e Segurança Pública ainda ampliou vagas em presídios e criou programa com foco em áreas de fronteiras">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/b75b3aad-848c-4c81-9dc1-9f9bce903df2/@@images/b4f53fd8-ed58-4215-b448-e165d63ce03a.jpeg" width="565" height="338" class="left" alt="Justiça e Segurança Pública" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/seguranca-publica-e-reforcada-com-banco-de-dados-de-procurados-pela-justica">Justiça e Segurança Pública</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="c381c23e-f34a-43f2-9608-6c43a59e36e7">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/casa-civil" title="O órgão também atuou na Operação Acolhida, que realizou mais de um milhão de atendimentos emergenciais e interiorizou mais de 22 mil venezuelanos">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/c381c23e-f34a-43f2-9608-6c43a59e36e7/@@images/c3d17a64-83bf-4580-bf7e-009f156007f2.jpeg" width="565" height="286" class="left" alt="Casa Civil" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/casa-civil">Casa Civil</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="a7d4a93b-37c9-4d5f-9f92-6da8083b2c97">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/banco-central-atua-para-fortalecer-sistema-financeiro" title="Fomento de crédito para o micro e pequeno empreendedor também está entre as principais ações do Banco Central">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/a7d4a93b-37c9-4d5f-9f92-6da8083b2c97/@@images/2f5e1148-19d2-4b3f-b992-c4322fb13186.jpeg" width="565" height="376" class="left" alt="Banco Central do Brasil" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/banco-central-atua-para-fortalecer-sistema-financeiro">Banco Central do Brasil</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="f9c3f9a0-e39e-4ddd-ab02-0462303dd0da">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/cgu-intensifica-acoes-de-combate-a-corrupcao" title="Nos 400 dias de governo, a Controladoria-Geral da União trabalhou na construção do Decreto de Proteção ao Denunciante e lançou dois painéis com informações relacionadas ao pagamento do Benefício de Prestação Continuada (BPC) e o Bolsa Família">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/f9c3f9a0-e39e-4ddd-ab02-0462303dd0da/@@images/226d54a4-acfc-4265-9454-e77cd387313b.png" width="468" height="468" class="left" alt="Controladoria-Geral da União" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/cgu-intensifica-acoes-de-combate-a-corrupcao">Controladoria-Geral da União</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="f74abacb-4507-43ce-9362-a9a90d45e16d">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/agricultura-estabelece-selo-para-produtos-de-origem-animal" title="Ministério da Agricultura também realizou a modernização do marco legal relacionado à Regularização Fundiária e Reforma Agrária no Brasil, além de estabelecer preços mínimos para produtos extrativos que contribuem para conservação dos biomas brasileiros">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/f74abacb-4507-43ce-9362-a9a90d45e16d/@@images/f0fa5a29-af4b-4e43-a45e-baf38b1684e9.jpeg" width="565" height="317" class="left" alt="Agricultura, Pecuária e Abastecimento" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/agricultura-estabelece-selo-para-produtos-de-origem-animal">Agricultura, Pecuária e Abastecimento</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="c22acfea-d661-4123-8073-c2cceb000680">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/ministerio-da-cidadania-faz-repasse-da-13-parcela-do-bolsa-familia" title="Pasta também destaca a formulação e implementação de políticas públicas para a primeira infância e criação do Programa Roda Bem Caminhoneiro, que busca reduzir o preço dos insumos necessários para o transporte rodoviário de cargas">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/c22acfea-d661-4123-8073-c2cceb000680/@@images/6001fe55-6fc1-4d7a-847b-467b20b66863.jpeg" width="512" height="351" class="left" alt="Cidadania" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/ministerio-da-cidadania-faz-repasse-da-13-parcela-do-bolsa-familia">Cidadania</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 foto-sobreposta " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="f54f1964-3f24-4845-81e0-a37f60013459">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/acordos-internacionais-e-novas-tecnologias-sao-os-destaques-do-ministerio-da-ciencia-tecnologia-inovacoes-e-comunicacoes" title="Lançamento de satélites, reinauguração da Estação Antártica Comandante Ferraz e a primeira volta dos elétrons no acelerador principal do super laboratório Sirius estão entre as ações">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/f54f1964-3f24-4845-81e0-a37f60013459/@@images/e6fe04fc-5499-4b85-b487-7186acbdc8e5.jpeg" width="565" height="423" class="left" alt="Ciência, Tecnologia, Inovações e Comunicações" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/acordos-internacionais-e-novas-tecnologias-sao-os-destaques-do-ministerio-da-ciencia-tecnologia-inovacoes-e-comunicacoes">Ciência, Tecnologia, Inovações e Comunicações</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 foto-sobreposta " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="b263e105-f0f1-4dcf-815f-372c88e1a18e">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/defesa-atuacao-na-operacao-acolhida-e-inauguracao-de-estacao-de-pesquisa-na-antartica" title="Além disso, ministério destaca também o trabalho em projetos estratégicos e novas tecnologias">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/b263e105-f0f1-4dcf-815f-372c88e1a18e/@@images/1234a0a4-9ab9-4e64-abcf-783eaf414a75.jpeg" width="565" height="376" class="left" alt="Defesa" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/defesa-atuacao-na-operacao-acolhida-e-inauguracao-de-estacao-de-pesquisa-na-antartica">Defesa</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="ecfbc1f5-5b7b-46a1-bc92-786fe5fdff34">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/ministerio-do-desenvolvimento-regional-destaca-projetos-de-saneamento-basico-e-entrega-de-unidades-habitacionais" title="MDR destacou ainda o financiamento de programas de mobilidade urbana e ações do programa de acesso à água de qualidade para o consumo humano">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/ecfbc1f5-5b7b-46a1-bc92-786fe5fdff34/@@images/76ae6450-0ffa-4356-9394-b96f1b6a7950.jpeg" width="565" height="291" class="left" alt="Desenvolvimento Regional" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/ministerio-do-desenvolvimento-regional-destaca-projetos-de-saneamento-basico-e-entrega-de-unidades-habitacionais">Desenvolvimento Regional</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="b5f5610b-408b-4deb-b431-18739dde7fc3">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/na-educacao-destaque-para-criacao-de-novos-institutos-federais-e-entrega-de-onibus-escolares" title="Nos 400 dias de governo, foram criados mais 6 Campus de Institutos Federais e 1.363 ônibus escolares foram entregues, entre outras ações do Ministério da Educação">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/b5f5610b-408b-4deb-b431-18739dde7fc3/@@images/6bd50ae4-ac04-4d51-8d8e-bc6b4109bd84.png" width="468" height="468" class="left" alt="Educação" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/na-educacao-destaque-para-criacao-de-novos-institutos-federais-e-entrega-de-onibus-escolares">Educação</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="a9b2d8a5-0283-48ef-8d1b-8f8323b855c7">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/governo-federal-investe-em-aumento-de-produtividade-emprego-e-equilibrio-fiscal" title="Setor econômico do governo atuou também em prol da eficiência do Estado">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/a9b2d8a5-0283-48ef-8d1b-8f8323b855c7/@@images/4405628f-c916-469f-95db-7c41b3145d12.jpeg" width="565" height="356" class="left" alt="Economia" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/governo-federal-investe-em-aumento-de-produtividade-emprego-e-equilibrio-fiscal">Economia</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="bfde08d1-a786-4a5d-91ff-42d9ff9bdc35">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/concessao-de-portos-aeroportos-ferrovias-e-estradas-marca-novo-momento-para-a-infraestrutura-do-brasil" title="Ministério da Infraestrutura também efetivou medidas que integram a transformação digital do Governo Federal.">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/bfde08d1-a786-4a5d-91ff-42d9ff9bdc35/@@images/3dc58548-ff6e-45e0-9400-84f0d367ba3c.jpeg" width="565" height="375" class="left" alt="Infraestrutura" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/concessao-de-portos-aeroportos-ferrovias-e-estradas-marca-novo-momento-para-a-infraestrutura-do-brasil">Infraestrutura</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="eefe31e2-7373-4412-aa8a-8a10f821049d">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/acordos-ampliam-insercao-internacional-do-brasil" title="No últimos meses, o Brasil assinou acordos com Índia e Jerusalém e com países integrantes do Mercosul e BRICS">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/eefe31e2-7373-4412-aa8a-8a10f821049d/@@images/0b2c68c6-59cf-40a1-82a5-9fd6db2e148a.jpeg" width="565" height="376" class="left" alt="Relações Exteriores" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/acordos-ampliam-insercao-internacional-do-brasil">Relações Exteriores</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="dee0c4a2-a634-4beb-9dcc-7fa3b39274e5">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/governo-incentiva-desenvolvimento-do-turismo-nos-municipios-brasileiros" title="Nos últimos três meses, foram aprovadas 41 obras de infraestrutura turística nos municípios integrantes do Programa Investe Turismo, contribuindo diretamente para a estruturação dos destinos nacionais">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/dee0c4a2-a634-4beb-9dcc-7fa3b39274e5/@@images/35ef8579-136f-4f74-a485-be96efe914d9.jpeg" width="565" height="378" class="left" alt="Turismo" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/governo-incentiva-desenvolvimento-do-turismo-nos-municipios-brasileiros">Turismo</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="d30fdffa-cf75-4931-8c27-6799ab9936d0">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/secretaria-geral-atua-no-aumento-da-eficiencia-do-estado" title="Até o dia 20 de janeiro, 541 serviços já haviam sido transformados digitalmente. A economia estimada é de R$ 1,6 bilhão por ano apenas com o que foi entregue desde o início do governo">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/d30fdffa-cf75-4931-8c27-6799ab9936d0/@@images/17ef87f4-1e91-4e94-9531-d7477f5029aa.png" width="468" height="468" class="left" alt="Secretaria-Geral" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/secretaria-geral-atua-no-aumento-da-eficiencia-do-estado">Secretaria-Geral</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="aebcc32a-c464-4dac-a18f-8a0487b9d4df">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/400-dias-de-mulher" title="Ministério da Mulher, da Família e dos Direitos Humanos centralizou canais de atendimento à população e promoveu acesso à água própria para consumo em comunidades quilombolas">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/aebcc32a-c464-4dac-a18f-8a0487b9d4df/@@images/5b18c539-a167-43b9-91fe-56355a567ae3.jpeg" width="565" height="376" class="left" alt="Mulher, Família e Direitos Humanos" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/400-dias-de-mulher">Mulher, Família e Direitos Humanos</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="d7efbc84-2dc1-41e9-8d8d-febef3e971c3">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/meio-ambiente-desenvolvimento-sustentavel-conservacao-de-florestas-e-gestao-de-residuos" title="As ações do Ministério também se direcionaram">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/d7efbc84-2dc1-41e9-8d8d-febef3e971c3/@@images/c7039c69-74fe-4c02-a3cc-555ac3f7ccaf.jpeg" width="565" height="325" class="left" alt="Meio Ambiente" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/meio-ambiente-desenvolvimento-sustentavel-conservacao-de-florestas-e-gestao-de-residuos">Meio Ambiente</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="a4d95f11-846c-40cb-a4f5-9e37141e8a53">
+                        
+  
+
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+        <a class="imag" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/gsi-atuacao-na-nova-fase-da-operacao-acolhida" title="A Operação Acolhida oferece assistência emergencial aos venezuelanos que entram no Brasil pela fronteira de Roraima.">
+          <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/400%20dias%20de%20governo/@@collective.nitf.backgound/a4d95f11-846c-40cb-a4f5-9e37141e8a53/@@images/1b67ba59-91f1-4f89-93f5-8ca4de765ceb.jpeg" width="565" height="376" class="left" alt="Gabinete de Segurança Institucional" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h2><a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias/noticias-400-dias/gsi-atuacao-na-nova-fase-da-operacao-acolhida">Gabinete de Segurança Institucional</a></h2>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+        
+    
+
+
+
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content"><div class="voltar-topo">
+    <a href="#wrapper">Voltar ao topo</a>
+</div>
+
+
+
+
+
+
+
+    
+        <script class="social-links-script">
+        $(document).ready(function () {
+            for (let tile of $('.nitf-basic-tile')) {
+                if (!$(tile).find('.social-links').length) {
+                    var url = '#'
+                    $(tile).find('a').each(function(){
+                        url = $(this).attr('href');
+                    });
+                    var titulo = '#'
+                    $(tile).find('a').each(function(){
+                        titulo = $(this).text();
+                    });
+                    var imagem = url+'/logo.png'
+                    $(tile).find('img').each(function(){
+                        imagem = $(this).attr('src');
+                    });
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><i class="fab fa-telegram-plane"></i></a>');
+                    $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><i class="fab fa-whatsapp"></i></a>');
+                    $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
+                    var link_facebook = $('<a title="Facebook"><i class="fab fa-facebook-f"></i></a>');
+                    $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
+                    var link_twitter = $('<a title="Twitter"><i class="fab fa-twitter"></i></a>');
+                    $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
+                    var link_linkedin = $('<a title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>');
+                    $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
+                    var link_google = $('<a title="Google+"><i class="fab fa-google-plus-g"></i></a>');
+                    $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
+                    var link_email = $('<a title="E-mail"><i class="fas fa-at"></i></a>');
+                    $(link_email).attr('href', url+'/sendto_form');
+                    var link_pinterest = $('<a title="Pinterest"><i class="fab fa-pinterest-p"></i></a>');
+                    $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><i class="fas fa-link"></i></a>');
+                    $(link_clipboard).attr('href', url);
+                    $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
+                    var link_x = $('<a class="toggle-social-links"><i class="fas fa-share-alt"></i><i class="fas fa-times"></i></a>');
+                    var div_principal = $('<div class="social-links"></div>');
+                    $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
+                    $(div_principal).append(link_clipboard);
+                    $(div_principal).append(link_x);
+
+                    var container = $(tile).children('.tile-subtitle');
+                    $(container).append(div_principal);
+                }
+            }
+            new ClipboardJS('.link-clipboard', {
+                text: function (trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        });
+        </script>
+    
+    
+
+
+    
+        <script class="social-links-script">
+        $(document).ready(function () {
+            for (let tile of $('.nitf-basic-tile')) {
+                if (!$(tile).find('.social-links').length) {
+                    var url = '#'
+                    $(tile).find('a').each(function(){
+                        url = $(this).attr('href');
+                    });
+                    var titulo = '#'
+                    $(tile).find('a').each(function(){
+                        titulo = $(this).text();
+                    });
+                    var imagem = url+'/logo.png'
+                    $(tile).find('img').each(function(){
+                        imagem = $(this).attr('src');
+                    });
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><i class="fab fa-telegram-plane"></i></a>');
+                    $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><i class="fab fa-whatsapp"></i></a>');
+                    $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
+                    var link_facebook = $('<a title="Facebook"><i class="fab fa-facebook-f"></i></a>');
+                    $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
+                    var link_twitter = $('<a title="Twitter"><i class="fab fa-twitter"></i></a>');
+                    $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
+                    var link_linkedin = $('<a title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>');
+                    $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
+                    var link_google = $('<a title="Google+"><i class="fab fa-google-plus-g"></i></a>');
+                    $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
+                    var link_email = $('<a title="E-mail"><i class="fas fa-at"></i></a>');
+                    $(link_email).attr('href', url+'/sendto_form');
+                    var link_pinterest = $('<a title="Pinterest"><i class="fab fa-pinterest-p"></i></a>');
+                    $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><i class="fas fa-link"></i></a>');
+                    $(link_clipboard).attr('href', url);
+                    $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
+                    var link_x = $('<a class="toggle-social-links"><i class="fas fa-share-alt"></i><i class="fas fa-times"></i></a>');
+                    var div_principal = $('<div class="social-links"></div>');
+                    $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
+                    $(div_principal).append(link_clipboard);
+                    $(div_principal).append(link_x);
+
+                    var container = $(tile).children('.tile-subtitle');
+                    $(container).append(div_principal);
+                }
+            }
+            new ClipboardJS('.link-clipboard', {
+                text: function (trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        });
+        </script>
+    
+    
+
+
+  <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+
+
+
+
+
+</div>
+        </main>
+      
+    </div>
+    <div class="conteudo-relacionado"></div>
+
+    <footer class="portal-footer">
+      <div class="footer-wrapper">
+        <div class="govbr-logo"></div>
+        <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+        <ul class="list-navigation"><li id="portaltab-servicos" class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-galeria-de-aplicativos" class="plain"><a href="/clientes/portalgovbr/portalgovbr/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li id="portaltab-noticias" class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-planalto" class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li id="portaltab-canais-do-executivo-federal" class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li id="portaltab-navegacao" class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-acesse-sua-conta-gov.br" class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li id="portaltab-guia-de-edicao-de-servicos-do-gov.br" class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li id="portaltab-orgaos-do-governo" class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li id="portaltab-todosportodos" class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+        <!--</div>
+            </div>-->
+
+        <div class="redes-e-logos">
+          <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          <div id="footer-brasil"></div>
+        </div>
+      </div>
+    <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div></footer>
+  </div><!-- [Teste Datas Relativas] --><!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+      <script>
+        moment().format();
+        moment.locale(document.documentElement.getAttribute('lang'));
+      </script> --><!-- [/Teste Datas Relativas] -->
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script>
+    function onYouTubeIframeAPIReady() {
+      $(function () {
+        var $container = $(
+          ".portaltype-liveblog.template-view .linha-destaquetopo"
+        );
+        if ($container.length === 0) {
+          return;
+        }
+        var by = new govbrtheme.Youtube($container);
+        by.iframeIsReady();
+      });
+    }
+  </script><script>
+    var $buoop = {
+      api: 2019.11,
+
+      required: { e: 16, f: 52, o: 54, s: 11, c: 68 },
+      // Specifies required browser versions
+      // Browsers older than this will be notified.
+      // f:22 ---> Firefox < 22 gets notified
+      // Negative numbers specify how much versions behind current version.
+      // c:-5 ---> Chrome < 35  gets notified if latest Chrome version is 40.
+      // more details (in english)
+
+      reminder: 24,
+      // after how many hours should the message reappear
+      // 0 = show all the time
+
+      reminderClosed: 150,
+      // if the user explicitly closes message it reappears after x hours
+
+      //   l: document.documentElement.getAttribute('lang'),
+      // test: true,
+      text:
+        '<p>Seu navegador da web (<strong>{brow_name}</strong>) est&#225; desatualizado ou n&#227;o &#233; compat&#237;vel com este site.</p><p class="info">Alguns recursos podem n&#227;o funcionar ou serem exibidos incorretamente.</p><div class="buttons"><a{up_but}>Mais informa&#231;&#245;es</a> <a{ignore_but}>Ignorar</a></div>',
+      text_en:
+        '<p>Your web browser (<strong>{brow_name}</strong>) is outdated or is not compatible with this site.</p><p class="info">Some features may not work or be displayed properly.</p><div class="buttons"><a{up_but}>Read more</a> <a{ignore_but}>ignore</a></div>',
+      text_es:
+        '<p>Su navegador web (<strong>{brow_name}</strong>) est&#225; desactualizado o no es compatible con este sitio.</p><p class="info">Algunas caracter&#237;sticas pueden no funcionar o mostrarse incorrectamente.</p><div class="buttons"><a{up_but}>Mas informaciones</a> <a{ignore_but}>ignorar</a></div>',
+      url:
+        document.body.getAttribute("data-portal-url") +
+        "/" +
+        document.documentElement.getAttribute("lang") +
+        "/browser-info",
+      //   newwindow: false,
+      //   no_permanent_hide: true,
+      onshow: function () {
+        document.body.setAttribute("data-browser-version-msg", "true");
+      },
+      onclose: function () {
+        document.body.setAttribute("data-browser-version-msg", "false");
+      }
+    };
+
+    function $buo_f() {
+      var e = document.createElement("script");
+      e.src = "//browser-update.org/update.min.js";
+      document.body.appendChild(e);
+    }
+    try {
+      document.addEventListener("DOMContentLoaded", $buo_f, false);
+    } catch (e) {
+      window.attachEvent("onload", $buo_f);
+    }
+  </script><script type="text/javascript" src="/++theme++padrao_govbr/++theme++padrao_govbr/govbrtheme-803327f.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+
+</html>

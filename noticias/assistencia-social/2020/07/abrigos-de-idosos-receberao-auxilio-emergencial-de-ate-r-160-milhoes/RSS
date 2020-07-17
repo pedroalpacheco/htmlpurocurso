@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/abrigos-de-idosos-receberao-auxilio-emergencial-de-ate-r-160-milhoes/RSS">
+  <title>Abrigos de idosos receberão auxílio emergencial de até R$ 160 milhões</title>
+  <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/abrigos-de-idosos-receberao-auxilio-emergencial-de-ate-r-160-milhoes</link>
+  <description>Recursos integram parte das ações de enfrentamento à pandemia do novo coronavírus.</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/abrigos-de-idosos-receberao-auxilio-emergencial-de-ate-r-160-milhoes/centrape.png/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/abrigos-de-idosos-receberao-auxilio-emergencial-de-ate-r-160-milhoes/centrape.png/view">
+    <title>Idosos</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/abrigos-de-idosos-receberao-auxilio-emergencial-de-ate-r-160-milhoes/centrape.png/view</link>
+    <description>Estamos engajados e continuaremos a priorizar os nossos idosos com esse crédito de R$ 160 milhões. Não vamos parar por aqui”, afirmou a ministra Damares Alves.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/abrigos-de-idosos-receberao-auxilio-emergencial-de-ate-r-160-milhoes/centrape.png/@@images/image" title="Idosos" alt="Idosos" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Centrape</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/abrigos-de-idosos-receberao-auxilio-emergencial-de-ate-r-160-milhoes/centrape.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/abrigos-de-idosos-receberao-auxilio-emergencial-de-ate-r-160-milhoes/centrape.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Centrape</dc:rights>
+    
+      <dc:subject>Asilos</dc:subject>
+    
+      <dc:subject>Idosos</dc:subject>
+    
+      <dc:subject>Covid-19</dc:subject>
+    
+      <dc:subject>coronavirus</dc:subject>
+    
+      <dc:subject>#novocoronavírus</dc:subject>
+    
+      <dc:subject>#CoronavirusNoBrasil</dc:subject>
+    
+    <dc:date>2020-07-16T21:20:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

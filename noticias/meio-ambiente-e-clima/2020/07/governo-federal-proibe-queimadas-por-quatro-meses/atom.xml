@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses/atom.xml" type="application/atom+xml" />
+  <title type="html">Governo Federal proíbe queimadas por quatro meses</title>
+  <subtitle>O objetivo é reduzir os incêndios florestais no período da seca</subtitle>
+  <updated>2020-07-16T20:34:09-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses/"/>
+  <id>urn:syndication:ca7bb83ddcb347b1a9ee4f4ddc86a446</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Queimadas</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses/nnn.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses/nnn.jpg/@@download/image/nnn.jpg" length="232683" type="image/jpeg" />
+      <id>urn:syndication:0d0e45c786494003b523851b30167e9c</id>
+      <summary>Queimadas estão proibidas por 120 dias, governo quer reduzir incêndios em florestas no período de seca</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses/nnn.jpg/@@images/image" title="Queimadas" alt="Queimadas" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Fotos Públicas</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses/nnn.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/07/governo-federal-proibe-queimadas-por-quatro-meses/nnn.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>99897288104</name>
+        
+      </author>
+
+      <published>2020-07-16T20:00:40-03:00</published>
+
+      <updated>2020-07-16T20:00:40-03:00</updated>
+
+      
+        <category term="Combate Queimadas"/>
+      
+        <category term="a nº 310/2020, do Ministério da Justiça e Segurança Pública, define que o efetivo deverá atuar na região da Amazônia Legal, em apoio ao Gabinete de Segurança Institucional (GSI).  Segundo a redação, o trabalho deverá ser nas “ações de fiscalização, de repressão ao desmatamento ilegal e demais crimes ambientais e de combate aos incêndios florestais e às queimadas, na área que compreende a Amazônia Legal, em atividades e serviços imprescindíveis à preservação da ordem pública e da incolumidade das pessoas e do patrimônio, em caráter episódico e planejado, no período de 11 de junho de 2020 a 10 de julho de 2020”."/>
+      
+        <category term="MMA"/>
+      
+        <category term="Meio Ambiente"/>
+      
+        <category term="#decreto"/>
+      
+        <category term="Ricardo Salles"/>
+      
+
+    </entry>
+
+  
+
+</feed>

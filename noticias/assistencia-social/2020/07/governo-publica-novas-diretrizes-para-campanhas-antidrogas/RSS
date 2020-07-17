@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-publica-novas-diretrizes-para-campanhas-antidrogas/RSS">
+  <title>Governo publica novas diretrizes para campanhas antidrogas</title>
+  <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-publica-novas-diretrizes-para-campanhas-antidrogas</link>
+  <description>Todos os programas educacionais e preventivos devem ser fundamentados em evidências científicas e devem respeitar as diferenças, garantindo a diversidade</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-publica-novas-diretrizes-para-campanhas-antidrogas/5043c71f-9dd6-4ee9-903e-22b4f18d1bc8.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-publica-novas-diretrizes-para-campanhas-antidrogas/5043c71f-9dd6-4ee9-903e-22b4f18d1bc8.jpeg/view">
+    <title>Governo Federal publica recomendações para campanhas de prevenção às drogas</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-publica-novas-diretrizes-para-campanhas-antidrogas/5043c71f-9dd6-4ee9-903e-22b4f18d1bc8.jpeg/view</link>
+    <description>Campanhas devem cumprir as diretrizes estabelecidas pela Nova Política Nacional sobre Drogas.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-publica-novas-diretrizes-para-campanhas-antidrogas/5043c71f-9dd6-4ee9-903e-22b4f18d1bc8.jpeg/@@images/image" title="Governo Federal publica recomendações para campanhas de prevenção às drogas" alt="Governo Federal publica recomendações para campanhas de prevenção às drogas" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Divulgação/Ministério da Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-publica-novas-diretrizes-para-campanhas-antidrogas/5043c71f-9dd6-4ee9-903e-22b4f18d1bc8.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-publica-novas-diretrizes-para-campanhas-antidrogas/5043c71f-9dd6-4ee9-903e-22b4f18d1bc8.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Divulgação/Ministério da Cidadania</dc:rights>
+    
+      <dc:subject>Conselho Nacional de Políticas Sobre Drogas</dc:subject>
+    
+      <dc:subject>Nova Política Nacional sobre Drogas</dc:subject>
+    
+      <dc:subject>Ministério da Cidadania</dc:subject>
+    
+      <dc:subject>Conad</dc:subject>
+    
+      <dc:subject>Recomendação nº1</dc:subject>
+    
+    <dc:date>2020-07-17T14:11:20Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

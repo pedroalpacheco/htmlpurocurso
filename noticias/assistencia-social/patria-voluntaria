@@ -1,0 +1,4072 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+
+<head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        <meta property="og:title" content="Pátria voluntária" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria" />
+<meta property="og:image" content="https://www.gov.br/casacivil/logo.png" />
+
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="https://www.gov.br Casa Civil" />
+
+
+  
+
+  
+  
+  <script>
+    (function() {
+        var po = document.createElement('script');
+        po.async = true;
+        po.src = document.location.protocol + '//connect.facebook.net/pt_BR/all.js#xfbml=1';
+        var head = document.getElementsByTagName('head')[0];
+        head.appendChild(po);
+    }());
+    </script>
+
+
+
+  
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@" />
+  
+
+
+
+
+
+<meta property="creator.productor" content="https://www.gov.br/planalto" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/reset-cachekey-f0d1de014779213f50834cde8226353e.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/base-cachekey-8e1f14add81fb5283390fefa8a89bff9.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-fda5905ea66108870a5718c27129c3b6.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-8b71f1fbb41bc18198387a17e15af84f.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-c6f2a907c0970efd76e725adc5516a63.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/embedder-cachekey-bc769ce7c2e32b5667cdd4bc33360515.css" media="screen" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-47c33e690a1e4b5acd9a51d059aa78ca.css);</style>
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/IEFixes-cachekey-70b01ea089adc82e2b0c303599d792e3.css" media="screen" />
+        <![endif]-->
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourcegovbr.policycanais-cachekey-325319c188cf325eeb89c17e0ec7d4af.css" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-20ddadfe2eb3ccd7bf8ee9aab65ef242.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-59f48685d5b0e7819cd1f461fb3c1a47.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-3fd77256f7df1fb40f014107198d0684.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-28bb9d0fb22fcd2e323686802112d7e3.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-9409670dfca23c76762287bc67188e48.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-f40ed961f63e790d8a911f66b16a054e.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-1b7e76294b1b810d622618c3c405e538.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/casacivil/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/casacivil/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/casacivil/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/casacivil/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/casacivil/++resource++brasil.gov.tiles/brasilgovtiles-7d5753d.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/casacivil/++resource++brasil.gov.tiles/brasilgovtiles-7d5753d.js"></script>
+
+
+
+<title>Pátria voluntária — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/casacivil/pt-br/author/15276767149" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/casacivil/pt-br/patriavoluntaria" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+
+    <link rel="search" href="https://www.gov.br/casacivil/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+  
+
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+  <meta charset="utf-8" />
+  
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+  <link rel="manifest" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/manifest.json" />
+  <link rel="mask-icon" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+  <meta name="msapplication-config" content="++theme++padrao_govbr/favicons/browserconfig.xml" />
+  <meta name="theme-color" content="#00a300" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+  <script src="https://www.youtube.com/iframe_api"></script>
+<link href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/govbrtheme-803327f.css" rel="stylesheet" /></head>
+
+<body id="" class="default-header-template portal-institucional cover-layout-layout-vazio template-view portaltype-collective-cover-content site-pt-br section-patriavoluntaria subsection-patria-voluntaria userrole-anonymous" data-base-url="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria" data-portal-url="https://www.gov.br/casacivil" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><ul id="skip-menu">
+    <li><a accesskey="i" href="/">Ir para página inicial</a></li>
+    <li><a accesskey="c" href="#content">Ir para o conteúdo</a></li>
+    <li><a accesskey="n" href="#menu-institucional">Ir para o menu</a></li>
+    <li><a accesskey="4" href="#portal-footer">Ir para o rodapé</a></li>
+  </ul><!-- User --><!-- Header --><!-- <header id="main-header" class="has-navigation-swipe"> --><header id="main-header" class="has-navigation-dropdown">
+    <div class="header-wrapper">
+      
+      <div id="logo">
+        <a id="portal-img" href="https://www.gov.br"></a>
+        <a id="portal-logo" title="O portal do Brasil" href="https://www.gov.br">
+          <span id="portal-title-1">Governo do</span>
+          <div id="portal-title" class="corto">Brasil</div>
+        </a>
+        <a href="https://www.gov.br/planalto" title="" id="link-orgao-govbr">
+          <span id="portal-description">Presidência da República</span>
+        </a>
+      </div>
+
+      <div class="header-accessibility">
+        <ul>
+          <li>
+            <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+          </li>
+          <li>
+            <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+          </li>
+          <li>
+            <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+          </li>
+          <li>
+            <a href="/accessibility-info">Acessibilidade</a>
+          </li>
+          <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <i class="fas fa-assistive-listening-systems"></i>
+                </a>
+              </li>-->
+          <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+          <li>
+            <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+              <i class="fas fa-user"></i>
+              Acesso GOV.BR
+            </a>
+          </li>
+          <li>
+            <a href="#" class="link-contraste">
+              <i class="fas fa-adjust"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/casacivil/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="Buscar no Site" placeholder="Buscar no Site" accesskey="&#10;b" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="https://www.gov.br/casacivil/pt-br/@@search" accesskey="5">Busca Avançada…</a>
+    </div>
+
+</div>
+    </div>
+    <div class="header-wrapper">
+      <div class="menu-institucional" id="menu-institucional">
+        <div class="">
+          <!-- .column -->
+          <div class="heading">
+            <div class="header-icons">
+              <a class="ico-navegacao">
+                Navegação
+                <i class="fa fa-bars" aria-hidden="true"></i>
+                <i class="fa fa-times" aria-hidden="true"></i>
+              </a>
+            </div>
+            <div class="logo">
+              <h1>
+                <a id="portal-title-sub" href="https://www.gov.br/casacivil/pt-br" title="">Casa Civil</a>
+              </h1>
+            </div>
+          </div>
+          <div class="links-destaque-institucional">
+            <ul>
+        
+    </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Menu -->
+    <div class="navigation-wrapper navigation-dropdown">
+      <div class="navigation-content">
+        <nav id="main-navigation" class="navigation-cell">
+          <ul class="list-navigation"><li id="portaltab-composicao" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/composicao" title="" class="plain">Composição</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/ministro" title="conteudo do menu acompanhe a casa civil" class="state-published">
+            
+            Ministro
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro" title="" class="state-published">
+            
+            Gabinete do ministro
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva" title="" class="state-published hasDropDown">
+            
+            Secretaria Executiva
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/autoridade" title="" class="state-published">
+            
+            Autoridade
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial" title="" class="state-published hasDropDown">
+            
+            Assessoria Especial
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/autoridade" title="" class="state-published">
+            
+            Autoridade
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social" title="" class="state-published hasDropDown">
+            
+            Assessoria  Especial de Comunicação Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social/autoridade" title="" class="state-published">
+            
+            Autoridade
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares" title="" class="state-published hasDropDown">
+            
+            Órgãos Específicos Singulares
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares/subchefia-de-analise-e-acompanhamento-de-politicas" title="" class="state-published">
+            
+            Subchefia de Análise e Acompanhamento de Políticas Governamentais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares/subchefia-de-articulacao-e-monitoramento" title="" class="state-published">
+            
+            Subchefia de Articulação e Monitoramento
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares/secretaria-especial-de-relacoes-governamentais" title="" class="state-published">
+            
+            Secretaria Especial de Relações Governamentais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares/secretaria-especial-de-relacionamento-externo" title="" class="state-published">
+            
+            Secretaria Especial de Relacionamento Externo
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-canais_atendimento" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/canais_atendimento" title="" class="plain">Canais de Atendimento</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/canais_atendimento/contact-info" title="" class="state-published">
+            
+            Fale Conosco
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/planalto/pt-br/fale-conosco/ouvidoriadapresidencia/" title="" class="state-published">
+            
+            Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/canais_atendimento/imprensa/assessoria-de-imprensa" title="" class="state-published">
+            
+            Assessoria de imprensa
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-acesso-a-informacao" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao" title="" class="plain">Acesso à informação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/agendas-da-casa-civil" title="" class="state-published">
+            
+            Agendas da Casa Civil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/institucional" title="" class="state-published">
+            
+            Institucional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/acoes-e-programas" title="Ações e Programas" class="state-published">
+            
+            Ações e programas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/auditorias" title="" class="state-published">
+            
+            Auditorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/convenios" title="Convênios" class="state-published">
+            
+            Convênios
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/despesas" title="Informações detalhadas sobre diárias e passagens da Casa Civil &#13;&#10;" class="state-published">
+            
+            Despesas
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/informacoes-classificadas" title="" class="state-published hasDropDown">
+            
+            Informações classificadas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/informacoes-classificadas/2020" title="" class="state-published">
+            
+            2020
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/licitacoes-e-contratos" title="A Casa Civil não realiza contratações por fazer parte da estrutura da Presidência da República&#13;&#10;&#13;&#10;" class="state-published">
+            
+            Licitações e contratos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic" title="" class="state-published">
+            
+            Serviço de Informação ao Cidadão - SIC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/servidores" title="" class="state-published">
+            
+            Servidores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/dados-abertos" title="" class="state-published">
+            
+            Dados abertos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/programa-de-integridade-da-casa-civil" title="" class="state-published">
+            
+            Programa de integridade da Casa Civil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/participacao-social" title="" class="state-published">
+            
+            Participação social
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-assuntos" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/assuntos" title="" class="plain">Assuntos</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde" title="" class="state-published">
+            
+            OCDE
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/operacao-acolhida" title="" class="state-published hasDropDown">
+            
+            Operação Acolhida
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/operacao-acolhida/historico" title="" class="state-published">
+            
+            Histórico
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca" title="" class="state-published hasDropDown">
+            
+            Governança
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/" title="" class="state-published">
+            
+            Apresentação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/politica-de-governanca-publica" title="" class="state-published">
+            
+            Política de Governança Pública
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/comite-interministerial-de-governanca" title="" class="state-published">
+            
+            Comitê Interministerial de Governança
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/comite-de-governanca-da-casa-civil" title="" class="state-published">
+            
+            Comitê de Governança da Casa Civil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/biblioteca" title="" class="state-published">
+            
+            Biblioteca
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/regulacao" title="" class="state-published">
+            
+            Regulação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/avaliacao-de-politicas" title="" class="state-published">
+            
+            Avaliação de Políticas Públicas
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema" title="" class="state-published hasDropDown">
+            
+            Conselho Superior de Cinema
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/informes" title="" class="state-published">
+            
+            Informes
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/composicao" title="" class="state-published">
+            
+            Composição
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/reunioes" title="" class="state-published">
+            
+            Reuniões
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/legislacao" title="" class="state-published">
+            
+            Atos normativos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/contato" title="" class="state-published">
+            
+            Contato
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/noticias" title="" class="state-published">
+            
+            Notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/500dias" title="" class="state-published">
+            
+            500 Dias
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-centrais-de-conteudo" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo" title="conteudo do menu central de conteudos" class="plain">Centrais de Conteúdo</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/downloads" title="" class="state-published hasDropDown">
+            
+            Downloads
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/downloads/ocde" title="" class="state-published">
+            
+            OCDE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/downloads/CSC" title="" class="state-published">
+            
+            Conselho Superior de Cinema
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-patriavoluntaria" class="selected"><a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria" title="" class="plain">Pátria voluntária</a></li><li id="portaltab-ocde" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/ocde" title="" class="plain">OCDE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde/inicio-1" title="" class="state-published">
+            
+            Início
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde/sobre-a-ocde" title="" class="state-published">
+            
+            Sobre a OCDE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde/brasil-na-ocde" title="" class="state-published">
+            
+            Brasil na OCDE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde/conselho-brasil-ocde" title="" class="state-published">
+            
+            Conselho Brasil-OCDE
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-govbr-root" class="plain dropdown-submenu menu-govbr-root">
+            <a title="GOV.BR" class="plain" href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria">
+                <span>GOV.BR</span>
+            </a>
+            <!-- Menu nivel1 -->
+            <ul class="submenu navTree">
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/servicos" class="hasDropDown" title="Serviços">Serviços</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="Buscar serviços por">Buscar serviços por</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por/categorias" title="Categorias">Categorias</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por/orgaos" title="Órgãos">Órgãos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por/estados" title="Estados">Estados</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="Serviços por público alvo">Serviços por público alvo</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo/cidadaos" title="Cidadãos">Cidadãos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo/empresas" title="Empresas">Empresas</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo/orgaos-e-entidades-publicas" title="Órgãos e Entidades Públicas">Órgãos e Entidades Públicas</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo/demais-segmentos-ongs-organizacoes-sociais-etc" title="Demais segmentos (ONGs, organizações sociais, etc)">Demais segmentos (ONGs, organizações sociais, etc)</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/galeria-de-aplicativos" class="hasDropDown" title="Galeria de Aplicativos">Galeria de Aplicativos</a>
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/noticias" class="hasDropDown" title="Notícias">Notícias</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="Últimas notícias">Últimas notícias</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="Ações 2019">Ações 2019</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="Saúde">Saúde</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="Agricultura e Pecuária">Agricultura e Pecuária</a>
+                
+            </li>
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="Cidadania e Assistência Social">Cidadania e Assistência Social</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="Pátria Voluntária">Pátria Voluntária</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="Cultura e Esporte">Cultura e Esporte</a>
+                
+            </li>
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="Economia e Gestão Pública">Economia e Gestão Pública</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="400 dias">400 dias</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="500 dias">500 dias</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="Educação e Pesquisa">Educação e Pesquisa</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="Energia">Energia</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="Infraestrutura">Infraestrutura</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="Justiça e Segurança">Justiça e Segurança</a>
+                
+            </li>
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="Meio Ambiente">Meio Ambiente</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="Operação Verde Brasil">Operação Verde Brasil</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="Trabalho e Previdência">Trabalho e Previdência</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="Turismo">Turismo</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/planalto" class="hasDropDown" title="Acompanhe o Planalto">Acompanhe o Planalto</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/canais-do-executivo-federal" class="hasDropDown" title="Canais do Poder Executivo Federal">Canais do Poder Executivo Federal</a>
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/navegacao" class="hasDropDown" title="Navegação">Navegação</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/navegacao/acessibilidade" title="Acessibilidade">Acessibilidade</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/navegacao/mapa-do-site" title="Mapa do Site">Mapa do Site</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/navegacao/termo-de-uso" title="Termos de Uso">Termos de Uso</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/navegacao/sobre-o-gov.br" title="Sobre o gov.br">Sobre o gov.br</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/acesse-sua-conta-gov.br" class="hasDropDown" title="Acesse sua conta gov.br">Acesse sua conta gov.br</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" class="hasDropDown" title="Guia de Edição de Serviços do Gov.br">Guia de Edição de Serviços do Gov.br</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="hasDropDown" title="Órgãos do Governo">Órgãos do Governo</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/todosportodos" class="hasDropDown" title="Todos por todos">Todos por todos</a>
+                        
+                    </li>
+                
+            </ul>
+        </li></ul>
+        </nav>
+      </div>
+      <div class="navigation-content-extra">
+        <div class="links-redes-wrap">
+          <div class="links-uteis links-uteis-mobile">
+            <ul>
+              <li>
+                <a href="#">Acessibilidade</a>
+              </li>
+              <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+              <li>
+                <a href="#" class="link-contraste">
+                  <i class="fas fa-adjust"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="links-uteis">
+            <h3>
+              Links Úteis
+            </h3>
+            <ul>
+              <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+              <li>
+                <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+              </li>
+            </ul>
+          </div>
+          <div class="header-accessibility">
+            <ul>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+              </li>
+            </ul>
+          </div>
+          <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/casacivilbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/casacivilbr">YouTube</a>
+                </li>
+            
+        </ul>
+    </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Menu -->
+    
+    
+
+    <div id="beta"><a href="/sobre">Versão Beta</a></div>
+  </header><div id="portal-breadcrumbs-wrapper">
+    <div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/casacivil/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            
+            
+            <span id="breadcrumbs-current">Pátria voluntária</span>
+         
+    </span>
+
+</div>
+  </div><div class="video"></div><div id="wrapper">
+    <!-- Columns -->
+
+    <div id="main">
+      
+
+      <main id="main-content" role="main">
+
+            <div id="viewlet-above-content">
+
+<div id="viewlet-tileshare" data-title-fb="Compartilhar no Facebook (abre em nova janela)" data-title-twitter="Tweet (abre em nova janela)" data-title-linkedin="Compartilhar no Linkedin  (abre em nova janela)" data-title-gplus="Compartilhar no Google+  (abre em nova janela)" data-title-link="Copiar para área de transferência" data-title-more="Mais opções">
+</div>
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+    
+    
+        
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="b7376383-b08a-4505-8e14-c6e7430521fb">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/premio-patria-voluntaria-2020-e-entregue-a-instituicoes-vencedoras">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/b7376383-b08a-4505-8e14-c6e7430521fb/@@images/d0226f2b-9c6f-4c81-8a87-ca5bec5e3589.jpeg" width="1000" height="666" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-2 " data-panel="">
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-9 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="b04936f2-401b-41a7-b0af-02f1fa084f3a">
+                        
+  <div class="video-tile tile-content" id="video-b04936f2-401b-41a7-b0af-02f1fa084f3a">
+    <div class="video-container"><iframe width="480" height="270" src="https://www.youtube.com/embed/lNr2u9yqbPc?feature=oembed" allowfullscreen=""></iframe></div>
+    <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/fazer-o-bem-e-pra-voce-tambem-patria-voluntaria"></a>
+  </div>
+  <noscript>
+      <div class="error">Seu navegador de internet esta sem suporte a JavaScript, por esse motivo alguns funcionalidades do site podem não estar acessíveis.</div>
+  </noscript>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="a02d3b1e-bcc6-40d9-81ff-46383094fe63">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/o-programa">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/a02d3b1e-bcc6-40d9-81ff-46383094fe63/@@images/3161a1ec-ff2c-41dd-ab9e-72ba5cc65bc9.png" width="368" height="375" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="f0e27e94-ab8f-4c16-bd68-bbb5a79a9d3e">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/o-conselho">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/f0e27e94-ab8f-4c16-bd68-bbb5a79a9d3e/@@images/99ae0c0f-28bd-4c1e-8b55-6abfbc1cfb72.png" width="368" height="375" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-4 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="ce20e577-f775-49b7-86c4-5bf57e601590">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/por-que-ser-um-voluntario-1">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/ce20e577-f775-49b7-86c4-5bf57e601590/@@images/448d2df5-8adc-4ffc-8df0-d7bfd8aa39d9.png" width="368" height="375" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="bf17f595-4b7c-446c-a254-53c3878544ed">
+                        
+    
+        
+        <div class="cover-richtext-tile tile-content">
+        
+            
+                <h2 class="callout" style="text-align: justify; " data-mce-style="text-align: justify;"><strong>O que é voluntariado?</strong><br /><strong>“É uma “iniciativa não remunerada de pessoas físicas, isolada ou conjuntamente, prestada à pessoa física, a órgão ou à entidade da administração pública ou entidade privada sem fins lucrativos, que tenha objetivos cívicos, culturais, educacionais, científicos, recreativos ou de assistência à pessoa, que vise ao benefício e à transformação da sociedade por meio de ações cívicas, de desenvolvimento sustentável, culturais, educacionais, científicas, recreativas, ambientais, de assistência à pessoa ou de promoção e defesa dos direitos humanos e dos animais.” (Art.2º do Decreto 9.906/2019)</strong></h2><p> </p>
+            
+        
+        </div>
+    
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="c67fb17c-b5b5-4c7a-b12a-216159888ebb">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/noticias/no-mes-do-voluntariado-uma-campanha-para-voluntarios">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/c67fb17c-b5b5-4c7a-b12a-216159888ebb/@@images/2a7ec85d-4ba1-47cd-ada0-eb68314e0898.png" width="564" height="375" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="ef0e7a71-9516-4b6b-a56f-0803779bc0de">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/noticias/confira-todas-as-pecas-criadas-para-aumentar-a-participacao-dos-brasileiros-em-acoes-do-patria-voluntaria">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/ef0e7a71-9516-4b6b-a56f-0803779bc0de/@@images/9a816297-9a9d-4b01-a241-2f81db3d11c1.png" width="568" height="382" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile foto-sobreposta" id="b065b2f1-4855-4f46-8bb8-b35fe52a0d9b">
+                        
+  
+  <div class="nitf-basic-tile tile-content">
+    
+      
+
+      
+
+      
+
+      
+
+      
+        <a class="imag" title="Mudança visa aprimorar a gestão do programa, que tem ações e projetos como grandes características">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@govbr.institucional.tile.nitf/b065b2f1-4855-4f46-8bb8-b35fe52a0d9b/@@images/9c67d347-9488-42cf-8d3a-f10002e8f04f.jpeg" width="1150" height="766" class="left" alt="Pátria Voluntária passa a ser coordenado pela Casa Civil" />
+        </a>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+        <h1><a>Pátria Voluntária passa a ser coordenado pela Casa Civil</a></h1>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <p class="tile-description">Mudança visa aprimorar a gestão do programa, que tem ações e projetos como grandes características</p>
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="visualClear"><!-- --></div>
+      
+    
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="df4855a6-7f8f-40a4-a91e-d8217b001649">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/noticias/premio-patria-voluntaria-vai-reconhecer-iniciativas-das-cinco-regioes-do-pais">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/df4855a6-7f8f-40a4-a91e-d8217b001649/@@images/82a93d04-dc5a-434d-9cc6-2eb2dedb5a4d.jpeg" width="564" height="270" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-6 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="a2eba19f-9b17-41b7-8066-e39f7e0c39c6">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/conheca-os-parceiros-do-patria-voluntaria">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/a2eba19f-9b17-41b7-8066-e39f7e0c39c6/@@images/38cb0c87-e7f0-4711-910e-1d0c2bd2a46d.jpeg" width="563" height="269" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="a73a00e4-c590-4700-9bc4-b0112826269b">
+                        
+
+    <div class="outstanding-header tile-content">
+    
+
+      
+
+      
+
+        
+
+            
+            <h2 class="outstanding-title">Acompanhe nas redes</h2>
+            
+            
+
+        
+
+      
+
+      
+    
+
+    </div>
+
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-2 " data-panel="">
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-2 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="c30f1767-44fe-416b-b5e4-46d209ffe827">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://twitter.com/patriavolunt">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/c30f1767-44fe-416b-b5e4-46d209ffe827/@@images/c5543a95-2f3e-4191-9ad5-324fc05ecf4d.png" width="128" height="128" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-2 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="c8eec7a2-7252-4e80-ac84-2db6b0ab8f06">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.instagram.com/patria.voluntaria/">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/c8eec7a2-7252-4e80-ac84-2db6b0ab8f06/@@images/8d9320a7-3119-467d-8c22-f47d7db2f0fc.png" width="128" height="128" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-2 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="be796146-59a7-46ca-a6da-aee59d8dd0be">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.facebook.com/patriavoluntaria">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/be796146-59a7-46ca-a6da-aee59d8dd0be/@@images/9fa82ad0-824f-41f6-893c-887b76d18462.png" width="128" height="128" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-2 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="bf426d8f-6755-49c0-8bcf-904852d4526e">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.youtube.com/channel/UCPHv6CjRtG84NDr0fF2MD8Q">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/bf426d8f-6755-49c0-8bcf-904852d4526e/@@images/d992143f-129b-4542-a3b8-394ea13974b0.png" width="128" height="128" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-2 " data-panel="">
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="ddbdade2-4aee-451c-98a4-5264309e05c8">
+                        
+
+    <div class="outstanding-header tile-content">
+    
+
+      
+
+          <a class="outstanding-link" href="https://www.gov.br/casacivil/pt-br/@@search?SearchableText=%23Not%C3%ADciaP%C3%A1triaVolunt%C3%A1ria">Notícias Pátria Voluntária</a>
+
+      
+
+      
+
+        
+
+      
+
+      
+    
+
+      
+
+      
+
+        
+
+      
+
+      
+    
+
+    </div>
+
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="b34eb9f1-62b1-4653-a26f-ca715f06581d">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/conheca-os-parceiros-do-patria-voluntaria">
+          <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@collective.cover.banner/b34eb9f1-62b1-4653-a26f-ca715f06581d/@@images/e7b793d6-d2e3-4f89-8d74-b09d04186faa.png" width="564" height="270" class="left" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+        
+    
+
+
+
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content"><div class="voltar-topo">
+    <a href="#wrapper">Voltar ao topo</a>
+</div>
+
+
+
+
+
+
+    
+        <script class="social-links-script">
+        $(document).ready(function () {
+            for (let tile of $('.nitf-basic-tile')) {
+                if (!$(tile).find('.social-links').length) {
+                    var url = '#'
+                    $(tile).find('a').each(function(){
+                        url = $(this).attr('href');
+                    });
+                    var titulo = '#'
+                    $(tile).find('a').each(function(){
+                        titulo = $(this).text();
+                    });
+                    var imagem = url+'/logo.png'
+                    $(tile).find('img').each(function(){
+                        imagem = $(this).attr('src');
+                    });
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><i class="fab fa-telegram-plane"></i></a>');
+                    $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><i class="fab fa-whatsapp"></i></a>');
+                    $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
+                    var link_facebook = $('<a title="Facebook"><i class="fab fa-facebook-f"></i></a>');
+                    $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
+                    var link_twitter = $('<a title="Twitter"><i class="fab fa-twitter"></i></a>');
+                    $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
+                    var link_linkedin = $('<a title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>');
+                    $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
+                    var link_google = $('<a title="Google+"><i class="fab fa-google-plus-g"></i></a>');
+                    $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
+                    var link_email = $('<a title="E-mail"><i class="fas fa-at"></i></a>');
+                    $(link_email).attr('href', url+'/sendto_form');
+                    var link_pinterest = $('<a title="Pinterest"><i class="fab fa-pinterest-p"></i></a>');
+                    $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><i class="fas fa-link"></i></a>');
+                    $(link_clipboard).attr('href', url);
+                    $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
+                    var link_x = $('<a class="toggle-social-links"><i class="fas fa-share-alt"></i><i class="fas fa-times"></i></a>');
+                    var div_principal = $('<div class="social-links"></div>');
+                    $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
+                    $(div_principal).append(link_clipboard);
+                    $(div_principal).append(link_x);
+
+                    var container = $(tile).children('.tile-subtitle');
+                    $(container).append(div_principal);
+                }
+            }
+            new ClipboardJS('.link-clipboard', {
+                text: function (trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        });
+        </script>
+    
+    
+
+
+    
+        <script class="social-links-script">
+        $(document).ready(function () {
+            for (let tile of $('.nitf-basic-tile')) {
+                if (!$(tile).find('.social-links').length) {
+                    var url = '#'
+                    $(tile).find('a').each(function(){
+                        url = $(this).attr('href');
+                    });
+                    var titulo = '#'
+                    $(tile).find('a').each(function(){
+                        titulo = $(this).text();
+                    });
+                    var imagem = url+'/logo.png'
+                    $(tile).find('img').each(function(){
+                        imagem = $(this).attr('src');
+                    });
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><i class="fab fa-telegram-plane"></i></a>');
+                    $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><i class="fab fa-whatsapp"></i></a>');
+                    $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
+                    var link_facebook = $('<a title="Facebook"><i class="fab fa-facebook-f"></i></a>');
+                    $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
+                    var link_twitter = $('<a title="Twitter"><i class="fab fa-twitter"></i></a>');
+                    $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
+                    var link_linkedin = $('<a title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>');
+                    $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
+                    var link_google = $('<a title="Google+"><i class="fab fa-google-plus-g"></i></a>');
+                    $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
+                    var link_email = $('<a title="E-mail"><i class="fas fa-at"></i></a>');
+                    $(link_email).attr('href', url+'/sendto_form');
+                    var link_pinterest = $('<a title="Pinterest"><i class="fab fa-pinterest-p"></i></a>');
+                    $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><i class="fas fa-link"></i></a>');
+                    $(link_clipboard).attr('href', url);
+                    $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
+                    var link_x = $('<a class="toggle-social-links"><i class="fas fa-share-alt"></i><i class="fas fa-times"></i></a>');
+                    var div_principal = $('<div class="social-links"></div>');
+                    $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
+                    $(div_principal).append(link_clipboard);
+                    $(div_principal).append(link_x);
+
+                    var container = $(tile).children('.tile-subtitle');
+                    $(container).append(div_principal);
+                }
+            }
+            new ClipboardJS('.link-clipboard', {
+                text: function (trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        });
+        </script>
+    
+    
+
+
+  <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+
+
+
+
+
+</div>
+        </main>
+      
+    </div>
+    <div class="conteudo-relacionado"></div>
+
+    <footer class="portal-footer">
+      <div class="footer-wrapper">
+        <div class="govbr-logo"></div>
+        <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+        <ul class="list-navigation"><li id="portaltab-composicao" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/composicao" title="" class="plain">Composição</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/ministro" title="conteudo do menu acompanhe a casa civil" class="state-published">
+            
+            Ministro
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro" title="" class="state-published">
+            
+            Gabinete do ministro
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva" title="" class="state-published hasDropDown">
+            
+            Secretaria Executiva
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/autoridade" title="" class="state-published">
+            
+            Autoridade
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial" title="" class="state-published hasDropDown">
+            
+            Assessoria Especial
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/autoridade" title="" class="state-published">
+            
+            Autoridade
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social" title="" class="state-published hasDropDown">
+            
+            Assessoria  Especial de Comunicação Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social/autoridade" title="" class="state-published">
+            
+            Autoridade
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares" title="" class="state-published hasDropDown">
+            
+            Órgãos Específicos Singulares
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares/subchefia-de-analise-e-acompanhamento-de-politicas" title="" class="state-published">
+            
+            Subchefia de Análise e Acompanhamento de Políticas Governamentais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares/subchefia-de-articulacao-e-monitoramento" title="" class="state-published">
+            
+            Subchefia de Articulação e Monitoramento
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares/secretaria-especial-de-relacoes-governamentais" title="" class="state-published">
+            
+            Secretaria Especial de Relações Governamentais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/orgaos-especificos-singulares/secretaria-especial-de-relacionamento-externo" title="" class="state-published">
+            
+            Secretaria Especial de Relacionamento Externo
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-canais_atendimento" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/canais_atendimento" title="" class="plain">Canais de Atendimento</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/canais_atendimento/contact-info" title="" class="state-published">
+            
+            Fale Conosco
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/planalto/pt-br/fale-conosco/ouvidoriadapresidencia/" title="" class="state-published">
+            
+            Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/canais_atendimento/imprensa/assessoria-de-imprensa" title="" class="state-published">
+            
+            Assessoria de imprensa
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-acesso-a-informacao" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao" title="" class="plain">Acesso à informação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/agendas-da-casa-civil" title="" class="state-published">
+            
+            Agendas da Casa Civil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/institucional" title="" class="state-published">
+            
+            Institucional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/acoes-e-programas" title="Ações e Programas" class="state-published">
+            
+            Ações e programas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/auditorias" title="" class="state-published">
+            
+            Auditorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/convenios" title="Convênios" class="state-published">
+            
+            Convênios
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/despesas" title="Informações detalhadas sobre diárias e passagens da Casa Civil &#13;&#10;" class="state-published">
+            
+            Despesas
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/informacoes-classificadas" title="" class="state-published hasDropDown">
+            
+            Informações classificadas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/informacoes-classificadas/2020" title="" class="state-published">
+            
+            2020
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/licitacoes-e-contratos" title="A Casa Civil não realiza contratações por fazer parte da estrutura da Presidência da República&#13;&#10;&#13;&#10;" class="state-published">
+            
+            Licitações e contratos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic" title="" class="state-published">
+            
+            Serviço de Informação ao Cidadão - SIC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/servidores" title="" class="state-published">
+            
+            Servidores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/dados-abertos" title="" class="state-published">
+            
+            Dados abertos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/programa-de-integridade-da-casa-civil" title="" class="state-published">
+            
+            Programa de integridade da Casa Civil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao/participacao-social" title="" class="state-published">
+            
+            Participação social
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-assuntos" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/assuntos" title="" class="plain">Assuntos</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde" title="" class="state-published">
+            
+            OCDE
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/operacao-acolhida" title="" class="state-published hasDropDown">
+            
+            Operação Acolhida
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/operacao-acolhida/historico" title="" class="state-published">
+            
+            Histórico
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca" title="" class="state-published hasDropDown">
+            
+            Governança
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/" title="" class="state-published">
+            
+            Apresentação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/politica-de-governanca-publica" title="" class="state-published">
+            
+            Política de Governança Pública
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/comite-interministerial-de-governanca" title="" class="state-published">
+            
+            Comitê Interministerial de Governança
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/comite-de-governanca-da-casa-civil" title="" class="state-published">
+            
+            Comitê de Governança da Casa Civil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/biblioteca" title="" class="state-published">
+            
+            Biblioteca
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/regulacao" title="" class="state-published">
+            
+            Regulação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/governanca/avaliacao-de-politicas" title="" class="state-published">
+            
+            Avaliação de Políticas Públicas
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema" title="" class="state-published hasDropDown">
+            
+            Conselho Superior de Cinema
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/informes" title="" class="state-published">
+            
+            Informes
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/composicao" title="" class="state-published">
+            
+            Composição
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/reunioes" title="" class="state-published">
+            
+            Reuniões
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/legislacao" title="" class="state-published">
+            
+            Atos normativos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/conselho-superior-de-cinema/contato" title="" class="state-published">
+            
+            Contato
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/noticias" title="" class="state-published">
+            
+            Notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/500dias" title="" class="state-published">
+            
+            500 Dias
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-centrais-de-conteudo" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo" title="conteudo do menu central de conteudos" class="plain">Centrais de Conteúdo</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/downloads" title="" class="state-published hasDropDown">
+            
+            Downloads
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/downloads/ocde" title="" class="state-published">
+            
+            OCDE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/downloads/CSC" title="" class="state-published">
+            
+            Conselho Superior de Cinema
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-patriavoluntaria" class="selected"><a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria" title="" class="plain">Pátria voluntária</a></li><li id="portaltab-ocde" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/ocde" title="" class="plain">OCDE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde/inicio-1" title="" class="state-published">
+            
+            Início
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde/sobre-a-ocde" title="" class="state-published">
+            
+            Sobre a OCDE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde/brasil-na-ocde" title="" class="state-published">
+            
+            Brasil na OCDE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/ocde/conselho-brasil-ocde" title="" class="state-published">
+            
+            Conselho Brasil-OCDE
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li></ul>
+        <!--</div>
+            </div>-->
+
+        <div class="redes-e-logos">
+          <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/casacivilbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/casacivilbr">YouTube</a>
+                </li>
+            
+        </ul>
+    </div>
+          <div id="footer-brasil"></div>
+        </div>
+      </div>
+    <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div></footer>
+  </div><!-- [Teste Datas Relativas] --><!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+      <script>
+        moment().format();
+        moment.locale(document.documentElement.getAttribute('lang'));
+      </script> --><!-- [/Teste Datas Relativas] -->
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script>
+    function onYouTubeIframeAPIReady() {
+      $(function () {
+        var $container = $(
+          ".portaltype-liveblog.template-view .linha-destaquetopo"
+        );
+        if ($container.length === 0) {
+          return;
+        }
+        var by = new govbrtheme.Youtube($container);
+        by.iframeIsReady();
+      });
+    }
+  </script><script>
+    var $buoop = {
+      api: 2019.11,
+
+      required: { e: 16, f: 52, o: 54, s: 11, c: 68 },
+      // Specifies required browser versions
+      // Browsers older than this will be notified.
+      // f:22 ---> Firefox < 22 gets notified
+      // Negative numbers specify how much versions behind current version.
+      // c:-5 ---> Chrome < 35  gets notified if latest Chrome version is 40.
+      // more details (in english)
+
+      reminder: 24,
+      // after how many hours should the message reappear
+      // 0 = show all the time
+
+      reminderClosed: 150,
+      // if the user explicitly closes message it reappears after x hours
+
+      //   l: document.documentElement.getAttribute('lang'),
+      // test: true,
+      text:
+        '<p>Seu navegador da web (<strong>{brow_name}</strong>) est&#225; desatualizado ou n&#227;o &#233; compat&#237;vel com este site.</p><p class="info">Alguns recursos podem n&#227;o funcionar ou serem exibidos incorretamente.</p><div class="buttons"><a{up_but}>Mais informa&#231;&#245;es</a> <a{ignore_but}>Ignorar</a></div>',
+      text_en:
+        '<p>Your web browser (<strong>{brow_name}</strong>) is outdated or is not compatible with this site.</p><p class="info">Some features may not work or be displayed properly.</p><div class="buttons"><a{up_but}>Read more</a> <a{ignore_but}>ignore</a></div>',
+      text_es:
+        '<p>Su navegador web (<strong>{brow_name}</strong>) est&#225; desactualizado o no es compatible con este sitio.</p><p class="info">Algunas caracter&#237;sticas pueden no funcionar o mostrarse incorrectamente.</p><div class="buttons"><a{up_but}>Mas informaciones</a> <a{ignore_but}>ignorar</a></div>',
+      url:
+        document.body.getAttribute("data-portal-url") +
+        "/" +
+        document.documentElement.getAttribute("lang") +
+        "/browser-info",
+      //   newwindow: false,
+      //   no_permanent_hide: true,
+      onshow: function () {
+        document.body.setAttribute("data-browser-version-msg", "true");
+      },
+      onclose: function () {
+        document.body.setAttribute("data-browser-version-msg", "false");
+      }
+    };
+
+    function $buo_f() {
+      var e = document.createElement("script");
+      e.src = "//browser-update.org/update.min.js";
+      document.body.appendChild(e);
+    }
+    try {
+      document.addEventListener("DOMContentLoaded", $buo_f, false);
+    } catch (e) {
+      window.attachEvent("onload", $buo_f);
+    }
+  </script><script type="text/javascript" src="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/govbrtheme-803327f.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-84622159-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-84622159-1');
+</script></div></body>
+
+</html>
