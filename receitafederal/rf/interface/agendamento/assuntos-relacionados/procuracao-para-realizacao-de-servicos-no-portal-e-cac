@@ -1,0 +1,102 @@
+
+<!DOCTYPE HTML> <!--Esse doctype não pode ser movido daqui pois o captcha incluia um javascript antes dessa tag, o que quebrava a página no IE-->
+
+
+<html lang="pt-br">
+<!-- 
+Produção 
+- www.receita.fazenda.gov.br
+- captcha2.servicoscorporativos.serpro.gov.br
+Homologação / Desenvolvimento 
+- 161.148.231.11
+- homcaptcha.servicoscorporativos.serpro.gov.br
+-->
+
+<head>
+    <meta charset="pt-br">
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1.0, user-scalable = yes">
+    <title>Receita Federal do Brasil</title>
+    <link rel="stylesheet" href="../css/proc.css" type="text/css">
+    
+	<link rel="stylesheet" href="http://www.receita.fazenda.gov.br/tema/css/rfb.css"/>
+    <script>       
+         window._temarfb_urlTema = "http://www.receita.fazenda.gov.br/tema";       
+         window._temarfb_urlSitioRFB = "http://www.receita.fazenda.gov.br"; 
+    </script>  
+    <script data-main="http://www.receita.fazenda.gov.br/tema/main-built.js" src="http://www.receita.fazenda.gov.br/tema/require.js"></script>
+    	<script language="JavaScript">
+    	    function recarregar() {
+    	        document.getElementById('acao').value = 'recarregar';
+    	        document.frm.submit();
+    	    }
+    	    function carregar() {
+    	        document.frm.opcao[0].checked = true;
+    	        /*document.frm.idLetra.focus();	*/
+    	    }
+	</script>
+	<script src="http://captcha2.servicoscorporativos.serpro.gov.br/js/captcha.serpro.gov.br.js"></script>
+</head>	    
+<body onLoad="carregar();">
+	<div id="rfb-main-container" class="ready">
+		<h1 id="page-title">Solicitação de Procuração para a Secretaria da Receita Federal do Brasil</h1>
+		<fieldset  class="fieldset-ident, fieldset-rfb">
+			<form method="post" name="frm" id="frm" action="../controlador/controlePrincipal.asp">
+				<input type="hidden" name="acao" id="acao" value="validar">
+				<fieldset class="fieldset-ident">	
+					<label>Selecione a operação a ser realizada com a procuração:</label>
+					<div class="group">
+						<label class="radio">			
+							<input type="radio" name="opcao" id="opcao" value="cadastro" onclick="javascript:document.frm.idLetra.focus();">
+						   	Cadastro
+						</label>
+						<label class="radio">
+							<input type="radio" name="opcao" id="opcao" value="consulta" onclick="javascript:document.frm.idLetra.focus();">
+						   	Consulta ou cancelamento
+						</label>
+					</div>
+				</fieldset>				
+				<fieldset class="fieldset-ident">		
+					<div style="float: left;">
+                        <label>Digite os caracteres:&nbsp;</label>
+                    </div>
+                    <div style="float: left;">
+                        <input type='text' title='Repita os caracteres impressos na imagem ao lado ou pressione tab para acessar link de acessibilidade' maxLength='6' size='7' id='captcha' name='captcha'/>						
+                    &nbsp;
+                    </div>
+                    <div style="float: left;">
+                        <div data-ui-captcha-serpro="css2;" data-clienteid="1f85b17197de42e3aca11d14d5522adf"></div>
+                        &nbsp;
+                        <span class="aviso"></span>                        
+                    </div>					
+                    
+				</fieldset>
+				
+				<div class="line center">
+					<input type="submit" class="btn" value="Continuar" name="btnContinuar" id="btnContinuar">
+				</div>
+				
+				
+				<div class="line">
+					<h5>Observação:</h5>
+					<label>Código impresso ao lado - digite os caracteres da imagem. Esta informação
+					 ajuda a Secretaria da Receita Federal do Brasil a evitar consultas por programas automáticos, que dificultam a 
+					 utilização do aplicativo pelos demais contribuintes.
+					</label> 
+				</div>
+			</form>	
+			<table cellspacing="0" style="width:100%; background-color:#F0F1F4; border-top:1px solid #A7B9DA; padding:0; vertical-align:text-bottom;">
+	<tr>
+		<td style="width:100%;font-size:10px; font-family:Verdana; font-style:normal; color:#264989;text-align:center;">
+		A Secretaria da Receita Federal do Brasil agradece a sua visita. Para informações sobre política de privacidade e uso, 
+		<a href="http://www.receita.fazenda.gov.br/Politica/Privacidade.htm" target="#">clique aqui</a>.
+		</td>
+	</tr>
+</table>
+
+			<!-- Div obrigatório. Nele será gravado o código necessário para funcionamento do flash-->
+			<div id="container"></div>
+		</fieldset>
+	</div>
+</body>
+</html>
