@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/RSS">
+  <title>Auxílio Emergencial terá impacto de 2,5% no PIB brasileiro</title>
+  <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib</link>
+  <description>Segundo estudo da Universidade Federal de Pernambuco, as regiões Norte e Nordeste são as mais impactadas pelos recursos</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/view">
+    <title>Auxílio Emergencial impactou os estados brasileiros o equivalente a 2,5% do PIB</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/view</link>
+    <description>Norte e Nordeste são os mais impactados positivamente</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/@@images/image" title="Auxílio Emergencial impactou os estados brasileiros o equivalente a 2,5% do PIB" alt="Auxílio Emergencial impactou os estados brasileiros o equivalente a 2,5% do PIB" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Antônio Cruz/Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Antônio Cruz/Agência Brasil</dc:rights>
+    
+      <dc:subject>Auxílio Emergencial</dc:subject>
+    
+      <dc:subject>PIB</dc:subject>
+    
+      <dc:subject>Assistência</dc:subject>
+    
+    <dc:date>2020-08-12T19:13:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

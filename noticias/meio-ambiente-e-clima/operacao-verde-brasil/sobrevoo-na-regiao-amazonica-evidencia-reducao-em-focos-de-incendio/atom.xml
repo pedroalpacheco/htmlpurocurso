@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio/atom.xml" type="application/atom+xml" />
+  <title type="html">Sobrevoo na Região Amazônica evidencia redução em focos de incêndio</title>
+  <subtitle>“Do mês de agosto para o mês de setembro, tivemos redução de 15% do número de queimadas na Amazônia Legal”, informou ministro da Defesa</subtitle>
+  <updated>2019-10-03T20:42:39-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio/"/>
+  <id>urn:syndication:601e589942d846e68a1181e7f3d8f601</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Sobrevoo na Região Amazônica evidencia redução em focos de incêndio</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio/ministerio-da-defesa.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio/ministerio-da-defesa.jpg/@@download/image/Ministro da Defesa.jpg" length="65562" type="image/jpeg" />
+      <id>urn:syndication:f9d20e5667004454b5e469d4dfe5ad68</id>
+      <summary>Ministro Fernando Azevedo sobrevoou a Região Amazônica acompanhado de agentes de órgãos governamentais
+Foto: Ministério da Defesa</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio/ministerio-da-defesa.jpg/@@images/image" title="Sobrevoo na Região Amazônica evidencia redução em focos de incêndio" alt="Sobrevoo na Região Amazônica evidencia redução em focos de incêndio" />
+    <div class="discreet">
+        <div>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio/ministerio-da-defesa.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/sobrevoo-na-regiao-amazonica-evidencia-reducao-em-focos-de-incendio/ministerio-da-defesa.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2019-10-03T20:42:23-03:00</published>
+
+      <updated>2019-10-03T20:42:23-03:00</updated>
+
+      
+        <category term="OperaçãoVerdeBrasil"/>
+      
+        <category term="Defesa"/>
+      
+        <category term="Amazônia"/>
+      
+        <category term="Combate a Queimadas"/>
+      
+
+    </entry>
+
+  
+
+</feed>

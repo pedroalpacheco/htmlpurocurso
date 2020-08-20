@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/RSS">
+  <title>Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso</title>
+  <link>https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso</link>
+  <description>Salles disse que governos estão alinhados no combate às queimadas na região</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/view">
+    <title>Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso</title>
+    <link>https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/view</link>
+    <description>Ministro do Meio Ambiente sobrevoou regiões afetadas pelos incêndios no estado do Mato Grosso</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/@@images/image" title="Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso" alt="Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Ministério do Meio Ambiente</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Ministério do Meio Ambiente</dc:rights>
+    
+      <dc:subject>Meio Ambiente</dc:subject>
+    
+      <dc:subject>#combateaincêndios</dc:subject>
+    
+      <dc:subject>Queimadas</dc:subject>
+    
+      <dc:subject>Ministério do Meio Ambiente</dc:subject>
+    
+    <dc:date>2020-08-18T23:05:15Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

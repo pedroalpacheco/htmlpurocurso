@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos/atom.xml" type="application/atom+xml" />
+  <title type="html">Mais de R$ 26 milhões serão destinados a municípios para aquisição de alimentos</title>
+  <subtitle>Municípios têm até 30 dias para confirmar o interesse em participar do programa; cerca de quatro mil agricultores familiares serão beneficiados</subtitle>
+  <updated>2020-08-18T15:40:53-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos/"/>
+  <id>urn:syndication:3556b769165e4cad8d9b4835d99f755c</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Governo Federal divulga lista de 90 municípios que receberão recursos do Programa de Aquisição de Alimentos</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos/agricultura_familiar.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos/agricultura_familiar.jpg/@@download/image/agricultura_familiar.jpg" length="187541" type="image/jpeg" />
+      <id>urn:syndication:6d26b894083f4e6497e2d9c51086f3f4</id>
+      <summary>O objetivo é garantir renda aos agricultores e alimentação para as pessoas atendidas na rede socioassistencial</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos/agricultura_familiar.jpg/@@images/image" title="Governo Federal divulga lista de 90 municípios que receberão recursos do Programa de Aquisição de Alimentos" alt="Governo Federal divulga lista de 90 municípios que receberão recursos do Programa de Aquisição de Alimentos" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos/agricultura_familiar.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-r-26-milhoes-serao-destinados-a-municipios-para-aquisicao-de-alimentos/agricultura_familiar.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-18T14:22:19-03:00</published>
+
+      <updated>2020-08-18T14:22:19-03:00</updated>
+
+      
+        <category term="Agricultura Familiar"/>
+      
+        <category term="Alimentação"/>
+      
+        <category term="Assistência"/>
+      
+        <category term="Ministério da Cidadania"/>
+      
+
+    </entry>
+
+  
+
+</feed>

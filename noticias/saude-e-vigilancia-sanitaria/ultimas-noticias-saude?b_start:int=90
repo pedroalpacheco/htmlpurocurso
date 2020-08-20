@@ -1,0 +1,3943 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Saúde — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/Governo do Brasil" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude/RSS" title="Últimas Notícias - Saúde - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude/rss.xml" title="Últimas Notícias - Saúde - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude/atom.xml" title="Últimas Notícias - Saúde - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-saude-e-vigilancia-sanitaria subsection-saude-e-vigilancia-sanitaria-ultimas-noticias-saude userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria">Saúde</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Saúde</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Saúde</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">23/05/2018 11h27</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">16/10/2018 11h26</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-federal-inaugura-alas-hospitalares-para-tratar-indigenas-com-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-federal-inaugura-alas-hospitalares-para-tratar-indigenas-com-covid-19/hospital_ms.jpeg/@@images/8a71a2c3-8389-43df-915e-2cf28bb4843b.jpeg" alt="Hospital" title="Hospital" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-federal-inaugura-alas-hospitalares-para-tratar-indigenas-com-covid-19" title="collective.nitf.content">Governo Federal inaugura alas hospitalares para tratar indígenas com Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ao todo são quatro unidades em dois estados: três no Pará e uma no Acre</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid-19" class="link-category" rel="nofollow tag">covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=povos indígenas" class="link-category" rel="nofollow tag">povos indígenas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=assistência médica" class="link-category" rel="nofollow tag">assistência médica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospitais" class="link-category" rel="nofollow tag">Hospitais</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/portaria-define-criterios-tecnicos-para-implantacao-de-hospirtais-de-campanha">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/portaria-define-criterios-tecnicos-para-implantacao-de-hospirtais-de-campanha/020620hospital_de_campanha_aguas_lindas_de_goias_3307_0.jpg/@@images/4889d6f8-da3e-4b1f-8949-c6a0d93f0335.jpeg" alt="Implantação de Hospitais de Campanha tem critérios técnicos definidos em portaria" title="Implantação de Hospitais de Campanha tem critérios técnicos definidos em portaria" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/portaria-define-criterios-tecnicos-para-implantacao-de-hospirtais-de-campanha" title="collective.nitf.content">Portaria define critérios técnicos para implantação de hospitais de campanha</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Construção da unidade deve ser uma das estratégias de ampliação e organização da oferta de leitos para pacientes com Covid-19</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospital de campanha" class="link-category" rel="nofollow tag">Hospital de campanha</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h34
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-habilita-leitos-para-tratar-pacientes-com-insuficiencia-respiratoria">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-habilita-leitos-para-tratar-pacientes-com-insuficiencia-respiratoria/caucasian-male-doctor-adjusting-iv-drip-and-oxygen-6mtlxa3.jpg/@@images/ab060676-b851-4415-9767-9698866bc809.jpeg" alt="OXigênio" title="OXigênio" height="77" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">LEITOS</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-habilita-leitos-para-tratar-pacientes-com-insuficiencia-respiratoria" title="collective.nitf.content">Ministério habilita leitos para tratar pacientes com  insuficiência respiratória</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O leitos são destinados a pacientes com grau médio da Covid-19 e que precisam de oxigênio</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde" class="link-category" rel="nofollow tag">Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Habilitação de leitos" class="link-category" rel="nofollow tag">Habilitação de leitos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=coronavirus" class="link-category" rel="nofollow tag">coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/saude-habilita-499-leitos-para-doencas-nao-relacionadas-com-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/saude-habilita-499-leitos-para-doencas-nao-relacionadas-com-covid-19/49943703466_f1cf788e92_c.jpg/@@images/6e429969-cf2f-4f8a-9d06-2cae6703f74c.jpeg" alt="uti" title="uti" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SUS</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/saude-habilita-499-leitos-para-doencas-nao-relacionadas-com-covid-19" title="collective.nitf.content">Saúde habilita 499 leitos para doenças não relacionadas com Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Governo Federal trabalha no fortalecimento e na ampliação do Sistema Único de Saúde (SUS)</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde" class="link-category" rel="nofollow tag">Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=habilitação de leitos" class="link-category" rel="nofollow tag">habilitação de leitos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=leitos" class="link-category" rel="nofollow tag">leitos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=leitos de UTI" class="link-category" rel="nofollow tag">leitos de UTI</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospitais de pequeno Porte" class="link-category" rel="nofollow tag">Hospitais de pequeno Porte</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h18
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-amplia-servicos-oferecidos-pela-internet">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-amplia-servicos-oferecidos-pela-internet/01_capa_plataforma_todos_por_todos_abr_22032000140.jpg/@@images/ced564a5-fdc6-4e63-bc70-c8552095a55c.jpeg" alt="Anvisa amplia serviços oferecidos pela internet" title="Anvisa amplia serviços oferecidos pela internet" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">digital</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-amplia-servicos-oferecidos-pela-internet" title="collective.nitf.content">Anvisa amplia serviços oferecidos pela internet</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Mais 18 serviços começam a ser disponibilizados na plataforma digital do Governo Federal</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=gov.br" class="link-category" rel="nofollow tag">gov.br</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Anvisa" class="link-category" rel="nofollow tag">Anvisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agência Nacional de Vigilância Sanitária" class="link-category" rel="nofollow tag">Agência Nacional de Vigilância Sanitária</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=serviços digitais" class="link-category" rel="nofollow tag">serviços digitais</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        16/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h33
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-atua-em-comunidades-indigenas-em-sao-gabriel-da-cachoeira-am">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-atua-em-comunidades-indigenas-em-sao-gabriel-da-cachoeira-am/indigenas_saogabrieldacachoeira_ebc.jpg/@@images/18481709-9305-4903-8d4c-f4c034438177.jpeg" alt="Governo atua em comunidades indígenas em São Gabriel da Cachoeira (AM)" title="Governo atua em comunidades indígenas em São Gabriel da Cachoeira (AM)" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Assistência Indígena</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-atua-em-comunidades-indigenas-em-sao-gabriel-da-cachoeira-am" title="collective.nitf.content">Governo atua em comunidades indígenas em São Gabriel da Cachoeira (AM)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A ação que durou uma semana realizou cerca de 380 atendimentos e a indígenas de 13 etnias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Defesa" class="link-category" rel="nofollow tag">Ministério da Defesa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Forças Armadas" class="link-category" rel="nofollow tag">Forças Armadas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Indígenas" class="link-category" rel="nofollow tag">Indígenas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vacinas" class="link-category" rel="nofollow tag">Vacinas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=São Gabriel da Cachoeira" class="link-category" rel="nofollow tag">São Gabriel da Cachoeira</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Amazonas" class="link-category" rel="nofollow tag">Amazonas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cestas de Alimentos" class="link-category" rel="nofollow tag">Cestas de Alimentos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        15/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h51
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/hospitais-universitarios-tem-adiantamento-de-recursos-durante-a-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/hospitais-universitarios-tem-adiantamento-de-recursos-durante-a-pandemia/fothc-20-03-20-jpg.jpg/@@images/ab3a08a5-858d-440b-9cc3-064fe45ea954.jpeg" alt="HC UFPE" title="HC UFPE" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/hospitais-universitarios-tem-adiantamento-de-recursos-durante-a-pandemia" title="collective.nitf.content">Hospitais universitários têm adiantamento de recursos durante a pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Objetivo é planejar ainda mais as ações de gestão e garantir estoque de materiais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospital universitário" class="link-category" rel="nofollow tag">Hospital universitário</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ebserh" class="link-category" rel="nofollow tag">Ebserh</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde" class="link-category" rel="nofollow tag">Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=governo federal" class="link-category" rel="nofollow tag">governo federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#MEC" class="link-category" rel="nofollow tag">#MEC</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        15/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h29
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-lanca-nova-campanha-de-doacao-de-sangue-2020">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-lanca-nova-campanha-de-doacao-de-sangue-2020/doacao.jpg/@@images/78e5f495-2da4-4f90-9fe7-be5638b9468f.jpeg" alt="doação de sangue" title="doação de sangue" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">DOAÇÃO DE SANGUE</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-lanca-nova-campanha-de-doacao-de-sangue-2020" title="collective.nitf.content">Ministério da Saúde lança nova campanha de doação de sangue 2020</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Com tema “Seja solidário. Doe sangue. Doar é um ato de amor”, objetivo é estimular doações também durante pandemia</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#saude" class="link-category" rel="nofollow tag">#saude</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=pandemia" class="link-category" rel="nofollow tag">pandemia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Doação de Sangue" class="link-category" rel="nofollow tag">Doação de Sangue</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hemocentro" class="link-category" rel="nofollow tag">Hemocentro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=governo federal" class="link-category" rel="nofollow tag">governo federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h44
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/hemocentros-reforcam-medidas-de-higiene-e-distanciamento-social-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/hemocentros-reforcam-medidas-de-higiene-e-distanciamento-social-durante-pandemia/raphaellabarros_publicitaria_ebc.jpeg/@@images/f1ca5cdd-2f1a-4a29-b104-75696aa27a77.jpeg" alt="Hemocentros reforçam medidas de higiene e distanciamento social durante pandemia" title="Hemocentros reforçam medidas de higiene e distanciamento social durante pandemia" height="69" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Doação de Sangue</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/hemocentros-reforcam-medidas-de-higiene-e-distanciamento-social-durante-pandemia" title="collective.nitf.content">Hemocentros reforçam medidas de higiene e distanciamento social durante pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Podem doar pessoas entre 16 e 69 anos, pesem no mínimo 50 kg e estejam em boas condições de saúde</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hemocentro" class="link-category" rel="nofollow tag">Hemocentro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Doação de Sangue" class="link-category" rel="nofollow tag">Doação de Sangue</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Doadores" class="link-category" rel="nofollow tag">Doadores</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pandemia" class="link-category" rel="nofollow tag">Pandemia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/estados-recebem-mais-de-100-milhoes-de-equipamentos-de-protecao-do-governo-federal">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/estados-recebem-mais-de-100-milhoes-de-equipamentos-de-protecao-do-governo-federal/doctor-wearing-latex-gloves-medicine-and-health-co-pstfyd5.jpg/@@images/d535eff9-2420-47c0-bde7-b12f27615b04.jpeg" alt="Estados recebem mais de 100 milhões de equipamentos de proteção do Governo Federal" title="Estados recebem mais de 100 milhões de equipamentos de proteção do Governo Federal" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">EPIs</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/estados-recebem-mais-de-100-milhoes-de-equipamentos-de-protecao-do-governo-federal" title="collective.nitf.content">Estados recebem mais de 100 milhões de equipamentos de proteção do Governo Federal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Os materiais serão usados por profissionais de saúde que atuam no cuidado a pacientes com covid-19</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=EPIs" class="link-category" rel="nofollow tag">EPIs</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h34
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-tem-mais-de-345-5-mil-pessoas-curadas-de-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-tem-mais-de-345-5-mil-pessoas-curadas-de-covid-19/idoso_1.jpg/@@images/2dfa2b00-00b3-4406-8efa-9f335483309c.jpeg" alt="Brasil tem mais de 345,5 mil pessoas curadas de Covid-19" title="Brasil tem mais de 345,5 mil pessoas curadas de Covid-19" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">novo coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-tem-mais-de-345-5-mil-pessoas-curadas-de-covid-19" title="collective.nitf.content">Brasil tem mais de 345,5 mil pessoas curadas de Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Governo se empenha em fortalecer a estrutura do Sistema Único de Saúde (SUS)</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h34
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/pesquisa-testa-em-voluntarios-medicamento-para-tratar-a-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/pesquisa-testa-em-voluntarios-medicamento-para-tratar-a-covid-19/pesquisa_covid_ebc.jpg/@@images/4d18bfb2-f784-42e4-91f0-b21f504d41c2.jpeg" alt="Pesquisa testa em voluntários medicamento para tratar a Covid-19" title="Pesquisa testa em voluntários medicamento para tratar a Covid-19" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Estudo Clínico</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/pesquisa-testa-em-voluntarios-medicamento-para-tratar-a-covid-19" title="collective.nitf.content">Pesquisa testa em voluntários medicamento para tratar a Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ação #500VoluntáriosJÁ, realizada em São Paulo, promove estudo clínico com a Nitazoxanida</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#500VoluntáriosJÁ" class="link-category" rel="nofollow tag">#500VoluntáriosJÁ</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ciência" class="link-category" rel="nofollow tag">Ciência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde" class="link-category" rel="nofollow tag">Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nitozoxanida" class="link-category" rel="nofollow tag">Nitozoxanida</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Medicamento" class="link-category" rel="nofollow tag">Medicamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Teste" class="link-category" rel="nofollow tag">Teste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Voluntários" class="link-category" rel="nofollow tag">Voluntários</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h06
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-tem-mais-de-311-mil-pessoas-recuperadas-do-coronavirus">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-tem-mais-de-311-mil-pessoas-recuperadas-do-coronavirus/idoso_curado_ebc.jpg/@@images/0704ba9d-d7ed-47ad-a73c-3b910089a9e5.jpeg" alt="Brasil tem mais de 311 mil pessoas recuperadas do coronavírus" title="Brasil tem mais de 311 mil pessoas recuperadas do coronavírus" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-tem-mais-de-311-mil-pessoas-recuperadas-do-coronavirus" title="collective.nitf.content">Brasil tem mais de 311 mil pessoas recuperadas do coronavírus</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">As informações são repassadas pelas Secretarias Estaduais de Saúde e consolidadas pelo Ministério da Saúde</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Brasil" class="link-category" rel="nofollow tag">Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Dados" class="link-category" rel="nofollow tag">Dados</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Informações" class="link-category" rel="nofollow tag">Informações</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pandemia" class="link-category" rel="nofollow tag">Pandemia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-alerta-para-importancia-da-vacinacao-mesmo-durante-a-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-alerta-para-importancia-da-vacinacao-mesmo-durante-a-pandemia/vacinacao_agbrasilia_df.jpg/@@images/a5405915-957e-4d29-80e3-353f969bc01b.jpeg" alt="Ministério da Saúde alerta para importância da vacinação mesmo durante a pandemia" title="Ministério da Saúde alerta para importância da vacinação mesmo durante a pandemia" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Saúde pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-alerta-para-importancia-da-vacinacao-mesmo-durante-a-pandemia" title="collective.nitf.content">Ministério da Saúde alerta para importância da vacinação mesmo durante a pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Atualmente, o Brasil possui o maior programa público de imunização do mundo, com a distribuição de mais de 300 milhões de doses de imunobiológicos anualmente</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde" class="link-category" rel="nofollow tag">Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vacinas" class="link-category" rel="nofollow tag">Vacinas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vacinação" class="link-category" rel="nofollow tag">Vacinação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Campanha" class="link-category" rel="nofollow tag">Campanha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Gripe" class="link-category" rel="nofollow tag">Gripe</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Brasil" class="link-category" rel="nofollow tag">Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pandemia" class="link-category" rel="nofollow tag">Pandemia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h26
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-habilitou-mais-de-8-2-mil-leitos-de-uti-para-pacientes-com-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-habilitou-mais-de-8-2-mil-leitos-de-uti-para-pacientes-com-covid-19/49943703466_f1cf788e92_c.jpg/@@images/85df6d7f-0a04-42e4-ae7b-39e798fb0231.jpeg" alt="Pazuello" title="Pazuello" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-habilitou-mais-de-8-2-mil-leitos-de-uti-para-pacientes-com-covid-19" title="collective.nitf.content">Ministério da Saúde habilitou mais de 8,2 mil leitos de UTI para pacientes com Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O repasse foi de R$ 1,183 bilhão para secretarias estaduais e municipais para tratamento de pacientes com sintomas graves</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid-19" class="link-category" rel="nofollow tag">covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#ministériodasaúde" class="link-category" rel="nofollow tag">#ministériodasaúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Comitê de Crise da Covid-19" class="link-category" rel="nofollow tag">Comitê de Crise da Covid-19</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-investe-r-70-milhoes-em-acoes-para-protecao-da-populacao-indigena">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-investe-r-70-milhoes-em-acoes-para-protecao-da-populacao-indigena/49989766062_6560c0e6dd_o.jpg/@@images/f77200ed-fb14-4f25-8a8d-ead3003f9379.jpeg" alt="Ministério da Saúde investe R$ 70 milhões em ações para proteção da população indígena" title="Ministério da Saúde investe R$ 70 milhões em ações para proteção da população indígena" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-investe-r-70-milhoes-em-acoes-para-protecao-da-populacao-indigena" title="collective.nitf.content">Ministério da Saúde investe R$ 70 milhões em ações para proteção da população indígena</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Mais de 600 mil equipamentos de proteção individual, insumos e medicamos foram enviados para atender indígenas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde Indígena" class="link-category" rel="nofollow tag">Saúde Indígena</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-alerta-para-a-falsificacao-de-medicamentos">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-alerta-para-a-falsificacao-de-medicamentos/medicine-from-diseases-xutx55v.jpg/@@images/ce022a16-5949-4306-a2e8-04f2cce716ef.jpeg" alt="Anvisa alerta para a falsificação de medicamentos" title="Anvisa alerta para a falsificação de medicamentos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">FISCALIZAÇÃO SANITÁRIA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-alerta-para-a-falsificacao-de-medicamentos" title="collective.nitf.content">Anvisa alerta para a falsificação de medicamentos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Para combater a falsificação de medicamentos, a Anvisa atua com outros órgãos de governo, agências reguladoras e autoridades policiais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Anvisa" class="link-category" rel="nofollow tag">Anvisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Medicamentos" class="link-category" rel="nofollow tag">Medicamentos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h38
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-divulgara-dados-de-covid-19-em-plataforma-interativa">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-divulgara-dados-de-covid-19-em-plataforma-interativa/covid_govpr.jpg/@@images/c7bab7c5-ad98-4fe6-9f87-c654605d1736.jpeg" alt="Ministério da Saúde divulgará dados de Covid-19 em plataforma interativa" title="Ministério da Saúde divulgará dados de Covid-19 em plataforma interativa" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Transparência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/ministerio-da-saude-divulgara-dados-de-covid-19-em-plataforma-interativa" title="collective.nitf.content">Ministério da Saúde divulgará dados de Covid-19 em plataforma interativa</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Novo modelo de divulgação de informações abordará o cenário atual da doença, com análise de casos e mortes por data de ocorrência, de forma regionalizada</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Plataforma" class="link-category" rel="nofollow tag">Plataforma</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Dados" class="link-category" rel="nofollow tag">Dados</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde Pública" class="link-category" rel="nofollow tag">Saúde Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Transparência" class="link-category" rel="nofollow tag">Transparência</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h59
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/pesquisa-vai-utilizar-plasma-sanguineo-em-pacientes-infectados-com-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/pesquisa-vai-utilizar-plasma-sanguineo-em-pacientes-infectados-com-covid-19/laboratorio_plasma_mctic.jpg/@@images/1822d217-6c1e-4202-8641-577fabe10670.jpeg" alt="Pesquisa vai utilizar plasma sanguíneo em pacientes infectados com Covid-19" title="Pesquisa vai utilizar plasma sanguíneo em pacientes infectados com Covid-19" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Testes</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/pesquisa-vai-utilizar-plasma-sanguineo-em-pacientes-infectados-com-covid-19" title="collective.nitf.content">Pesquisa vai utilizar plasma sanguíneo em pacientes infectados com Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Estudo vai utilizar plasma sanguíneo de pessoas recuperadas em pacientes infectados pela doença. Projeto envolve cinco hospitais brasileiros e vai incluir 120 pacientes</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pesquisa" class="link-category" rel="nofollow tag">Pesquisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Plasma Sanguíneo" class="link-category" rel="nofollow tag">Plasma Sanguíneo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Finep" class="link-category" rel="nofollow tag">Finep</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospital das Clínicas" class="link-category" rel="nofollow tag">Hospital das Clínicas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Unicamp" class="link-category" rel="nofollow tag">Unicamp</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=USP" class="link-category" rel="nofollow tag">USP</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospital Israelita Albert Einstein" class="link-category" rel="nofollow tag">Hospital Israelita Albert Einstein</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospital Sírio-Libanês" class="link-category" rel="nofollow tag">Hospital Sírio-Libanês</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-investe-em-centros-comunitarios-e-de-atendimento-para-apoiar-o-combate-ao-coronavirus">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-investe-em-centros-comunitarios-e-de-atendimento-para-apoiar-o-combate-ao-coronavirus/big_3919_coronavrus.jpg/@@images/39d923fb-7327-4594-8545-d9c24420c052.jpeg" alt="big_3919_coronavrus.jpg" title="big_3919_coronavrus.jpg" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/governo-investe-em-centros-comunitarios-e-de-atendimento-para-apoiar-o-combate-ao-coronavirus" title="collective.nitf.content">Governo investe em centros comunitários para apoiar o combate ao coronavírus</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Espaços poderão funcionar em comunidades e favelas para ampliar o acesso da população com sintomas leves de Covid-19</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Atendimento comunitário" class="link-category" rel="nofollow tag">Atendimento comunitário</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h07
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/santas-casas-e-hospitais-filantropicos-recebem-mais-r-1-6-bilhao-do-governo-federal">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/santas-casas-e-hospitais-filantropicos-recebem-mais-r-1-6-bilhao-do-governo-federal/santa_casa1.jpg/@@images/e46f9789-a3d3-4c8b-889a-ca218f67fe95.jpeg" alt="Santas casas e hospitais filantrópicos recebem mais R$ 1,6 bilhão do Governo Federal" title="Santas casas e hospitais filantrópicos recebem mais R$ 1,6 bilhão do Governo Federal" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Recurso</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/santas-casas-e-hospitais-filantropicos-recebem-mais-r-1-6-bilhao-do-governo-federal" title="collective.nitf.content">Santas casas e hospitais filantrópicos recebem mais R$ 1,6 bilhão do Governo Federal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Recurso é parte do auxílio emergencial aos estados no combate à Covid-19 e contemplou 1.651 entidades filantrópicas.</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Santa Casa" class="link-category" rel="nofollow tag">Santa Casa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospitais filantrópicos" class="link-category" rel="nofollow tag">Hospitais filantrópicos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h29
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/data-lembra-importancia-de-combater-a-obesidade-infantil">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/data-lembra-importancia-de-combater-a-obesidade-infantil/o-que-fazer-para-prevenir-a-obesidade-infantil.jpg/@@images/5066bfe8-6f19-40b0-9934-5db457d7a082.jpeg" alt="O-que-fazer-para-prevenir-a-obesidade-infantil.jpg" title="O-que-fazer-para-prevenir-a-obesidade-infantil.jpg" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prevenção</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/data-lembra-importancia-de-combater-a-obesidade-infantil" title="collective.nitf.content">Data lembra importância de combater a obesidade infantil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Obesidade é fator de risco para agravamento da Covid-19</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h15
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-participa-de-estudo-para-desenvolver-vacina-de-prevencao-a-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-participa-de-estudo-para-desenvolver-vacina-de-prevencao-a-covid-19/vacina.jpg/@@images/6f263c9f-6809-4440-b19d-46b0c32e3402.jpeg" alt="vacina" title="vacina" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/brasil-participa-de-estudo-para-desenvolver-vacina-de-prevencao-a-covid-19" title="collective.nitf.content">Brasil participa de estudo para desenvolver vacina de prevenção à Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Anvisa autorizou empresa Astrazeneca do Brasil Ltda a realizar testes clínicos de potencial vacina</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=vacina" class="link-category" rel="nofollow tag">vacina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=pandemia" class="link-category" rel="nofollow tag">pandemia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Anvisa" class="link-category" rel="nofollow tag">Anvisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h59
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-libera-venda-de-mascaras-de-tecidos-em-farmacias-e-drogarias">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-libera-venda-de-mascaras-de-tecidos-em-farmacias-e-drogarias/whatsapp-image-2020-06-03-at-13-31-32.jpeg/@@images/a0bc0630-3103-426e-940f-94f5cb74186f.jpeg" alt="máscara" title="máscara" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/anvisa-libera-venda-de-mascaras-de-tecidos-em-farmacias-e-drogarias" title="collective.nitf.content">Anvisa libera venda de máscaras de tecidos em farmácias e drogarias</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Medida visa ampliar o acesso da população às máscaras e à prevenção ao novo coronavírus</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#covid-19" class="link-category" rel="nofollow tag">#covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ANVISA" class="link-category" rel="nofollow tag">ANVISA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=máscaras de tecido" class="link-category" rel="nofollow tag">máscaras de tecido</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h39
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/portal-para-validacao-de-prescricoes-e-atestados-digitais-ganha-versao-mobile">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/portal-para-validacao-de-prescricoes-e-atestados-digitais-ganha-versao-mobile/senior-doctor-with-smartphone-working-at-the-offic-pzfv9w8.jpg/@@images/6c3a1930-b845-4724-80fa-6c65cee59060.jpeg" alt="Validador de prescrições e atestados médicos digitais tem versão mobile e mais completa" title="Validador de prescrições e atestados médicos digitais tem versão mobile e mais completa" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">digital</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/portal-para-validacao-de-prescricoes-e-atestados-digitais-ganha-versao-mobile" title="collective.nitf.content">Portal para validação de prescrições e atestados digitais ganha versão mobile</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Objetivo é validar a assinatura digital do profissional de saúde em uma prescrição médica ou atestado de afastamento</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Validador de documentos digitais" class="link-category" rel="nofollow tag">Validador de documentos digitais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ITI" class="link-category" rel="nofollow tag">ITI</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=instituto Nacional de Tecnologia da Informação" class="link-category" rel="nofollow tag">instituto Nacional de Tecnologia da Informação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h06
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/tele-coronavirus-na-bahia-completa-60-dias-com-mais-de-43-mil-atendimentos">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/tele-coronavirus-na-bahia-completa-60-dias-com-mais-de-43-mil-atendimentos/whatsapp-image-2020-03-30-at-16-19-33-1-768x512.jpeg/@@images/a4cbbc3b-7915-4e52-b922-ae85e96b38c3.jpeg" alt="WhatsApp-Image-2020-03-30-at-16.19.33-1-768x512.jpeg" title="WhatsApp-Image-2020-03-30-at-16.19.33-1-768x512.jpeg" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/tele-coronavirus-na-bahia-completa-60-dias-com-mais-de-43-mil-atendimentos" title="collective.nitf.content">Tele Coronavírus na Bahia completa 60 dias com mais de 43 mil atendimentos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Serviço funciona de forma gratuita, através do número 155. As principais queixas dos usuários tem sido tosse, febre e falta de ar</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fiocruz" class="link-category" rel="nofollow tag">Fiocruz</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tele Coronavírus" class="link-category" rel="nofollow tag">Tele Coronavírus</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h18
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/implantacao-da-rede-nacional-de-dados-em-saude-avanca-em-todo-o-pais">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/implantacao-da-rede-nacional-de-dados-em-saude-avanca-em-todo-o-pais/doctor-and-nurse-discussing-patients-tests-at-tabl-93dqt7a.jpg/@@images/64434d26-ea89-4496-8df0-b64115163705.jpeg" alt="Implantação da rede nacional de dados em saúde avança em todo o País" title="Implantação da rede nacional de dados em saúde avança em todo o País" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Conecte SUS</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/implantacao-da-rede-nacional-de-dados-em-saude-avanca-em-todo-o-pais" title="collective.nitf.content">Implantação da rede nacional de dados em saúde avança em todo o País</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O cidadão terá acesso a dados como: quais vacinas tomou, atendimentos, exames, internações e medicamentos usados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=RNDS" class="link-category" rel="nofollow tag">RNDS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conecte SUS" class="link-category" rel="nofollow tag">Conecte SUS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/campanha-de-vacinacao-contra-a-gripe-e-prorrogada-ate-30-de-junho">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/campanha-de-vacinacao-contra-a-gripe-e-prorrogada-ate-30-de-junho/vaccine-administration-on-an-elderly-patient-ryfzm38.jpg/@@images/9f7bda8f-2a86-4326-a96b-0b605801ffe9.jpeg" alt="Campanha de vacinação contra a gripe é prorrogada até 30 de junho" title="Campanha de vacinação contra a gripe é prorrogada até 30 de junho" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">vacinação contra gripe</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/06/campanha-de-vacinacao-contra-a-gripe-e-prorrogada-ate-30-de-junho" title="collective.nitf.content">Campanha de vacinação contra a gripe é prorrogada até 30 de junho</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O Ministério da Saúde espera, com a prorrogação, alcançar mais 28,3 milhões de pessoas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Campanha Nacional de Vacinação" class="link-category" rel="nofollow tag">Campanha Nacional de Vacinação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vacinação contra a gripe" class="link-category" rel="nofollow tag">Vacinação contra a gripe</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Influenza" class="link-category" rel="nofollow tag">Influenza</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/05/ans-inclui-novos-exames-na-cobertura-obrigatoria-dos-planos-de-saude-para-diagnostico-e-tratamento-da-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/05/ans-inclui-novos-exames-na-cobertura-obrigatoria-dos-planos-de-saude-para-diagnostico-e-tratamento-da-covid-19/f3d59e7f0f11c3f2e19f37153ac0b5e0.jpg/@@images/8aea271d-bc69-44b1-b8bb-3415a3231dfd.jpeg" alt="f3d59e7f0f11c3f2e19f37153ac0b5e0.jpg" title="f3d59e7f0f11c3f2e19f37153ac0b5e0.jpg" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao Coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/05/ans-inclui-novos-exames-na-cobertura-obrigatoria-dos-planos-de-saude-para-diagnostico-e-tratamento-da-covid-19" title="collective.nitf.content">ANS inclui novos exames na cobertura obrigatória dos planos de saúde para diagnóstico e tratamento da Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Procedimentos buscam ampliar as possibilidades de diagnóstico, especialmente em pacientes graves com quadro suspeito ou confirmado</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h07
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/05/mais-de-r-60-bilhoes-serao-transferidos-a-estados-e-municipios-por-causa-da-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/05/mais-de-r-60-bilhoes-serao-transferidos-a-estados-e-municipios-por-causa-da-pandemia/49694170986_c265c5bcba_o-jpg-crdownload-1/@@images/f05e1839-cda7-45f7-8231-d3f3fad17298.jpeg" alt="49694170986_c265c5bcba_o.jpg.crdownload" title="49694170986_c265c5bcba_o.jpg.crdownload" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/05/mais-de-r-60-bilhoes-serao-transferidos-a-estados-e-municipios-por-causa-da-pandemia" title="collective.nitf.content">Mais de R$ 60 bilhões serão transferidos a estados e municípios por causa da pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A Lei Complementar que estabelece Programa Federativo de Enfrentamento ao Coronavírus foi sancionada pelo presidente Jair Bolsonaro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Federativo de Enfrentamento ao Coronavírus" class="link-category" rel="nofollow tag">Programa Federativo de Enfrentamento ao Coronavírus</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h34
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=60">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=0">1</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=30">2</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=60">3</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>4</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=120">5</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=150">6</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=180">7</a>
+        </li>
+        <!-- Link to last -->
+        
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=510">18</a>
+            </li>
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=120">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

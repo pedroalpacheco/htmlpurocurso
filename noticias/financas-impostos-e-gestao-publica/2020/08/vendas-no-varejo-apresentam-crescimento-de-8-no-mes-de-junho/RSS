@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/vendas-no-varejo-apresentam-crescimento-de-8-no-mes-de-junho/RSS">
+  <title>Vendas no varejo apresentam crescimento de 8% no mês de junho</title>
+  <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/vendas-no-varejo-apresentam-crescimento-de-8-no-mes-de-junho</link>
+  <description>Os dados do IBGE apontam que o comércio vem mostrando um impacto menor causados pela pandemia</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/vendas-no-varejo-apresentam-crescimento-de-8-no-mes-de-junho/payment-by-credit-card-in-the-flower-shop-8mcanpu.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/vendas-no-varejo-apresentam-crescimento-de-8-no-mes-de-junho/payment-by-credit-card-in-the-flower-shop-8mcanpu.jpg/view">
+    <title>Vendas no varejo apresentam crescimento de 8% no mês de junho</title>
+    <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/vendas-no-varejo-apresentam-crescimento-de-8-no-mes-de-junho/payment-by-credit-card-in-the-flower-shop-8mcanpu.jpg/view</link>
+    <description>Vendas do varejo cresceram em 24 Unidades da Federação em junho. Maior alta foram nos artigos de livros, jornais, revistas e papelaria.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/vendas-no-varejo-apresentam-crescimento-de-8-no-mes-de-junho/payment-by-credit-card-in-the-flower-shop-8mcanpu.jpg/@@images/image" title="Vendas no varejo apresentam crescimento de 8% no mês de junho" alt="Vendas no varejo apresentam crescimento de 8% no mês de junho" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Banco de imagens</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/vendas-no-varejo-apresentam-crescimento-de-8-no-mes-de-junho/payment-by-credit-card-in-the-flower-shop-8mcanpu.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/vendas-no-varejo-apresentam-crescimento-de-8-no-mes-de-junho/payment-by-credit-card-in-the-flower-shop-8mcanpu.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Banco de imagens</dc:rights>
+    
+      <dc:subject>Comércio</dc:subject>
+    
+      <dc:subject>IBGE</dc:subject>
+    
+      <dc:subject>#Covid-19</dc:subject>
+    
+      <dc:subject>Varejo</dc:subject>
+    
+    <dc:date>2020-08-12T19:16:25Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

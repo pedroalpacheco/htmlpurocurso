@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes/atom.xml" type="application/atom+xml" />
+  <title type="html">Vacina Oxford: voluntários passam a receber duas doses durante testes</title>
+  <subtitle>Anvisa autorizou mudança no protocolo e ampliou a faixa etária dos voluntários que podem participar da pesquisa para até 69 anos</subtitle>
+  <updated>2020-08-11T13:48:14-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes/"/>
+  <id>urn:syndication:33653ae49f2447a489d7f4bf20298382</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Vacina Oxford: voluntários passam a receber duas doses durante testes</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes/covid-19-coronavirus-vaccine-in-a-hospital-concept-zadcfv6.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes/covid-19-coronavirus-vaccine-in-a-hospital-concept-zadcfv6.jpg/@@download/image/covid-19-coronavirus-vaccine-in-a-hospital-concept-UZHK358.jpg" length="9251978" type="image/jpeg" />
+      <id>urn:syndication:4cc422015b434241bc3c52de71af8901</id>
+      <summary>A Anvisa também autorizou a ampliação da faixa etária para a realização dos testes</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes/covid-19-coronavirus-vaccine-in-a-hospital-concept-zadcfv6.jpg/@@images/image" title="Vacina Oxford: voluntários passam a receber duas doses durante testes" alt="Vacina Oxford: voluntários passam a receber duas doses durante testes" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Banco de Imagem</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes/covid-19-coronavirus-vaccine-in-a-hospital-concept-zadcfv6.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/vacina-oxford-voluntarios-passam-a-receber-duas-doses-durante-testes/covid-19-coronavirus-vaccine-in-a-hospital-concept-zadcfv6.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-11T12:09:05-03:00</published>
+
+      <updated>2020-08-11T12:09:05-03:00</updated>
+
+      
+        <category term="#ministériodasaúde"/>
+      
+        <category term="#CoronavirusNoBrasil"/>
+      
+        <category term="Vacina"/>
+      
+        <category term="vacina de Oxford"/>
+      
+        <category term="#anvisa"/>
+      
+
+    </entry>
+
+  
+
+</feed>

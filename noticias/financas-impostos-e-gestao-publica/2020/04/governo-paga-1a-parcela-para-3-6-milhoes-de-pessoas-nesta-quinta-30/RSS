@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-paga-1a-parcela-para-3-6-milhoes-de-pessoas-nesta-quinta-30/RSS">
+  <title>Governo paga 1ª parcela para 3,6 milhões de pessoas nesta quinta (30)</title>
+  <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-paga-1a-parcela-para-3-6-milhoes-de-pessoas-nesta-quinta-30</link>
+  <description>Serão creditados R$ 2,6 bilhões para mais de 1,7 milhão de inscritos e 1,9 milhão do Bolsa Família</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-paga-1a-parcela-para-3-6-milhoes-de-pessoas-nesta-quinta-30/1066137-1-18022017_pzzb9720.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-paga-1a-parcela-para-3-6-milhoes-de-pessoas-nesta-quinta-30/1066137-1-18022017_pzzb9720.jpg/view">
+    <title>Governo paga 1ª parcela para 3,6 milhões de pessoas nesta quinta (30)</title>
+    <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-paga-1a-parcela-para-3-6-milhoes-de-pessoas-nesta-quinta-30/1066137-1-18022017_pzzb9720.jpg/view</link>
+    <description>Os beneficiários que receberam na Poupança Digital já podem efetuar o saque do benefício em espécie.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-paga-1a-parcela-para-3-6-milhoes-de-pessoas-nesta-quinta-30/1066137-1-18022017_pzzb9720.jpg/@@images/image" title="Governo paga 1ª parcela para 3,6 milhões de pessoas nesta quinta (30)" alt="Governo paga 1ª parcela para 3,6 milhões de pessoas nesta quinta (30)" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Fabio Rodrigues Pozzebom/Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-paga-1a-parcela-para-3-6-milhoes-de-pessoas-nesta-quinta-30/1066137-1-18022017_pzzb9720.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-paga-1a-parcela-para-3-6-milhoes-de-pessoas-nesta-quinta-30/1066137-1-18022017_pzzb9720.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Fabio Rodrigues Pozzebom/Agência Brasil</dc:rights>
+    
+      <dc:subject>Auxílio Emergencial</dc:subject>
+    
+      <dc:subject>#Coronavirus</dc:subject>
+    
+      <dc:subject>#CoronavirusNoBrasil</dc:subject>
+    
+    <dc:date>2020-04-30T19:25:59Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

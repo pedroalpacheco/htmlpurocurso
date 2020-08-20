@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes/atom.xml" type="application/atom+xml" />
+  <title type="html">Militares promovem desinfecção de abrigos de imigrantes e áreas de ocupação</title>
+  <subtitle>Operação Acolhida criou um plano emergencial para prevenir e conter a propagação do vírus nesses espaços</subtitle>
+  <updated>2020-04-29T18:10:30-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes/"/>
+  <id>urn:syndication:cb85a1d1e7bb47d2b5ea2be981169bc9</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Operação Acolhida realiza desinfectação de abrigos de imigrantes</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes/article.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes/article.jpg/@@download/image/article.jpg" length="240279" type="image/jpeg" />
+      <id>urn:syndication:d697e8c9825b41a3875b6f19a145da79</id>
+      <summary>Desinfecção é feita por militares da Força-Tarefa Logística Humanitária.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes/article.jpg/@@images/image" title="Operação Acolhida realiza desinfectação de abrigos de imigrantes" alt="Operação Acolhida realiza desinfectação de abrigos de imigrantes" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Exército Brasileiro</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes/article.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/operacao-acolhida-realiza-desinfectacao-de-abrigos-de-imigrantes/article.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-04-29T17:46:02-03:00</published>
+
+      <updated>2020-04-29T17:46:02-03:00</updated>
+
+      
+        <category term="#Coronavirus"/>
+      
+        <category term="#CoronavirusNoBrasil"/>
+      
+
+    </entry>
+
+  
+
+</feed>

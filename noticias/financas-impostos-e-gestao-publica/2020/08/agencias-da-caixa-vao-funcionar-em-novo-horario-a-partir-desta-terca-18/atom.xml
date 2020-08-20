@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18/atom.xml" type="application/atom+xml" />
+  <title type="html">Agências da Caixa vão funcionar em novo horário a partir desta terça (18)</title>
+  <subtitle>Banco também orienta os clientes a acessarem os serviços por meio dos canais digitais</subtitle>
+  <updated>2020-08-17T17:43:04-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18/"/>
+  <id>urn:syndication:6d19877061ac4aa78a64bdb24b8de18b</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Agências da Caixa funcionarão em novo horário</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18/1586823035944.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18/1586823035944.jpg/@@download/image/1586823035944.jpg" length="78286" type="image/jpeg" />
+      <id>urn:syndication:c77b1b059ff84206a0b333cd646cb4de</id>
+      <summary>Caixa Econômica Federal orienta os clientes a acessarem os serviço do banco por meio dos canais digitais. Agências prestarão apenas os serviços essenciais.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18/1586823035944.jpg/@@images/image" title="Agências da Caixa funcionarão em novo horário" alt="Agências da Caixa funcionarão em novo horário" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18/1586823035944.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/agencias-da-caixa-vao-funcionar-em-novo-horario-a-partir-desta-terca-18/1586823035944.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-17T16:41:49-03:00</published>
+
+      <updated>2020-08-17T16:41:49-03:00</updated>
+
+      
+        <category term="Caixa Econômica Federal"/>
+      
+        <category term="#banco"/>
+      
+        <category term="Agência"/>
+      
+        <category term="FGTS"/>
+      
+        <category term="Auxílio Emergencial"/>
+      
+
+    </entry>
+
+  
+
+</feed>

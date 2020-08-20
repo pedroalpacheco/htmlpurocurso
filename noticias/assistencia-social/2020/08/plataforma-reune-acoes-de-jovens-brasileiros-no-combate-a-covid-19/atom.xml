@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/atom.xml" type="application/atom+xml" />
+  <title type="html">Plataforma reúne ações de jovens brasileiros no combate à Covid-19</title>
+  <subtitle>Ferramenta busca reunir esforços para solucionar problemas e estimular a colaboração no combate à pandemia</subtitle>
+  <updated>2020-08-13T18:03:51-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/"/>
+  <id>urn:syndication:77d05009578a48f69f936ecefa33977b</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Plataforma divulga ações e organizações promovidas por jovens que buscam diminuir efeitos da pandemia</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/@@download/image/unnamed.png" length="1337918" type="image/png" />
+      <id>urn:syndication:42ad61fc5576495ba3c15f314287325d</id>
+      <summary>Iniciativa do Conselho Nacional da Juventude, plataforma "Juventudes contra o Corona" reunirá ações e organizações que são promovidas por jovens e buscam minimizar os impactos da pandemia.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/@@images/image" title="Plataforma divulga ações e organizações promovidas por jovens que buscam diminuir efeitos da pandemia" alt="Plataforma divulga ações e organizações promovidas por jovens que buscam diminuir efeitos da pandemia" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Divulgação / Juventudes Contra o Corona</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-13T17:03:59-03:00</published>
+
+      <updated>2020-08-13T17:03:59-03:00</updated>
+
+      
+        <category term="MMFDH"/>
+      
+        <category term="#Covid-19"/>
+      
+        <category term="Juventude"/>
+      
+        <category term="Conjuve"/>
+      
+        <category term="#JuventudesContraOCorona"/>
+      
+
+    </entry>
+
+  
+
+</feed>

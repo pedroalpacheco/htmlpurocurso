@@ -1,0 +1,3169 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/wnobre" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias/RSS" title="Últimas Notícias - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias/rss.xml" title="Últimas Notícias - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias/atom.xml" title="Últimas Notícias - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-financas-impostos-e-gestao-publica subsection-financas-impostos-e-gestao-publica-ultimas-noticias userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica">Economia e Gestão Pública</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">23/05/2018 10h24</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">22/08/2019 16h16</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/consulta-a-lote-residual-do-imposto-de-renda-ja-esta-disponivel">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/consulta-a-lote-residual-do-imposto-de-renda-ja-esta-disponivel/1079880-01-02-2017_mcajr-12-4.jpg/@@images/36225c92-5574-44c7-a7ba-67210539b030.jpeg" alt="Consulta a lote residual do Imposto de Renda já está disponível" title="Consulta a lote residual do Imposto de Renda já está disponível" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">IRPF</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/consulta-a-lote-residual-do-imposto-de-renda-ja-esta-disponivel" title="collective.nitf.content">Consulta a lote residual do Imposto de Renda já está disponível</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Contribuintes vão receber mais de R$ 667 milhões referentes aos exercícios entre 2008 e 2018</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Imposto de Renda" class="link-category" rel="nofollow tag">Imposto de Renda</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=IRPF" class="link-category" rel="nofollow tag">IRPF</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Contribuinte" class="link-category" rel="nofollow tag">Contribuinte</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Lote" class="link-category" rel="nofollow tag">Lote</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Consulta" class="link-category" rel="nofollow tag">Consulta</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h09
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-bicicletas-no-pais-aumenta-15-9-em-2018">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-bicicletas-no-pais-aumenta-15-9-em-2018/dfg9ox4x0aep5xb.jpg/@@images/4514c731-517e-48b3-b1bc-3dec301f00c7.jpeg" alt="Produção de bicicletas cresce 15,9% em 2018" title="Produção de bicicletas cresce 15,9% em 2018" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Indústria</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-bicicletas-no-pais-aumenta-15-9-em-2018" title="collective.nitf.content">Produção de bicicletas no País aumenta 15,9% em 2018</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Depois de quatro anos de queda, a produção se recuperou e chegou a 773.641 unidades no Polo Industrial de Manaus</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Produção de bicicletas" class="link-category" rel="nofollow tag">Produção de bicicletas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Manaus" class="link-category" rel="nofollow tag">Manaus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=indústria" class="link-category" rel="nofollow tag">indústria</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/valor-medio-da-gasolina-nos-postos-caiu-6-em-dois-meses">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/valor-medio-da-gasolina-nos-postos-caiu-6-em-dois-meses/42475780391_7cc102378b_k.jpg/@@images/6fd451d0-612a-4ee9-9b45-e637b168b7fb.jpeg" alt="Valor médio da gasolina nos postos caiu 6% em dois meses" title="Valor médio da gasolina nos postos caiu 6% em dois meses" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combustível</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/valor-medio-da-gasolina-nos-postos-caiu-6-em-dois-meses" title="collective.nitf.content">Valor médio da gasolina nos postos caiu 6% em dois meses</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Entre novembro de 2018 e janeiro de 2019, preço médio do litro passou de R$ 4,59 para R$ 4,31. Etanol também acompanhou a tendência de queda</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Gasolina" class="link-category" rel="nofollow tag">Gasolina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Diesel" class="link-category" rel="nofollow tag">Diesel</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Preço" class="link-category" rel="nofollow tag">Preço</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Postos" class="link-category" rel="nofollow tag">Postos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/mercado-eleva-previsao-de-crescimento-do-pib-brasileiro-para-2019">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/mercado-eleva-previsao-de-crescimento-do-pib-brasileiro-para-2019/mercado-eleva-previsao-de-crescimento-da-economia-brasileira.jpg/@@images/8c6a10ec-fd57-41d4-af33-9d283c31b51b.jpeg" alt="Mercado eleva previsão de crescimento da economia brasileira" title="Mercado eleva previsão de crescimento da economia brasileira" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Boletim Focus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/mercado-eleva-previsao-de-crescimento-do-pib-brasileiro-para-2019" title="collective.nitf.content">Mercado eleva previsão de crescimento do PIB brasileiro para 2019</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Analistas também estimam que inflação deve ficar abaixo do centro da meta neste ano</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Focus " class="link-category" rel="nofollow tag">Focus </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inflação 2019" class="link-category" rel="nofollow tag">Inflação 2019</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PIB 2019" class="link-category" rel="nofollow tag">PIB 2019</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Banco Central" class="link-category" rel="nofollow tag">Banco Central</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h28
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/conselho-da-embraer-ratifica-acordo-com-norte-americana-boeing">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/conselho-da-embraer-ratifica-acordo-com-norte-americana-boeing/acordo-embraer-1.jpg/@@images/57cb55bd-6251-4dff-b7f3-f1701f70eb7c.jpeg" alt="CONSELHO EMBRAER" title="CONSELHO EMBRAER" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Aviação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/conselho-da-embraer-ratifica-acordo-com-norte-americana-boeing" title="collective.nitf.content">Conselho da Embraer ratifica acordo com norte-americana Boeing</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Nessa semana, governo brasileiro autorizou continuidade das negociações de fusão entre as empresas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Embraer" class="link-category" rel="nofollow tag">Embraer</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Boeing" class="link-category" rel="nofollow tag">Boeing</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h48
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/ano-comeca-com-bolsa-em-disparada-e-dolar-em-queda">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/ano-comeca-com-bolsa-em-disparada-e-dolar-em-queda/1101839-rvrsa_abr121520176673_1.jpg/@@images/a45aa4f6-d610-48d8-87f9-1a5678268011.jpeg" alt="Ano começa com bolsa em disparada e dólar em queda" title="Ano começa com bolsa em disparada e dólar em queda" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Confiança</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/ano-comeca-com-bolsa-em-disparada-e-dolar-em-queda" title="collective.nitf.content">Ano começa com bolsa em disparada e dólar em queda</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Enquanto o iBovespa bate recordes seguidos, o real se fortalece em cima da moeda norte-americana</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=cotação dólar" class="link-category" rel="nofollow tag">cotação dólar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibovespa" class="link-category" rel="nofollow tag">Ibovespa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=mercado financeiro" class="link-category" rel="nofollow tag">mercado financeiro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h27
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/inflacao-fecha-2018-em-3-75-e-fica-abaixo-do-centro-da-meta-fixada-pelo-governo">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/inflacao-fecha-2018-em-3-75-e-fica-abaixo-do-centro-da-meta-fixada-pelo-governo/1085356-df_img_2550.jpg/@@images/a26f616d-4399-45fb-aec8-e7a5d14b5486.jpeg" alt="Inflação de dezembro fica em 0,15%, melhor resultado desde o Plano Real" title="Inflação de dezembro fica em 0,15%, melhor resultado desde o Plano Real" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">IPCA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/inflacao-fecha-2018-em-3-75-e-fica-abaixo-do-centro-da-meta-fixada-pelo-governo" title="collective.nitf.content">Inflação fecha 2018 em 3,75% e fica abaixo do centro da meta fixada pelo governo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Índice Nacional de Preços ao Consumidor Amplo de dezembro ficou em 0,15%, a menor variação desde o Plano Real</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inflação" class="link-category" rel="nofollow tag">Inflação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=IPCA" class="link-category" rel="nofollow tag">IPCA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=INPC" class="link-category" rel="nofollow tag">INPC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Dezembro" class="link-category" rel="nofollow tag">Dezembro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/medo-do-desemprego-cai-e-brasileiros-estao-mais-confiantes-diz-cni">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/medo-do-desemprego-cai-e-brasileiros-estao-mais-confiantes-diz-cni/dividas.jpg/@@images/60160b5c-ebd2-434f-80f2-28c44a29a3fc.jpeg" alt="emprego" title="emprego" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Mercado de trabalho</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/medo-do-desemprego-cai-e-brasileiros-estao-mais-confiantes-diz-cni" title="collective.nitf.content">"Medo do desemprego cai e brasileiros estão mais confiantes", diz CNI</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo a pesquisa divulgada nesta quinta-feira (10), resultado positivo reflete o otimismo e a confiança da população no novo governo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CNI" class="link-category" rel="nofollow tag">CNI</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desemprego" class="link-category" rel="nofollow tag">Desemprego</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/safra-de-graos-deve-ser-3-1-superior-a-2018-estima-ibge">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/safra-de-graos-deve-ser-3-1-superior-a-2018-estima-ibge/graos.jpg/@@images/a633454e-e6ca-40fc-b847-3e71799b7c95.jpeg" alt="safra de grãos" title="safra de grãos" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Produção agrícola</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/safra-de-graos-deve-ser-3-1-superior-a-2018-estima-ibge" title="collective.nitf.content">Safra de grãos deve ser 3,1% superior a 2018, estima IBGE</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Levantamento do órgão aponta para uma produção total de 233,5 milhões de toneladas de grãos em 2019</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=safra de grãos" class="link-category" rel="nofollow tag">safra de grãos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Instituto Brasileiro de Geografia e Estatística" class="link-category" rel="nofollow tag">Instituto Brasileiro de Geografia e Estatística</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=IBGE" class="link-category" rel="nofollow tag">IBGE</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=" class="link-category" rel="nofollow tag"></a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h48
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/bolsa-de-valores-fecha-em-alta-e-supera-marca-historica">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/bolsa-de-valores-fecha-em-alta-e-supera-marca-historica/42572370_10156327756285860_2010153958496010240_n.jpg/@@images/e749d033-776a-4e13-aae1-0c9b577e32ad.jpeg" alt="Bolsa bate novo recorde e fecha a 93.613 pontos" title="Bolsa bate novo recorde e fecha a 93.613 pontos" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Mercado financeiro</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/bolsa-de-valores-fecha-em-alta-e-supera-marca-historica" title="collective.nitf.content">Bolsa de Valores fecha em alta e supera marca histórica</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Dólar manteve trajetória de queda; expectativas sobre reforma da Previdência e preço do petróleo influenciaram o resultado</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibovespa" class="link-category" rel="nofollow tag">Ibovespa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=B3" class="link-category" rel="nofollow tag">B3</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=cotação do dólar" class="link-category" rel="nofollow tag">cotação do dólar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Jair Bolsonaro" class="link-category" rel="nofollow tag">Jair Bolsonaro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/bolsa-bate-novo-recorde-e-dolar-cai-frente-ao-real">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/bolsa-bate-novo-recorde-e-dolar-cai-frente-ao-real/15062012dolares_fotomarcossantos004.jpg/@@images/c2f86cd4-c5b1-446f-9296-53ed01f6b728.jpeg" alt="Bolsa bate novo recorde e dólar cai frente ao real" title="Bolsa bate novo recorde e dólar cai frente ao real" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Mercado financeiro</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/bolsa-bate-novo-recorde-e-dolar-cai-frente-ao-real" title="collective.nitf.content">Bolsa bate novo recorde e dólar cai frente ao real</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Investidores se mostram mais confiantes no Brasil e principal indicador do mercado de ações dispara</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibovespa" class="link-category" rel="nofollow tag">Ibovespa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=cotação dólar" class="link-category" rel="nofollow tag">cotação dólar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Jair Bolsonaro" class="link-category" rel="nofollow tag">Jair Bolsonaro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h44
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-maquinas-agricolas-chega-ao-maior-nivel-em-quatro-anos-diz-anfavea">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-maquinas-agricolas-chega-ao-maior-nivel-em-quatro-anos-diz-anfavea/trator.jpg/@@images/060e37fd-fb34-4f77-94e5-c685c32c0316.jpeg" alt="trator" title="trator" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Setor automotivo</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-maquinas-agricolas-chega-ao-maior-nivel-em-quatro-anos-diz-anfavea" title="collective.nitf.content">"Produção de máquinas agrícolas chega ao maior nível em quatro anos", diz Anfavea</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Crescimento do segmento acompanha aumento da produção total de veículos no País, que também atingiu melhor índice desde 2014</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Anfavea" class="link-category" rel="nofollow tag">Anfavea</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=carros" class="link-category" rel="nofollow tag">carros</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=veículos" class="link-category" rel="nofollow tag">veículos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/investimento-em-empresas-medias-sera-foco-do-bndes-afirma-joaquim-levy">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/investimento-em-empresas-medias-sera-foco-do-bndes-afirma-joaquim-levy/bndes.jpg/@@images/b64b76dd-0ed7-4684-9972-c1d00a3dfd6a.jpeg" alt="Investimento em empresas médias será foco do BNDES" title="Investimento em empresas médias será foco do BNDES" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">incentivo econômico</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/investimento-em-empresas-medias-sera-foco-do-bndes-afirma-joaquim-levy" title="collective.nitf.content">"Investimento em empresas médias será foco do BNDES", afirma Joaquim Levy</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Novo presidente destacou que o banco vai priorizar empresas com faturamento de até R$ 300 mil por ano</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=bndes" class="link-category" rel="nofollow tag">bndes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=investimento " class="link-category" rel="nofollow tag">investimento </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=financiamento" class="link-category" rel="nofollow tag">financiamento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h36
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-veiculos-aumenta-6-7-em-2018-aponta-anfavea">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-veiculos-aumenta-6-7-em-2018-aponta-anfavea/carro_ebc.jpg/@@images/9ddf3ed4-ea54-4625-bb30-ea49fcb9e554.jpeg" alt="Produção de veículos teve aumento de 6,7% em 2018, aponta Anfavea" title="Produção de veículos teve aumento de 6,7% em 2018, aponta Anfavea" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Setor Automotivo</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/producao-de-veiculos-aumenta-6-7-em-2018-aponta-anfavea" title="collective.nitf.content">Produção de veículos aumenta 6,7% em 2018, aponta Anfavea</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Pelo menos 2,566 milhões de veículos foram licenciados no País no ano passado</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Produção de veículos" class="link-category" rel="nofollow tag">Produção de veículos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Emplacamento de veículos" class="link-category" rel="nofollow tag">Emplacamento de veículos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Setor automotivo" class="link-category" rel="nofollow tag">Setor automotivo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Anfavea" class="link-category" rel="nofollow tag">Anfavea</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h21
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/regioes-agricolas-brasileiras-puxam-crescimento-do-pib">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/regioes-agricolas-brasileiras-puxam-crescimento-do-pib/42147608731_00d6de7a34_k.jpg/@@images/da078481-5bc9-4dda-b880-c4f74560d8fe.jpeg" alt="Confira as taxas de crescimento dos maiores municípios do agronegócio" title="Confira as taxas de crescimento dos maiores municípios do agronegócio" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Levantamento</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/regioes-agricolas-brasileiras-puxam-crescimento-do-pib" title="collective.nitf.content">Regiões agrícolas brasileiras puxam crescimento do PIB</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Confira as taxas de crescimento dos maiores municípios do agronegócio</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agronegócio" class="link-category" rel="nofollow tag">Agronegócio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Municípios" class="link-category" rel="nofollow tag">Municípios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Levantamento" class="link-category" rel="nofollow tag">Levantamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Produção" class="link-category" rel="nofollow tag">Produção</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h55
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/presidentes-de-tres-bancos-publicos-sao-empossados-em-brasilia">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/presidentes-de-tres-bancos-publicos-sao-empossados-em-brasilia/45732872315_daa753cce1_k.jpg/@@images/76ec2394-2e26-45bc-92b3-e3d20cd7c273.jpeg" alt="Governo nomeia presidentes dos três maiores bancos públicos" title="Governo nomeia presidentes dos três maiores bancos públicos" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">BB, Caixa e BNDES</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/presidentes-de-tres-bancos-publicos-sao-empossados-em-brasilia" title="collective.nitf.content">Presidentes de três bancos públicos são empossados em Brasília</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Novos chefes das instituições financeiras têm a missão de reduzir distorções e equilibrar os juros cobrados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=BNDES" class="link-category" rel="nofollow tag">BNDES</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Banco do Brasil" class="link-category" rel="nofollow tag">Banco do Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caixa Econômica" class="link-category" rel="nofollow tag">Caixa Econômica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Paulo Guedes" class="link-category" rel="nofollow tag">Paulo Guedes</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/preco-da-gasolina-nas-refinarias-cai-pelo-segundo-dia-seguido">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/preco-da-gasolina-nas-refinarias-cai-pelo-segundo-dia-seguido/42475780391_7cc102378b_k.jpg/@@images/2301a594-11c8-4fc4-90ca-0d719a89ab9e.jpeg" alt="Preço da gasolina nas refinarias cai pelo segundo dia seguido" title="Preço da gasolina nas refinarias cai pelo segundo dia seguido" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combustível</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/preco-da-gasolina-nas-refinarias-cai-pelo-segundo-dia-seguido" title="collective.nitf.content">Preço da gasolina nas refinarias cai pelo segundo dia seguido</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Em menos de dez dias, valor teve queda de mais de R$ 0,10 e chegou a R$ 1,45. Litro do diesel segue estável a R$ 1,85</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h47
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/primeiro-dia-de-governo-leva-ibovespa-a-maxima-historica">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/primeiro-dia-de-governo-leva-ibovespa-a-maxima-historica/paulo-guedes.jpg/@@images/d931ce4e-d6a9-45af-83de-666b452cebc4.jpeg" alt="ibovespa" title="ibovespa" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Ânimo</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/primeiro-dia-de-governo-leva-ibovespa-a-maxima-historica" title="collective.nitf.content">Primeiro dia de governo leva Ibovespa à máxima histórica</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Declarações de apoio ao controle de gastos e agenda de privatizações fizeram Ibovespa ultrapassar os 91 mil pontos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Paulo Guedes" class="link-category" rel="nofollow tag">Paulo Guedes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibovespa" class="link-category" rel="nofollow tag">Ibovespa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Jair Bolsonaro" class="link-category" rel="nofollow tag">Jair Bolsonaro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Previdência" class="link-category" rel="nofollow tag">Previdência</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h26
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/resultado-da-balanca-comercial-e-o-melhor-dos-ultimos-40-anos">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/resultado-da-balanca-comercial-e-o-melhor-dos-ultimos-40-anos/porto_.jpg/@@images/d7498f6b-bb4f-4cae-a718-0ab999d16041.jpeg" alt="Corrente de comércio tem segundo melhor resultado em 40 anos" title="Corrente de comércio tem segundo melhor resultado em 40 anos" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Recuperação econômica</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/resultado-da-balanca-comercial-e-o-melhor-dos-ultimos-40-anos" title="collective.nitf.content">Resultado da balança comercial é o segundo melhor em 40 anos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Valor das exportações do País foi o mais elevado dos últimos cinco anos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=corrente de comércio" class="link-category" rel="nofollow tag">corrente de comércio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=exportações" class="link-category" rel="nofollow tag">exportações</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=importações" class="link-category" rel="nofollow tag">importações</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        08h51
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/02/saiba-quais-documentos-reunir-para-fazer-a-declaracao-do-irpf">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/02/saiba-quais-documentos-reunir-para-fazer-a-declaracao-do-irpf/ir_agenciabrasil.jpg/@@images/045d6247-4a8c-4b17-aa4a-bc2aa499f40d.jpeg" alt="Imposto de Renda: saiba quais documentos reunir antes de fazer a declaração" title="Imposto de Renda: saiba quais documentos reunir antes de fazer a declaração" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Imposto de Renda 2019</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/02/saiba-quais-documentos-reunir-para-fazer-a-declaracao-do-irpf" title="collective.nitf.content">Saiba quais documentos reunir para fazer a declaração do IRPF</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Comprovantes do que for declarado devem ser guardados pelo prazo de cinco anos. Neste ano, será necessário declarar todos os CPFs de dependentes, inclusive de recém-nascido</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Imposto de Renda" class="link-category" rel="nofollow tag">Imposto de Renda</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Receita Federal" class="link-category" rel="nofollow tag">Receita Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=IRPF" class="link-category" rel="nofollow tag">IRPF</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h07
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/02/reforma-da-previdencia-reduz-desigualdades-e-impulsiona-a-economia-diz-paulo-guedes">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/02/reforma-da-previdencia-reduz-desigualdades-e-impulsiona-a-economia-diz-paulo-guedes/paulo-guedes.jpg/@@images/dc8f9b2a-5d9e-42dd-8749-4922b0773938.jpeg" alt="paulo guedes" title="paulo guedes" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Aposentadoria</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/02/reforma-da-previdencia-reduz-desigualdades-e-impulsiona-a-economia-diz-paulo-guedes" title="collective.nitf.content">Reforma da Previdência reduz desigualdades e impulsiona a economia, diz Paulo Guedes</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministro defende alteração das regras atuais e afirma que reforma é essencial para equilibrar as contas públicas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Paulo Guedes" class="link-category" rel="nofollow tag">Paulo Guedes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rodrigo Maia" class="link-category" rel="nofollow tag">Rodrigo Maia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Previdência" class="link-category" rel="nofollow tag">Previdência</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h39
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/calendario-de-pagamento-do-dpvat-ja-esta-disponivel-para-consulta">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/calendario-de-pagamento-do-dpvat-ja-esta-disponivel-para-consulta/45910986012_2bd6d1b116_h.jpg/@@images/369efe85-8af2-4ce6-a830-3ab22d45d174.jpeg" alt="Saiba como consultar o calendário de pagamento do DPVAT" title="Saiba como consultar o calendário de pagamento do DPVAT" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Veículos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2019/01/calendario-de-pagamento-do-dpvat-ja-esta-disponivel-para-consulta" title="collective.nitf.content">Calendário de pagamento do DPVAT já está disponível para consulta</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Proprietários de veículos podem acessar as informações no site da Seguradora Líder, responsável pela administração do seguro no País</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Seguro DPVAT" class="link-category" rel="nofollow tag">Seguro DPVAT</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Automóveis" class="link-category" rel="nofollow tag">Automóveis</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pagamento" class="link-category" rel="nofollow tag">Pagamento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h12
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=600">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=0">1</a>
+            </li>
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=540">19</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=570">20</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=600">21</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>22</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        
+        <!-- Link to last -->
+        
+        
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

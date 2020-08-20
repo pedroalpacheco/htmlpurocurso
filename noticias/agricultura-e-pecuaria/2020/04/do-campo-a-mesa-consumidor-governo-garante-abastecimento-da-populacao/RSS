@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/RSS">
+  <title>Do campo à mesa consumidor: governo garante abastecimento da população</title>
+  <link>https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao</link>
+  <description>Ministra Tereza Cristina Promovidas falou sobre as ações do governo para garantir o abastecimento de alimentos para a população</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/view">
+    <title>Do campo à mesa consumidor: governo garante abastecimento da população</title>
+    <link>https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/view</link>
+    <description>Ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina fala sobre as ações para garantir o abastecimento de alimentos no País</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/@@images/image" title="Do campo à mesa consumidor: governo garante abastecimento da população" alt="Do campo à mesa consumidor: governo garante abastecimento da população" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Carlos Silva /Mapa</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Carlos Silva /Mapa</dc:rights>
+    
+      <dc:subject>Novo Coronavírus</dc:subject>
+    
+      <dc:subject>#Covid-19</dc:subject>
+    
+      <dc:subject>#CoronavirusNoBrasil</dc:subject>
+    
+      <dc:subject>Agricultura</dc:subject>
+    
+      <dc:subject>Ministério da Agricultura, Pecuária e Abastecimento</dc:subject>
+    
+    <dc:date>2020-04-29T21:17:16Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

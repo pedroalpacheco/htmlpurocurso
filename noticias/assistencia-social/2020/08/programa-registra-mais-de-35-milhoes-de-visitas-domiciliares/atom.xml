@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/atom.xml" type="application/atom+xml" />
+  <title type="html">Programa registra mais de 35 milhões de visitas domiciliares</title>
+  <subtitle>As visitas visam estimular o desenvolvimento infantil cognitivo, linguístico, motor, socioemocional e também intensificar o vinculo familiar</subtitle>
+  <updated>2020-08-11T16:15:22-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/"/>
+  <id>urn:syndication:94c60b42ba9c4557bf7f775db7564055</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Criança Feliz: Mais de 35 milhões de visitas foram registradas pelo programa</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/@@download/image/0702.jpg" length="147389" type="image/jpeg" />
+      <id>urn:syndication:721d85e8d3864ca895ab5907cc90c6ca</id>
+      <summary>884 mil crianças e 184 mil gestantes recebem atendimento semanal pelo programa</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/@@images/image" title="Criança Feliz: Mais de 35 milhões de visitas foram registradas pelo programa" alt="Criança Feliz: Mais de 35 milhões de visitas foram registradas pelo programa" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Divulgação/Ministério da Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-11T14:18:26-03:00</published>
+
+      <updated>2020-08-11T14:18:26-03:00</updated>
+
+      
+        <category term="Família"/>
+      
+        <category term="Criança Feliz"/>
+      
+        <category term="Cidadania"/>
+      
+
+    </entry>
+
+  
+
+</feed>

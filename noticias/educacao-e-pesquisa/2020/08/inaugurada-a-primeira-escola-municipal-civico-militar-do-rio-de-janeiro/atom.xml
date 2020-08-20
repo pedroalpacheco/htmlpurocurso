@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro/atom.xml" type="application/atom+xml" />
+  <title type="html">Inaugurada a primeira escola municipal cívico-militar do Rio de Janeiro</title>
+  <subtitle>Localizada na zona norte da cidade, colégio deverá receber mais de 500 alunos</subtitle>
+  <updated>2020-08-14T13:46:43-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro/"/>
+  <id>urn:syndication:481f0a3d10364143bf768fb3d0d4f52c</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Inaugurada a primeira escola municipal cívico-militar do Rio de Janeiro</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro/whatsapp-image-2020-08-14-at-09-24-14.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro/whatsapp-image-2020-08-14-at-09-24-14.jpeg/@@download/image/WhatsApp Image 2020-08-14 at 09.24.14.jpeg" length="295334" type="image/jpeg" />
+      <id>urn:syndication:16f7072de89c4016b2e60bce2e954659</id>
+      <summary>Serão cerca de 560 alunos divididos em 16 turmas com 35 estudantes cada</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro/whatsapp-image-2020-08-14-at-09-24-14.jpeg/@@images/image" title="Inaugurada a primeira escola municipal cívico-militar do Rio de Janeiro" alt="Inaugurada a primeira escola municipal cívico-militar do Rio de Janeiro" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>PR</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro/whatsapp-image-2020-08-14-at-09-24-14.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/inaugurada-a-primeira-escola-municipal-civico-militar-do-rio-de-janeiro/whatsapp-image-2020-08-14-at-09-24-14.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-14T12:25:26-03:00</published>
+
+      <updated>2020-08-14T12:25:26-03:00</updated>
+
+      
+        <category term="Escola Cívico-Militar"/>
+      
+        <category term="Educação"/>
+      
+        <category term="Governo do Brasil"/>
+      
+
+    </entry>
+
+  
+
+</feed>

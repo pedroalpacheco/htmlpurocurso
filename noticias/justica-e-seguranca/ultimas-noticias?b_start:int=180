@@ -1,0 +1,3759 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Segurança &amp; Justiça — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/wnobre" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias/RSS" title="Últimas Notícias - Segurança &amp; Justiça - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias/rss.xml" title="Últimas Notícias - Segurança &amp; Justiça - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias/atom.xml" title="Últimas Notícias - Segurança &amp; Justiça - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-justica-e-seguranca subsection-justica-e-seguranca-ultimas-noticias userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca">Justiça e Segurança</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Segurança &amp; Justiça</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Segurança &amp; Justiça</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">18/05/2018 18h54</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">16/10/2018 11h29</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/operacao-acolhida-leva-dignidade-a-venezuelanos-refugiados">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/operacao-acolhida-leva-dignidade-a-venezuelanos-refugiados/20_12_2019-grande-inter1.jpg/@@images/0da07ed8-2c7c-4d00-a179-8cede6bba469.jpeg" alt="Operação Acolhida leva dignidade a venezuelanos refugiados" title="Operação Acolhida leva dignidade a venezuelanos refugiados" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Assistência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/operacao-acolhida-leva-dignidade-a-venezuelanos-refugiados" title="collective.nitf.content">Operação Acolhida leva dignidade a venezuelanos refugiados</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Iniciativa visa organizar a chegada e interiorização de venezuelanos que chegam pela fronteira de Pacaraima, no estado de Roraima</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação acolhida" class="link-category" rel="nofollow tag">Operação acolhida</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Defesa" class="link-category" rel="nofollow tag">Defesa</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h06
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/estabelecimento-tem-que-trocar-mercadoria-com-defeito">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/estabelecimento-tem-que-trocar-mercadoria-com-defeito/compras_natal_dsc_0270.jpg/@@images/290afbcc-b711-4a05-9c98-03b26fd95d63.jpeg" alt="Estabelecimento tem que trocar mercadoria com defeito" title="Estabelecimento tem que trocar mercadoria com defeito" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Consumidor</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/estabelecimento-tem-que-trocar-mercadoria-com-defeito" title="collective.nitf.content">Estabelecimento tem que trocar mercadoria com defeito</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Saiba o que é necessário para trocar um presente</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Consumidor" class="link-category" rel="nofollow tag">Consumidor</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Presente de Natal" class="link-category" rel="nofollow tag">Presente de Natal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estabelecimento comercial" class="link-category" rel="nofollow tag">Estabelecimento comercial</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h14
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/portaria-interministerial-facilita-acolhida-humanitaria-a-haitianos">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/portaria-interministerial-facilita-acolhida-humanitaria-a-haitianos/agenciabrasil131112_mca9296.jpg/@@images/0e090047-6818-4967-8206-12b342495932.jpeg" alt="Portaria interministerial facilita acolhida humanitária a haitianos" title="Portaria interministerial facilita acolhida humanitária a haitianos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Acolhida humanitária</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/portaria-interministerial-facilita-acolhida-humanitaria-a-haitianos" title="collective.nitf.content">Portaria interministerial facilita acolhida humanitária a haitianos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Nova regra reduz burocracia, prazos e documentos exigidos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Portaria" class="link-category" rel="nofollow tag">Portaria</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Interministerial" class="link-category" rel="nofollow tag">Interministerial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Acolhida humanitária" class="link-category" rel="nofollow tag">Acolhida humanitária</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        23/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h03
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/prf-lanca-operacao-rodovida-2019">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/prf-lanca-operacao-rodovida-2019/prf.jpeg/@@images/1537d47b-cc96-4748-bf85-973c41e1afbf.jpeg" alt="PRF lança Operação Rodovida 2019" title="PRF lança Operação Rodovida 2019" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Rodovia</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/prf-lanca-operacao-rodovida-2019" title="collective.nitf.content">PRF lança Operação Rodovida 2019</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">População é parte fundamental para evitar acidentes</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação Rodovida" class="link-category" rel="nofollow tag">Operação Rodovida</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Polícia Rodoviária Federal" class="link-category" rel="nofollow tag">Polícia Rodoviária Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rodovias" class="link-category" rel="nofollow tag">Rodovias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fiscalização" class="link-category" rel="nofollow tag">Fiscalização</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança" class="link-category" rel="nofollow tag">Segurança</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h32
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/pacto-nacional-de-escuta-especializada-cria-modelo-para-facilitar-assistencia-a-criancas-e-adolescentes-agredidos">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/pacto-nacional-de-escuta-especializada-cria-modelo-para-facilitar-assistencia-a-criancas-e-adolescentes-agredidos/2511090910ef1.jpg/@@images/3ea8a833-7b7e-4098-b897-65a82a42ed65.jpeg" alt="Pacto Nacional de escuta especializada cria modelo para facilitar assistência a crianças e adolescentes agredidos" title="Pacto Nacional de escuta especializada cria modelo para facilitar assistência a crianças e adolescentes agredidos" height="87" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Assistência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/pacto-nacional-de-escuta-especializada-cria-modelo-para-facilitar-assistencia-a-criancas-e-adolescentes-agredidos" title="collective.nitf.content">Pacto Nacional de escuta especializada cria modelo para facilitar assistência a crianças e adolescentes agredidos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Novo fluxo orienta atendimento a menores vítimas de violência</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pacto Nacional" class="link-category" rel="nofollow tag">Pacto Nacional</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h40
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/primeiro-centro-integrado-de-operacoes-de-fronteira-e-inaugurado">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/primeiro-centro-integrado-de-operacoes-de-fronteira-e-inaugurado/foto-inauguracao-centro-integrado-de-operacoes-de-fronteira-2.jpeg/@@images/048510d7-cea1-4fbf-81e2-6344c88f0acd.jpeg" alt="Primeiro Centro Integrado de Operações de Fronteira é inaugurado" title="Primeiro Centro Integrado de Operações de Fronteira é inaugurado" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/primeiro-centro-integrado-de-operacoes-de-fronteira-e-inaugurado" title="collective.nitf.content">Primeiro Centro Integrado de Operações de Fronteira é inaugurado em Foz do Iguaçu</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Centro funciona como força-tarefa permanente e conta com bancos de dados e tecnologia</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Centro Integrado de Operações de Fronteira" class="link-category" rel="nofollow tag">Centro Integrado de Operações de Fronteira</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Foz do Iguaçu" class="link-category" rel="nofollow tag">Foz do Iguaçu</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Parque Tecnológico de Itaipu Binacional" class="link-category" rel="nofollow tag">Parque Tecnológico de Itaipu Binacional</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h33
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/centro-de-inteligencia-de-seguranca-publica-regional-norte-e-inaugurado-em-manaus-am">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/centro-de-inteligencia-de-seguranca-publica-regional-norte-e-inaugurado-em-manaus-am/ciispr-norte.jpg/@@images/781a57c8-1649-485e-8200-fe206f0fe4ae.jpeg" alt="Ciispr norte.jpg" title="Ciispr norte.jpg" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Região norte</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/centro-de-inteligencia-de-seguranca-publica-regional-norte-e-inaugurado-em-manaus-am" title="collective.nitf.content">Centro de Inteligência de Segurança Pública Regional Norte é inaugurado em Manaus (AM)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Equipe formada por agentes de inteligência dos sete estados da região Norte vai atuar, de forma integrada, aos demais agentes de segurança dos centros de inteligência do País</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Segurança Pública " class="link-category" rel="nofollow tag">#Segurança Pública </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Manaus" class="link-category" rel="nofollow tag">Manaus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Região Norte" class="link-category" rel="nofollow tag">Região Norte</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sérgio Moro" class="link-category" rel="nofollow tag">Sérgio Moro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        16/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h11
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministerio-da-justica-apresenta-balanco-das-acoes-em-2019">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministerio-da-justica-apresenta-balanco-das-acoes-em-2019/isac-amorinmj.jpg/@@images/6bfc7814-ba5f-488f-9e21-ffe91279c914.jpeg" alt="Ministério da Justiça apresenta balanço das ações em 2019" title="Ministério da Justiça apresenta balanço das ações em 2019" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Balanço</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministerio-da-justica-apresenta-balanco-das-acoes-em-2019" title="collective.nitf.content">Ministério da Justiça e Segurança Pública apresenta balanço das ações em 2019</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">“A palavra-chave é a integração”, disse o ministro Sergio Moro durante balanço das ações do ano</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança" class="link-category" rel="nofollow tag">Segurança</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Balanço" class="link-category" rel="nofollow tag">Balanço</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h37
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministro-defende-combate-a-corrupcao-em-tres-frentes">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministro-defende-combate-a-corrupcao-em-tres-frentes/seminario-justica.jpg/@@images/be0dd908-86ee-4a29-b9d3-68e709221c3f.jpeg" alt="Ministro defende combate à corrupção em três frentes" title="Ministro defende combate à corrupção em três frentes" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate Corrupção</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministro-defende-combate-a-corrupcao-em-tres-frentes" title="collective.nitf.content">Ministro defende combate à corrupção em três frentes</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Sergio Moro participou de seminário em Homenagem ao Dia Internacional Contra a Corrupção</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sergio Moro" class="link-category" rel="nofollow tag">Sergio Moro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança" class="link-category" rel="nofollow tag">Segurança</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Corrupção" class="link-category" rel="nofollow tag">Corrupção</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h18
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/conheca-o-sistema-penitenciario-federal">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/conheca-o-sistema-penitenciario-federal/b66f9e5c-3908-4c7a-9719-e6dd147f6937.jpeg/@@images/dfac22cd-c5d3-4c7a-ace7-185bb50a3e69.jpeg" alt="Conheça o Sistema Penitenciário Federal" title="Conheça o Sistema Penitenciário Federal" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/conheca-o-sistema-penitenciario-federal" title="collective.nitf.content">Conheça o Sistema Penitenciário Federal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">As penitenciárias federais contam com monitoramento em tempo real e proibição de entrada de celulares. Nelas, nunca houve motins ou rebeliões</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Depen" class="link-category" rel="nofollow tag">Depen</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sistema Penitenciário Federal" class="link-category" rel="nofollow tag">Sistema Penitenciário Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança Pública" class="link-category" rel="nofollow tag">Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MJSP" class="link-category" rel="nofollow tag">MJSP</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        09h30
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministerio-da-justica-amplia-banco-de-perfis-geneticos-para-reforcar-solucao-de-crimes">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministerio-da-justica-amplia-banco-de-perfis-geneticos-para-reforcar-solucao-de-crimes/vac_edit_051219_81t63054114.jpg/@@images/2aec7f6d-c25e-45af-a100-88523126ff7c.jpeg" alt="Ministério da Justiça amplia banco de perfis genéticos para reforçar solução de crimes" title="Ministério da Justiça amplia banco de perfis genéticos para reforçar solução de crimes" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Tecnologia</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/ministerio-da-justica-amplia-banco-de-perfis-geneticos-para-reforcar-solucao-de-crimes" title="collective.nitf.content">Ministério da Justiça amplia banco de perfis genéticos para reforçar solução de crimes</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Apenas neste ano, foram coletados 67 mil perfils genéticos de criminosos condenados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Banco nacional de perfis genéticos" class="link-category" rel="nofollow tag">Banco nacional de perfis genéticos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MJSP" class="link-category" rel="nofollow tag">MJSP</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=BNPG" class="link-category" rel="nofollow tag">BNPG</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h04
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/forca-nacional-de-seguranca-publica-vai-apoiar-funai-em-terra-indigena-do-amazonas">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/forca-nacional-de-seguranca-publica-vai-apoiar-funai-em-terra-indigena-do-amazonas/forca-nacional.jpg/@@images/ba9fab46-78fc-4036-b750-218b2d1e6115.jpeg" alt="Força Nacional.jpg" title="Força Nacional.jpg" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA PÚBLICA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/forca-nacional-de-seguranca-publica-vai-apoiar-funai-em-terra-indigena-do-amazonas" title="collective.nitf.content">Força Nacional de Segurança Pública vai apoiar Funai em terra indígena do Amazonas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Autorização vale por 180 dias, podendo ser prorrogada</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional" class="link-category" rel="nofollow tag">Força Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Segurança Pública " class="link-category" rel="nofollow tag">#Segurança Pública </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Funai" class="link-category" rel="nofollow tag">Funai</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Amazonas" class="link-category" rel="nofollow tag">Amazonas</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/mutirao-nacional-destroi-mais-de-quatro-mil-toneladas-de-mercadorias-apreendidas">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/mutirao-nacional-destroi-mais-de-quatro-mil-toneladas-de-mercadorias-apreendidas/mutirao-nacional-de-destruicao.jpg/@@images/800ee549-6572-45fe-90e9-71f4de508803.jpeg" alt="Mutirão Nacional de Destruição.jpg" title="Mutirão Nacional de Destruição.jpg" height="60" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">apreensão</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/mutirao-nacional-destroi-mais-de-quatro-mil-toneladas-de-mercadorias-apreendidas" title="collective.nitf.content">Mutirão Nacional destrói mais de quatro mil toneladas de mercadorias apreendidas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Em 62 unidades da Receita Federal, estão sendo destruídos produtos falsificados ou que não atendem às normas de vigilância sanitária e de defesa agropecuária. Maior parte dos resíduos são reciclados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Receita Federal" class="link-category" rel="nofollow tag">Receita Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Apreensão" class="link-category" rel="nofollow tag">Apreensão</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mercadoria apreendida" class="link-category" rel="nofollow tag">Mercadoria apreendida</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h57
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/pf-deflagra-operacao-voo-baixo-contra-o-trafico-de-drogas">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/pf-deflagra-operacao-voo-baixo-contra-o-trafico-de-drogas/operacao-voo-baixo-pf-1.jpeg/@@images/abb91c4d-3b37-4077-a6a7-266de412cbc2.jpeg" alt="operação voo baixo PF 1.jpeg" title="operação voo baixo PF 1.jpeg" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">São Paulo</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/pf-deflagra-operacao-voo-baixo-contra-o-trafico-de-drogas" title="collective.nitf.content">PF deflagra Operação Voo Baixo contra o tráfico de drogas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Foram cumpridos 46 mandados judiciais. Nas ações, foram apreendidas 15 aeronaves</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Polícia Federal" class="link-category" rel="nofollow tag">Polícia Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tráfico de drogas" class="link-category" rel="nofollow tag">Tráfico de drogas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação da PF" class="link-category" rel="nofollow tag">Operação da PF</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da justiça" class="link-category" rel="nofollow tag">Ministério da justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=São Paulo" class="link-category" rel="nofollow tag">São Paulo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/em-frente-brasil-em-tres-meses-numero-de-homicidios-cai-44-nos-municipios-participantes">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/em-frente-brasil-em-tres-meses-numero-de-homicidios-cai-44-nos-municipios-participantes/errouofoco1lugarfabianorochadasilva.jpg/@@images/900e1293-c340-4a93-8b19-0cafd3e720f9.jpeg" alt="errouofoco1lugarFabianoRochadaSilva.jpg" title="errouofoco1lugarFabianoRochadaSilva.jpg" height="128" width="104" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">criminalidade</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/em-frente-brasil-em-tres-meses-numero-de-homicidios-cai-44-nos-municipios-participantes" title="collective.nitf.content">Em Frente, Brasil: em três meses, número de homicídios cai 44% nos municípios participantes</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ocorrência de roubos também teve redução nas cinco cidades</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Em Frente Brasil" class="link-category" rel="nofollow tag">Em Frente Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Criminalidade" class="link-category" rel="nofollow tag">Criminalidade</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h56
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/fundo-de-defesa-de-direitos-difusos-supera-investimentos-dos-ultimos-cinco-anos">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/fundo-de-defesa-de-direitos-difusos-supera-investimentos-dos-ultimos-cinco-anos/moro-fundo.jpg/@@images/880f151c-727b-4648-a882-36e5cde9c095.jpeg" alt="Fundo de Defesa de Direitos Difusos supera investimentos dos últimos cinco anos" title="Fundo de Defesa de Direitos Difusos supera investimentos dos últimos cinco anos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Recursos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/fundo-de-defesa-de-direitos-difusos-supera-investimentos-dos-ultimos-cinco-anos" title="collective.nitf.content">Fundo de Defesa de Direitos Difusos supera investimentos dos últimos cinco anos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Entre os projetos aprovados, estão a construção de 5.300 cisternas em escolas rurais do semiárido nordestino</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cultura" class="link-category" rel="nofollow tag">Cultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fundo de Direitos Difusos" class="link-category" rel="nofollow tag">Fundo de Direitos Difusos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Consumidor" class="link-category" rel="nofollow tag">Consumidor</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h11
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/mjsp-assina-acordo-com-aneel-para-integracao-do-setor-eletrico-ao-consumidor-gov.br">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/mjsp-assina-acordo-com-aneel-para-integracao-do-setor-eletrico-ao-consumidor-gov.br/60d9d8ff-28a0-497f-8e17-e4675fe64a91.png/@@images/efdd716e-160a-45db-881e-f90bd655039c.png" alt="MJSP assina acordo com Aneel para integração do setor elétrico ao Consumidor.gov.br" title="MJSP assina acordo com Aneel para integração do setor elétrico ao Consumidor.gov.br" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Cooperação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/mjsp-assina-acordo-com-aneel-para-integracao-do-setor-eletrico-ao-consumidor-gov.br" title="collective.nitf.content">Justiça assina acordo com a Aneel para integração do setor elétrico ao consumidor.gov.br</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A ferramenta permite uma comunicação direta entre consumidor e empresas participantes</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Setor Elétrico" class="link-category" rel="nofollow tag">Setor Elétrico</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Aneel" class="link-category" rel="nofollow tag">Aneel</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MJSP" class="link-category" rel="nofollow tag">MJSP</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=consumidor.gov" class="link-category" rel="nofollow tag">consumidor.gov</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h12
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/crimes-de-assassinatos-cairam-nos-primeiros-nove-meses-de-governo">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/crimes-de-assassinatos-cairam-nos-primeiros-nove-meses-de-governo/sergio-moro.jpg/@@images/841509a2-301c-447e-95e0-6bb92c8d4e41.jpeg" alt="Crimes de assassinatos caíram nos primeiros nove meses de governo" title="Crimes de assassinatos caíram nos primeiros nove meses de governo" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/12/crimes-de-assassinatos-cairam-nos-primeiros-nove-meses-de-governo" title="collective.nitf.content">Crimes de assassinatos caíram nos primeiros nove meses de governo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Índice reduziu 22% em comparação com 2018</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MJSP" class="link-category" rel="nofollow tag">MJSP</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Índice nacional de homicídio" class="link-category" rel="nofollow tag">Índice nacional de homicídio</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        25/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h09
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/periodo-de-analise-de-pedidos-de-naturalizacao-cai-de-500-para-5-dias">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/periodo-de-analise-de-pedidos-de-naturalizacao-cai-de-500-para-5-dias/empresa-s2-assessoria-em-vistos-e-viagens.jpeg/@@images/37785eb3-78cf-43bb-9a52-efbae9fec624.jpeg" alt="Período de análise de pedidos de naturalização cai de 500 para 5 dias" title="Período de análise de pedidos de naturalização cai de 500 para 5 dias" height="60" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">NATURALIZAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/periodo-de-analise-de-pedidos-de-naturalizacao-cai-de-500-para-5-dias" title="collective.nitf.content">Período de análise de pedidos de naturalização cai de 500 para 5 dias</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A agilidade faz parte de ação prioritária assumida pelo Ministério da Justiça e Segurança Pública</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça" class="link-category" rel="nofollow tag">Ministério da Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Naturalização" class="link-category" rel="nofollow tag">Naturalização</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Constituição Federal" class="link-category" rel="nofollow tag">Constituição Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Departamento de Migrações" class="link-category" rel="nofollow tag">Departamento de Migrações</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h48
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/aumenta-a-presenca-de-trabalhadores-estrangeiros-no-brasil">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/aumenta-a-presenca-de-trabalhadores-estrangeiros-no-brasil/whatsapp-image-2019-11-13-at-12-25-59.jpeg/@@images/56128145-5b1d-45b4-8979-f37ffaa551b3.jpeg" alt="Cresce número de pedidos de criação de carteira de trabalho" title="Cresce número de pedidos de criação de carteira de trabalho" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Estrangeiros</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/aumenta-a-presenca-de-trabalhadores-estrangeiros-no-brasil" title="collective.nitf.content">Aumenta a presença de trabalhadores estrangeiros no Brasil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Relatório do MJSP, com dados inéditos, mostra tendência da população migratória e de refugiados no país</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Imigrantes" class="link-category" rel="nofollow tag">Imigrantes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Refugiados" class="link-category" rel="nofollow tag">Refugiados</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        13/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h46
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/acordo-de-salvaguardas-tecnologicas-e-aprovado-em-etapa-final-no-senado">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/acordo-de-salvaguardas-tecnologicas-e-aprovado-em-etapa-final-no-senado/vac_abr_1409184934.jpg/@@images/62451588-ca2c-4a82-a41c-6346874cb60d.jpeg" alt="Acordo de Salvaguardas Tecnológicas é aprovado em etapa final no Senado" title="Acordo de Salvaguardas Tecnológicas é aprovado em etapa final no Senado" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">TECNOLOGIA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/acordo-de-salvaguardas-tecnologicas-e-aprovado-em-etapa-final-no-senado" title="collective.nitf.content">Acordo de Salvaguardas Tecnológicas é aprovado em etapa final no Senado</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O instrumento foi assinado, em março deste ano, entre os governos do Brasil e dos Estados Unidos</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/delegacia-modelo-da-pf-para-investigar-corrupcao-e-lavagem-de-dinheiro-e-inaugurada">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/delegacia-modelo-da-pf-para-investigar-corrupcao-e-lavagem-de-dinheiro-e-inaugurada/inauguracao-delegacia-modelo.jpeg/@@images/1a6bbff0-b62d-47d9-ac6f-49e02743b1e8.jpeg" alt="Inauguração da Delegacia Modelo" title="Inauguração da Delegacia Modelo" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA PÚBLICA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/11/delegacia-modelo-da-pf-para-investigar-corrupcao-e-lavagem-de-dinheiro-e-inaugurada" title="collective.nitf.content">Delegacia Modelo da PF, para investigar corrupção e lavagem de dinheiro, é inaugurada</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministro Sergio Moro destacou que modelagem será disseminada para o restante da Polícia Federal no país e demais polícias judiciárias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública " class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança pública" class="link-category" rel="nofollow tag">Segurança pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sérgio Moro" class="link-category" rel="nofollow tag">Sérgio Moro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Polícia Federal" class="link-category" rel="nofollow tag">Polícia Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/sergio-moro-defende-que-em-frente-brasil-vai-durar-ate-os-resultados-serem-alcancados">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/sergio-moro-defende-que-em-frente-brasil-vai-durar-ate-os-resultados-serem-alcancados/ministro-da-justica-e-seguranca-publica-sergio-moro-acompanha-o-programa-em-frente-brasil-em-cariacica-es-nesta-terca-feria-29-foto-2.png/@@images/7ece2bae-f87d-40b1-96a1-dcdb95b6aca0.png" alt="Sergio Moro defende que Em Frente Brasil vai durar até os resultados serem alcançados" title="Sergio Moro defende que Em Frente Brasil vai durar até os resultados serem alcançados" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/sergio-moro-defende-que-em-frente-brasil-vai-durar-ate-os-resultados-serem-alcancados" title="collective.nitf.content">Ministro da Justiça visita Cariacica (ES) que faz parte do "Em Frente Brasil"</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">“O caminho está correto, o caminho da integração e da atividade", disse Sergio Moro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sergio Moro" class="link-category" rel="nofollow tag">Sergio Moro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Em Frente Brasil" class="link-category" rel="nofollow tag">Em Frente Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional de Segurança Pública" class="link-category" rel="nofollow tag">Força Nacional de Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministro da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministro da Justiça e Segurança Pública</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h19
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/ministro-sergio-moro-visita-o-em-frente-brasil-no-municipio-de-paulista-pe">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/ministro-sergio-moro-visita-o-em-frente-brasil-no-municipio-de-paulista-pe/ministro-sergio-moro-no-municipio-de-paulista-pe-para-acompanhar-o-em-frente-brasil.jpg/@@images/81b27216-bddb-4191-8175-98a1deee5e65.jpeg" alt="Ministro Sergio Moro no município de Paulista (PE) para acompanhar o &quot;Em Frente Brasil&quot; Foto: Ministério da Justiça e Segurança Pública" title="Ministro Sergio Moro no município de Paulista (PE) para acompanhar o &quot;Em Frente Brasil&quot; Foto: Ministério da Justiça e Segurança Pública" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA PÚBLICA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/ministro-sergio-moro-visita-o-em-frente-brasil-no-municipio-de-paulista-pe" title="collective.nitf.content">Ministro Sérgio Moro verifica resultados do "Em Frente Brasil" no município de Paulista (PE)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Além desse município, o projeto piloto abrange Goiânia (GO), Ananindeua (PA), São José dos Pinhais (PR) e Cariacica (ES)</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Em Frente Brasil" class="link-category" rel="nofollow tag">Em Frente Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública " class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública </a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h57
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/ministerio-da-justica-e-fiesp-assinam-acordo-de-cooperacao-para-sistema-penitenciario-e-prevencao-ao-crime">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/ministerio-da-justica-e-fiesp-assinam-acordo-de-cooperacao-para-sistema-penitenciario-e-prevencao-ao-crime/moro-e-skaf.jpg/@@images/6db6370a-84a0-4558-854a-05aadb7a815b.jpeg" alt="Ministério da Justiça e Fiesp assinam acordo de cooperação para sistema penitenciário e prevenção ao crime" title="Ministério da Justiça e Fiesp assinam acordo de cooperação para sistema penitenciário e prevenção ao crime" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/ministerio-da-justica-e-fiesp-assinam-acordo-de-cooperacao-para-sistema-penitenciario-e-prevencao-ao-crime" title="collective.nitf.content">Ministério da Justiça e Fiesp assinam acordo de cooperação para sistema penitenciário e prevenção ao crime</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Sergio Moro comentou queda nos índices de criminalidade e destacou ações para combater crime organizado e corrupção</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sergio Moro" class="link-category" rel="nofollow tag">Sergio Moro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fiesp" class="link-category" rel="nofollow tag">Fiesp</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça Eleitoral" class="link-category" rel="nofollow tag">Justiça Eleitoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança" class="link-category" rel="nofollow tag">Segurança</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Criminalidade" class="link-category" rel="nofollow tag">Criminalidade</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h12
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/brasil-registra-queda-da-criminalidade-no-primeiro-semestre-de-2019">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/brasil-registra-queda-da-criminalidade-no-primeiro-semestre-de-2019/indice-violencia.jpeg/@@images/951a48d1-306a-491d-a9e4-9f6ce4d5612f.jpeg" alt="Brasil registra queda da criminalidade no primeiro semestre de 2019" title="Brasil registra queda da criminalidade no primeiro semestre de 2019" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA PÚBLICA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/brasil-registra-queda-da-criminalidade-no-primeiro-semestre-de-2019" title="collective.nitf.content">Brasil registra queda da criminalidade no primeiro semestre</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Índice de homicídios foi reduzido em 22,1%, e roubos a instituições financeiras registraram queda de 40,9%</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sinesp" class="link-category" rel="nofollow tag">Sinesp</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sergio Moro" class="link-category" rel="nofollow tag">Sergio Moro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pacote Anticrime" class="link-category" rel="nofollow tag">Pacote Anticrime</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          
+
+          <span class="subtitle">Visto</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/governo-brasileiro-facilita-visto-humanitario-a-afetados-pelo-conflito-na-siria" title="collective.nitf.content">Governo brasileiro facilita visto humanitário a afetados pelo conflito na Síria</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Nova portaria desburocratiza processo, que já garante residência imediata aos portadores desse tipo de visto</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Visto" class="link-category" rel="nofollow tag">Visto</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Síria" class="link-category" rel="nofollow tag">Síria</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Visto humanitário" class="link-category" rel="nofollow tag">Visto humanitário</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/integracao-entre-plataformas-deve-agilizar-solucao-para-conflitos-de-consumo">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/integracao-entre-plataformas-deve-agilizar-solucao-para-conflitos-de-consumo/cerimonia-de-assinatura-de-convenio-entre-a-plataforma-consumidor-gov-br-e-o-processo-judicial-eletronico.png/@@images/10cbf42c-5ba9-44a0-b952-2e01a26c452c.png" alt="Integração entre plataformas deve agilizar solução para conflitos de consumo" title="Integração entre plataformas deve agilizar solução para conflitos de consumo" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Consumidor</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/integracao-entre-plataformas-deve-agilizar-solucao-para-conflitos-de-consumo" title="collective.nitf.content">Integração entre plataformas deve agilizar solução para conflitos de consumo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Neste primeiro momento, sistema valerá para reclamações relativas ao setor bancário e estará disponível no Distrito Federal</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Consumidor" class="link-category" rel="nofollow tag">Consumidor</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Plataforma" class="link-category" rel="nofollow tag">Plataforma</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conflitos" class="link-category" rel="nofollow tag">Conflitos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Processo Judicial" class="link-category" rel="nofollow tag">Processo Judicial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Consumidor.gov" class="link-category" rel="nofollow tag">Consumidor.gov</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h17
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/201cpacote-anticrime-a-lei-tem-que-estar-acima-da-impunidade201de-o-slogan-da-campanha-lancada-hoje">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/201cpacote-anticrime-a-lei-tem-que-estar-acima-da-impunidade201de-o-slogan-da-campanha-lancada-hoje/48837416477_527b74434f_k.jpg/@@images/9265ad02-931b-42ca-8cfa-cd5548f2afcc.jpeg" alt="“Pacote Anticrime: A lei tem que estar acima da impunidade”é o slogan da campanha lançada hoje" title="“Pacote Anticrime: A lei tem que estar acima da impunidade”é o slogan da campanha lançada hoje" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PACOTE ANTICRIME</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/201cpacote-anticrime-a-lei-tem-que-estar-acima-da-impunidade201de-o-slogan-da-campanha-lancada-hoje" title="collective.nitf.content">A lei tem que estar acima da impunidade é o tema da campanha lançada no Planalto</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O pacote Anticrime tem o objetivo de combater a criminalidade com mais eficiência, a partir de uma legislação adequada aos anseios da população brasileira</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança" class="link-category" rel="nofollow tag">Segurança</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pacote Anticrime" class="link-category" rel="nofollow tag">Pacote Anticrime</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/novo-servico-de-recall-de-veiculos-entrou-em-vigor-na-ultima-terca-feira">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/novo-servico-de-recall-de-veiculos-entrou-em-vigor-na-ultima-terca-feira/detransp.jpeg/@@images/459e0daa-ffd3-4274-b226-51862919d384.jpeg" alt="Recall de veículos" title="Recall de veículos" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA NO TRÂNSITO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2019/10/novo-servico-de-recall-de-veiculos-entrou-em-vigor-na-ultima-terca-feira" title="collective.nitf.content">Novas regras para recall de veículos entraram em vigor na última terça-feira</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Com a mudança, as informações serão mais acessíveis e chegarão até o proprietário do veículo por meio digital</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h48
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=150">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=0">1</a>
+            </li>
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=90">4</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=120">5</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=150">6</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>7</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=210">8</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=240">9</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=270">10</a>
+        </li>
+        <!-- Link to last -->
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=210">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

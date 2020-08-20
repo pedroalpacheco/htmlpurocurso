@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link rel="self"                type="application/rss+xml" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-entrega-720-cestas-de-alimentos-a-indigenas-no-distrito-federal/rss.xml" />
+    <title>Funai entrega 720 cestas de alimentos a indígenas no Distrito Federal</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-entrega-720-cestas-de-alimentos-a-indigenas-no-distrito-federal</link>
+    <description>Durante a ação, também foram distribuídas máscaras e álcool em gel</description>
+
+    <language>pt-br</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Governo realiza entrega de cestas de alimentos a indígenas no Distrito Federal</title>
+      <description>As entregas foram realizadas diretamente nas residências de 174 famílias, como forma de minimizar os impactos da pandemia de covid-19</description>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+          <![CDATA[
+          
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-entrega-720-cestas-de-alimentos-a-indigenas-no-distrito-federal/df-01.png/@@images/image" title="Governo realiza entrega de cestas de alimentos a indígenas no Distrito Federal" alt="Governo realiza entrega de cestas de alimentos a indígenas no Distrito Federal" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Funai</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-entrega-720-cestas-de-alimentos-a-indigenas-no-distrito-federal/df-01.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-entrega-720-cestas-de-alimentos-a-indigenas-no-distrito-federal/df-01.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+          ]]>
+      </content:encoded>
+      <pubDate>Thu, 06 Aug 2020 18:00:16 -0300</pubDate>
+      <guid>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-entrega-720-cestas-de-alimentos-a-indigenas-no-distrito-federal/df-01.png/view</guid>
+    </item>
+  </channel>
+</rss>

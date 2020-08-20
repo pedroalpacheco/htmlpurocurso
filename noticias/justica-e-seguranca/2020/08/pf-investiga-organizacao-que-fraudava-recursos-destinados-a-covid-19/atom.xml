@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19/atom.xml" type="application/atom+xml" />
+  <title type="html">PF investiga organização que fraudava recursos destinados à Covid-19</title>
+  <subtitle>Contratações suspeitas envolveriam aproximadamente 50 milhões de reais no estado de Roraima</subtitle>
+  <updated>2020-08-13T17:01:25-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19/"/>
+  <id>urn:syndication:dbceeadef44b4c0d8ac5532320ca872a</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Polícia Federal investiga irregularidades no uso de recursos destinados ao enfrentamento da Covid-19</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19/f7d8f135-8fae-4367-9997-9f13b711ebd7.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19/f7d8f135-8fae-4367-9997-9f13b711ebd7.jpeg/@@download/image/f7d8f135-8fae-4367-9997-9f13b711ebd7.jpeg" length="82643" type="image/jpeg" />
+      <id>urn:syndication:e8b82e9d59b94eb2b418c6686407a1b3</id>
+      <summary>Investigação cumpre mandados de Busca e Apreensão em oito estados e no Distrito Federal.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19/f7d8f135-8fae-4367-9997-9f13b711ebd7.jpeg/@@images/image" title="Polícia Federal investiga irregularidades no uso de recursos destinados ao enfrentamento da Covid-19" alt="Polícia Federal investiga irregularidades no uso de recursos destinados ao enfrentamento da Covid-19" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Polícia Federal</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19/f7d8f135-8fae-4367-9997-9f13b711ebd7.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/pf-investiga-organizacao-que-fraudava-recursos-destinados-a-covid-19/f7d8f135-8fae-4367-9997-9f13b711ebd7.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-13T15:20:16-03:00</published>
+
+      <updated>2020-08-13T15:20:16-03:00</updated>
+
+      
+        <category term="Polícia Federal"/>
+      
+        <category term="#Covid-19"/>
+      
+        <category term="Investigação"/>
+      
+        <category term="CGU"/>
+      
+
+    </entry>
+
+  
+
+</feed>

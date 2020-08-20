@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/programa-de-combate-a-covid-19-conta-com-mais-de-1-milhao-de-profissionais/RSS">
+  <title>Programa de combate à Covid-19 conta com mais de 1 milhão de profissionais</title>
+  <link>https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/programa-de-combate-a-covid-19-conta-com-mais-de-1-milhao-de-profissionais</link>
+  <description>Mais de 460 contratações já foram realizadas para reforçar o atendimento de serviços de saúde em três estados</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/programa-de-combate-a-covid-19-conta-com-mais-de-1-milhao-de-profissionais/young-female-doctor-with-stethoscope-pl5z97q.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/programa-de-combate-a-covid-19-conta-com-mais-de-1-milhao-de-profissionais/young-female-doctor-with-stethoscope-pl5z97q.jpg/view">
+    <title>Programa de combate à Covid-19 conta com mais de 1 milhão de profissionais de saúde cadastrados</title>
+    <link>https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/programa-de-combate-a-covid-19-conta-com-mais-de-1-milhao-de-profissionais/young-female-doctor-with-stethoscope-pl5z97q.jpg/view</link>
+    <description>Ação Estratégica do Ministério da Saúde conta com profissionais da saúde, estudantes e residentes para reforçar o atendimento dos serviços de saúde nos estados com maior necessidade de profissionais.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/programa-de-combate-a-covid-19-conta-com-mais-de-1-milhao-de-profissionais/young-female-doctor-with-stethoscope-pl5z97q.jpg/@@images/image" title="Programa de combate à Covid-19 conta com mais de 1 milhão de profissionais de saúde cadastrados" alt="Programa de combate à Covid-19 conta com mais de 1 milhão de profissionais de saúde cadastrados" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Banco de imagens</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/programa-de-combate-a-covid-19-conta-com-mais-de-1-milhao-de-profissionais/young-female-doctor-with-stethoscope-pl5z97q.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/08/programa-de-combate-a-covid-19-conta-com-mais-de-1-milhao-de-profissionais/young-female-doctor-with-stethoscope-pl5z97q.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Banco de imagens</dc:rights>
+    
+      <dc:subject>#Covid-19</dc:subject>
+    
+      <dc:subject>Ministério da Saúde</dc:subject>
+    
+      <dc:subject>O Brasil Conta Comigo</dc:subject>
+    
+    <dc:date>2020-08-14T18:11:50Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

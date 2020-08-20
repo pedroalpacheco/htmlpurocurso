@@ -1,0 +1,3836 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Segurança &amp; Justiça — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/wnobre" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias/RSS" title="Últimas Notícias - Segurança &amp; Justiça - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias/rss.xml" title="Últimas Notícias - Segurança &amp; Justiça - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias/atom.xml" title="Últimas Notícias - Segurança &amp; Justiça - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-justica-e-seguranca subsection-justica-e-seguranca-ultimas-noticias userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca">Justiça e Segurança</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Segurança &amp; Justiça</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Segurança &amp; Justiça</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">18/05/2018 18h54</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">16/10/2018 11h29</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/brasil-suspende-entrada-de-estrangeiros-provenientes-do-uruguai">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/brasil-suspende-entrada-de-estrangeiros-provenientes-do-uruguai/divisa-uruguai-md.jpg/@@images/28505a0f-040d-40f7-bf7e-6b40004b5605.jpeg" alt="Brasil suspende entrada de estrangeiros provenientes do Uruguai" title="Brasil suspende entrada de estrangeiros provenientes do Uruguai" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#coronavirusbrasil</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/brasil-suspende-entrada-de-estrangeiros-provenientes-do-uruguai" title="collective.nitf.content">Brasil suspende entrada de estrangeiros provenientes do Uruguai</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Medida é temporária e está alinhada com a emergência de saúde pública</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        24/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/governo-federal-e-empresas-aereas-fazem-acordo-para-manter-voos-em-todos-os-estados">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/governo-federal-e-empresas-aereas-fazem-acordo-para-manter-voos-em-todos-os-estados/pista_voo_prefcaxiasdosul.jpg/@@images/90e85b97-74f1-4a4d-be4d-3434f3948373.jpeg" alt="Governo e empresas aéreas fazem acordo para manter voos em todos os estados" title="Governo e empresas aéreas fazem acordo para manter voos em todos os estados" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/governo-federal-e-empresas-aereas-fazem-acordo-para-manter-voos-em-todos-os-estados" title="collective.nitf.content">Governo Federal e empresas aéreas fazem acordo para manter voos em todos os estados</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Medida vai garantir que estados tenham pelo menos uma linha operando</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#coronavirusbrasil" class="link-category" rel="nofollow tag">#coronavirusbrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavírus" class="link-category" rel="nofollow tag">#Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Empresas aéreas" class="link-category" rel="nofollow tag">Empresas aéreas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=bilhetes" class="link-category" rel="nofollow tag">bilhetes</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        24/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h06
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/emissao-de-passaportes-sera-feita-apenas-em-casos-de-extrema-necessidade">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/emissao-de-passaportes-sera-feita-apenas-em-casos-de-extrema-necessidade/967363-dfdsc_7031.jpg/@@images/92590bb2-5293-4a11-bf57-475586df4263.jpeg" alt="Prazo de 90 dias para entrega de passaporte foi suspenso em todo o País" title="Prazo de 90 dias para entrega de passaporte foi suspenso em todo o País" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/emissao-de-passaportes-sera-feita-apenas-em-casos-de-extrema-necessidade" title="collective.nitf.content">Emissão de passaportes será feita apenas em casos de extrema necessidade</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Polícia Federal vai analisar os pedidos considerando os critérios de essencialidade</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#coronavirusbrasil" class="link-category" rel="nofollow tag">#coronavirusbrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Polícia Federal" class="link-category" rel="nofollow tag">Polícia Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Prazo" class="link-category" rel="nofollow tag">Prazo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Passaporte" class="link-category" rel="nofollow tag">Passaporte</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        24/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h06
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/estao-suspensas-por-15-dias-as-visitas-sociais-nos-presidios-federais">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/estao-suspensas-por-15-dias-as-visitas-sociais-nos-presidios-federais/mcmgo_abr_161020181601_1.jpg/@@images/46d3f84a-b286-4b92-a6b5-8310dfcfc7e8.jpeg" alt="Visita de advogados está suspensa por cinco dias; medidas visam prevenir avanço do coronavíru" title="Visita de advogados está suspensa por cinco dias; medidas visam prevenir avanço do coronavíru" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/estao-suspensas-por-15-dias-as-visitas-sociais-nos-presidios-federais" title="collective.nitf.content">Estão suspensas por 15 dias as visitas sociais nos presídios federais</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Depen restringe também visita de advogados. A ação visa prevenir avanço do coronavírus dentro do sistema prisional</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Departamento Penitenciário Nacional" class="link-category" rel="nofollow tag">Departamento Penitenciário Nacional</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        24/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h29
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/contran-suspende-prazo-das-cnhs-vencidas">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/contran-suspende-prazo-das-cnhs-vencidas/detran-df.jpg/@@images/70d4972f-492a-4675-b032-5582065eb358.jpeg" alt="Contran suspende prazo das CNHs vencidas" title="Contran suspende prazo das CNHs vencidas" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#coronavirusbrasil</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/contran-suspende-prazo-das-cnhs-vencidas" title="collective.nitf.content">Contran suspende prazo das CNHs vencidas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Órgão também suspendeu prazo da carteira e de outros serviços</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#coronavirusbrasil" class="link-category" rel="nofollow tag">#coronavirusbrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Brasil" class="link-category" rel="nofollow tag">Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Contran" class="link-category" rel="nofollow tag">Contran</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Carteira Nacional Habilitação CNH" class="link-category" rel="nofollow tag">Carteira Nacional Habilitação CNH</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Certificado de Registro de Veículo" class="link-category" rel="nofollow tag">Certificado de Registro de Veículo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h48
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/visita-a-detentos-de-presidios-federais-esta-suspensa-por-15-dias">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/visita-a-detentos-de-presidios-federais-esta-suspensa-por-15-dias/7f6806e6-98eb-486e-8358-c53529f23183.jpeg/@@images/27974877-ce71-4c4c-8e63-dcbb12d40f57.jpeg" alt="7f6806e6-98eb-486e-8358-c53529f23183.jpeg" title="7f6806e6-98eb-486e-8358-c53529f23183.jpeg" height="91" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Presídios</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/visita-a-detentos-de-presidios-federais-esta-suspensa-por-15-dias" title="collective.nitf.content">Visita a detentos de presídios federais está suspensa por 15 dias</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Departamento Penitenciário Nacional também criou grupo de trabalho para auxiliar gestores estaduais na prevenção do coronavírus no sistema prisional</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Depen" class="link-category" rel="nofollow tag">Depen</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=sistema prisional" class="link-category" rel="nofollow tag">sistema prisional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h55
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/pais-registra-queda-de-203-nos-homicidios-em-2019">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/pais-registra-queda-de-203-nos-homicidios-em-2019/silhueta_de_corpos_primeira.jpg/@@images/524876b1-25fc-4a4d-bb90-09ac130cd34e.jpeg" alt="Cai 20,3% o número de homicídios no País em 2019" title="Cai 20,3% o número de homicídios no País em 2019" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/pais-registra-queda-de-203-nos-homicidios-em-2019" title="collective.nitf.content">País registra queda de 20,3% nos homicídios</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Nove tipos de crimes tiveram redução de janeiro a novembro de 2019, em comparação com 2018</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Homicídios" class="link-category" rel="nofollow tag">Homicídios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sinesp" class="link-category" rel="nofollow tag">Sinesp</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Crimes de homicídios" class="link-category" rel="nofollow tag">Crimes de homicídios</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/investigacoes-de-crimes-sexuais-no-brasil-vao-ganhar-celeridade-afirma-ministro-sergio-moro">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/investigacoes-de-crimes-sexuais-no-brasil-vao-ganhar-celeridade-afirma-ministro-sergio-moro/sergio-moro-centro-de-investigacao/@@images/c373920e-9977-4b54-aac0-1fe529ba3eba.jpeg" alt="Primeiro Centro Multiusuário de Processamento Automatizado de Vestígios Sexuais foi inaugurado no país" title="Primeiro Centro Multiusuário de Processamento Automatizado de Vestígios Sexuais foi inaugurado no país" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">INVESTIGAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/investigacoes-de-crimes-sexuais-no-brasil-vao-ganhar-celeridade-afirma-ministro-sergio-moro" title="collective.nitf.content">Investigações de crimes sexuais no Brasil vão ganhar celeridade, afirma ministro Sergio Moro</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Novo equipamento vai acelerar a análise de vestígios de violências sexuais contra mulheres</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Centro Multiusuário de Processamento Automatizado de Vestígios Sexuais" class="link-category" rel="nofollow tag">Centro Multiusuário de Processamento Automatizado de Vestígios Sexuais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justi" class="link-category" rel="nofollow tag">Ministério da Justi</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sergio Moro" class="link-category" rel="nofollow tag">Sergio Moro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=crimes sexuais" class="link-category" rel="nofollow tag">crimes sexuais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=vestígios sexuais" class="link-category" rel="nofollow tag">vestígios sexuais</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h16
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/uso-de-tornozeleira-eletronica-em-agressores-de-mulheres-aumenta-65">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/uso-de-tornozeleira-eletronica-em-agressores-de-mulheres-aumenta-65/tornozeleiras-foto_secretaria_de_justica_cidadania_e_direitos_humanos_do_parana.jpg/@@images/18a1b70f-3dbd-4711-8072-dbaf5284aa72.jpeg" alt="Cresce o número de agressores com tornozeleiras eletrônicas e de mulheres com botão de pânico" title="Cresce o número de agressores com tornozeleiras eletrônicas e de mulheres com botão de pânico" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Lei Maria da Penha</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/uso-de-tornozeleira-eletronica-em-agressores-de-mulheres-aumenta-65" title="collective.nitf.content">Uso de tornozeleira eletrônica em agressores de mulheres aumenta 65%</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Dados do Ministério da Justiça e Segurança Pública aponta também crescimento no número de mulheres que fazem uso do botão do pânico</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#violência" class="link-category" rel="nofollow tag">#violência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#mulheres" class="link-category" rel="nofollow tag">#mulheres</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#agressão" class="link-category" rel="nofollow tag">#agressão</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#segurança" class="link-category" rel="nofollow tag">#segurança</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#assistência" class="link-category" rel="nofollow tag">#assistência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#justiça" class="link-category" rel="nofollow tag">#justiça</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h16
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/brasil-investe-r-26-milhoes-para-reforcar-a-seguranca-nas-fronteiras">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/brasil-investe-r-26-milhoes-para-reforcar-a-seguranca-nas-fronteiras/unnamed-6.jpg/@@images/85b90ad2-09dd-415b-b8ca-fc024a6bad4d.jpeg" alt="Brasil investe R$ 26 milhões para reforçar a segurança nas fronteiras" title="Brasil investe R$ 26 milhões para reforçar a segurança nas fronteiras" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/brasil-investe-r-26-milhoes-para-reforcar-a-seguranca-nas-fronteiras" title="collective.nitf.content">Brasil investe R$ 26 milhões para reforçar segurança nas fronteiras</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Equipamentos de radiocomunicação vão reforçar segurança nas divisas do Paraná e Amazonas; metade do recurso foi obtido a partir de bens apreendidos do tráfico de drogas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#traficodedrogas" class="link-category" rel="nofollow tag">#traficodedrogas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#combate" class="link-category" rel="nofollow tag">#combate</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Segurança Pública " class="link-category" rel="nofollow tag">#Segurança Pública </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#fronteiras" class="link-category" rel="nofollow tag">#fronteiras</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h16
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/atuacao-da-forca-nacional-ajuda-a-reduzir-criminalidade-no-pais">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/atuacao-da-forca-nacional-ajuda-a-reduzir-criminalidade-no-pais/forca_agenciabrasil.jpg/@@images/bc19b020-7fcd-4109-9e90-6d394176bb0f.jpeg" alt="Força Nacional" title="Força Nacional" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/atuacao-da-forca-nacional-ajuda-a-reduzir-criminalidade-no-pais" title="collective.nitf.content">Atuação da Força Nacional ajuda a reduzir criminalidade no País</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Contingente atua no reforço de três presídios e na garantia da lei e da ordem</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional" class="link-category" rel="nofollow tag">Força Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança Pública" class="link-category" rel="nofollow tag">Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=GLO" class="link-category" rel="nofollow tag">GLO</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Garantia da Lei e da Ordem" class="link-category" rel="nofollow tag">Garantia da Lei e da Ordem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Presídios" class="link-category" rel="nofollow tag">Presídios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Redução da Criminalidade" class="link-category" rel="nofollow tag">Redução da Criminalidade</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Em Frente, Brasil" class="link-category" rel="nofollow tag">Em Frente, Brasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/forca-nacional-vai-permanecer-mais-90-dias-em-terra-indigena-no-maranhao">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/forca-nacional-vai-permanecer-mais-90-dias-em-terra-indigena-no-maranhao/whatsapp-image-2019-05-31-at-3-40-41-pm.jpeg/@@images/777d9fb2-1807-4c5b-ac18-4b0002789933.jpeg" alt="Foi prorrogado prazo de atividades da Força Nacional na Terra Indígena Cana Brava Guajajara" title="Foi prorrogado prazo de atividades da Força Nacional na Terra Indígena Cana Brava Guajajara" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/forca-nacional-vai-permanecer-mais-90-dias-em-terra-indigena-no-maranhao" title="collective.nitf.content">Força Nacional vai permanecer mais 90 dias em terra indígena no Maranhão</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Efetivo deve permanecer nas terras indígenas de Cana Brava Guajajara até o dia 6 de junho</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#forçanacional" class="link-category" rel="nofollow tag">#forçanacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#terrasindígenas" class="link-category" rel="nofollow tag">#terrasindígenas</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h08
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/construcao-de-fragatas-para-a-marinha-vai-impulsionar-industria-naval">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/construcao-de-fragatas-para-a-marinha-vai-impulsionar-industria-naval/whatsapp-image-2020-03-05-at-21-24-25.jpeg/@@images/5e80d641-717f-425d-854e-ca39f29d5318.jpeg" alt="Construção de Fragatas para a Marinha gera milhares de empregos" title="Construção de Fragatas para a Marinha gera milhares de empregos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Embarcações</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/construcao-de-fragatas-para-a-marinha-vai-impulsionar-industria-naval" title="collective.nitf.content">Construção de fragatas para a Marinha vai impulsionar indústria naval</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Contrato firmado entre a Marinha do Brasil e a Egenpron vai possibilitar a construção de quatro Fragatas da Classe Tamandaré; previsão é de que o primeiro navio fique pronto em 2025</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marinha" class="link-category" rel="nofollow tag">Marinha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Embarcações" class="link-category" rel="nofollow tag">Embarcações</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministro da Defesa" class="link-category" rel="nofollow tag">Ministro da Defesa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fernando Azevedo" class="link-category" rel="nofollow tag">Fernando Azevedo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h55
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/lideres-de-organizacoes-criminosas-gauchas-sao-transferidos-para-presidios-federais">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/lideres-de-organizacoes-criminosas-gauchas-sao-transferidos-para-presidios-federais/mcmgo_abr_161020181601_1.jpg/@@images/1a0999bd-65a3-480a-be35-7dc56de7e9f4.jpeg" alt="Lideres de organizações criminosas do Estado do Rio Grande do Sul são transferidos" title="Lideres de organizações criminosas do Estado do Rio Grande do Sul são transferidos" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/03/lideres-de-organizacoes-criminosas-gauchas-sao-transferidos-para-presidios-federais" title="collective.nitf.content">Lideres de organizações criminosas gaúchas são transferidos para presídios federais</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Governo Federal autorizou emprego da Força-Tarefa de Intervenção Penitenciária no Rio Grande do Sul por 60 dias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#presidiosfederais" class="link-category" rel="nofollow tag">#presidiosfederais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#combateaocrimeorganizado" class="link-category" rel="nofollow tag">#combateaocrimeorganizado</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h34
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-autoriza-prorrogacao-do-uso-da-forca-nacional-em-penitenciaria-de-brasilia">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-autoriza-prorrogacao-do-uso-da-forca-nacional-em-penitenciaria-de-brasilia/erxgdq6wkaeqg1_.jpeg/@@images/a721d5a1-71ed-459d-a6e5-f75c699d3930.jpeg" alt="Governo Federal autoriza a atuação da Força Nacional na Penitenciária Federal de Brasília" title="Governo Federal autoriza a atuação da Força Nacional na Penitenciária Federal de Brasília" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-autoriza-prorrogacao-do-uso-da-forca-nacional-em-penitenciaria-de-brasilia" title="collective.nitf.content">Governo autoriza prorrogação do uso da Força Nacional em penitenciária de Brasília</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Decisão tem caráter preventivo e objetiva aumentar o nível de segurança do local; ações seguem até o dia 4 de setembro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Forca Nacional" class="link-category" rel="nofollow tag">Forca Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Brasília" class="link-category" rel="nofollow tag">Brasília</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Papuda" class="link-category" rel="nofollow tag">Papuda</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Penitenciária Federal de Brasília" class="link-category" rel="nofollow tag">Penitenciária Federal de Brasília</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h14
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/programa-de-combate-a-criminalidade-violenta-entra-na-segunda-fase">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/programa-de-combate-a-criminalidade-violenta-entra-na-segunda-fase/glass-984457_1920.jpg/@@images/a89bf0b7-6dcc-4cb0-aafd-7f9ba9be9d4a.jpeg" alt="Vidro quebrado" title="Vidro quebrado" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/programa-de-combate-a-criminalidade-violenta-entra-na-segunda-fase" title="collective.nitf.content">Programa de combate à criminalidade violenta entra na segunda fase</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Planos de Atuação Integral dos cinco municípios participantes do Em Frente, Brasil conta com ações da União, Estados e Municípios</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Em Frente, Brasil" class="link-category" rel="nofollow tag">Em Frente, Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Criminalidade Violenta" class="link-category" rel="nofollow tag">Criminalidade Violenta</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=P" class="link-category" rel="nofollow tag">P</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa" class="link-category" rel="nofollow tag">Programa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ação Integrada" class="link-category" rel="nofollow tag">Ação Integrada</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Redução da Violência" class="link-category" rel="nofollow tag">Redução da Violência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Projeto-Piloto" class="link-category" rel="nofollow tag">Projeto-Piloto</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/tenente-juliana-santos-e-a-primeira-instrutora-de-voo-na-aeronave-t-27-tucano">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/tenente-juliana-santos-e-a-primeira-instrutora-de-voo-na-aeronave-t-27-tucano/tenente-fab.jpg/@@images/78e369c1-23ed-48f3-9c7f-fe4a419bd57e.jpeg" alt="Tenente Juliana Santos é primeira mulher Instrutora de Voo na aeronave T-27" title="Tenente Juliana Santos é primeira mulher Instrutora de Voo na aeronave T-27" height="84" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Força Aérea</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/tenente-juliana-santos-e-a-primeira-instrutora-de-voo-na-aeronave-t-27-tucano" title="collective.nitf.content">Tenente Juliana Santos é a primeira instrutora de voo na aeronave T-27 Tucano</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Aeronave é utilizada no treinamento primário dos cadetes aviadores do 4º ano da Academia da Força Aérea (AFA)</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h21
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/glo-no-ceara-governo-federal-agiu-rapidamente-afirmou-ministro-da-defesa">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/glo-no-ceara-governo-federal-agiu-rapidamente-afirmou-ministro-da-defesa/glo-ceara.jpeg/@@images/9943b28b-3408-4a95-83ef-548b40ee4642.jpeg" alt="GLO Ceará.jpeg" title="GLO Ceará.jpeg" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/glo-no-ceara-governo-federal-agiu-rapidamente-afirmou-ministro-da-defesa" title="collective.nitf.content">Comitiva interministerial acompanha ações do Governo Federal no Ceará</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A Operação de Garantia da Lei e da Ordem, decretada pelo presidente Jair Bolsonaro, está em curso no estado</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Garantia da Lei e da Ordem" class="link-category" rel="nofollow tag">Garantia da Lei e da Ordem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Defesa" class="link-category" rel="nofollow tag">Ministério da Defesa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=presidente Jair Bolsonaro" class="link-category" rel="nofollow tag">presidente Jair Bolsonaro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ceará" class="link-category" rel="nofollow tag">Ceará</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        25/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h28
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/ministerio-da-justica-prorroga-atuacao-da-forca-nacional-em-porto-velho-ro">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/ministerio-da-justica-prorroga-atuacao-da-forca-nacional-em-porto-velho-ro/forca-nacional.png/@@images/a5860815-f846-4180-aafb-7022f95f4720.png" alt="Força Nacional.png" title="Força Nacional.png" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/ministerio-da-justica-prorroga-atuacao-da-forca-nacional-em-porto-velho-ro" title="collective.nitf.content">Ministério da Justiça prorroga atuação da Força Nacional em Porto Velho (RO)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Trabalho de policiamento no perímetro interno da penitenciária é feito em apoio ao Depen</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional" class="link-category" rel="nofollow tag">Força Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Departamento Penitenciário Nacional" class="link-category" rel="nofollow tag">Departamento Penitenciário Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Porto Velho" class="link-category" rel="nofollow tag">Porto Velho</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        23/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h15
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-federal-prorroga-permanencia-da-forca-nacional-em-rondonia">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-federal-prorroga-permanencia-da-forca-nacional-em-rondonia/quadros_penitenciarias_pfpv.jpg/@@images/39e9ff66-655d-4159-9664-2e2520847b4e.jpeg" alt="Penitenciária Porto Velho" title="Penitenciária Porto Velho" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-federal-prorroga-permanencia-da-forca-nacional-em-rondonia" title="collective.nitf.content">Governo Federal prorroga permanência da Força Nacional em Rondônia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Efetivo apoia o Departamento Penitenciário Nacional, na Penitenciária Federal de Porto Velho</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Penitenciária Federal de Porto Velho" class="link-category" rel="nofollow tag">Penitenciária Federal de Porto Velho</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Departamento Penitenciário Nacional" class="link-category" rel="nofollow tag">Departamento Penitenciário Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional de Segurança " class="link-category" rel="nofollow tag">Força Nacional de Segurança </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rondônia" class="link-category" rel="nofollow tag">Rondônia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Prorrogação" class="link-category" rel="nofollow tag">Prorrogação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/justica-lanca-cartilhas-para-orientar-ouvidorias-e-corregedorias-no-combate-a-corrupcao">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/justica-lanca-cartilhas-para-orientar-ouvidorias-e-corregedorias-no-combate-a-corrupcao/lancamento-guias-ministerio-da-justica.jpeg/@@images/6b92fcfa-da4f-4bc5-877e-1d19df681360.jpeg" alt="Lançamento Guias Ministério da Justiça.jpeg" title="Lançamento Guias Ministério da Justiça.jpeg" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prevenção</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/justica-lanca-cartilhas-para-orientar-ouvidorias-e-corregedorias-no-combate-a-corrupcao" title="collective.nitf.content">Justiça lança cartilhas para orientar ouvidorias e corregedorias no combate à corrupção</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Objetivo é reforçar o compromisso na prevenção e no combate à prática de atos ilícitos por agentes de segurança pública</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ouvidoria" class="link-category" rel="nofollow tag">Ouvidoria</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Corregedoria" class="link-category" rel="nofollow tag">Corregedoria</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h11
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/forca-nacional-chega-ao-ceara-para-apoiar-governo-estadual">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/forca-nacional-chega-ao-ceara-para-apoiar-governo-estadual/jfcruz_abr_0601192895.jpg/@@images/c01ee4fb-37ab-45ce-9bdb-53c5b2c7bf95.jpeg" alt="Militares da Força Nacional" title="Militares da Força Nacional" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/forca-nacional-chega-ao-ceara-para-apoiar-governo-estadual" title="collective.nitf.content">Força Nacional chega ao Ceará para apoiar governo estadual</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Envio da unidade foi determinado pelo ministro da Justiça, Sergio Moro, após solicitação do governador</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança Pública" class="link-category" rel="nofollow tag">Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional" class="link-category" rel="nofollow tag">Força Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ceará" class="link-category" rel="nofollow tag">Ceará</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Motim PM" class="link-category" rel="nofollow tag">Motim PM</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h47
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/operacao-contra-pornografia-infantil-cumpre-mandados-no-brasil-e-no-exterior">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/operacao-contra-pornografia-infantil-cumpre-mandados-no-brasil-e-no-exterior/whatsapp-image-2020-02-18-at-08-02-53.jpeg/@@images/7cbe9f12-63c1-4594-b748-e986423935e6.jpeg" alt="Sexta fase da operação Luz na Infância é coordenada pelo Ministério da Justiça" title="Sexta fase da operação Luz na Infância é coordenada pelo Ministério da Justiça" height="59" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Exploração sexual</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/operacao-contra-pornografia-infantil-cumpre-mandados-no-brasil-e-no-exterior" title="collective.nitf.content">Operação contra pornografia infantil cumpre mandados no Brasil e no exterior</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Policiais civis cumpriram 112 mandados de busca e apreensão em 12 estados e quatro países</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação Luz na Infância" class="link-category" rel="nofollow tag">Operação Luz na Infância</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça e Segurança Pública" class="link-category" rel="nofollow tag">Ministério da Justiça e Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MJSP" class="link-category" rel="nofollow tag">MJSP</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h07
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/dados-sobre-populacao-carceraria-do-brasil-sao-atualizados">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/dados-sobre-populacao-carceraria-do-brasil-sao-atualizados/837947cd-cd67-4389-ae73-f0991cc08a3b.jpeg/@@images/cb12e778-030d-4554-9233-42c9eb1ecfbb.jpeg" alt="Depen atualiza dados on line sobre a população carcerária do Brasil" title="Depen atualiza dados on line sobre a população carcerária do Brasil" height="80" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/dados-sobre-populacao-carceraria-do-brasil-sao-atualizados" title="collective.nitf.content">Dados sobre população carcerária do Brasil são atualizados</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Nova ferramenta de visualização dos dados penitenciários vai possibilitar comparar informações de diferentes anos e categorias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=População carcerária" class="link-category" rel="nofollow tag">População carcerária</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Depen" class="link-category" rel="nofollow tag">Depen</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça" class="link-category" rel="nofollow tag">Ministério da Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Penitenciárias" class="link-category" rel="nofollow tag">Penitenciárias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Presos" class="link-category" rel="nofollow tag">Presos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h50
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/numero-de-homicidios-cai-21-de-janeiro-a-outubro-de-2019">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/numero-de-homicidios-cai-21-de-janeiro-a-outubro-de-2019/crime-scene-30112_1280.png/@@images/597d083c-60e9-4590-9364-d7a86ce64707.png" alt="Crimes" title="Crimes" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/numero-de-homicidios-cai-21-de-janeiro-a-outubro-de-2019" title="collective.nitf.content">Número de homicídios cai 21% de janeiro a outubro de 2019</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Levantamento do Ministério da Justiça e Segurança Pública aponta para mais de 8.700 vidas preservadas no período</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança" class="link-category" rel="nofollow tag">Segurança</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Homicídio" class="link-category" rel="nofollow tag">Homicídio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Redução da Criminalidade" class="link-category" rel="nofollow tag">Redução da Criminalidade</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sinesp" class="link-category" rel="nofollow tag">Sinesp</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança Pública" class="link-category" rel="nofollow tag">Segurança Pública</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/ministerio-da-justica-autoriza-prorrogacao-da-atuacao-da-forca-nacional-em-cinco-estados">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/ministerio-da-justica-autoriza-prorrogacao-da-atuacao-da-forca-nacional-em-cinco-estados/forca_nacional.jpg/@@images/86342519-367a-4e9d-be37-1deb1e35c6fc.jpeg" alt="Ministro da Justiça autoriza prorrogação da atuação da Força Nacional em cinco Estados por mais 180 dias" title="Ministro da Justiça autoriza prorrogação da atuação da Força Nacional em cinco Estados por mais 180 dias" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/ministerio-da-justica-autoriza-prorrogacao-da-atuacao-da-forca-nacional-em-cinco-estados" title="collective.nitf.content">Ministério da Justiça autoriza prorrogação da atuação da Força Nacional em cinco estados</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Permanência das tropas faz parte do projeto-piloto de enfrentamento à criminalidade violenta</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate à violência" class="link-category" rel="nofollow tag">Combate à violência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Justiça" class="link-category" rel="nofollow tag">Ministério da Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional de Segurança Pública" class="link-category" rel="nofollow tag">Força Nacional de Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Em Frente, Brasil" class="link-category" rel="nofollow tag">Em Frente, Brasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/portaria-estabelece-boas-praticas-anticorrupcao">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/portaria-estabelece-boas-praticas-anticorrupcao/istock-952969160.jpg/@@images/0c20f858-c81a-4edf-ba31-f418f897c855.jpeg" alt="Portaria do Ministério da Mulher, da Família e dos Direitos Humanos estabelece a adoção de boas práticas anticorrupção" title="Portaria do Ministério da Mulher, da Família e dos Direitos Humanos estabelece a adoção de boas práticas anticorrupção" height="52" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Direitos Humanos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/portaria-estabelece-boas-praticas-anticorrupcao" title="collective.nitf.content">Portaria estabelece boas práticas anticorrupção</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Portaria nº 148/2020, do Ministério da Mulher, da Família e dos Direitos Humanos, foi publicada nesta quarta-feira (12)</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Lei Anticorrupção" class="link-category" rel="nofollow tag">Lei Anticorrupção</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Corrupção" class="link-category" rel="nofollow tag">Corrupção</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Mulher, da Família e dos Direitos Humanos" class="link-category" rel="nofollow tag">Ministério da Mulher, da Família e dos Direitos Humanos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        13/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h26
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/operacao-rodovida-sera-intensificada-no-carnaval">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/operacao-rodovida-sera-intensificada-no-carnaval/operacao_rodovida_prf.jpg/@@images/40b4aee6-079e-48af-b9df-e2aad73c702b.jpeg" alt="Operação Rodovida será intensificada no Carnaval" title="Operação Rodovida será intensificada no Carnaval" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança nas estradas</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/operacao-rodovida-sera-intensificada-no-carnaval" title="collective.nitf.content">Operação Rodovida será intensificada no Carnaval</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Além do controle nas rodovias, a Polícia Rodoviária Federal vai atuar no combate à exploração sexual infantil. Operação segue até março</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Polícia Rodoviária Federal" class="link-category" rel="nofollow tag">Polícia Rodoviária Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PRF" class="link-category" rel="nofollow tag">PRF</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação Rodovida" class="link-category" rel="nofollow tag">Operação Rodovida</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Exploração Sexual" class="link-category" rel="nofollow tag">Exploração Sexual</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tráfico de drogas" class="link-category" rel="nofollow tag">Tráfico de drogas</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-federal-autoriza-atuacao-das-forcas-armadas-na-area-externa-da-papuda-em-brasilia">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-federal-autoriza-atuacao-das-forcas-armadas-na-area-externa-da-papuda-em-brasilia/20190703_parceriamd_grande.jpg/@@images/075a3e87-724e-4f6a-ab27-e6a434177683.jpeg" alt="Governo autoriza atuação das Forças Armadas na área externa da Penitenciária Federal de Brasília" title="Governo autoriza atuação das Forças Armadas na área externa da Penitenciária Federal de Brasília" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Apoio</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/governo-federal-autoriza-atuacao-das-forcas-armadas-na-area-externa-da-papuda-em-brasilia" title="collective.nitf.content">Governo Federal autoriza atuação das Forças Armadas na área externa da Papuda, em Brasília</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Decreto de Garantia da Lei e da Ordem foi publicado no Diário Oficial desta sexta-feira (7)</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Forcas arma" class="link-category" rel="nofollow tag">Forcas arma</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h48
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/forca-nacional-atuara-por-mais-da-paraiba">
+              <img src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/forca-nacional-atuara-por-mais-da-paraiba/forca-nacional.png/@@images/8ecf223e-9c2e-47f5-bd35-7b9d0533573b.png" alt="Força Nacional atuará por mais 180 dias no Rio Grande do Norte" title="Força Nacional atuará por mais 180 dias no Rio Grande do Norte" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/02/forca-nacional-atuara-por-mais-da-paraiba" title="collective.nitf.content">Força Nacional atuará por mais 180 dias no Rio Grande do Norte</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ações de policiamento de guarda e vigilância serão intensificadas no perímetro interno da Penitenciária Federal de Mossoró</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Forca Nacional" class="link-category" rel="nofollow tag">Forca Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Paraíba" class="link-category" rel="nofollow tag">Paraíba</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional de Segurança Pública" class="link-category" rel="nofollow tag">Força Nacional de Segurança Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Apoio" class="link-category" rel="nofollow tag">Apoio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h45
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=90">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=0">1</a>
+            </li>
+            <li>
+                
+            </li>
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=30">2</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=60">3</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=90">4</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>5</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=150">6</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=180">7</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=210">8</a>
+        </li>
+        <!-- Link to last -->
+        
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=270">10</a>
+            </li>
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/ultimas-noticias?b_start:int=150">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

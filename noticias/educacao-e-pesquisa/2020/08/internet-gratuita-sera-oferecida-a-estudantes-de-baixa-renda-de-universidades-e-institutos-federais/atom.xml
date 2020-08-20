@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/atom.xml" type="application/atom+xml" />
+  <title type="html">Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais</title>
+  <subtitle>Nos primeiros seis meses, a medida deve beneficiar, pelo menos, 400 mil alunos com renda familiar mensal de até meio salário mínimo</subtitle>
+  <updated>2020-08-18T18:31:04-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/"/>
+  <id>urn:syndication:c52dd0685851440386dd9ec5f399d7e2</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/@@download/image/Estudante_computador.jpeg" length="91283" type="image/jpeg" />
+      <id>urn:syndication:e3e48269300f486ba18f399169e8b7cf</id>
+      <summary>Os alunos que já tem algum tipo de pacote de internet particular vão receber bônus de dados móveis extras</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/@@images/image" title="Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais" alt="Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-17T20:20:02-03:00</published>
+
+      <updated>2020-08-17T20:20:02-03:00</updated>
+
+      
+        <category term="Educação Superior"/>
+      
+        <category term="Estudantes"/>
+      
+        <category term="Baixa Renda"/>
+      
+        <category term="Internet"/>
+      
+        <category term="Ministério da Educação"/>
+      
+        <category term="Milton Ribeiro"/>
+      
+        <category term="Educação profissional"/>
+      
+        <category term="#Covid-19"/>
+      
+        <category term="#Pandemia"/>
+      
+        <category term="#NovoCoronavírus"/>
+      
+
+    </entry>
+
+  
+
+</feed>

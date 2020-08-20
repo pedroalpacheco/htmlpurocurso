@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/atom.xml" type="application/atom+xml" />
+  <title type="html">Do campo à mesa consumidor: governo garante abastecimento da população</title>
+  <subtitle>Ministra Tereza Cristina Promovidas falou sobre as ações do governo para garantir o abastecimento de alimentos para a população</subtitle>
+  <updated>2020-04-29T18:18:52-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/"/>
+  <id>urn:syndication:2ca29a5077cd4b4cbda0e29b6f57a9cd</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Do campo à mesa consumidor: governo garante abastecimento da população</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/@@download/image/49750129353_67440d7df2_c.jpg" length="93958" type="image/jpeg" />
+      <id>urn:syndication:cc6e118c7e4f4b93bd53d7b75d18d505</id>
+      <summary>Ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina fala sobre as ações para garantir o abastecimento de alimentos no País</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/@@images/image" title="Do campo à mesa consumidor: governo garante abastecimento da população" alt="Do campo à mesa consumidor: governo garante abastecimento da população" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Carlos Silva /Mapa</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/04/do-campo-a-mesa-consumidor-governo-garante-abastecimento-da-populacao/49750129353_67440d7df2_c.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-04-29T18:17:16-03:00</published>
+
+      <updated>2020-04-29T18:17:16-03:00</updated>
+
+      
+        <category term="Novo Coronavírus"/>
+      
+        <category term="#Covid-19"/>
+      
+        <category term="#CoronavirusNoBrasil"/>
+      
+        <category term="Agricultura"/>
+      
+        <category term="Ministério da Agricultura, Pecuária e Abastecimento"/>
+      
+
+    </entry>
+
+  
+
+</feed>

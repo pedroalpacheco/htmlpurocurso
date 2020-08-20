@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/RSS">
+  <title>Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais</title>
+  <link>https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais</link>
+  <description>Nos primeiros seis meses, a medida deve beneficiar, pelo menos, 400 mil alunos com renda familiar mensal de até meio salário mínimo</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/view">
+    <title>Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais</title>
+    <link>https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/view</link>
+    <description>Os alunos que já tem algum tipo de pacote de internet particular vão receber bônus de dados móveis extras</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/@@images/image" title="Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais" alt="Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Agência Brasil</dc:rights>
+    
+      <dc:subject>Educação Superior</dc:subject>
+    
+      <dc:subject>Estudantes</dc:subject>
+    
+      <dc:subject>Baixa Renda</dc:subject>
+    
+      <dc:subject>Internet</dc:subject>
+    
+      <dc:subject>Ministério da Educação</dc:subject>
+    
+      <dc:subject>Milton Ribeiro</dc:subject>
+    
+      <dc:subject>Educação profissional</dc:subject>
+    
+      <dc:subject>#Covid-19</dc:subject>
+    
+      <dc:subject>#Pandemia</dc:subject>
+    
+      <dc:subject>#NovoCoronavírus</dc:subject>
+    
+    <dc:date>2020-08-17T23:20:02Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/atom.xml" type="application/atom+xml" />
+  <title type="html">Auxílio Emergencial terá impacto de 2,5% no PIB brasileiro</title>
+  <subtitle>Segundo estudo da Universidade Federal de Pernambuco, as regiões Norte e Nordeste são as mais impactadas pelos recursos</subtitle>
+  <updated>2020-08-12T17:38:32-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/"/>
+  <id>urn:syndication:c648e55ea62e478d848c408279105f4f</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Auxílio Emergencial impactou os estados brasileiros o equivalente a 2,5% do PIB</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/@@download/image/auxlio-agencia brasil.jpeg" length="379849" type="image/jpeg" />
+      <id>urn:syndication:0ce89eeda9334103966f51718ac8f24a</id>
+      <summary>Norte e Nordeste são os mais impactados positivamente</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/@@images/image" title="Auxílio Emergencial impactou os estados brasileiros o equivalente a 2,5% do PIB" alt="Auxílio Emergencial impactou os estados brasileiros o equivalente a 2,5% do PIB" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Antônio Cruz/Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/auxilio-emergencial-tera-impacto-de-2-5-no-pib/auxlio-agencia-brasil.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-12T16:13:06-03:00</published>
+
+      <updated>2020-08-12T16:13:06-03:00</updated>
+
+      
+        <category term="Auxílio Emergencial"/>
+      
+        <category term="PIB"/>
+      
+        <category term="Assistência"/>
+      
+
+    </entry>
+
+  
+
+</feed>

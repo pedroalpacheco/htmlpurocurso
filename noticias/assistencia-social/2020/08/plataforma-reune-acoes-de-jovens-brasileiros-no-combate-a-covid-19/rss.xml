@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link rel="self"                type="application/rss+xml" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/rss.xml" />
+    <title>Plataforma reúne ações de jovens brasileiros no combate à Covid-19</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19</link>
+    <description>Ferramenta busca reunir esforços para solucionar problemas e estimular a colaboração no combate à pandemia</description>
+
+    <language>pt-br</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Plataforma divulga ações e organizações promovidas por jovens que buscam diminuir efeitos da pandemia</title>
+      <description>Iniciativa do Conselho Nacional da Juventude, plataforma "Juventudes contra o Corona" reunirá ações e organizações que são promovidas por jovens e buscam minimizar os impactos da pandemia.</description>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+          <![CDATA[
+          
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/@@images/image" title="Plataforma divulga ações e organizações promovidas por jovens que buscam diminuir efeitos da pandemia" alt="Plataforma divulga ações e organizações promovidas por jovens que buscam diminuir efeitos da pandemia" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Divulgação / Juventudes Contra o Corona</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+          ]]>
+      </content:encoded>
+      <pubDate>Thu, 13 Aug 2020 17:03:59 -0300</pubDate>
+      <guid>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/plataforma-reune-acoes-de-jovens-brasileiros-no-combate-a-covid-19/unnamed.png/view</guid>
+    </item>
+  </channel>
+</rss>

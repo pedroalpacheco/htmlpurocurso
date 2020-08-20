@@ -1,0 +1,3408 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Saúde — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/Governo do Brasil" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude/RSS" title="Últimas Notícias - Saúde - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude/rss.xml" title="Últimas Notícias - Saúde - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude/atom.xml" title="Últimas Notícias - Saúde - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-saude-e-vigilancia-sanitaria subsection-saude-e-vigilancia-sanitaria-ultimas-noticias-saude userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria">Saúde</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Saúde</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Saúde</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">23/05/2018 11h27</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">16/10/2018 11h26</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/mais-medicos-recebe-inscricoes-para-vagas-em-aberto-na-proxima-semana">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/mais-medicos-recebe-inscricoes-para-vagas-em-aberto-na-proxima-semana/mais-medicos-recebe-inscricoes-para-vagas-em-aberto-na-proxima-semana.jpg/@@images/6b0441e2-6074-47e6-bd9e-4dc89b5d7f06.jpeg" alt="Mais Médicos recebe inscrições para vagas em aberto na próxima semana" title="Mais Médicos recebe inscrições para vagas em aberto na próxima semana" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Oportunidade</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/mais-medicos-recebe-inscricoes-para-vagas-em-aberto-na-proxima-semana" title="collective.nitf.content">Mais Médicos recebe inscrições para vagas em aberto na próxima semana</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Locais com oportunidades serão divulgados na quarta (13); lista dos profissionais alocados sai no dia 19</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mais Médicos " class="link-category" rel="nofollow tag">Mais Médicos </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inscrições " class="link-category" rel="nofollow tag">Inscrições </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Médicos" class="link-category" rel="nofollow tag">Médicos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h47
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/marinha-preve-15-mil-atendimentos-medicos-a-ribeirinhos-no-acre">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/marinha-preve-15-mil-atendimentos-medicos-a-ribeirinhos-no-acre/marinha.png/@@images/117fadee-8f68-4c68-9e11-a79d367cf41c.png" alt="Marinha oferece atendimento médico a 15 mil ribeirinhos no Acre" title="Marinha oferece atendimento médico a 15 mil ribeirinhos no Acre" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">política pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/marinha-preve-15-mil-atendimentos-medicos-a-ribeirinhos-no-acre" title="collective.nitf.content">Marinha prevê 15 mil atendimentos médicos a ribeirinhos no Acre</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Navio-hospital vai realizar exames laboratoriais, dermatológicos e radiológicos em cinco cidades atingidas pela cheia do Rio Juruá</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Navio-hospital Doutor Montenegro" class="link-category" rel="nofollow tag">Navio-hospital Doutor Montenegro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=marinha" class="link-category" rel="nofollow tag">marinha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ribeirinhos" class="link-category" rel="nofollow tag">ribeirinhos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/cuidados-com-a-saude-sao-essenciais-para-evitar-novas-vitimas-apos-tragedia-de-brumadinho">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/cuidados-com-a-saude-sao-essenciais-para-evitar-novas-vitimas-apos-tragedia-de-brumadinho/46886665361_3aa8303678_k-1.jpg/@@images/b564dd2b-3b1b-4406-ab84-9b217d95bf64.jpeg" alt="Cuidados com a saúde são essenciais para evitar novas vítimas após tragédia de Brumadinho" title="Cuidados com a saúde são essenciais para evitar novas vítimas após tragédia de Brumadinho" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prevenção</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/cuidados-com-a-saude-sao-essenciais-para-evitar-novas-vitimas-apos-tragedia-de-brumadinho" title="collective.nitf.content">Cuidados com a saúde são essenciais para evitar novas vítimas após tragédia de Brumadinho</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Alimentos e água contaminados, animais peçonhentos, doenças e transtornos emocionais ou psicológicos são alguns dos riscos para a população. Confira as principais orientações para se proteger</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Brumadinho" class="link-category" rel="nofollow tag">Brumadinho</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Barragem" class="link-category" rel="nofollow tag">Barragem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio Paraopeba" class="link-category" rel="nofollow tag">Rio Paraopeba</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cuidados" class="link-category" rel="nofollow tag">Cuidados</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h17
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/criancas-sem-cicatriz-vacinal-nao-precisam-tomar-nova-dose-de-bcg">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/criancas-sem-cicatriz-vacinal-nao-precisam-tomar-nova-dose-de-bcg/photos.jpg/@@images/df4e2e32-ec81-40a9-994d-0abb4bf6dc49.jpeg" alt="Crianças sem cicatriz vacinal não precisar tomar nova dose de BCG" title="Crianças sem cicatriz vacinal não precisar tomar nova dose de BCG" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate à tuberculose</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/criancas-sem-cicatriz-vacinal-nao-precisam-tomar-nova-dose-de-bcg" title="collective.nitf.content">Crianças sem cicatriz vacinal não precisam tomar nova dose de BCG</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Recomendação tem como base estudos publicados pela Organização Mundial da Saúde em 2018</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vacina" class="link-category" rel="nofollow tag">Vacina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=BCG" class="link-category" rel="nofollow tag">BCG</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tuberculose" class="link-category" rel="nofollow tag">Tuberculose</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=OMS" class="link-category" rel="nofollow tag">OMS</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h33
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/doses-de-vacinas-contra-a-febre-aftosa-serao-reduzidas">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/doses-de-vacinas-contra-a-febre-aftosa-serao-reduzidas/vacinacao-aftosa-toninhotavares-agenciabrasilia.jpg/@@images/a9635572-695b-44b7-a333-bc5291a9f105.jpeg" alt="Doses de vacinas contra a febre aftosa serão reduzidas" title="Doses de vacinas contra a febre aftosa serão reduzidas" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Entenda</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/doses-de-vacinas-contra-a-febre-aftosa-serao-reduzidas" title="collective.nitf.content">Doses de vacinas contra a febre aftosa serão reduzidas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Medida deve baratear custos, facilitar transporte e diminuir reações nos animais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vacina" class="link-category" rel="nofollow tag">Vacina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Imunização" class="link-category" rel="nofollow tag">Imunização</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Febre aftosa" class="link-category" rel="nofollow tag">Febre aftosa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Doses" class="link-category" rel="nofollow tag">Doses</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h49
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/gravidez-na-adolescencia-tem-riscos-psicologicos-e-sociais">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/gravidez-na-adolescencia-tem-riscos-psicologicos-e-sociais/andreborgess.jpg/@@images/19d229b7-b46a-4145-9419-22387656aa83.jpeg" alt="Gravidez na adolescência tem riscos psicológicos e sociais" title="Gravidez na adolescência tem riscos psicológicos e sociais" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Maternidade</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/gravidez-na-adolescencia-tem-riscos-psicologicos-e-sociais" title="collective.nitf.content">Gravidez na adolescência tem riscos psicológicos e sociais</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Sociedade deve trabalhar em conjunto para reduzir índice de gestações precoces. Mães muito jovens, assim como seus bebês, exigem cuidados especiais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Gravidez" class="link-category" rel="nofollow tag">Gravidez</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Adolescentes" class="link-category" rel="nofollow tag">Adolescentes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Violência sexual" class="link-category" rel="nofollow tag">Violência sexual</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde da mulher" class="link-category" rel="nofollow tag">Saúde da mulher</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h45
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/pais-devem-ficar-atentos-ao-calendario-nacional-de-vacinacao">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/pais-devem-ficar-atentos-ao-calendario-nacional-de-vacinacao/1015187-rj_25042016_dsc5369.jpg/@@images/cb26ac43-8499-4fac-9e91-bef3953aa1ff.jpeg" alt="Pais devem ficar atentos ao calendário nacional de vacinação" title="Pais devem ficar atentos ao calendário nacional de vacinação" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Imunização</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/pais-devem-ficar-atentos-ao-calendario-nacional-de-vacinacao" title="collective.nitf.content">Pais devem ficar atentos ao calendário nacional de vacinação</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Maioria das doses é aplicada durante a infância e a adolescência</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vacinação" class="link-category" rel="nofollow tag">Vacinação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infância" class="link-category" rel="nofollow tag">Infância</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Adolescência" class="link-category" rel="nofollow tag">Adolescência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Imunização" class="link-category" rel="nofollow tag">Imunização</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Calendário" class="link-category" rel="nofollow tag">Calendário</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h36
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/combate-ao-cancer-depende-de-toda-a-sociedade-afirma-inca">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/combate-ao-cancer-depende-de-toda-a-sociedade-afirma-inca/combate-ao-cancer-depende-de-toda-a-sociedade-afirma-inca.jpg/@@images/09e2ec62-e35f-4945-bc4e-7d4c825fd2f6.jpeg" alt="Combate ao câncer depende de toda a sociedade, afirma Inca" title="Combate ao câncer depende de toda a sociedade, afirma Inca" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prevenção</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/combate-ao-cancer-depende-de-toda-a-sociedade-afirma-inca" title="collective.nitf.content">Combate ao câncer depende de toda a sociedade, afirma Inca</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Dia Mundial do Câncer discute condições das pessoas que sobreviveram à doença</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Dia Mundial do Câncer " class="link-category" rel="nofollow tag">Dia Mundial do Câncer </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tratamento Câncer " class="link-category" rel="nofollow tag">Tratamento Câncer </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Câncer " class="link-category" rel="nofollow tag">Câncer </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SUS" class="link-category" rel="nofollow tag">SUS</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h57
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/alzheimer-acomete-11-5-da-populacao-idosa-do-pais">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/alzheimer-acomete-11-5-da-populacao-idosa-do-pais/alzheimer.png/@@images/796094ac-1c34-462b-92c6-a43c6aab60d6.png" alt="Alzheimer acomete 11,5% da população idosa do País" title="Alzheimer acomete 11,5% da população idosa do País" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">fevereiro roxo</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/alzheimer-acomete-11-5-da-populacao-idosa-do-pais" title="collective.nitf.content">Alzheimer acomete 11,5% da população idosa do País</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O mês de fevereiro faz alerta para a doença</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=alzheimer" class="link-category" rel="nofollow tag">alzheimer</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=cognição" class="link-category" rel="nofollow tag">cognição</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=tratamento" class="link-category" rel="nofollow tag">tratamento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        09h06
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/educacao-sexual-e-fundamental-para-evitar-gravidez-na-adolescencia">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/educacao-sexual-e-fundamental-para-evitar-gravidez-na-adolescencia/gravida-2.png/@@images/1939f483-70b8-4863-86f0-f648603f5966.png" alt="Educação sexual é fundamental para evitar gravidez na adolescência" title="Educação sexual é fundamental para evitar gravidez na adolescência" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prevenção</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/educacao-sexual-e-fundamental-para-evitar-gravidez-na-adolescencia" title="collective.nitf.content">Educação sexual é fundamental para evitar gravidez na adolescência</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Brasil tem reduzido índices de gestação precoce, mas taxas ainda são superiores a médias internacionais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Gravidez" class="link-category" rel="nofollow tag">Gravidez</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Adolescência" class="link-category" rel="nofollow tag">Adolescência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Gestação" class="link-category" rel="nofollow tag">Gestação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Métodos contraceptivos" class="link-category" rel="nofollow tag">Métodos contraceptivos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/02/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h56
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/brasil-aprova-registro-de-mais-uma-vacina-contra-meningite-b">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/brasil-aprova-registro-de-mais-uma-vacina-contra-meningite-b/41633375372_a5cb73ea42_k.jpg/@@images/70d4f3d9-e634-4664-b5e3-0cb3cd7347e9.jpeg" alt="Brasil aprova registro de mais uma vacina contra Meningite B" title="Brasil aprova registro de mais uma vacina contra Meningite B" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prevenção</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/02/brasil-aprova-registro-de-mais-uma-vacina-contra-meningite-b" title="collective.nitf.content">Brasil aprova registro de mais uma vacina contra meningite B</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Novo medicamento é indicado para a imunização ativa de pessoas com idade entre 10 e 25 anos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meningite B" class="link-category" rel="nofollow tag">Meningite B</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vacina" class="link-category" rel="nofollow tag">Vacina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Imunização" class="link-category" rel="nofollow tag">Imunização</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/certificado-de-profilaxia-comeca-a-ser-emitido-pela-internet">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/certificado-de-profilaxia-comeca-a-ser-emitido-pela-internet/civp.jpg/@@images/aa698833-5a7f-4952-b791-43dfc9b73212.jpeg" alt="Certificado de Profilaxia começa a ser emitido pela internet" title="Certificado de Profilaxia começa a ser emitido pela internet" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">desburocratização</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/certificado-de-profilaxia-comeca-a-ser-emitido-pela-internet" title="collective.nitf.content">Certificado de profilaxia começa a ser emitido pela internet</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Medida deve economizar R$ 120 milhões dos cofres públicos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Certificado Internacional de Vacinação " class="link-category" rel="nofollow tag">Certificado Internacional de Vacinação </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=anvisa" class="link-category" rel="nofollow tag">anvisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=febre amarela" class="link-category" rel="nofollow tag">febre amarela</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h28
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/hanseniase-tem-tratamento-e-cura-diagnostico-precoce-e-fundamental">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/hanseniase-tem-tratamento-e-cura-diagnostico-precoce-e-fundamental/22823279066_2334c73496_k-1-1.jpg/@@images/a07b244c-9f55-408b-800a-4ae347379eda.jpeg" alt="Hanseníase tem tratamento e cura. Diagnóstico precoce é fundamental" title="Hanseníase tem tratamento e cura. Diagnóstico precoce é fundamental" height="66" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Conscientização</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/hanseniase-tem-tratamento-e-cura-diagnostico-precoce-e-fundamental" title="collective.nitf.content">Hanseníase tem tratamento e cura. Diagnóstico precoce é fundamental</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O último domingo de janeiro é definido por lei como o Dia Nacional de Combate e Prevenção da Hanseníase. Saiba mais sobre os sintomas e o tratamento da doença</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hanseníase" class="link-category" rel="nofollow tag">Hanseníase</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tratamento" class="link-category" rel="nofollow tag">Tratamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cura" class="link-category" rel="nofollow tag">Cura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Medicamentos" class="link-category" rel="nofollow tag">Medicamentos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        09h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/tramite-do-certificado-de-vacinacao-sera-totalmente-pela-internet">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/tramite-do-certificado-de-vacinacao-sera-totalmente-pela-internet/vacina.jpg/@@images/80f2716c-1ada-46e7-a5d0-2df93d500c3a.jpeg" alt="Brasil é pioneiro na emissão digital de Certificado Internacional de Vacinação ou Profilaxia" title="Brasil é pioneiro na emissão digital de Certificado Internacional de Vacinação ou Profilaxia" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">eficiência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/tramite-do-certificado-de-vacinacao-sera-totalmente-pela-internet" title="collective.nitf.content">Trâmite do certificado de vacinação será totalmente pela internet</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ação deverá economizar R$ 120 milhões ao ano e aumentar controle na emissão do documento</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Certificado Internacional de Vacinação ou Profilaxia" class="link-category" rel="nofollow tag">Certificado Internacional de Vacinação ou Profilaxia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=febre amarela" class="link-category" rel="nofollow tag">febre amarela</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=vacinação" class="link-category" rel="nofollow tag">vacinação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        25/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/aumentar-a-eficiencia-de-hospitais-federais-e-prioridade-para-governo">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/aumentar-a-eficiencia-de-hospitais-federais-e-prioridade-para-governo/hospital.png/@@images/cf667591-9312-47eb-8093-49b711c691b6.png" alt="Melhoria da eficiência de hospitais federais é prioridade para governo" title="Melhoria da eficiência de hospitais federais é prioridade para governo" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Gestão pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/aumentar-a-eficiencia-de-hospitais-federais-e-prioridade-para-governo" title="collective.nitf.content">Aumentar a eficiência de hospitais federais é prioridade para governo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Revisão na prestação de serviços das unidades do Rio de Janeiro faz parte das ações dos 100 dias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=eficiência" class="link-category" rel="nofollow tag">eficiência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=100 dias de governo" class="link-category" rel="nofollow tag">100 dias de governo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=hospitais federais" class="link-category" rel="nofollow tag">hospitais federais</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        23/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/brasileiros-formados-no-exterior-e-estrangeiros-tem-novas-datas-para-escolher-municipios">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/brasileiros-formados-no-exterior-e-estrangeiros-tem-novas-datas-para-escolher-municipios/saude-e-vigilancia-sanitaria.jpg/@@images/b791059d-eeab-4bd4-987f-10290f7c9d2f.jpeg" alt="Brasileiros formados no exterior e estrangeiros têm novas datas para escolher municípios" title="Brasileiros formados no exterior e estrangeiros têm novas datas para escolher municípios" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Mais Médicos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/brasileiros-formados-no-exterior-e-estrangeiros-tem-novas-datas-para-escolher-municipios" title="collective.nitf.content">Brasileiros formados no exterior e estrangeiros têm novas datas para escolher municípios</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Mais de 10 mil profissionais com registro fora do Brasil se inscreveram no programa. Conheça o novo cronograma</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mais Médicos" class="link-category" rel="nofollow tag">Mais Médicos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Municípios" class="link-category" rel="nofollow tag">Municípios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cronograma" class="link-category" rel="nofollow tag">Cronograma</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/forcas-armadas-vao-oferecer-apoio-logistico-ao-mais-medicos">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/forcas-armadas-vao-oferecer-apoio-logistico-ao-mais-medicos/29261070461_7ab500b80a_k.jpg/@@images/e969efd4-5ef9-449f-aaf2-4e17671ed4e4.jpeg" alt="Forças Armadas vão oferecer apoio logístico ao Mais Médicos" title="Forças Armadas vão oferecer apoio logístico ao Mais Médicos" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Atenção básica</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/forcas-armadas-vao-oferecer-apoio-logistico-ao-mais-medicos" title="collective.nitf.content">Forças Armadas vão oferecer apoio logístico ao Mais Médicos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Portaria do Ministério da Defesa publicada nesta quarta-feira (16) determina as atribuições do Exército, da Marinha e da Aeronáutica no âmbito do programa</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Atenção básica" class="link-category" rel="nofollow tag">Atenção básica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mais Médicos" class="link-category" rel="nofollow tag">Mais Médicos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Forças Armadas" class="link-category" rel="nofollow tag">Forças Armadas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Apoio logístico" class="link-category" rel="nofollow tag">Apoio logístico</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        16/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h45
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/prazo-para-indicar-instituicoes-ao-programa-saude-na-escola-termina-em-fevereiro">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/prazo-para-indicar-instituicoes-ao-programa-saude-na-escola-termina-em-fevereiro/saude-e-vigilancia-sanitaria-escola-interna.jpg/@@images/40d89754-d2a5-4a82-afda-45082946e043.jpeg" alt="Municípios têm até 15 de fevereiro para indicar instituições ao Programa Saúde na Escola" title="Municípios têm até 15 de fevereiro para indicar instituições ao Programa Saúde na Escola" height="63" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Política Pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/prazo-para-indicar-instituicoes-ao-programa-saude-na-escola-termina-em-fevereiro" title="collective.nitf.content">Prazo para indicar instituições ao Programa Saúde na Escola termina em fevereiro</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Iniciativa é parceria entre os Ministérios da Saúde e da Educação. Objetivo é promover ações nas escolas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Saúde na Escola " class="link-category" rel="nofollow tag">Programa Saúde na Escola </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=prevenção" class="link-category" rel="nofollow tag">prevenção</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=tratamento" class="link-category" rel="nofollow tag">tratamento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        15/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h28
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/cobertura-da-assistencia-farmaceutica-cresce-51">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/cobertura-da-assistencia-farmaceutica-cresce-51/medicamentos.jpg/@@images/060604ea-5842-4cbc-861a-ac2c1a9a8fcc.jpeg" alt="Cobertura da assistência farmacêutica cresce 51%" title="Cobertura da assistência farmacêutica cresce 51%" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">política pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/cobertura-da-assistencia-farmaceutica-cresce-51" title="collective.nitf.content">Cobertura da assistência farmacêutica cresce 51%</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministério da Saúde destinou R$ 27 milhões para 2,8 mil municípios em 2018</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Nacional de Qualificação da Assistência Farmacêutica " class="link-category" rel="nofollow tag">Programa Nacional de Qualificação da Assistência Farmacêutica </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=investimento" class="link-category" rel="nofollow tag">investimento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        15/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/casos-de-sarampo-chegam-a-10-2-mil">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/casos-de-sarampo-chegam-a-10-2-mil/vacina_.jpg/@@images/d85aa858-abbd-43ec-ba0a-d651c3649fa1.jpeg" alt="Casos de sarampo chegam a 10,2 mil" title="Casos de sarampo chegam a 10,2 mil" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">balanço</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/casos-de-sarampo-chegam-a-10-2-mil" title="collective.nitf.content">Casos de sarampo chegam a 10,2 mil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministério da Saúde investe em vacinação, capacitação e apoio técnico para conter surtos no Amazonas e em Roraima</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=sarampo" class="link-category" rel="nofollow tag">sarampo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=vacinação" class="link-category" rel="nofollow tag">vacinação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=controle de surto" class="link-category" rel="nofollow tag">controle de surto</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/sus-oferece-medicamento-para-tratamento-de-esclerose-multipla">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/sus-oferece-medicamento-para-tratamento-de-esclerose-multipla/remedio.jpg/@@images/c1c529fa-6185-4b22-b439-2a9175ff30bc.jpeg" alt="SUS oferece medicamento para tratamento de esclerose múltipla" title="SUS oferece medicamento para tratamento de esclerose múltipla" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">tratamento</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/sus-oferece-medicamento-para-tratamento-de-esclerose-multipla" title="collective.nitf.content">SUS oferece medicamento para tratamento de esclerose múltipla</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Remédio injetável melhora qualidade de vida dos pacientes</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=medicamento" class="link-category" rel="nofollow tag">medicamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=esclerose múltipla" class="link-category" rel="nofollow tag">esclerose múltipla</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SUS" class="link-category" rel="nofollow tag">SUS</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h41
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/doenca-que-leva-a-perda-de-visao-tem-novo-tratamento-na-rede-publica">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/doenca-que-leva-a-perda-de-visao-tem-novo-tratamento-na-rede-publica/30323634765_251362c864_k.jpg/@@images/ce94ccab-7245-499c-9625-48f7cf3c6853.jpeg" alt="Degeneração macular ganha novo tratamento gratuito na rede pública" title="Degeneração macular ganha novo tratamento gratuito na rede pública" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">DRMI</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/doenca-que-leva-a-perda-de-visao-tem-novo-tratamento-na-rede-publica" title="collective.nitf.content">Doença que leva à perda de visão tem novo tratamento na rede pública</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Medicamento antiangiogênico e exames de tomografia de coerência óptica foram incorporados ao SUS</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Degeneração Macular Relacionada à Idade" class="link-category" rel="nofollow tag">Degeneração Macular Relacionada à Idade</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tratamento" class="link-category" rel="nofollow tag">Tratamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Medicamento" class="link-category" rel="nofollow tag">Medicamento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h46
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/profissionais-do-mais-medicos-devem-se-apresentar-a-partir-desta-segunda-7">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/profissionais-do-mais-medicos-devem-se-apresentar-a-partir-desta-segunda-7/fpzzb_abr_17112018-5603.png/@@images/06f95e65-e2b5-4302-9e8e-5aa562b7bba0.png" alt="Prazo para apresentação nos municípios começa nesta segunda-feira (7)" title="Prazo para apresentação nos municípios começa nesta segunda-feira (7)" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segunda chamada</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/profissionais-do-mais-medicos-devem-se-apresentar-a-partir-desta-segunda-7" title="collective.nitf.content">Profissionais do Mais Médicos devem se apresentar a partir desta segunda (7)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ao todo, 1.070 médicos devem comparecer aos locais indicados na inscrição. Prazo termina na próxima quinta-feira (10)</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mais Médicos" class="link-category" rel="nofollow tag">Mais Médicos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segunda chamada" class="link-category" rel="nofollow tag">Segunda chamada</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h46
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/remedio-para-doenca-rara-passa-a-ser-ofertado-pelo-sus">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/remedio-para-doenca-rara-passa-a-ser-ofertado-pelo-sus/remdio-genrico-cncer.jpg/@@images/6e03f98e-ce3d-458f-9c33-938be5e4a958.jpeg" alt="Remédio para doença rara passa a ser ofertado pelo SUS" title="Remédio para doença rara passa a ser ofertado pelo SUS" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Tratamento</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2019/01/remedio-para-doenca-rara-passa-a-ser-ofertado-pelo-sus" title="collective.nitf.content">Remédio para doença rara passa a ser ofertado pelo SUS</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Gestantes e mulheres que se preparam para engravidar terão prioridade no medicamento contra fenilcetonúria</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=fenilcetonúria" class="link-category" rel="nofollow tag">fenilcetonúria</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=sistema único de saúde" class="link-category" rel="nofollow tag">sistema único de saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=doenças raras" class="link-category" rel="nofollow tag">doenças raras</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/01/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h15
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/02/brasil-e-referencia-em-doacao-de-leite-materno">
+              <img src="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/02/brasil-e-referencia-em-doacao-de-leite-materno/breastfeeding-827169_1920.jpg/@@images/d7248e05-e620-44ea-ad26-fb115db70bef.jpeg" alt="Leite Humano" title="Leite Humano" height="84" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SAÚDE</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/02/brasil-e-referencia-em-doacao-de-leite-materno" title="collective.nitf.content">Brasil é referência em doação de leite materno</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">País tem tecnologia suficiente para  organizar as redes de bancos de leite humanos, reduzindo o tempo de permanência em UTIs de bebês prematuros e, com isso, melhorando os índices de mortalidade infantil</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saúde" class="link-category" rel="nofollow tag">Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Doação" class="link-category" rel="nofollow tag">Doação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Banco de Leite Humano" class="link-category" rel="nofollow tag">Banco de Leite Humano</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rede Nacional" class="link-category" rel="nofollow tag">Rede Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Recém-Nascido" class="link-category" rel="nofollow tag">Recém-Nascido</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Lactante" class="link-category" rel="nofollow tag">Lactante</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SUS" class="link-category" rel="nofollow tag">SUS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Leite Humano" class="link-category" rel="nofollow tag">Leite Humano</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=480">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=0">1</a>
+            </li>
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=420">15</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=450">16</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/ultimas-noticias-saude?b_start:int=480">17</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>18</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        
+        <!-- Link to last -->
+        
+        
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

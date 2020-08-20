@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/RSS">
+  <title>Detentos voltarão a receber visitas virtuais e atendimento de advogados</title>
+  <link>https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados</link>
+  <description>Decreto autorizou o retorno das atividades no Sistema Penitenciário Federal</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/view">
+    <title>Penitenciários voltarão a receber visitas virtuais e atendimento regular de advogados</title>
+    <link>https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/view</link>
+    <description>Atendimentos jurídicos serão limitados a quatro agendamentos diários de no máximo 30 minutos. Visitas podem ser realizadas por cônjuges de comprovada união estável, parentes e amigos.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/@@images/image" title="Penitenciários voltarão a receber visitas virtuais e atendimento regular de advogados" alt="Penitenciários voltarão a receber visitas virtuais e atendimento regular de advogados" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Departamento Penitenciário Nacional</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Departamento Penitenciário Nacional</dc:rights>
+    
+      <dc:subject>SPF</dc:subject>
+    
+      <dc:subject>#Depen</dc:subject>
+    
+      <dc:subject>#dpu</dc:subject>
+    
+      <dc:subject>Ministério da Justiça e Segurança Pública</dc:subject>
+    
+    <dc:date>2020-08-14T19:08:41Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

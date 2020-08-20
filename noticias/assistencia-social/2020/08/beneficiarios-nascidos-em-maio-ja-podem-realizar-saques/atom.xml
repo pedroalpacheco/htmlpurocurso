@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques/atom.xml" type="application/atom+xml" />
+  <title type="html">Beneficiários nascidos em maio já podem realizar saques</title>
+  <subtitle>Nesta sexta-feira, os 3,9 milhões de brasileiros nascidos em agosto poderão movimentar os recursos por meio do Caixa Tem</subtitle>
+  <updated>2020-08-14T12:56:28-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques/"/>
+  <id>urn:syndication:6d92ac4baabd42e4a60477c2be09c4b2</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Beneficiários nascidos em maio podem realizar saques e transferências de novas parcelas</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques/21_07_2020_app_auxilio_emergencial-5-1.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques/21_07_2020_app_auxilio_emergencial-5-1.jpg/@@download/image/21_07_2020_app_auxilio_emergencial-5 (1).jpg" length="95472" type="image/jpeg" />
+      <id>urn:syndication:abd3d778eec142629c23b3aaa2b3c34f</id>
+      <summary>A CAIXA já pagou R$ 154,1 bilhões para 66,1 milhões de pessoas</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques/21_07_2020_app_auxilio_emergencial-5-1.jpg/@@images/image" title="Beneficiários nascidos em maio podem realizar saques e transferências de novas parcelas" alt="Beneficiários nascidos em maio podem realizar saques e transferências de novas parcelas" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques/21_07_2020_app_auxilio_emergencial-5-1.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/beneficiarios-nascidos-em-maio-ja-podem-realizar-saques/21_07_2020_app_auxilio_emergencial-5-1.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-14T12:20:59-03:00</published>
+
+      <updated>2020-08-14T12:20:59-03:00</updated>
+
+      
+        <category term="Caixa"/>
+      
+        <category term="Auxílio Emergencial"/>
+      
+        <category term="Beneficiários"/>
+      
+
+    </entry>
+
+  
+
+</feed>

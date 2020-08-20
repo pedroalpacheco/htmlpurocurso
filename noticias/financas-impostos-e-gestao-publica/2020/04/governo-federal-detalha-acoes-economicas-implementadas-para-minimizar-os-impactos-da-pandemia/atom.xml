@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia/atom.xml" type="application/atom+xml" />
+  <title type="html">Governo Federal detalha ações econômicas implementadas para minimizar os impactos da pandemia</title>
+  <subtitle>As ações foram detalhadas durante coletiva de imprensa com os Ministros da Economia e Casa Civi, no Palácio do Planalto</subtitle>
+  <updated>2020-04-30T16:19:10-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia/"/>
+  <id>urn:syndication:2acb668e38cb4dab9130240af6ff0b9a</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Governo Federal detalha ações econômicas implementadas para minimizar os impactos da pandemia</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia/coletiva-economia.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia/coletiva-economia.jpeg/@@download/image/coletiva economia.jpeg" length="151015" type="image/jpeg" />
+      <id>urn:syndication:0c7ecff48f1a4ee7b5ab260d117f67c2</id>
+      <summary>Coletiva de Imprensa com os Ministros da Economia e Casa Civil - Foto: Alan Santos/PR</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia/coletiva-economia.jpeg/@@images/image" title="Governo Federal detalha ações econômicas implementadas para minimizar os impactos da pandemia" alt="Governo Federal detalha ações econômicas implementadas para minimizar os impactos da pandemia" />
+    <div class="discreet">
+        <div>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia/coletiva-economia.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-federal-detalha-acoes-economicas-implementadas-para-minimizar-os-impactos-da-pandemia/coletiva-economia.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-04-29T18:55:53-03:00</published>
+
+      <updated>2020-04-29T18:55:53-03:00</updated>
+
+      
+        <category term="Novo Coronavírus"/>
+      
+        <category term="#CoronavirusNoBrasil"/>
+      
+        <category term="#Coronavirus"/>
+      
+        <category term="Economia"/>
+      
+        <category term="Casa Civil"/>
+      
+
+    </entry>
+
+  
+
+</feed>

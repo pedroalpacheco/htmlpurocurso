@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/RSS">
+  <title>Ministérios firmam parceria para promover o desenvolvimento infantil</title>
+  <link>https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil</link>
+  <description>Objetivo é integrar as ações dos programas Criança Feliz, do Ministério da Cidadania, e do Conta pra Mim, do Ministério da Educação</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/view">
+    <title>Ministérios firmam parceria para promover o desenvolvimento infantil</title>
+    <link>https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/view</link>
+    <description>Programas buscam estimular a participação da família no processo de alfabetização da criança.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/@@images/image" title="Ministérios firmam parceria para promover o desenvolvimento infantil" alt="Ministérios firmam parceria para promover o desenvolvimento infantil" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Francisco Medeiros/Min. Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Francisco Medeiros/Min. Cidadania</dc:rights>
+    
+      <dc:subject>Conta Pra Mim</dc:subject>
+    
+      <dc:subject>Criança Feliz</dc:subject>
+    
+      <dc:subject>Ministério da Cidadania</dc:subject>
+    
+      <dc:subject>Ministério da Educação</dc:subject>
+    
+      <dc:subject>PNA</dc:subject>
+    
+    <dc:date>2020-08-13T17:33:54Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

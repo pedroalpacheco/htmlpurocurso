@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-ja-entregou-79-automoveis-a-conselhos-tutelares/RSS">
+  <title>Governo já entregou 79 automóveis a conselhos tutelares</title>
+  <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-ja-entregou-79-automoveis-a-conselhos-tutelares</link>
+  <description>Os veículos ajudam os profissionais no fortalecimento das ações de promoção e defesa dos direitos das crianças e adolescentes</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-ja-entregou-79-automoveis-a-conselhos-tutelares/3883a758-9f9d-4606-aa1d-575ea68cedd8.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-ja-entregou-79-automoveis-a-conselhos-tutelares/3883a758-9f9d-4606-aa1d-575ea68cedd8.jpeg/view">
+    <title>Governo já entregou 79 automóveis a conselhos tutelares durante pandemia</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-ja-entregou-79-automoveis-a-conselhos-tutelares/3883a758-9f9d-4606-aa1d-575ea68cedd8.jpeg/view</link>
+    <description>Com o custo de R$55 mil cada, os veículos auxiliarão os conselhos tutelares nas ações de promoção e defesa dos direitos das crianças e adolescentes.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-ja-entregou-79-automoveis-a-conselhos-tutelares/3883a758-9f9d-4606-aa1d-575ea68cedd8.jpeg/@@images/image" title="Governo já entregou 79 automóveis a conselhos tutelares durante pandemia" alt="Governo já entregou 79 automóveis a conselhos tutelares durante pandemia" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Willian Meira/MMFDH</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-ja-entregou-79-automoveis-a-conselhos-tutelares/3883a758-9f9d-4606-aa1d-575ea68cedd8.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-ja-entregou-79-automoveis-a-conselhos-tutelares/3883a758-9f9d-4606-aa1d-575ea68cedd8.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Willian Meira/MMFDH</dc:rights>
+    
+      <dc:subject>Conselho Tutelar</dc:subject>
+    
+      <dc:subject>MMFDH</dc:subject>
+    
+      <dc:subject>Assistência Social</dc:subject>
+    
+    <dc:date>2020-08-14T20:08:37Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

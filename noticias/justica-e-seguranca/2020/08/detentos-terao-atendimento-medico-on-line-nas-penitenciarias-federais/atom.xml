@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais/atom.xml" type="application/atom+xml" />
+  <title type="html">Detentos terão atendimento médico on-line nas penitenciárias federais</title>
+  <subtitle>A iniciativa integra o rol de ações emergenciais voltadas para a prevenção, controle e cuidados da Covid-19 nas penitenciárias federais</subtitle>
+  <updated>2020-08-13T14:06:22-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais/"/>
+  <id>urn:syndication:18ad76a197b94ac599d9cd2f9422e4c5</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Depen disponibiliza atendimento por telemedicina no Sistema Penitenciário Federal</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais/d7f1e506-7070-41c8-8b76-dc6df25d2844.png/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais/d7f1e506-7070-41c8-8b76-dc6df25d2844.png/@@download/image/d7f1e506-7070-41c8-8b76-dc6df25d2844.png" length="492302" type="image/png" />
+      <id>urn:syndication:8398807be32d4c2692e245ddfb10a533</id>
+      <summary>SPF incorpora a telemedicina no sistema prisional</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais/d7f1e506-7070-41c8-8b76-dc6df25d2844.png/@@images/image" title="Depen disponibiliza atendimento por telemedicina no Sistema Penitenciário Federal" alt="Depen disponibiliza atendimento por telemedicina no Sistema Penitenciário Federal" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Depen</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais/d7f1e506-7070-41c8-8b76-dc6df25d2844.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-terao-atendimento-medico-on-line-nas-penitenciarias-federais/d7f1e506-7070-41c8-8b76-dc6df25d2844.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-13T12:37:15-03:00</published>
+
+      <updated>2020-08-13T12:37:15-03:00</updated>
+
+      
+        <category term="Segurança"/>
+      
+        <category term="#Covid19"/>
+      
+        <category term="#CoronavirusNoBrasil"/>
+      
+        <category term="Sistema Penitenciário Federal"/>
+      
+        <category term="#Depen"/>
+      
+
+    </entry>
+
+  
+
+</feed>

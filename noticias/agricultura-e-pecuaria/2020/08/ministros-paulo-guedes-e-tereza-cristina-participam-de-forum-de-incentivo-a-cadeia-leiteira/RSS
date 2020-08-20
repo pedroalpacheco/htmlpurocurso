@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/08/ministros-paulo-guedes-e-tereza-cristina-participam-de-forum-de-incentivo-a-cadeia-leiteira/RSS">
+  <title>Ministros Paulo Guedes e Tereza Cristina participam de Fórum de Incentivo à Cadeia Leiteira</title>
+  <link>https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/08/ministros-paulo-guedes-e-tereza-cristina-participam-de-forum-de-incentivo-a-cadeia-leiteira</link>
+  <description>A live foi organizada pela Frente Parlamentar Agropecuária (FPA) e conduzida pela deputada federal Aline Sleutjes</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/08/ministros-paulo-guedes-e-tereza-cristina-participam-de-forum-de-incentivo-a-cadeia-leiteira/specialist-coffee-shop-a-man-pouring-hot-milk-into-amqw43d.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/08/ministros-paulo-guedes-e-tereza-cristina-participam-de-forum-de-incentivo-a-cadeia-leiteira/specialist-coffee-shop-a-man-pouring-hot-milk-into-amqw43d.jpg/view">
+    <title>Fórum de Incentido à Cadeia Leiteira tem participação de Paulo Guedes e Ministra Tereza Cristina</title>
+    <link>https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/08/ministros-paulo-guedes-e-tereza-cristina-participam-de-forum-de-incentivo-a-cadeia-leiteira/specialist-coffee-shop-a-man-pouring-hot-milk-into-amqw43d.jpg/view</link>
+    <description>O setor leiteiro é uma das prioridades do Ministério da Agricultura, Pecuária e Abastecimento</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/08/ministros-paulo-guedes-e-tereza-cristina-participam-de-forum-de-incentivo-a-cadeia-leiteira/specialist-coffee-shop-a-man-pouring-hot-milk-into-amqw43d.jpg/@@images/image" title="Fórum de Incentido à Cadeia Leiteira tem participação de Paulo Guedes e Ministra Tereza Cristina" alt="Fórum de Incentido à Cadeia Leiteira tem participação de Paulo Guedes e Ministra Tereza Cristina" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Banco de Imagens</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/08/ministros-paulo-guedes-e-tereza-cristina-participam-de-forum-de-incentivo-a-cadeia-leiteira/specialist-coffee-shop-a-man-pouring-hot-milk-into-amqw43d.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2020/08/ministros-paulo-guedes-e-tereza-cristina-participam-de-forum-de-incentivo-a-cadeia-leiteira/specialist-coffee-shop-a-man-pouring-hot-milk-into-amqw43d.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Banco de Imagens</dc:rights>
+    
+      <dc:subject>Agricultura</dc:subject>
+    
+      <dc:subject>produtores rurais</dc:subject>
+    
+      <dc:subject>pandemia</dc:subject>
+    
+      <dc:subject>cadeia leiteira</dc:subject>
+    
+    <dc:date>2020-08-11T15:35:12Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

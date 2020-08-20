@@ -1,0 +1,3836 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Meio Ambiente — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/Governo do Brasil" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente/RSS" title="Últimas Notícias - Meio Ambiente - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente/rss.xml" title="Últimas Notícias - Meio Ambiente - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente/atom.xml" title="Últimas Notícias - Meio Ambiente - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-meio-ambiente-e-clima subsection-meio-ambiente-e-clima-ultimas-noticias-meio-ambiente userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima">Meio Ambiente</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Meio Ambiente</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Meio Ambiente</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">19/05/2018 10h20</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">16/10/2018 11h23</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/05/combate-a-crimes-e-desmatamento-estao-na-mira-de-operacao-na-amazonia-legal">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/05/combate-a-crimes-e-desmatamento-estao-na-mira-de-operacao-na-amazonia-legal/verde-brasil-2.jpeg/@@images/9232e0f4-daf8-47d7-9353-292ff5fd6d09.jpeg" alt="Combate a crimes e desmatamento estão na mira de operação na Amazônia Legal" title="Combate a crimes e desmatamento estão na mira de operação na Amazônia Legal" height="91" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Operação Verde Brasil 2</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/05/combate-a-crimes-e-desmatamento-estao-na-mira-de-operacao-na-amazonia-legal" title="collective.nitf.content">Combate a crimes e desmatamento estão na mira de operação na Amazônia Legal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Em Marabá (PA), militares e fiscais encontram garimpo clandestino</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação Verde Brasil 2" class="link-category" rel="nofollow tag">Operação Verde Brasil 2</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Garimpo Ilegal" class="link-category" rel="nofollow tag">Garimpo Ilegal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Forças Armadas" class="link-category" rel="nofollow tag">Forças Armadas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=GLO" class="link-category" rel="nofollow tag">GLO</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h45
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/05/governo-da-inicio-a-operacao-verde-brasil-2">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/05/governo-da-inicio-a-operacao-verde-brasil-2/20191003-verde-brasil-grande-01.jpg/@@images/8ddcda26-4b17-49f1-bf66-ef357dd6b92f.jpeg" alt="20191003---Verde-Brasil-Grande--01.jpg" title="20191003---Verde-Brasil-Grande--01.jpg" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Amazônia Legal</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/05/governo-da-inicio-a-operacao-verde-brasil-2" title="collective.nitf.content">Governo dá início à Operação Verde Brasil 2</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Objetivo é combater crimes ambientais e focos de incêndio na Amazônia Legal</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Amazônia Legal" class="link-category" rel="nofollow tag">Amazônia Legal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação Verde Brasil" class="link-category" rel="nofollow tag">Operação Verde Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conselho Nacional da Amazônia" class="link-category" rel="nofollow tag">Conselho Nacional da Amazônia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h03
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/03/vindas-da-alemanha-ararinhas-azuis-superam-expectativas-de-adaptacao-no-isolamento">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/03/vindas-da-alemanha-ararinhas-azuis-superam-expectativas-de-adaptacao-no-isolamento/araras_primeirociclo_750.jpg/@@images/122bead8-3a5f-49bc-bb8d-29c79ad7ee98.jpeg" alt="No isolamento, Ararinhas-azuis superam expectativas de adaptação" title="No isolamento, Ararinhas-azuis superam expectativas de adaptação" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Preservação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/03/vindas-da-alemanha-ararinhas-azuis-superam-expectativas-de-adaptacao-no-isolamento" title="collective.nitf.content">No isolamento, ararinhas-azuis superam expectativas de adaptação</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Espécie é considerada extinta na natureza desde 2000. Serão 52 ararinhas reintroduzidas em Curaçá/BA</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Plano de Ação Nacional para a Conservação da Ararinha Azul" class="link-category" rel="nofollow tag">Plano de Ação Nacional para a Conservação da Ararinha Azul</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ararinha-azul" class="link-category" rel="nofollow tag">Ararinha-azul</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ararinha" class="link-category" rel="nofollow tag">Ararinha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Meio Ambiente" class="link-category" rel="nofollow tag">Ministério do Meio Ambiente</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        16/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h08
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/brasil-possui-1-567-reservas-particulares-do-patrimonio-natural">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/brasil-possui-1-567-reservas-particulares-do-patrimonio-natural/rppn.jpeg/@@images/0b9d8cb9-5873-4095-a4e9-6bba199ac93e.jpeg" alt="Brasil possui 1.567 Reservas Particulares do Patrimônio Natural" title="Brasil possui 1.567 Reservas Particulares do Patrimônio Natural" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Meio ambiente</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/brasil-possui-1-567-reservas-particulares-do-patrimonio-natural" title="collective.nitf.content">Brasil possui 1.567 Reservas Particulares do Patrimônio Natural</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O ICMBio possui um roteiro para o proprietário que deseja transformar as terras em uma RPPN</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conservação ambiental" class="link-category" rel="nofollow tag">Conservação ambiental</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=RPPN" class="link-category" rel="nofollow tag">RPPN</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Reserva ecológica" class="link-category" rel="nofollow tag">Reserva ecológica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Meio Ambiente" class="link-category" rel="nofollow tag">Ministério do Meio Ambiente</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        00h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/03/ararinhas-azuis-retornam-ao-brasil">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/03/ararinhas-azuis-retornam-ao-brasil/ararinha-azul.jpeg/@@images/02073b11-62b0-4aa3-b941-4695228b5665.jpeg" alt="Ararinhas-azuis estão de volta à Caatinga" title="Ararinhas-azuis estão de volta à Caatinga" height="128" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">MEIO AMBIENTE</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/03/ararinhas-azuis-retornam-ao-brasil" title="collective.nitf.content">Ararinhas-azuis retornam ao Brasil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Cinquenta aves vindas da Alemanha desembarcarão na cidade de Curaçá (BA), onde permanecerão em um centro de reprodução construído para abrigá-las</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ararinha-azul" class="link-category" rel="nofollow tag">Ararinha-azul</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caatinga" class="link-category" rel="nofollow tag">Caatinga</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Instituto Chico Mendes de Conservação da Biodiversidade" class="link-category" rel="nofollow tag">Instituto Chico Mendes de Conservação da Biodiversidade</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Plano de Ação Nacional para a Conservação da Ararinha Azul" class="link-category" rel="nofollow tag">Plano de Ação Nacional para a Conservação da Ararinha Azul</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/03/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h29
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/ararinhas-azuis-devem-voltar-ao-brasil-no-inicio-de-marco">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/ararinhas-azuis-devem-voltar-ao-brasil-no-inicio-de-marco/araraazul_fundaj.jpg/@@images/57f87fe5-8859-4e27-8a1c-415bc14ed6c4.jpeg" alt="Ararinhas-azuis devem voltar ao Brasil no início de março" title="Ararinhas-azuis devem voltar ao Brasil no início de março" height="98" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Conservação da Espécie</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/ararinhas-azuis-devem-voltar-ao-brasil-no-inicio-de-marco" title="collective.nitf.content">Ararinhas-azuis devem voltar ao Brasil no início de março</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Consideradas extintas na natureza desde o ano 2000, cinquenta exemplares da ave devem chegar ao País, repatriadas da Alemanha</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ararinhas-azuis" class="link-category" rel="nofollow tag">Ararinhas-azuis</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Espécies" class="link-category" rel="nofollow tag">Espécies</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Bahia" class="link-category" rel="nofollow tag">Bahia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conservação" class="link-category" rel="nofollow tag">Conservação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/brasil-vai-reciclar-155-mil-toneladas-de-chumbo-ate-2023">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/brasil-vai-reciclar-155-mil-toneladas-de-chumbo-ate-2023/lixao-zero-logistica-reversa-ilustracao_ascom_mma.jpg/@@images/97cf5cbd-8649-4132-8dbe-f9a13ee1d35a.jpeg" alt="Logística Reversa" title="Logística Reversa" height="74" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Meio Ambiente</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/02/brasil-vai-reciclar-155-mil-toneladas-de-chumbo-ate-2023" title="collective.nitf.content">Brasil vai reciclar 155 mil toneladas de chumbo até 2023</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Meta é realizar a logística reversa de mais de 16 milhões de baterias automotivas que contêm chumbo ácido</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Baterias" class="link-category" rel="nofollow tag">Baterias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Chumbo Ácido" class="link-category" rel="nofollow tag">Chumbo Ácido</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Logística Reversa" class="link-category" rel="nofollow tag">Logística Reversa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Lixão Zero" class="link-category" rel="nofollow tag">Lixão Zero</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Política Nacional" class="link-category" rel="nofollow tag">Política Nacional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Resíduos Sólidos" class="link-category" rel="nofollow tag">Resíduos Sólidos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Automotivos" class="link-category" rel="nofollow tag">Automotivos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/02/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/brasil-vai-aumentar-pontos-de-coleta-de-lixo-eletronico">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/brasil-vai-aumentar-pontos-de-coleta-de-lixo-eletronico/unnamed.jpg/@@images/612bebc4-17be-413e-a69e-d45c2c3b17a6.jpeg" alt="Brasil deve aumentar o número de pontos de coletas de lixo eletrônico" title="Brasil deve aumentar o número de pontos de coletas de lixo eletrônico" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SAÚDE AMBIENTAL</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/brasil-vai-aumentar-pontos-de-coleta-de-lixo-eletronico" title="collective.nitf.content">Brasil vai aumentar pontos de coleta de lixo eletrônico</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Neste ano, já foram recolhidas 570 toneladas de lixo eletrônico</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#meioambiente" class="link-category" rel="nofollow tag">#meioambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#lixoeletrônico" class="link-category" rel="nofollow tag">#lixoeletrônico</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#reciclagem" class="link-category" rel="nofollow tag">#reciclagem</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/01/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h09
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/dois-mil-caranguejos-uca-sao-resgatados-pelo-icmbio">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/dois-mil-caranguejos-uca-sao-resgatados-pelo-icmbio/caranguejo_uca_2020.jpeg/@@images/4943fa0b-9cba-4b35-8234-dd75a0c3bcba.jpeg" alt="Carangueijo-uçá em período de defeso | Foto: Acervo ICMBio" title="Carangueijo-uçá em período de defeso | Foto: Acervo ICMBio" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">DEFESO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/dois-mil-caranguejos-uca-sao-resgatados-pelo-icmbio" title="collective.nitf.content">Dois mil caranguejos-uçá são resgatados pelo ICMBio</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A fiscalização educativa faz parte do período de defeso da espécie</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Defeso" class="link-category" rel="nofollow tag">Defeso</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Carangueijo" class="link-category" rel="nofollow tag">Carangueijo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/01/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h36
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/governo-anuncia-a-criacao-do-conselho-da-amazonia">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/governo-anuncia-a-criacao-do-conselho-da-amazonia/49f6ef8351200813ce2d00194365a691_xl-1.jpg/@@images/47686f88-fa4e-4bfd-a05e-32fab2e951b3.jpeg" alt="Governo anuncia a criação do Conselho da Amazônia" title="Governo anuncia a criação do Conselho da Amazônia" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PRESERVAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/governo-anuncia-a-criacao-do-conselho-da-amazonia" title="collective.nitf.content">Governo anuncia a criação do Conselho da Amazônia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Presidente Jair Bolsonaro afirmou que o objetivo é coordenar ações dos ministérios voltadas para a proteção e desenvolvimento da região</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conselho da Amazônia" class="link-category" rel="nofollow tag">Conselho da Amazônia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Preservação" class="link-category" rel="nofollow tag">Preservação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Secretaria da Amazônia" class="link-category" rel="nofollow tag">Secretaria da Amazônia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Jair Bolsonaro" class="link-category" rel="nofollow tag">Jair Bolsonaro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Força Nacional Ambiental" class="link-category" rel="nofollow tag">Força Nacional Ambiental</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/01/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h24
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/brasil-avanca-na-protecao-da-camada-de-ozonio">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/brasil-avanca-na-protecao-da-camada-de-ozonio/8517d2ccd51068a4efd751957b85a2e4_xl.jpg/@@images/918fae98-8c43-4a22-8027-80e1f99d6f48.jpeg" alt="Brasil avança na proteção da Camada de Ozônio" title="Brasil avança na proteção da Camada de Ozônio" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Camada de Ozônio</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/brasil-avanca-na-protecao-da-camada-de-ozonio" title="collective.nitf.content">Brasil avança na proteção da Camada de Ozônio</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">País tem cumprido as metas estabelecidas no Protocolo de Montreal</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Proteção" class="link-category" rel="nofollow tag">Proteção</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Camada de Ozônio" class="link-category" rel="nofollow tag">Camada de Ozônio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Meio Ambiente" class="link-category" rel="nofollow tag">Ministério do Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PNUD" class="link-category" rel="nofollow tag">PNUD</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibama" class="link-category" rel="nofollow tag">Ibama</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=HCFCs" class="link-category" rel="nofollow tag">HCFCs</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hidroclorofluorcarbonos" class="link-category" rel="nofollow tag">Hidroclorofluorcarbonos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/01/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h41
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/comissao-de-valores-mobiliarios-realizara-projeto-piloto-de-educacao-financeira-com-indigenas">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/comissao-de-valores-mobiliarios-realizara-projeto-piloto-de-educacao-financeira-com-indigenas/20200107_foto_cvm_jose_alexandre_vasco_missao_indigena_2019.jpg/@@images/273cd92a-2bd9-4a19-9e3c-dbf7860d7cce.jpeg" alt="Comissão de Valores Mobiliários realizará projeto piloto de educação financeira" title="Comissão de Valores Mobiliários realizará projeto piloto de educação financeira" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Capacitação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/comissao-de-valores-mobiliarios-realizara-projeto-piloto-de-educacao-financeira-com-indigenas" title="collective.nitf.content">Comissão de Valores Mobiliários realizará projeto piloto de educação financeira com indígenas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Cerca de 600 índios participarão da iniciativa, prevista para ser iniciada em 2020</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Comissão de Valores Mobiliários" class="link-category" rel="nofollow tag">Comissão de Valores Mobiliários</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CVM" class="link-category" rel="nofollow tag">CVM</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pará" class="link-category" rel="nofollow tag">Pará</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Educação Financeira" class="link-category" rel="nofollow tag">Educação Financeira</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/01/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h33
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/edital-aberto-para-operacao-turistica-no-pico-da-neblina-1">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/edital-aberto-para-operacao-turistica-no-pico-da-neblina-1/065_parna_picodaneblina_marcos_amend.jpg/@@images/bc40950e-d187-48af-be28-6b57dc4ceb12.jpeg" alt="Pico da Neblina | Foto: Marcos Amend - ICMBio" title="Pico da Neblina | Foto: Marcos Amend - ICMBio" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">TURISMO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/edital-aberto-para-operacao-turistica-no-pico-da-neblina-1" title="collective.nitf.content">Edital aberto para operação turística no Pico da Neblina</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Parque Nacional deve abrir para visitação pública em março deste ano, obedecendo as regras estabelecidas pelo Plano de Visitação Yaripo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Instituto Chico Mendes de Conservação da Biodiversidade" class="link-category" rel="nofollow tag">Instituto Chico Mendes de Conservação da Biodiversidade</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pico da Neblina" class="link-category" rel="nofollow tag">Pico da Neblina</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/01/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h58
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/caranguejo-uca-entra-em-periodo-de-reproducao">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/caranguejo-uca-entra-em-periodo-de-reproducao/b44e615e-c84e-4e48-a00d-48b5074287b3.jpeg/@@images/1dd2e16f-7eca-4037-be86-7a845815c0af.jpeg" alt="Caranguejo-uçá entra em período de reprodução" title="Caranguejo-uçá entra em período de reprodução" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Preservação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/01/caranguejo-uca-entra-em-periodo-de-reproducao" title="collective.nitf.content">Caranguejo-uçá entra em período de reprodução</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Instrução Normativa do Mapa, publicada nesta segunda-feira (6), proíbe captura da espécie nos meses de janeiro, fevereiro e março</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caranguejo-uçá" class="link-category" rel="nofollow tag">Caranguejo-uçá</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura, Pecuária e Abastecimento" class="link-category" rel="nofollow tag">Ministério da Agricultura, Pecuária e Abastecimento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Reprodução" class="link-category" rel="nofollow tag">Reprodução</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/01/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h32
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/alcatrazes-oferece-mergulho-noturno-e-pernoite">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/alcatrazes-oferece-mergulho-noturno-e-pernoite/mergulho.jpg/@@images/974963ed-ace1-41b2-8bd0-062ac7583bd2.jpeg" alt="Nas águas de Alcatrazes está a maior quantidade de peixes do Sudeste do Brasil. (Foto: Acervo/ICMBio)" title="Nas águas de Alcatrazes está a maior quantidade de peixes do Sudeste do Brasil. (Foto: Acervo/ICMBio)" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">MEIO AMBIENTE</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/alcatrazes-oferece-mergulho-noturno-e-pernoite" title="collective.nitf.content">Alcatrazes oferece mergulho noturno e pernoite</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Localizada no litoral em São Sebastião, unidade de conservação amplia os atuais atrativos de visitação</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Unidade de Conservação" class="link-category" rel="nofollow tag">Unidade de Conservação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        08h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/ibama-apreende-mais-de-8-toneladas-de-agrotoxicos-irregulares-em-2019">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/ibama-apreende-mais-de-8-toneladas-de-agrotoxicos-irregulares-em-2019/mais_embalagens.jpg/@@images/ef01d158-21b1-4585-9117-9fe091f97c26.jpeg" alt="Ibama apreende mais de 8 toneladas de agrotóxicos irregulares em 2019" title="Ibama apreende mais de 8 toneladas de agrotóxicos irregulares em 2019" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Agrotóxico</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/ibama-apreende-mais-de-8-toneladas-de-agrotoxicos-irregulares-em-2019" title="collective.nitf.content">Ibama apreende mais de oito toneladas de agrotóxicos irregulares em 2019</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Objetivo é evitar a contaminação da água, do solo e da fauna nativa, e proteger a saúde da população e dos trabalhadores rurais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ibama" class="link-category" rel="nofollow tag">ibama</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agrotóxicos irregulares" class="link-category" rel="nofollow tag">Agrotóxicos irregulares</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h43
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/expedicao-de-campo-mira-territorio-do-cardeal-amarelo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/expedicao-de-campo-mira-territorio-do-cardeal-amarelo/cardeal_amarelo_dez_2019_9.jpeg/@@images/ed386312-8a0b-4ff1-8881-5a5b2a1f6a4e.jpeg" alt="Cardeal-amarelo é um pássaro de beleza e canto extraordinários. (Acervo/Expedição) - ICMBio" title="Cardeal-amarelo é um pássaro de beleza e canto extraordinários. (Acervo/Expedição) - ICMBio" height="128" width="96" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ESPÉCIE AMEAÇADA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/expedicao-de-campo-mira-territorio-do-cardeal-amarelo" title="collective.nitf.content">Expedição de campo mira território do cardeal-amarelo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Espécie criticamente ameaçada vive apenas em uma região no Rio Grande do Sul</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=es´pécies ameaçadas" class="link-category" rel="nofollow tag">es´pécies ameaçadas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Instituto Chico Mendes de Conservação da Biodiversidade" class="link-category" rel="nofollow tag">Instituto Chico Mendes de Conservação da Biodiversidade</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=cardeal-amarelo" class="link-category" rel="nofollow tag">cardeal-amarelo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h15
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/filhotes-de-tartaruga-sao-devolvidos-a-natureza">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/filhotes-de-tartaruga-sao-devolvidos-a-natureza/tartarugas.jpeg/@@images/6e39bd60-cb2c-4c8e-9e3f-fba2c28d9452.jpeg" alt="Filhotes de tartaruga são devolvidos à natureza" title="Filhotes de tartaruga são devolvidos à natureza" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">NATUREZA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/filhotes-de-tartaruga-sao-devolvidos-a-natureza" title="collective.nitf.content">Filhotes de tartaruga são devolvidos à natureza</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Soltura foi realizada no Lago Erepecu, no interior da Reserva Biológica de Trombetas, em Oriximiná</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tartarugas" class="link-category" rel="nofollow tag">Tartarugas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Lago Erepeu" class="link-category" rel="nofollow tag">Lago Erepeu</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h38
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/numero-de-oncas-pintadas-aumenta-27-no-iguacu">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/numero-de-oncas-pintadas-aumenta-27-no-iguacu/onca-pintada_claudia_camurca.jpg/@@images/32252e03-1057-4cff-917a-647a161230c2.jpeg" alt="Número de onças-pintadas aumenta 27% no Iguaçu" title="Número de onças-pintadas aumenta 27% no Iguaçu" height="84" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Onça-pintada</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/numero-de-oncas-pintadas-aumenta-27-no-iguacu" title="collective.nitf.content">Número de onças-pintadas aumenta 27% no Iguaçu</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Especialistas do projeto Onças do Iguaçu realizam censo da presença da espécie no local e monitoram as condições de sobrevivência da espécie na região</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Onça-pintada" class="link-category" rel="nofollow tag">Onça-pintada</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h10
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/cop-25-brasil-busca-recursos-para-financiar-preservacao-ambiental">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/cop-25-brasil-busca-recursos-para-financiar-preservacao-ambiental/d90959b1f7a51bdaf232b5a9c3d73372_xl.jpg/@@images/4ad799de-aae0-44dd-a375-de3f04400abe.jpeg" alt="COP 25: Brasil busca recursos para financiar preservação ambiental" title="COP 25: Brasil busca recursos para financiar preservação ambiental" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">COP 25</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/cop-25-brasil-busca-recursos-para-financiar-preservacao-ambiental" title="collective.nitf.content">Brasil busca recursos para financiar preservação ambiental</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Um dos principais objetivos do encontro é discutir operacionalização do Acordo de Paris</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=COP 25" class="link-category" rel="nofollow tag">COP 25</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Acordo de Paris" class="link-category" rel="nofollow tag">Acordo de Paris</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/mctic-lanca-programa-para-combater-impactos-de-derramamento-de-oleo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/mctic-lanca-programa-para-combater-impactos-de-derramamento-de-oleo/20191127_ciencia_mar_brasilia_df_104.jpg/@@images/4a340ad5-a874-4080-81e0-8041cda9cee7.jpeg" alt="20191127_CIENCIA_MAR_BRASILIA_DF_104.jpg" title="20191127_CIENCIA_MAR_BRASILIA_DF_104.jpg" height="86" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#ManchanoLitoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/12/mctic-lanca-programa-para-combater-impactos-de-derramamento-de-oleo" title="collective.nitf.content">MCTIC lança programa para combater impactos de derramamento de óleo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">"Ciência no Mar MCTIC" terá ações emergenciais para combater problemas causados pelo desastre no litoral e projetos a longo prazo para a costa brasileira</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#ManchanoLitoral" class="link-category" rel="nofollow tag">#ManchanoLitoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=INPO" class="link-category" rel="nofollow tag">INPO</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pesquisa" class="link-category" rel="nofollow tag">Pesquisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CIência no Mar" class="link-category" rel="nofollow tag">CIência no Mar</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/parque-nacional-da-chapada-dos-veadeiros-promove-concurso-fotografico">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/parque-nacional-da-chapada-dos-veadeiros-promove-concurso-fotografico/chapada.jpg/@@images/2ae19313-dda3-4aa1-b140-9c89bbe43f99.jpeg" alt="Parque Nacional da Chapada dos Veadeiros promove concurso fotográfico" title="Parque Nacional da Chapada dos Veadeiros promove concurso fotográfico" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">CONCURSO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/parque-nacional-da-chapada-dos-veadeiros-promove-concurso-fotografico" title="collective.nitf.content">Parque Nacional da Chapada dos Veadeiros promove concurso fotográfico</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Serão selecionadas 12 fotografias (três por categoria), que irão compor uma exposição temporária.</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Parque Nacional da Chapada dos Veadeiros" class="link-category" rel="nofollow tag">Parque Nacional da Chapada dos Veadeiros</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Instituto Chico Mendes de Conservação da Biodiversidade" class="link-category" rel="nofollow tag">Instituto Chico Mendes de Conservação da Biodiversidade</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        09h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/operacao-amazonia-azul-vai-entrar-em-nova-fase">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/operacao-amazonia-azul-vai-entrar-em-nova-fase/79459463-6f11-45be-bf0d-e8a14b6bdbfb.jpeg/@@images/08d8fd83-4798-4c01-9ce3-70ffc7efa913.jpeg" alt="Operação Amazônia Azul vai entrar em nova fase" title="Operação Amazônia Azul vai entrar em nova fase" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#manchanolitoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/operacao-amazonia-azul-vai-entrar-em-nova-fase" title="collective.nitf.content">Operação Amazônia Azul vai entrar em nova fase</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">2ª fase da operação será voltada a ações de manutenção e controle</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=GAA" class="link-category" rel="nofollow tag">GAA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação" class="link-category" rel="nofollow tag">Operação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Amazônia azul" class="link-category" rel="nofollow tag">Amazônia azul</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#ManchanoLitoral" class="link-category" rel="nofollow tag">#ManchanoLitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h59
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/agricultura-divulga-novos-resultados-da-analise-de-pescado-da-area-atingida-por-oleo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/agricultura-divulga-novos-resultados-da-analise-de-pescado-da-area-atingida-por-oleo/peixe.jpeg/@@images/88077ec7-7999-40c9-ac6c-983bf478ea2f.jpeg" alt="Agricultura divulga novos resultados da análise de pescado da área atingida por óleo" title="Agricultura divulga novos resultados da análise de pescado da área atingida por óleo" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#ManchanoLitoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/agricultura-divulga-novos-resultados-da-analise-de-pescado-da-area-atingida-por-oleo" title="collective.nitf.content">Agricultura divulga novos resultados da análise de pescado da área atingida por óleo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A análise foi feita pela unidade avançada do Laboratório Federal de Defesa Agropecuária em Santa Catarina</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#ManchanoLitoral" class="link-category" rel="nofollow tag">#ManchanoLitoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pescado" class="link-category" rel="nofollow tag">Pescado</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Laboratório Federal de Defesa Agropecuária" class="link-category" rel="nofollow tag">Laboratório Federal de Defesa Agropecuária</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h46
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/ministro-da-defesa-confere-acao-no-nordeste-de-combate-ao-oleo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/ministro-da-defesa-confere-acao-no-nordeste-de-combate-ao-oleo/visita-do-ministro-da-defesa-fernando-azevedo-a-navio-em-recife-pe-envolvido-no-combate-as-manchas-de-oleo-no-litoral-brasileiro.png/@@images/80cfc935-8634-420e-ae47-e008ddaafc90.png" alt="Ministro da Defesa confere ação de combate ao óleo no Nordeste" title="Ministro da Defesa confere ação de combate ao óleo no Nordeste" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#ManchanoLitoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/ministro-da-defesa-confere-acao-no-nordeste-de-combate-ao-oleo" title="collective.nitf.content">Ministro da Defesa confere ação de combate ao óleo no Nordeste</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">“A Operação está indo muito bem com um esforço muito grande. A Marinha navegou cerca de 20 mil milhas nesses dias", informou</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#ManchanoLitoral" class="link-category" rel="nofollow tag">#ManchanoLitoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Óleo no Mar" class="link-category" rel="nofollow tag">Óleo no Mar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Defesa" class="link-category" rel="nofollow tag">Defesa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marinha" class="link-category" rel="nofollow tag">Marinha</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h32
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/grupo-de-acompanhamento-e-avaliacao-informa-que-nao-foram-encontrados-novos-vestigios-de-oleo-no-rio-de-janeiro">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/grupo-de-acompanhamento-e-avaliacao-informa-que-nao-foram-encontrados-novos-vestigios-de-oleo-no-rio-de-janeiro/rj.jpg/@@images/f2c5f7c0-483a-4d84-b34b-a3632fa9979a.jpeg" alt="Grupo de Acompanhamento e Avaliação informa que não foram encontrados novos vestígios de óleo no Rio de Janeiro" title="Grupo de Acompanhamento e Avaliação informa que não foram encontrados novos vestígios de óleo no Rio de Janeiro" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#Manchanolitoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/grupo-de-acompanhamento-e-avaliacao-informa-que-nao-foram-encontrados-novos-vestigios-de-oleo-no-rio-de-janeiro" title="collective.nitf.content">Grupo de Acompanhamento e Avaliação informa que não foram encontrados novos vestígios de óleo no Rio de Janeiro</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Na última semana foram encontrados 320 gramas de pequenos fragmentos de óleo, que já foram coletados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha no Litoral" class="link-category" rel="nofollow tag">Mancha no Litoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Manchas de óleo" class="link-category" rel="nofollow tag">Manchas de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Praias" class="link-category" rel="nofollow tag">Praias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio de Janeiro" class="link-category" rel="nofollow tag">Rio de Janeiro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h01
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/grupo-de-acompanhamento-e-avaliacao-monitora-praias-do-rio-de-janeiro">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/grupo-de-acompanhamento-e-avaliacao-monitora-praias-do-rio-de-janeiro/manchas-no-mar.jpg/@@images/60107ada-a498-4e2c-a09f-b7422ec89962.jpeg" alt="Grupo de Acompanhamento e Avaliação monitora praias do Rio de Janeiro" title="Grupo de Acompanhamento e Avaliação monitora praias do Rio de Janeiro" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#Manchanolitoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/grupo-de-acompanhamento-e-avaliacao-monitora-praias-do-rio-de-janeiro" title="collective.nitf.content">Grupo de Acompanhamento e Avaliação monitora praias do Rio de Janeiro</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Em algumas localidades foram constatados óleos encontrados no litoral da região Nordeste</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio de Janeiro" class="link-category" rel="nofollow tag">Rio de Janeiro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=GAA" class="link-category" rel="nofollow tag">GAA</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/ararinha-azul-vai-voltar-para-o-brasil">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/ararinha-azul-vai-voltar-para-o-brasil/ararinha-azul.jpg/@@images/b09d5ca8-f9e3-40db-91d1-87fc8d11587b.jpeg" alt="Ararinha-azul vai voltar para o Brasil" title="Ararinha-azul vai voltar para o Brasil" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">CONSERVAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/ararinha-azul-vai-voltar-para-o-brasil" title="collective.nitf.content">Ararinha-azul vai voltar para o Brasil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Acordo entre ICMBio e ONG alemã vai reintroduzir a ave no Brasil</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ararinha" class="link-category" rel="nofollow tag">Ararinha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ararinha-azul" class="link-category" rel="nofollow tag">Ararinha-azul</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ICMBio" class="link-category" rel="nofollow tag">ICMBio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Alemanha" class="link-category" rel="nofollow tag">Alemanha</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/fabricas-de-cimento-recebem-os-residuos-de-oleo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/fabricas-de-cimento-recebem-os-residuos-de-oleo/manchas_ibama.jpg/@@images/06d9ac87-2abb-40ec-acf7-d63f43a448e1.jpeg" alt="Fábricas de cimento recebem os resíduos de óleo" title="Fábricas de cimento recebem os resíduos de óleo" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">#Manchanolitoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/fabricas-de-cimento-recebem-os-residuos-de-oleo" title="collective.nitf.content">Fábricas de cimento recebem os resíduos de óleo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Há 16 dias não são encontradas manchas de óleo no mar</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Grupo de Acompanhamento e Avaliação" class="link-category" rel="nofollow tag">Grupo de Acompanhamento e Avaliação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=GAA" class="link-category" rel="nofollow tag">GAA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Resíduos de óleo" class="link-category" rel="nofollow tag">Resíduos de óleo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        25/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/residuos-de-oleo-recolhidos-em-cinco-estados-ja-estao-com-destino-de-acordo-com-marinha">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/residuos-de-oleo-recolhidos-em-cinco-estados-ja-estao-com-destino-de-acordo-com-marinha/7eb5c361-fc09-4a24-90e4-ced05743fd71.jpeg/@@images/12398247-99b3-4924-aa71-48fd1b0e8da5.jpeg" alt="Resíduos de óleo recolhidos em cinco estados já estão com destino final, de acordo com Marinha" title="Resíduos de óleo recolhidos em cinco estados já estão com destino final, de acordo com Marinha" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Manchas no Litoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/residuos-de-oleo-recolhidos-em-cinco-estados-ja-estao-com-destino-de-acordo-com-marinha" title="collective.nitf.content">Resíduos de óleo recolhidos em sete estados já estão com destino final, de acordo com Marinha</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Grupo de Acompanhamento e Avaliação informou que os resíduos estão com destarte adequado ambientalmente</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha no Litoral" class="link-category" rel="nofollow tag">Mancha no Litoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=GAA" class="link-category" rel="nofollow tag">GAA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marinha do Brasil" class="link-category" rel="nofollow tag">Marinha do Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=0">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=0">1</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>2</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=60">3</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=90">4</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=120">5</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=150">6</a>
+        </li>
+        <!-- Link to last -->
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=60">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

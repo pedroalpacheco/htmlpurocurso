@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link rel="self"                type="application/rss+xml" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-realiza-acoes-de-fiscalizacao-em-terras-indigenas/rss.xml" />
+    <title>Funai realiza ações de fiscalização em terras indígenas</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-realiza-acoes-de-fiscalizacao-em-terras-indigenas</link>
+    <description>Iniciativas buscam impedir práticas ambientais ilícitas, como pesca predatória e garimpo</description>
+
+    <language>pt-br</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Funai realiza ações de fiscalização em Terras Indígenas</title>
+      <description>Forças armadas auxiliam a Funai na fiscalização da Operação Verde Brasil 2, que atua na preservação da Amazônia Legal.</description>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+          <![CDATA[
+          
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-realiza-acoes-de-fiscalizacao-em-terras-indigenas/garimpo-cp-ed.png/@@images/image" title="Funai realiza ações de fiscalização em Terras Indígenas" alt="Funai realiza ações de fiscalização em Terras Indígenas" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Divulgação / Forças Armadas</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-realiza-acoes-de-fiscalizacao-em-terras-indigenas/garimpo-cp-ed.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-realiza-acoes-de-fiscalizacao-em-terras-indigenas/garimpo-cp-ed.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+          ]]>
+      </content:encoded>
+      <pubDate>Tue, 11 Aug 2020 15:04:54 -0300</pubDate>
+      <guid>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/funai-realiza-acoes-de-fiscalizacao-em-terras-indigenas/garimpo-cp-ed.png/view</guid>
+    </item>
+  </channel>
+</rss>

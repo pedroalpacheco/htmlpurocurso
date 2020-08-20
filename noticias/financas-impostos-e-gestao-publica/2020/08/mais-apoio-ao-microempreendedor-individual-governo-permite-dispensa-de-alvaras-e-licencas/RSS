@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/mais-apoio-ao-microempreendedor-individual-governo-permite-dispensa-de-alvaras-e-licencas/RSS">
+  <title>Mais apoio ao Microempreendedor Individual: governo permite dispensa de alvarás e licenças</title>
+  <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/mais-apoio-ao-microempreendedor-individual-governo-permite-dispensa-de-alvaras-e-licencas</link>
+  <description>A ideia é desburocratizar e tornar mais simples a abertura de um negócio. A iniciativa passa a valer a partir de 1º de setembro</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/mais-apoio-ao-microempreendedor-individual-governo-permite-dispensa-de-alvaras-e-licencas/whatsapp-image-2020-08-17-at-16-49-37.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/mais-apoio-ao-microempreendedor-individual-governo-permite-dispensa-de-alvaras-e-licencas/whatsapp-image-2020-08-17-at-16-49-37.jpeg/view">
+    <title>Mais apoio ao Microempreendedor Individual: governo permite dispensa de alvarás e licenças</title>
+    <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/mais-apoio-ao-microempreendedor-individual-governo-permite-dispensa-de-alvaras-e-licencas/whatsapp-image-2020-08-17-at-16-49-37.jpeg/view</link>
+    <description>Carmen Valente é microempreendedora individual e proprietária do Bistrô Carmen Fit. Para ela, ser MEI permite atuar com praticidade e segurança.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/mais-apoio-ao-microempreendedor-individual-governo-permite-dispensa-de-alvaras-e-licencas/whatsapp-image-2020-08-17-at-16-49-37.jpeg/@@images/image" title="Mais apoio ao Microempreendedor Individual: governo permite dispensa de alvarás e licenças" alt="Mais apoio ao Microempreendedor Individual: governo permite dispensa de alvarás e licenças" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Acervo Pessoal</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/mais-apoio-ao-microempreendedor-individual-governo-permite-dispensa-de-alvaras-e-licencas/whatsapp-image-2020-08-17-at-16-49-37.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/mais-apoio-ao-microempreendedor-individual-governo-permite-dispensa-de-alvaras-e-licencas/whatsapp-image-2020-08-17-at-16-49-37.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Acervo Pessoal</dc:rights>
+    
+      <dc:subject>Microempreendedor Individual</dc:subject>
+    
+      <dc:subject>MEI</dc:subject>
+    
+      <dc:subject>Lei de Liberdade Econômica</dc:subject>
+    
+      <dc:subject>Portal do Empreendedor</dc:subject>
+    
+    <dc:date>2020-08-17T20:52:11Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

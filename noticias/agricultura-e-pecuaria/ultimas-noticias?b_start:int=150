@@ -1,0 +1,3761 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas notícias Agricultura e Pecuária — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/86386522168" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias/RSS" title="Últimas notícias Agricultura e Pecuária - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias/rss.xml" title="Últimas notícias Agricultura e Pecuária - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias/atom.xml" title="Últimas notícias Agricultura e Pecuária - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-agricultura-e-pecuaria subsection-agricultura-e-pecuaria-ultimas-noticias userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria">Agricultura e Pecuária</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas notícias Agricultura e Pecuária</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas notícias Agricultura e Pecuária</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">23/03/2019 20h40</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">17/12/2019 22h06</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/governo-libera-100-do-orcamento-para-o-seguro-rural-em-2019">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/governo-libera-100-do-orcamento-para-o-seguro-rural-em-2019/agriculturafamiliar.jpg/@@images/24d5212b-8251-48cc-b282-9eba527f8eca.jpeg" alt="Governo libera 100% do orçamento para o seguro rural em 2019" title="Governo libera 100% do orçamento para o seguro rural em 2019" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Agricultura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/governo-libera-100-do-orcamento-para-o-seguro-rural-em-2019" title="collective.nitf.content">Governo libera 100% do orçamento para o seguro rural em 2019</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Com o descontingenciamento de orçamento do Ministério, subvenção ao prêmio do seguro rural chegará a R$ 440 milhões este ano</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Seguro Rural" class="link-category" rel="nofollow tag">Seguro Rural</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Orçamento" class="link-category" rel="nofollow tag">Orçamento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h08
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/universidade-estadual-de-londrina-vai-comprar-produtos-da-agricultura-familiar-1">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/universidade-estadual-de-londrina-vai-comprar-produtos-da-agricultura-familiar-1/agricultura-familiar.jpeg/@@images/492aea2a-5d00-4284-9282-6f06a82ed0e3.jpeg" alt="Universidade Estadual de Londrina vai comprar produtos da agricultura familiar" title="Universidade Estadual de Londrina vai comprar produtos da agricultura familiar" height="68" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">AGRICULTURA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/universidade-estadual-de-londrina-vai-comprar-produtos-da-agricultura-familiar-1" title="collective.nitf.content">Universidade Estadual de Londrina vai comprar produtos da agricultura familiar</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Edital aberto pela instituição estadual deverá adquirir R$ 589 mil em produtos do setor</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/ministerio-fixa-padroes-visuais-de-qualidade-para-frutas-legumes-e-verduras">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/ministerio-fixa-padroes-visuais-de-qualidade-para-frutas-legumes-e-verduras/frutas.jpeg/@@images/d416e767-7d62-483f-9144-f881d30757b4.jpeg" alt="Ministério fixa padrões visuais de qualidade para frutas, legumes e verduras" title="Ministério fixa padrões visuais de qualidade para frutas, legumes e verduras" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Agricultura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/ministerio-fixa-padroes-visuais-de-qualidade-para-frutas-legumes-e-verduras" title="collective.nitf.content">Ministério fixa padrões visuais de qualidade para frutas, legumes e verduras</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O objetivo é auxiliar o consumidor e fiscais na identificação de produtos próprios para consumo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Frutas" class="link-category" rel="nofollow tag">Frutas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Legumes" class="link-category" rel="nofollow tag">Legumes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Verduras" class="link-category" rel="nofollow tag">Verduras</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Padrão visual" class="link-category" rel="nofollow tag">Padrão visual</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h40
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/mapa-participa-de-operacao-conjunta-para-prevenir-entrada-de-doencas-e-pragas-durante-temporada-de-cruzeiros">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/mapa-participa-de-operacao-conjunta-para-prevenir-entrada-de-doencas-e-pragas-durante-temporada-de-cruzeiros/8e17f6ef-4135-4040-a69d-37324afe170a.jpeg/@@images/d3003e28-406d-4eca-855d-933e8f27c808.jpeg" alt="Mapa participa de operação conjunta para prevenir entrada de doenças e pragas durante temporada de cruzeiros" title="Mapa participa de operação conjunta para prevenir entrada de doenças e pragas durante temporada de cruzeiros" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PREVENÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/mapa-participa-de-operacao-conjunta-para-prevenir-entrada-de-doencas-e-pragas-durante-temporada-de-cruzeiros" title="collective.nitf.content">Mapa participa de operação conjunta para prevenir entrada de doenças e pragas durante temporada de cruzeiros</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O objetivo é verificar como é feita a destinação dos resíduos de bordo, restos e sobras de alimento nas embarcações</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MAPA" class="link-category" rel="nofollow tag">MAPA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Vigiagro" class="link-category" rel="nofollow tag">Vigiagro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Anvisa" class="link-category" rel="nofollow tag">Anvisa</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        25/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h26
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/plano-safra-2019-2020-ja-registra-aumento-de-desembolsos-em-relacao-a-safra-anterior">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/plano-safra-2019-2020-ja-registra-aumento-de-desembolsos-em-relacao-a-safra-anterior/maquinas-agricolas-do-produtor-rural-jose-luiz-fianchi-de-jatai-go.jfif/@@images/b3d54209-cb53-435e-ba2c-2f6c55fcefa6.jpeg" alt="Arquivo pessoal do produtor rural José Luiz Fianchi" title="Arquivo pessoal do produtor rural José Luiz Fianchi" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Agricultura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/plano-safra-2019-2020-ja-registra-aumento-de-desembolsos-em-relacao-a-safra-anterior" title="collective.nitf.content">Plano Safra 2019-2020 já registra aumento de desembolsos em relação à safra anterior</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Aumento de contratações de crédito rural entre julho e outubro foi de 4%</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Plano Safra" class="link-category" rel="nofollow tag">Plano Safra</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MAPA" class="link-category" rel="nofollow tag">MAPA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura Familiar" class="link-category" rel="nofollow tag">Agricultura Familiar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura" class="link-category" rel="nofollow tag">Ministério da Agricultura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h05
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/agroextrativistas-da-amazonia-querem-aumentar-visibilidade-de-produtos-naturais">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/agroextrativistas-da-amazonia-querem-aumentar-visibilidade-de-produtos-naturais/andiroba-embrapa.jpeg/@@images/c9a57a3a-9577-4533-b73a-4a64a25a688f.jpeg" alt="andiroba embrapa.jpeg" title="andiroba embrapa.jpeg" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Bioeconomia</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/agroextrativistas-da-amazonia-querem-aumentar-visibilidade-de-produtos-naturais" title="collective.nitf.content">Agroextrativistas da Amazônia querem aumentar visibilidade de produtos naturais</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Pequenos produtores participaram do 1º Encontro de Bioeconomia e Sociobiodiversidade da Amazônia, realizado em Manaus</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Bioeconomia" class="link-category" rel="nofollow tag">Bioeconomia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Produtos Naturais" class="link-category" rel="nofollow tag">Produtos Naturais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cosméticos" class="link-category" rel="nofollow tag">Cosméticos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Amazônia" class="link-category" rel="nofollow tag">Amazônia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura, Pecuária e Abastecimento" class="link-category" rel="nofollow tag">Ministério da Agricultura, Pecuária e Abastecimento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h28
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/valor-bruto-da-producao-agropecuaria-de-2019-e-atualizado-para-r-609-5-bilhoes">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/valor-bruto-da-producao-agropecuaria-de-2019-e-atualizado-para-r-609-5-bilhoes/whatsapp-image-2019-11-20-at-17-41-39.jpeg/@@images/c9016415-c884-45a7-8318-675d0cdc0387.jpeg" alt="Valor Bruto da Produção Agropecuária de 2019 é atualizado para R$ 609,5 bilhões" title="Valor Bruto da Produção Agropecuária de 2019 é atualizado para R$ 609,5 bilhões" height="62" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Produção Agropecuária</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/valor-bruto-da-producao-agropecuaria-de-2019-e-atualizado-para-r-609-5-bilhoes" title="collective.nitf.content">Valor Bruto da Produção Agropecuária de 2019 é atualizado para R$ 609,5 bilhões</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">É o segundo maior valor da série analisada pelo Ministério da Agricultura</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura, Pecuária e Abastecimento" class="link-category" rel="nofollow tag">Ministério da Agricultura, Pecuária e Abastecimento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Valor Bruto da Produção Agropecuária" class="link-category" rel="nofollow tag">Valor Bruto da Produção Agropecuária</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agropecuária" class="link-category" rel="nofollow tag">Agropecuária</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h51
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/agricultores-familiares-tem-ate-o-dia-27-para-participar-de-edital-aberto-pelo-exercito">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/agricultores-familiares-tem-ate-o-dia-27-para-participar-de-edital-aberto-pelo-exercito/785c0a56-5fe1-401b-beca-4ac7fa75c83d.jpeg/@@images/1d79a01f-9794-402c-95ad-b6f2fd1bfbf9.jpeg" alt="Agricultores familiares têm até o dia 27 para participar de edital aberto pelo Exército" title="Agricultores familiares têm até o dia 27 para participar de edital aberto pelo Exército" height="68" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">AGRICULTURA FAMILIAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/agricultores-familiares-tem-ate-o-dia-27-para-participar-de-edital-aberto-pelo-exercito" title="collective.nitf.content">Agricultores familiares têm até o dia 27 para participar de edital aberto pelo Exército</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Por lei, pelo menos 30% dos produtos devem ser adquiridos da agricultura familiar. Edital está aberto até o dia 27 de novembro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura Familiar" class="link-category" rel="nofollow tag">Agricultura Familiar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa de Aquisição de Alimentos" class="link-category" rel="nofollow tag">Programa de Aquisição de Alimentos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Cidadania" class="link-category" rel="nofollow tag">Ministério da Cidadania</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h32
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/amostras-de-pescados-afetados-pelo-oleo-no-nordeste-estao-abaixo-do-nivel-de-preocupacao-da-anvisa">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/amostras-de-pescados-afetados-pelo-oleo-no-nordeste-estao-abaixo-do-nivel-de-preocupacao-da-anvisa/pescadores.jpeg/@@images/7461140b-4db7-45dc-9db4-172d0f412a87.jpeg" alt="Amostras de pescados afetados pelo óleo no Nordeste estão abaixo do nível de preocupação da Anvisa" title="Amostras de pescados afetados pelo óleo no Nordeste estão abaixo do nível de preocupação da Anvisa" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Mancha no Litoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/amostras-de-pescados-afetados-pelo-oleo-no-nordeste-estao-abaixo-do-nivel-de-preocupacao-da-anvisa" title="collective.nitf.content">Amostras de pescados afetados pelo óleo no Nordeste estão abaixo do nível de preocupação da Anvisa</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Por meio de nota, o Ministério da Agricultura informou que resultados de amostras de pescado revelam níveis baixos de Hidrocarbonetos Policíclicos Aromáticos (HPA) - indicadores para, entre outros, contaminação por derivados de petróleo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pescado" class="link-category" rel="nofollow tag">Pescado</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Litoral" class="link-category" rel="nofollow tag">Litoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/carne-brasileira-amplia-mercados-na-arabia-saudita-e-china">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/carne-brasileira-amplia-mercados-na-arabia-saudita-e-china/planta-de-producao-do-frigorifico-maxi-beef-em-carlos-chagas-mg-habilitado-para-exportar-carne-bovina-a-arabia-saudita-foto-2-1.jpg/@@images/ccad6e14-38f4-4472-8097-d53cb023fed1.jpeg" alt="Carne brasileira amplia mercados na Arábia Saudita e China" title="Carne brasileira amplia mercados na Arábia Saudita e China" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Agricultura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/carne-brasileira-amplia-mercados-na-arabia-saudita-e-china" title="collective.nitf.content">Carne brasileira amplia mercados na Arábia Saudita e China</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Presidente Jair Bolsonaro visitou os países em outubro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Exportação" class="link-category" rel="nofollow tag">Exportação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=China" class="link-category" rel="nofollow tag">China</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Arábia Saudita" class="link-category" rel="nofollow tag">Arábia Saudita</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h45
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/mais-de-139-mil-agricultores-familiares-da-bahia-paraiba-e-de-minas-gerais-vao-receber-garantia-safra-este-mes">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/mais-de-139-mil-agricultores-familiares-da-bahia-paraiba-e-de-minas-gerais-vao-receber-garantia-safra-este-mes/48417695756_33e637b509_k.jpg/@@images/b34d2ae6-ab83-4f8c-9b6d-0278f483438b.jpeg" alt="Mais de 139 mil agricultores familiares da Bahia, Paraíba e de Minas Gerais vão receber Garantia-Safra este mês" title="Mais de 139 mil agricultores familiares da Bahia, Paraíba e de Minas Gerais vão receber Garantia-Safra este mês" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">GARANTIA-SAFRA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/mais-de-139-mil-agricultores-familiares-da-bahia-paraiba-e-de-minas-gerais-vao-receber-garantia-safra-este-mes" title="collective.nitf.content">Mais de 139 mil agricultores familiares da Bahia, Paraíba e de Minas Gerais vão receber Garantia-Safra este mês</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Benefício representa começo dos pagamentos da safra 2018/2019</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MAPA" class="link-category" rel="nofollow tag">MAPA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura Familiar" class="link-category" rel="nofollow tag">Agricultura Familiar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Garantia-Safra" class="link-category" rel="nofollow tag">Garantia-Safra</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h09
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/pesquisadores-fazem-descoberta-com-potencial-de-tornar-agricultura-mais-sustentavel">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/pesquisadores-fazem-descoberta-com-potencial-de-tornar-agricultura-mais-sustentavel/experimento-com-mudas-de-beterraba-cultivadas-da-embrapa-meio-ambiente-foto-1.jpg/@@images/efd7e45c-0d58-4236-ac22-4f9a875ab30d.jpeg" alt="Pesquisadores fazem descoberta com potencial de tornar agricultura mais sustentável" title="Pesquisadores fazem descoberta com potencial de tornar agricultura mais sustentável" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Sustentabilidade</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/pesquisadores-fazem-descoberta-com-potencial-de-tornar-agricultura-mais-sustentavel" title="collective.nitf.content">Pesquisadores fazem descoberta com potencial de tornar agricultura mais sustentável</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Trata-se se um sofisticado mecanismo de defesa desenvolvido pela raiz de plantas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estados Unidos" class="link-category" rel="nofollow tag">Estados Unidos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Embrapa" class="link-category" rel="nofollow tag">Embrapa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Doenças" class="link-category" rel="nofollow tag">Doenças</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          
+
+          <span class="subtitle">AGRICULTURA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/agricultura-explica-decreto-que-suspende-zoneamento-da-cana-de-acucar" title="collective.nitf.content">Decreto suspende zoneamento da cana-de-açúcar para permitir retorno de investimentos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O objetivo é simplificar e desburocratizar o zoneamento de plantio</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Zoneamento" class="link-category" rel="nofollow tag">Zoneamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cana-de-açúcar" class="link-category" rel="nofollow tag">Cana-de-açúcar</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/brasil-vai-importar-750-mil-toneladas-de-trigo-por-ano-com-aliquota-zero">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/brasil-vai-importar-750-mil-toneladas-de-trigo-por-ano-com-aliquota-zero/trigo.jpg/@@images/7e83948c-8bde-46fb-b164-47ff9b55fd2d.jpeg" alt="Brasil vai importar 750 mil toneladas de trigo por ano com alíquota zero" title="Brasil vai importar 750 mil toneladas de trigo por ano com alíquota zero" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ECONOMIA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/brasil-vai-importar-750-mil-toneladas-de-trigo-por-ano-com-aliquota-zero" title="collective.nitf.content">Brasil vai importar 750 mil toneladas de trigo por ano com alíquota zero</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A medida foi aprovada no última terça-feira (5) em reunião do Comitê Executivo de Gestão da Câmara de Comércio Exterior</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Organização Mundial do Comércio" class="link-category" rel="nofollow tag">Organização Mundial do Comércio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura, Pecuária e Abastecimento" class="link-category" rel="nofollow tag">Ministério da Agricultura, Pecuária e Abastecimento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Trigo" class="link-category" rel="nofollow tag">Trigo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Importação" class="link-category" rel="nofollow tag">Importação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/projeto-abc-cerrado-recupera-mais-de-93-mil-hectares-de-areas-degradadas-em-7-estados-e-no-df">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/projeto-abc-cerrado-recupera-mais-de-93-mil-hectares-de-areas-degradadas-em-7-estados-e-no-df/abc-cerrado.jpg/@@images/2c81fa3a-2410-43cd-b1fc-6a8324711de7.jpeg" alt="Projeto ABC Cerrado recupera mais de 93 mil hectares de áreas degradadas em 7 estados e no DF" title="Projeto ABC Cerrado recupera mais de 93 mil hectares de áreas degradadas em 7 estados e no DF" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PRESERVAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/projeto-abc-cerrado-recupera-mais-de-93-mil-hectares-de-areas-degradadas-em-7-estados-e-no-df" title="collective.nitf.content">Projeto ABC Cerrado recupera mais de 93 mil hectares de áreas degradadas em sete estados e no DF</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Cerca de 86% das propriedades participantes têm até 500 hectares, e a tecnologia mais adotada pelos produtores foi recuperação de pastagens degradadas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Projeto ABC Cerrado" class="link-category" rel="nofollow tag">Projeto ABC Cerrado</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tereza Cristina" class="link-category" rel="nofollow tag">Tereza Cristina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura, Pecuária e Abastecimento" class="link-category" rel="nofollow tag">Ministério da Agricultura, Pecuária e Abastecimento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/china-habilita-frigorificos-de-sc-para-exportacao-de-miudos-de-suinos">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/china-habilita-frigorificos-de-sc-para-exportacao-de-miudos-de-suinos/suinos_agencia_de_noticias_do_acre.jpg/@@images/9d4dc0f7-92c6-4da4-bf79-f6ad90679450.jpeg" alt="China habilita frigoríficos de SC para exportação de miúdos de suínos" title="China habilita frigoríficos de SC para exportação de miúdos de suínos" height="43" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÁSIA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/11/china-habilita-frigorificos-de-sc-para-exportacao-de-miudos-de-suinos" title="collective.nitf.content">China habilita frigoríficos de SC para exportação de miúdos de suínos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">As plantas frigoríficas brasileiras foram habilitadas para comercializarem seis tipos de miúdos: pés, língua, focinho, máscara, orelha e rabo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tereza Cristina" class="link-category" rel="nofollow tag">Tereza Cristina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura" class="link-category" rel="nofollow tag">Ministério da Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Suínos" class="link-category" rel="nofollow tag">Suínos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/ministra-tereza-cristina-instala-camara-da-cerveja">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/ministra-tereza-cristina-instala-camara-da-cerveja/1fe66f7c-f528-4e64-a130-3ea06eec9a65.jpeg/@@images/fd27dea2-9359-49ee-81e0-3c45ae4544ec.jpeg" alt="Ministra Tereza Cristina instala Câmara da Cerveja" title="Ministra Tereza Cristina instala Câmara da Cerveja" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">CERVEJA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/ministra-tereza-cristina-instala-camara-da-cerveja" title="collective.nitf.content">Ministério da Agricultura instala Câmara da Cerveja</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Colegiado terá representantes de toda a cadeia produtiva e debaterá as demandas do setor</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cerveja" class="link-category" rel="nofollow tag">Cerveja</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MAPA" class="link-category" rel="nofollow tag">MAPA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ministra Tereza Cristina" class="link-category" rel="nofollow tag">ministra Tereza Cristina</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h45
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/mudancas-no-pronaf-beneficiam-cooperativas-da-agricultura-familiar">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/mudancas-no-pronaf-beneficiam-cooperativas-da-agricultura-familiar/16263456495_54332b31a2_k.jpg/@@images/12ad1c51-156c-4147-9927-ee9cf2fff4ac.jpeg" alt="Mudanças no Pronaf beneficiam cooperativas da agricultura familiar" title="Mudanças no Pronaf beneficiam cooperativas da agricultura familiar" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">AGRICULTURA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/mudancas-no-pronaf-beneficiam-cooperativas-da-agricultura-familiar" title="collective.nitf.content">Mudanças no Pronaf aumentam limite de financiamento para agricultura familiar</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ajustes atendem demandas das cooperativas e demonstram a valorização do setor pelo atual governo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura Familiar" class="link-category" rel="nofollow tag">Agricultura Familiar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MAPA" class="link-category" rel="nofollow tag">MAPA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pronaf" class="link-category" rel="nofollow tag">Pronaf</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ministra Tereza Cristina" class="link-category" rel="nofollow tag">ministra Tereza Cristina</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h15
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/seguro-avicola-inedito-e-assinado-no-ministerio-da-agricultura">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/seguro-avicola-inedito-e-assinado-no-ministerio-da-agricultura/frangos.jpeg/@@images/d13950bf-970e-4f78-9a9f-517cde437902.jpeg" alt="Seguro avícola inédito é assinado no Ministério da Agricultura" title="Seguro avícola inédito é assinado no Ministério da Agricultura" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Agricultura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/seguro-avicola-inedito-e-assinado-no-ministerio-da-agricultura" title="collective.nitf.content">Seguro avícola inédito é assinado no Ministério da Agricultura</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo maior produtor mundial de frango e sem registro de casos de influenza aviária, Brasil implementa mais uma medida em benefício dos criadores de aves</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Seguro Avícola" class="link-category" rel="nofollow tag">Seguro Avícola</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Avicultores" class="link-category" rel="nofollow tag">Avicultores</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mato Grosso" class="link-category" rel="nofollow tag">Mato Grosso</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h09
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agricultores-familiares-com-perda-de-producao-recebem-o-garantia-safra">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agricultores-familiares-com-perda-de-producao-recebem-o-garantia-safra/48519795341_bfd126cb25_k.jpg/@@images/05c6dbc8-6b6f-411e-9c54-0f7f5fc04717.jpeg" alt="Agricultores familiares com perda de produção recebem o Garantia-Safra" title="Agricultores familiares com perda de produção recebem o Garantia-Safra" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">AGRICULTURA FAMILIAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agricultores-familiares-com-perda-de-producao-recebem-o-garantia-safra" title="collective.nitf.content">Garantia-Safra atende pequenos agricultores familiares que sofreram com seca ou estiagem</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Mais de 520 mil agricultores receberam o pagamento do Garantia-Safra no ciclo 2017-2018, totalizando um saldo de R$ 442,4 milhões de recursos pagos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura Familiar" class="link-category" rel="nofollow tag">Agricultura Familiar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Garantia-Safra" class="link-category" rel="nofollow tag">Garantia-Safra</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h05
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/ministra-tereza-cristina-inicia-agenda-de-compromissos-na-china">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/ministra-tereza-cristina-inicia-agenda-de-compromissos-na-china/c82db6a8-1c98-408b-88ca-05fe643051c5.jpeg/@@images/f04998d6-6dcb-4a35-959c-209b8ae746f7.jpeg" alt="Ministra Tereza Cristina inicia agenda de compromissos na China" title="Ministra Tereza Cristina inicia agenda de compromissos na China" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÁSIA E ORIENTE MÉDIO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/ministra-tereza-cristina-inicia-agenda-de-compromissos-na-china" title="collective.nitf.content">Ministra Tereza Cristina inicia agenda de compromissos na China</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Um dos temas da visita ao país é a abertura do mercado chinês para outros produtos agropecuários brasileiros</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#ÁsiaeOrienteMédio" class="link-category" rel="nofollow tag">#ÁsiaeOrienteMédio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Brasil na China" class="link-category" rel="nofollow tag">Brasil na China</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/polos-de-agricultura-irrigada-ja-alcancam-530-mil-hectares-de-area-produtiva-no-brasil">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/polos-de-agricultura-irrigada-ja-alcancam-530-mil-hectares-de-area-produtiva-no-brasil/48207083367_3c0b1dc830_o.jpg/@@images/42a6f2e9-09a7-4b76-9baf-04f5a8f79095.jpeg" alt="Polos de Agricultura Irrigada já alcançam 530 mil hectares de área produtiva no Brasil" title="Polos de Agricultura Irrigada já alcançam 530 mil hectares de área produtiva no Brasil" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">DESENVOLVIMENTO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/polos-de-agricultura-irrigada-ja-alcancam-530-mil-hectares-de-area-produtiva-no-brasil" title="collective.nitf.content">Polos de Agricultura Irrigada já alcançam 530 mil hectares de área produtiva no Brasil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Iniciativa coordenada pelo Ministério do Desenvolvimento Regional já envolve produtores de 39 municípios em três estados, totalizando área superior à do DF</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Irrigação" class="link-category" rel="nofollow tag">Irrigação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento regional" class="link-category" rel="nofollow tag">Desenvolvimento regional</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h30
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/seguro-rural-passa-de-r-370-milhoes-para-r-420-milhoes-em-2019">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/seguro-rural-passa-de-r-370-milhoes-para-r-420-milhoes-em-2019/lavoura_agricultura_familiar.jpg/@@images/042ebd2f-a4e8-4682-bdac-249757825a3d.jpeg" alt="Governo libera mais recursos do orçamento para seguro rural" title="Governo libera mais recursos do orçamento para seguro rural" height="80" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">AGRICULTURA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/seguro-rural-passa-de-r-370-milhoes-para-r-420-milhoes-em-2019" title="collective.nitf.content">Seguro rural passa de R$ 370 milhões para R$ 420 milhões</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Para o próximo ano, está previsto o recurso de R$ 1 bilhão para o Programa de Subvenção ao Prêmio do Seguro Rural</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Seguro Rural" class="link-category" rel="nofollow tag">Seguro Rural</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura, Pecuária e Abastecimento" class="link-category" rel="nofollow tag">Ministério da Agricultura, Pecuária e Abastecimento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/acordo-quer-combater-venda-casada-no-credito-agricola">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/acordo-quer-combater-venda-casada-no-credito-agricola/agricultura-justica.jpg/@@images/630f1d07-9667-4e20-a52a-4c7bcd30df0f.jpeg" alt="Acordo quer combater venda casada no crédito agrícola" title="Acordo quer combater venda casada no crédito agrícola" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Produção Rural</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/acordo-quer-combater-venda-casada-no-credito-agricola" title="collective.nitf.content">Acordo quer combater venda casada no crédito agrícola</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Está prevista a instituição de novos canais para que o produtor possa fazer denúncias anônimas por meio das associações de classe.</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Justiça" class="link-category" rel="nofollow tag">Justiça</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Produtor rural" class="link-category" rel="nofollow tag">Produtor rural</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Denúncia" class="link-category" rel="nofollow tag">Denúncia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Crédito rural" class="link-category" rel="nofollow tag">Crédito rural</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Venda casada" class="link-category" rel="nofollow tag">Venda casada</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        16/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h33
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agricultura-autoriza-suspensao-da-vacina-contra-febre-aftosa-no-parana">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agricultura-autoriza-suspensao-da-vacina-contra-febre-aftosa-no-parana/febreaftosa.jpg/@@images/b773dce3-6b82-4763-8a7a-66ee79e83eab.jpeg" alt="Ministério autoriza nesta terça-feira suspensão da vacina contra febre aftosa no Paraná" title="Ministério autoriza nesta terça-feira suspensão da vacina contra febre aftosa no Paraná" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PREVENÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agricultura-autoriza-suspensao-da-vacina-contra-febre-aftosa-no-parana" title="collective.nitf.content">Agricultura autoriza suspensão da vacina contra febre aftosa no Paraná</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A partir de novembro, o rebanho de 9,2 milhões de bovinos e bubalinos do estado não será mais vacinado contra a doença</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Febre Aftosa" class="link-category" rel="nofollow tag">Febre Aftosa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Paraná" class="link-category" rel="nofollow tag">Paraná</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        15/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/comites-estaduais-do-agronordeste-comecam-a-ser-instalados-nesta-semana">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/comites-estaduais-do-agronordeste-comecam-a-ser-instalados-nesta-semana/territorios.jpg/@@images/096a14da-69e0-48bc-8721-8dd155689752.jpeg" alt="Comitês estaduais do AgroNordeste começam a ser instalados nesta semana" title="Comitês estaduais do AgroNordeste começam a ser instalados nesta semana" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Agricultura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/comites-estaduais-do-agronordeste-comecam-a-ser-instalados-nesta-semana" title="collective.nitf.content">Comitês estaduais do AgroNordeste começam a ser instalados nesta semana</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Colegiados vão reunir representantes do governo e parceiros para execução do plano</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=AgroNordeste" class="link-category" rel="nofollow tag">AgroNordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Comitês locais" class="link-category" rel="nofollow tag">Comitês locais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h50
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/medida-provisoria-do-agronegocio-entra-em-vigor-no-pais">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/medida-provisoria-do-agronegocio-entra-em-vigor-no-pais/producao-da-capribov-na-regiao-do-cariri-oriental-paraibano.jfif/@@images/6af41fe1-bf44-4580-aedd-b3b16ca58165.jpeg" alt="Medida Provisória do Agronegócio entra em vigor no país" title="Medida Provisória do Agronegócio entra em vigor no país" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Agro</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/medida-provisoria-do-agronegocio-entra-em-vigor-no-pais" title="collective.nitf.content">Medida Provisória do Agronegócio entra em vigor no país</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Para se tornar lei precisa ser aprovada pelo Congresso Nacional em até quatro meses</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agronegócio" class="link-category" rel="nofollow tag">Agronegócio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MP do Agro" class="link-category" rel="nofollow tag">MP do Agro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agronordeste-vai-reduzir-diferencas-regionais-na-agricultura">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agronordeste-vai-reduzir-diferencas-regionais-na-agricultura/agronordeste.jpg/@@images/9a7744c2-1f09-44b0-80e3-a9a9ac757216.jpeg" alt="Agronordeste vai reduzir diferenças regionais na agricultura" title="Agronordeste vai reduzir diferenças regionais na agricultura" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Desenvolvimento</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agronordeste-vai-reduzir-diferencas-regionais-na-agricultura" title="collective.nitf.content">Agronordeste vai reduzir diferenças regionais na agricultura</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Programa será implantado em 230 municípios de nove estados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agronordeste" class="link-category" rel="nofollow tag">Agronordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cooperativa" class="link-category" rel="nofollow tag">Cooperativa</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agronordeste-e-lancado-em-cerimonia-no-palacio-do-planalto">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agronordeste-e-lancado-em-cerimonia-no-palacio-do-planalto/48519797651_56c7cf70a8_k.jpg/@@images/d6372672-a015-427b-8149-8e9be68065e3.jpeg" alt="Agricultores familiares de Buritis (MG)" title="Agricultores familiares de Buritis (MG)" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">AGRICULTURA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/agronordeste-e-lancado-em-cerimonia-no-palacio-do-planalto" title="collective.nitf.content">AgroNordeste é lançado em cerimônia no Palácio do Planalto</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O plano tem como objetivo impulsionar o desenvolvimento econômico, social e sustentável do meio rural da região</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura" class="link-category" rel="nofollow tag">Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura Familiar" class="link-category" rel="nofollow tag">Agricultura Familiar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MAPA" class="link-category" rel="nofollow tag">MAPA</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h43
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/producao-de-polpa-e-suco-de-frutas-artesanais-deve-seguir-regulamento-especifico">
+              <img src="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/producao-de-polpa-e-suco-de-frutas-artesanais-deve-seguir-regulamento-especifico/suco.jpeg/@@images/309a0f97-d9e9-4e59-915b-f91126dd21d4.jpeg" alt="Foto: Mapa" title="Foto: Mapa" height="94" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PRODUÇÃO ARTESANAL</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/2019/10/producao-de-polpa-e-suco-de-frutas-artesanais-deve-seguir-regulamento-especifico" title="collective.nitf.content">Produção de polpa e suco de frutas artesanais deve seguir regulamento específico</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Em decreto, Ministério da Agricultura especifica regras para atendimento de padrões de identidade e qualidade</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agricultura Familiar" class="link-category" rel="nofollow tag">Agricultura Familiar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Produção artesanal" class="link-category" rel="nofollow tag">Produção artesanal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias?b_start:int=120">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias?b_start:int=0">1</a>
+            </li>
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias?b_start:int=60">3</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias?b_start:int=90">4</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias?b_start:int=120">5</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>6</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias?b_start:int=180">7</a>
+        </li>
+        <!-- Link to last -->
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria/ultimas-noticias?b_start:int=180">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

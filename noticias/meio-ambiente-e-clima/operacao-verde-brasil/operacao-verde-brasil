@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
-
-<head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -20,7 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:image" content="https://www.gov.br/logo.png" />
 
 <meta property="og:locale" content="pt_BR" />
-<meta property="og:site_name" content="Governo do Brasil" />
+<meta property="og:site_name" content=" Governo do Brasil" />
 
 
   
@@ -54,38 +53,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
   
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-8bd497bdf87f5320f54aaa94a073925b.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-d9357484cb7acdefc44d89a59ad35e70.css" />
-    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-ba3288bff4d57c24eaba8aee9b1946dd.css);</style>
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-6977d22b20dd409d7f4b7bef5fed2418.css" />
-    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-3466b62202cfc610eb2933a25b3f4146.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
     <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
         <!--[if lt IE 8]>    
     
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-d31a0b36d8ff90f4ad47e8c315290318.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
         <![endif]-->
     
-    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-8dbe24e54c00e1846f843dc4c74f4e04.css);</style>
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-745c70346aecf56d1b67e38f951b92e4.css" media="screen" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
 
   
   
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-667c722cf33c901f678335cfac00f75e.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-cecf1b75c1d82ec0b35111f73fb9ac10.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-16f613b2c248e2188c6a22ab11fca9b8.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-d0c2e26fdcb1222013e6449a8f8248c9.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-7b982140fba07929007d99968fa12096.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-0d5b7c7998c2518cf9645f37250f12fa.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-78c184b1a47f1723289c07e0da4b6a17.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-140e7cfbb5275b9add3cc6fbc5fd7cdf.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-45183841b669f6d95a266445182838d4.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
 
 
 
-  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-37f614a.css" />
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
 
 
-  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-37f614a.js"></script>
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
 
 
 
@@ -145,21 +145,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <meta name="generator" content="Plone - http://plone.org" />
     
 
-  <meta charset="utf-8" />
-  
-  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/favicon-16x16.png" />
-  <link rel="manifest" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/manifest.json" />
-  <link rel="mask-icon" href="/++theme++padrao_govbr/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
-  <meta name="msapplication-config" content="++theme++padrao_govbr/favicons/browserconfig.xml" />
-  <meta name="theme-color" content="#00a300" />
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
-  <script src="https://www.youtube.com/iframe_api"></script>
-<link href="/++theme++padrao_govbr/++theme++padrao_govbr/govbrtheme-803327f.css" rel="stylesheet" /></head>
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
 
-<body id="" class="default-header-template portal-govbr cover-layout-layout-vazio template-view portaltype-collective-cover-content site-pt-br section-noticias subsection-meio-ambiente-e-clima subsection-meio-ambiente-e-clima-operacao-verde-brasil subsection-meio-ambiente-e-clima-operacao-verde-brasil-operacao-verde-brasil userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/operacao-verde-brasil" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+  <body id="" class="default-header-template portal-govbr cover-layout-layout-vazio template-view portaltype-collective-cover-content site-pt-br section-noticias subsection-meio-ambiente-e-clima subsection-meio-ambiente-e-clima-operacao-verde-brasil subsection-meio-ambiente-e-clima-operacao-verde-brasil-operacao-verde-brasil userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/operacao-verde-brasil" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
           <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
           </iframe>
         </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
@@ -169,49 +168,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
             </ul>
     </div>
-</div><ul id="skip-menu">
-    <li><a accesskey="i" href="/">Ir para página inicial</a></li>
-    <li><a accesskey="c" href="#content">Ir para o conteúdo</a></li>
-    <li><a accesskey="n" href="#menu-institucional">Ir para o menu</a></li>
-    <li><a accesskey="4" href="#portal-footer">Ir para o rodapé</a></li>
-  </ul><!-- User --><!-- Header --><!-- <header id="main-header" class="has-navigation-swipe"> --><header id="main-header" class="has-navigation-dropdown">
-    <div class="header-wrapper">
-      <div class="header-icons">
-        <a class="ico-navegacao">
-          Navegação
-          <i class="fa fa-bars" aria-hidden="true"></i>
-          <i class="fa fa-times" aria-hidden="true"></i>
-        </a>
-      </div>
-      <div id="logo">
-        <a id="portal-img" href="https://www.gov.br/pt-br" title="O portal do Brasil"></a>
-        <a id="portal-logo" title="O portal do Brasil" href="https://www.gov.br/pt-br">
-          <span id="portal-title-1">Governo do</span>
-          <div id="portal-title" class="corto">Brasil</div>
-        </a>
-        
-      </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
 
-      <div class="header-accessibility">
-        <ul>
-          <li>
-            <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
-          </li>
-          <li>
-            <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
-          </li>
-          <li>
-            <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
-          </li>
-          <li>
-            <a href="/accessibility-info">Acessibilidade</a>
-          </li>
-          <!--<li>
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
                 <a href="http://www.vlibras.gov.br/" class="link-vlibras">
-                  <i class="fas fa-assistive-listening-systems"></i>
+                  <span class="fas fa-assistive-listening-systems"></span>
                 </a>
               </li>-->
-          <!-- <li class="language-selection">
+              <!-- <li class="language-selection">
                 <a href="" class="currentLanguage language-pt-br">
                   Portugu&#234;s
                 </a>
@@ -228,51 +229,63 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   </li>
                 </ul>
               </li> -->
-          <li>
-            <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
-              <i class="fas fa-user"></i>
-              Acesso GOV.BR
-            </a>
-          </li>
-          <li>
-            <a href="#" class="link-contraste">
-              <i class="fas fa-adjust"></i>
-            </a>
-          </li>
-        </ul>
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
       </div>
-      <div id="portal-searchbox">
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
 
     <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
 
         <div class="LSBox">
         <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
 
-        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" accesskey="&#10;b" class="searchField" id="nolivesearchGadget" />
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
 
         <input class="searchButton" type="submit" value="Buscar" />
 
         
 
-        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        
         </div>
     </form>
 
-    <div id="portal-advanced-search" class="hiddenStructure">
-        <a href="https://www.gov.br/pt-br/@@search" accesskey="5">Busca Avançada…</a>
-    </div>
+    
 
 </div>
-    </div>
-    <div class="header-wrapper">
-      
-    </div>
+      </div>
 
-    <!-- Main Menu -->
-    <div class="navigation-wrapper navigation-dropdown">
-      <div class="navigation-content">
-        <nav id="main-navigation" class="navigation-cell">
-          <ul class="list-navigation"><li id="portaltab-servicos" class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
                 <ul class="submenu">
                     <li class="dropdown-submenu">
 
@@ -409,7 +422,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-galeria-de-aplicativos" class="plain"><a href="/clientes/portalgovbr/portalgovbr/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li id="portaltab-noticias" class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
                 <ul class="submenu">
                     <li>
 
@@ -418,6 +431,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
             
             Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
         </a>
 
         
@@ -672,7 +698,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-planalto" class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li id="portaltab-canais-do-executivo-federal" class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li id="portaltab-navegacao" class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
                 <ul class="submenu">
                     <li>
 
@@ -726,17 +752,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-acesse-sua-conta-gov.br" class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li id="portaltab-guia-de-edicao-de-servicos-do-gov.br" class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li id="portaltab-orgaos-do-governo" class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li id="portaltab-todosportodos" class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
-        </nav>
-      </div>
-      <div class="navigation-content-extra">
-        <div class="links-redes-wrap">
-          <div class="links-uteis links-uteis-mobile">
-            <ul>
-              <li>
-                <a href="#">Acessibilidade</a>
-              </li>
-              <!-- <li class="language-selection">
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
                   <a href="" class="currentLanguage language-pt-br">
                     Portugu&#234;s
                   </a>
@@ -753,49 +779,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
                   </ul>
                 </li> -->
-              <li>
-                <a href="#" class="link-contraste">
-                  <i class="fas fa-adjust"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div class="links-uteis">
-            <h3>
-              Links Úteis
-            </h3>
-            <ul>
-              <!-- <li>
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
                   <a href="#">&#211;rg&#227;os do Governo</a>
                 </li> -->
-              <li>
-                <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
-              </li>
-              <li>
-                <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
-              </li>
-            </ul>
-          </div>
-          <div class="header-accessibility">
-            <ul>
-              <li>
-                <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
-              </li>
-              <li>
-                <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
-              </li>
-              <li>
-                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
-              </li>
-              <li>
-                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
-              </li>
-              <li>
-                <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
-              </li>
-            </ul>
-          </div>
-          <div class="redes-sociais">
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
         <h3>Redes sociais</h3>
         <ul class="portal-redes">
             
@@ -817,17 +843,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </ul>
     </div>
+          </div>
         </div>
-      </div>
-    </div>
+      </nav>
 
-    <!-- Main Menu -->
-    
-    
-
-    <div id="beta"><a href="/sobre">Versão Beta</a></div>
-  </header><div id="portal-breadcrumbs-wrapper">
-    <div id="portal-breadcrumbs">
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
 
     <span id="breadcrumbs-you-are-here">Você está aqui:</span>
     <span id="breadcrumbs-home">
@@ -865,14 +889,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          
     </span>
 
-</div>
-  </div><div class="video"></div><div id="wrapper">
-    <!-- Columns -->
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
 
-    <div id="main">
-      
+      <div id="main">
+        
 
-      <main id="main-content" role="main">
+        <main id="main-content">
 
             <div id="viewlet-above-content">
 
@@ -2261,9 +2285,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             
 
-            <div id="viewlet-below-content"><div class="voltar-topo">
-    <a href="#wrapper">Voltar ao topo</a>
-</div>
+            <div id="viewlet-below-content">
 
 
 
@@ -2288,26 +2310,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     $(tile).find('img').each(function(){
                         imagem = $(this).attr('src');
                     });
-                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><i class="fab fa-telegram-plane"></i></a>');
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><span class="fab fa-telegram-plane"></span></a>');
                     $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
-                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><i class="fab fa-whatsapp"></i></a>');
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><span class="fab fa-whatsapp"></span></a>');
                     $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
-                    var link_facebook = $('<a title="Facebook"><i class="fab fa-facebook-f"></i></a>');
+                    var link_facebook = $('<a title="Facebook"><span class="fab fa-facebook-f"></span></a>');
                     $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
-                    var link_twitter = $('<a title="Twitter"><i class="fab fa-twitter"></i></a>');
+                    var link_twitter = $('<a title="Twitter"><span class="fab fa-twitter"></span></a>');
                     $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
-                    var link_linkedin = $('<a title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>');
+                    var link_linkedin = $('<a title="LinkedIn"><span class="fab fa-linkedin-in"></span></a>');
                     $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
-                    var link_google = $('<a title="Google+"><i class="fab fa-google-plus-g"></i></a>');
+                    var link_google = $('<a title="Google+"><span class="fab fa-google-plus-g"></span></a>');
                     $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
-                    var link_email = $('<a title="E-mail"><i class="fas fa-at"></i></a>');
+                    var link_email = $('<a title="E-mail"><span class="fas fa-at"></span></a>');
                     $(link_email).attr('href', url+'/sendto_form');
-                    var link_pinterest = $('<a title="Pinterest"><i class="fab fa-pinterest-p"></i></a>');
+                    var link_pinterest = $('<a title="Pinterest"><span class="fab fa-pinterest-p"></span></a>');
                     $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
-                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><i class="fas fa-link"></i></a>');
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><span class="fas fa-link"></span></a>');
                     $(link_clipboard).attr('href', url);
                     $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
-                    var link_x = $('<a class="toggle-social-links"><i class="fas fa-share-alt"></i><i class="fas fa-times"></i></a>');
+                    var link_x = $('<a class="toggle-social-links"><span class="fas fa-share-alt"></span><span class="fas fa-times"></span></a>');
                     var div_principal = $('<div class="social-links"></div>');
                     $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
                     $(div_principal).append(link_clipboard);
@@ -2345,26 +2367,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     $(tile).find('img').each(function(){
                         imagem = $(this).attr('src');
                     });
-                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><i class="fab fa-telegram-plane"></i></a>');
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><span class="fab fa-telegram-plane"></span></a>');
                     $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
-                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><i class="fab fa-whatsapp"></i></a>');
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><span class="fab fa-whatsapp"></span></a>');
                     $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
-                    var link_facebook = $('<a title="Facebook"><i class="fab fa-facebook-f"></i></a>');
+                    var link_facebook = $('<a title="Facebook"><span class="fab fa-facebook-f"></span></a>');
                     $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
-                    var link_twitter = $('<a title="Twitter"><i class="fab fa-twitter"></i></a>');
+                    var link_twitter = $('<a title="Twitter"><span class="fab fa-twitter"></span></a>');
                     $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
-                    var link_linkedin = $('<a title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>');
+                    var link_linkedin = $('<a title="LinkedIn"><span class="fab fa-linkedin-in"></span></a>');
                     $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
-                    var link_google = $('<a title="Google+"><i class="fab fa-google-plus-g"></i></a>');
+                    var link_google = $('<a title="Google+"><span class="fab fa-google-plus-g"></span></a>');
                     $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
-                    var link_email = $('<a title="E-mail"><i class="fas fa-at"></i></a>');
+                    var link_email = $('<a title="E-mail"><span class="fas fa-at"></span></a>');
                     $(link_email).attr('href', url+'/sendto_form');
-                    var link_pinterest = $('<a title="Pinterest"><i class="fab fa-pinterest-p"></i></a>');
+                    var link_pinterest = $('<a title="Pinterest"><span class="fab fa-pinterest-p"></span></a>');
                     $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
-                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><i class="fas fa-link"></i></a>');
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><span class="fas fa-link"></span></a>');
                     $(link_clipboard).attr('href', url);
                     $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
-                    var link_x = $('<a class="toggle-social-links"><i class="fas fa-share-alt"></i><i class="fas fa-times"></i></a>');
+                    var link_x = $('<a class="toggle-social-links"><span class="fas fa-share-alt"></span><span class="fas fa-times"></span></a>');
                     var div_principal = $('<div class="social-links"></div>');
                     $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
                     $(div_principal).append(link_clipboard);
@@ -2385,9 +2407,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 
 
-  <div class="texto-copyright">
-    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
-  </div>
+  
 
 
 
@@ -2396,16 +2416,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
         </main>
-      
-    </div>
-    <div class="conteudo-relacionado"></div>
 
-    <footer class="portal-footer">
-      <div class="footer-wrapper">
-        <div class="govbr-logo"></div>
-        <!--<div class="colunas-rodape">
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
               <div class="coluna-menu">-->
-        <ul class="list-navigation"><li id="portaltab-servicos" class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
                 <ul class="submenu">
                     <li class="dropdown-submenu">
 
@@ -2542,7 +2564,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-galeria-de-aplicativos" class="plain"><a href="/clientes/portalgovbr/portalgovbr/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li id="portaltab-noticias" class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
                 <ul class="submenu">
                     <li>
 
@@ -2551,6 +2573,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
             
             Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
         </a>
 
         
@@ -2805,7 +2840,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-planalto" class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li id="portaltab-canais-do-executivo-federal" class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li id="portaltab-navegacao" class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
                 <ul class="submenu">
                     <li>
 
@@ -2859,12 +2894,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-acesse-sua-conta-gov.br" class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li id="portaltab-guia-de-edicao-de-servicos-do-gov.br" class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li id="portaltab-orgaos-do-governo" class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li id="portaltab-todosportodos" class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
-        <!--</div>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
             </div>-->
 
-        <div class="redes-e-logos">
-          <div class="redes-sociais">
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
         <h3>Redes sociais</h3>
         <ul class="portal-redes">
             
@@ -2886,87 +2921,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </ul>
     </div>
-          <div id="footer-brasil"></div>
+            <div id="footer-brasil"></div>
+          </div>
         </div>
-      </div>
-    <div class="texto-copyright">
+
+        <div class="texto-copyright">
     <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
-  </div></footer>
-  </div><!-- [Teste Datas Relativas] --><!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
-      <script>
-        moment().format();
-        moment.locale(document.documentElement.getAttribute('lang'));
-      </script> --><!-- [/Teste Datas Relativas] -->
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
     
     
       <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
     
-<script>
-    function onYouTubeIframeAPIReady() {
-      $(function () {
-        var $container = $(
-          ".portaltype-liveblog.template-view .linha-destaquetopo"
-        );
-        if ($container.length === 0) {
-          return;
-        }
-        var by = new govbrtheme.Youtube($container);
-        by.iframeIsReady();
-      });
-    }
-  </script><script>
-    var $buoop = {
-      api: 2019.11,
-
-      required: { e: 16, f: 52, o: 54, s: 11, c: 68 },
-      // Specifies required browser versions
-      // Browsers older than this will be notified.
-      // f:22 ---> Firefox < 22 gets notified
-      // Negative numbers specify how much versions behind current version.
-      // c:-5 ---> Chrome < 35  gets notified if latest Chrome version is 40.
-      // more details (in english)
-
-      reminder: 24,
-      // after how many hours should the message reappear
-      // 0 = show all the time
-
-      reminderClosed: 150,
-      // if the user explicitly closes message it reappears after x hours
-
-      //   l: document.documentElement.getAttribute('lang'),
-      // test: true,
-      text:
-        '<p>Seu navegador da web (<strong>{brow_name}</strong>) est&#225; desatualizado ou n&#227;o &#233; compat&#237;vel com este site.</p><p class="info">Alguns recursos podem n&#227;o funcionar ou serem exibidos incorretamente.</p><div class="buttons"><a{up_but}>Mais informa&#231;&#245;es</a> <a{ignore_but}>Ignorar</a></div>',
-      text_en:
-        '<p>Your web browser (<strong>{brow_name}</strong>) is outdated or is not compatible with this site.</p><p class="info">Some features may not work or be displayed properly.</p><div class="buttons"><a{up_but}>Read more</a> <a{ignore_but}>ignore</a></div>',
-      text_es:
-        '<p>Su navegador web (<strong>{brow_name}</strong>) est&#225; desactualizado o no es compatible con este sitio.</p><p class="info">Algunas caracter&#237;sticas pueden no funcionar o mostrarse incorrectamente.</p><div class="buttons"><a{up_but}>Mas informaciones</a> <a{ignore_but}>ignorar</a></div>',
-      url:
-        document.body.getAttribute("data-portal-url") +
-        "/" +
-        document.documentElement.getAttribute("lang") +
-        "/browser-info",
-      //   newwindow: false,
-      //   no_permanent_hide: true,
-      onshow: function () {
-        document.body.setAttribute("data-browser-version-msg", "true");
-      },
-      onclose: function () {
-        document.body.setAttribute("data-browser-version-msg", "false");
-      }
-    };
-
-    function $buo_f() {
-      var e = document.createElement("script");
-      e.src = "//browser-update.org/update.min.js";
-      document.body.appendChild(e);
-    }
-    try {
-      document.addEventListener("DOMContentLoaded", $buo_f, false);
-    } catch (e) {
-      window.attachEvent("onload", $buo_f);
-    }
-  </script><script type="text/javascript" src="/++theme++padrao_govbr/++theme++padrao_govbr/govbrtheme-803327f.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -2976,5 +2951,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('config', 'UA-80181585-36');
 </script>
 </div></body>
-
 </html>

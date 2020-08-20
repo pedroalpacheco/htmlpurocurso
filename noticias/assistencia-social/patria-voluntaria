@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
-
-<head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -54,29 +53,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
   
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/reset-cachekey-f0d1de014779213f50834cde8226353e.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/base-cachekey-8e1f14add81fb5283390fefa8a89bff9.css" />
-    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-fda5905ea66108870a5718c27129c3b6.css);</style>
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-8b71f1fbb41bc18198387a17e15af84f.css" />
-    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-c6f2a907c0970efd76e725adc5516a63.css);</style>
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/embedder-cachekey-bc769ce7c2e32b5667cdd4bc33360515.css" media="screen" />
-    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-47c33e690a1e4b5acd9a51d059aa78ca.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/reset-cachekey-6a307ac51fee75944ae70b269b159c6f.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/base-cachekey-68ad60f6e42e86bd55c7c8dc3c302e92.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-f763b5fa96c9a0758695a0884892df2e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-3ed3465581da17f03b61573672578416.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-ef562a9d0c9c2b149deb39e146dea73f.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/embedder-cachekey-305405300aad750588dfd696ed56bd8e.css" media="screen" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-dfe46e3697b167ac83b39e2fa1a93c18.css);</style>
         <!--[if lt IE 8]>    
     
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/IEFixes-cachekey-70b01ea089adc82e2b0c303599d792e3.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/IEFixes-cachekey-27ad120c9447303a62ccd13d7e29b696.css" media="screen" />
         <![endif]-->
     
-    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourcegovbr.policycanais-cachekey-325319c188cf325eeb89c17e0ec7d4af.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/resourcegovbr.policycanais-cachekey-e837791d55888d10dff0d0fe53cb0adc.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/casacivil/portal_css/Sunburst%20Theme/ploneCustom-cachekey-a59a158e399bd02b152484d7fcd9b314.css" media="all" />
 
   
   
-    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-20ddadfe2eb3ccd7bf8ee9aab65ef242.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-59f48685d5b0e7819cd1f461fb3c1a47.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-3fd77256f7df1fb40f014107198d0684.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-28bb9d0fb22fcd2e323686802112d7e3.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-9409670dfca23c76762287bc67188e48.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-f40ed961f63e790d8a911f66b16a054e.js"></script>
-    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-1b7e76294b1b810d622618c3c405e538.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-3179a4b88acc0eb0461b4acfec5338a0.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-9cc7c8e64550a90cce5dcbe9ebc8e308.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-3de0cfeb940f99f35ac40e18bdf6c4ee.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-3ffb12adb1e6985f809b67be8eec40c6.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-362566842be9d490e662a9a26466628e.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-6a4dbc254a4dfed0fc5f5f1431aa4def.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/casacivil/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-a48b56766980e6cc39f1ecf4cb9d8fbc.js"></script>
 
 
 
@@ -143,21 +143,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <meta name="generator" content="Plone - http://plone.org" />
     
 
-  <meta charset="utf-8" />
-  
-  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/favicon-16x16.png" />
-  <link rel="manifest" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/manifest.json" />
-  <link rel="mask-icon" href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
-  <meta name="msapplication-config" content="++theme++padrao_govbr/favicons/browserconfig.xml" />
-  <meta name="theme-color" content="#00a300" />
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
-  <script src="https://www.youtube.com/iframe_api"></script>
-<link href="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/govbrtheme-803327f.css" rel="stylesheet" /></head>
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/casacivil/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/casacivil/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/casacivil/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/casacivil/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/casacivil/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
 
-<body id="" class="default-header-template portal-institucional cover-layout-layout-vazio template-view portaltype-collective-cover-content site-pt-br section-patriavoluntaria subsection-patria-voluntaria userrole-anonymous" data-base-url="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria" data-portal-url="https://www.gov.br/casacivil" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+  <body id="" class="default-header-template portal-institucional cover-layout-layout-vazio template-view portaltype-collective-cover-content site-pt-br section-patriavoluntaria subsection-patria-voluntaria userrole-anonymous" data-base-url="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria" data-portal-url="https://www.gov.br/casacivil" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
           <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
           </iframe>
         </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
@@ -167,45 +166,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
             </ul>
     </div>
-</div><ul id="skip-menu">
-    <li><a accesskey="i" href="/">Ir para página inicial</a></li>
-    <li><a accesskey="c" href="#content">Ir para o conteúdo</a></li>
-    <li><a accesskey="n" href="#menu-institucional">Ir para o menu</a></li>
-    <li><a accesskey="4" href="#portal-footer">Ir para o rodapé</a></li>
-  </ul><!-- User --><!-- Header --><!-- <header id="main-header" class="has-navigation-swipe"> --><header id="main-header" class="has-navigation-dropdown">
-    <div class="header-wrapper">
-      
-      <div id="logo">
-        <a id="portal-img" href="https://www.gov.br"></a>
-        <a id="portal-logo" title="O portal do Brasil" href="https://www.gov.br">
-          <span id="portal-title-1">Governo do</span>
-          <div id="portal-title" class="corto">Brasil</div>
-        </a>
-        <a href="https://www.gov.br/planalto" title="" id="link-orgao-govbr">
-          <span id="portal-description">Presidência da República</span>
-        </a>
-      </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          <a href="https://www.gov.br/planalto" class="nome-orgao">Presidência da República</a>
+        </div>
 
-      <div class="header-accessibility">
-        <ul>
-          <li>
-            <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
-          </li>
-          <li>
-            <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
-          </li>
-          <li>
-            <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
-          </li>
-          <li>
-            <a href="/accessibility-info">Acessibilidade</a>
-          </li>
-          <!--<li>
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
                 <a href="http://www.vlibras.gov.br/" class="link-vlibras">
-                  <i class="fas fa-assistive-listening-systems"></i>
+                  <span class="fas fa-assistive-listening-systems"></span>
                 </a>
               </li>-->
-          <!-- <li class="language-selection">
+              <!-- <li class="language-selection">
                 <a href="" class="currentLanguage language-pt-br">
                   Portugu&#234;s
                 </a>
@@ -222,74 +227,63 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   </li>
                 </ul>
               </li> -->
-          <li>
-            <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
-              <i class="fas fa-user"></i>
-              Acesso GOV.BR
-            </a>
-          </li>
-          <li>
-            <a href="#" class="link-contraste">
-              <i class="fas fa-adjust"></i>
-            </a>
-          </li>
-        </ul>
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
       </div>
-      <div id="portal-searchbox">
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/casacivil/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/casacivil/pt-br" class="site-name" title="">Casa Civil</a>
+        </div>
+
+        <div id="portal-searchbox">
 
     <form id="nolivesearchGadget_form" action="https://www.gov.br/casacivil/pt-br/@@search">
 
         <div class="LSBox">
         <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
 
-        <input name="SearchableText" type="text" size="18" title="Buscar no Site" placeholder="Buscar no Site" accesskey="&#10;b" class="searchField" id="nolivesearchGadget" />
+        <input name="SearchableText" type="text" size="18" title="Buscar no Site" placeholder="Buscar no Site" class="searchField" id="nolivesearchGadget" />
 
         <input class="searchButton" type="submit" value="Buscar" />
 
         
 
-        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        
         </div>
     </form>
 
-    <div id="portal-advanced-search" class="hiddenStructure">
-        <a href="https://www.gov.br/casacivil/pt-br/@@search" accesskey="5">Busca Avançada…</a>
-    </div>
+    
 
 </div>
-    </div>
-    <div class="header-wrapper">
-      <div class="menu-institucional" id="menu-institucional">
-        <div class="">
-          <!-- .column -->
-          <div class="heading">
-            <div class="header-icons">
-              <a class="ico-navegacao">
-                Navegação
-                <i class="fa fa-bars" aria-hidden="true"></i>
-                <i class="fa fa-times" aria-hidden="true"></i>
-              </a>
-            </div>
-            <div class="logo">
-              <h1>
-                <a id="portal-title-sub" href="https://www.gov.br/casacivil/pt-br" title="">Casa Civil</a>
-              </h1>
-            </div>
-          </div>
-          <div class="links-destaque-institucional">
-            <ul>
-        
-    </ul>
-          </div>
-        </div>
       </div>
-    </div>
 
-    <!-- Main Menu -->
-    <div class="navigation-wrapper navigation-dropdown">
-      <div class="navigation-content">
-        <nav id="main-navigation" class="navigation-cell">
-          <ul class="list-navigation"><li id="portaltab-composicao" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/composicao" title="" class="plain">Composição</a>
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/composicao" title="" class="plain">Composição</a>
                 <ul class="submenu">
                     <li>
 
@@ -304,16 +298,77 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
 
-<li>
+<li class="dropdown-submenu">
 
     
 
-        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro" title="" class="state-published">
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro" title="" class="state-published hasDropDown">
             
             Gabinete do ministro
         </a>
 
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
         
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro/perfis-dos-cargos" title="" class="state-published">
+            
+            Perfis dos cargos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro/quem-e-quem" title="" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro/curriculos" title="" class="state-published">
+            
+            Currículos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
     
 </li>
 
@@ -331,6 +386,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/perfis-dos-cargos" title="" class="state-published">
+            
+            Perfis dos cargos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/quem-e-quem" title="" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/curriculos" title="" class="state-published">
+            
+            Currículos
+        </a>
+
+        
+    
+</li>
 
 <li>
 
@@ -371,6 +478,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
 
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/perfis-dos-cargos" title="" class="state-published">
+            
+            Perfis dos cargos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/quem-e-quem" title="" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/curriculos" title="" class="state-published">
+            
+            Currículos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
         <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/autoridade" title="" class="state-published">
             
             Autoridade
@@ -401,6 +560,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social/perfis-dos-cargos" title="" class="state-published">
+            
+            Perfis dos cargos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social/quem-e-quem" title="" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
 
 <li>
 
@@ -496,7 +694,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-canais_atendimento" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/canais_atendimento" title="" class="plain">Canais de Atendimento</a>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/canais_atendimento" title="" class="plain">Canais de Atendimento</a>
                 <ul class="submenu">
                     <li>
 
@@ -537,7 +735,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-acesso-a-informacao" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao" title="" class="plain">Acesso à informação</a>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao" title="" class="plain">Acesso à informação</a>
                 <ul class="submenu">
                     <li>
 
@@ -730,9 +928,48 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-assuntos" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/assuntos" title="" class="plain">Assuntos</a>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/assuntos" title="" class="plain">Assuntos</a>
                 <ul class="submenu">
                     <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/noticias" title="" class="state-published">
+            
+            Notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/500dias" title="" class="state-published">
+            
+            500 Dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/agendamaisbrasil/" title="" class="state-published">
+            
+            Agenda Mais Brasil
+        </a>
+
+        
+    
+</li>
+
+<li>
 
     
 
@@ -745,38 +982,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
 
-<li class="dropdown-submenu">
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/assuntos/operacao-acolhida" title="" class="state-published hasDropDown">
-            
-            Operação Acolhida
-        </a>
-
-        <ul class="submenu navTree navTreeLevel1">
-            
-
-
-
-
 <li>
 
     
 
-        <a href="https://www.gov.br/casacivil/pt-br/assuntos/operacao-acolhida/historico" title="" class="state-published">
+        <a href="https://www.gov.br/acolhida/" title="" class="state-published">
             
-            Histórico
+            Operação Acolhida
         </a>
 
         
     
 </li>
 
+<li>
 
+    
 
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
 
-        </ul>
+        
     
 </li>
 
@@ -992,34 +1220,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ul>
     
 </li>
-
-<li>
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/assuntos/noticias" title="" class="state-published">
-            
-            Notícias
-        </a>
-
-        
-    
-</li>
-
-<li>
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/assuntos/500dias" title="" class="state-published">
-            
-            500 Dias
-        </a>
-
-        
-    
-</li>
                 </ul>
-            </li><li id="portaltab-centrais-de-conteudo" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo" title="conteudo do menu central de conteudos" class="plain">Centrais de Conteúdo</a>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo" title="conteudo do menu central de conteudos" class="plain">Centrais de Conteúdo</a>
                 <ul class="submenu">
                     <li class="dropdown-submenu">
 
@@ -1068,62 +1270,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ul>
     
 </li>
-                </ul>
-            </li><li id="portaltab-patriavoluntaria" class="selected"><a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria" title="" class="plain">Pátria voluntária</a></li><li id="portaltab-ocde" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/ocde" title="" class="plain">OCDE</a>
-                <ul class="submenu">
-                    <li>
+
+<li class="dropdown-submenu">
 
     
 
-        <a href="https://www.gov.br/casacivil/pt-br/ocde/inicio-1" title="" class="state-published">
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/legislacao" title="" class="state-published hasDropDown">
             
-            Início
+            Legislação
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/legislacao/portarias-em-vigor" title="" class="state-published">
+            
+            Portarias em vigor
         </a>
 
         
     
 </li>
 
-<li>
 
-    
 
-        <a href="https://www.gov.br/casacivil/pt-br/ocde/sobre-a-ocde" title="" class="state-published">
-            
-            Sobre a OCDE
-        </a>
 
-        
-    
-</li>
-
-<li>
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/ocde/brasil-na-ocde" title="" class="state-published">
-            
-            Brasil na OCDE
-        </a>
-
-        
-    
-</li>
-
-<li>
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/ocde/conselho-brasil-ocde" title="" class="state-published">
-            
-            Conselho Brasil-OCDE
-        </a>
-
-        
+        </ul>
     
 </li>
                 </ul>
-            </li><li id="portaltab-govbr-root" class="plain dropdown-submenu menu-govbr-root">
+            </li><li class="selected"><a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria" title="" class="plain">Pátria voluntária</a></li><li id="portaltab-govbr-root" class="plain dropdown-submenu menu-govbr-root">
             <a title="GOV.BR" class="plain" href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria">
                 <span>GOV.BR</span>
             </a>
@@ -1211,6 +1394,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
             <li class="plain">
                 <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="Últimas notícias">Últimas notícias</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="Coronavirus">Coronavirus</a>
                 
             </li>
         
@@ -1328,6 +1516,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
                 
                     <li class="plain">
+                        <a href="https://www.gov.br/pt-br/arquivos-de-servicos" class="hasDropDown" title="Arquivos de serviços">Arquivos de serviços</a>
+                        
+                    </li>
+                
+                    <li class="plain">
                         <a href="https://www.gov.br/pt-br/canais-do-executivo-federal" class="hasDropDown" title="Canais do Poder Executivo Federal">Canais do Poder Executivo Federal</a>
                         
                     </li>
@@ -1385,16 +1578,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
             </ul>
         </li></ul>
-        </nav>
-      </div>
-      <div class="navigation-content-extra">
-        <div class="links-redes-wrap">
-          <div class="links-uteis links-uteis-mobile">
-            <ul>
-              <li>
-                <a href="#">Acessibilidade</a>
-              </li>
-              <!-- <li class="language-selection">
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
                   <a href="" class="currentLanguage language-pt-br">
                     Portugu&#234;s
                   </a>
@@ -1411,49 +1604,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
                   </ul>
                 </li> -->
-              <li>
-                <a href="#" class="link-contraste">
-                  <i class="fas fa-adjust"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div class="links-uteis">
-            <h3>
-              Links Úteis
-            </h3>
-            <ul>
-              <!-- <li>
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
                   <a href="#">&#211;rg&#227;os do Governo</a>
                 </li> -->
-              <li>
-                <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
-              </li>
-              <li>
-                <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
-              </li>
-            </ul>
-          </div>
-          <div class="header-accessibility">
-            <ul>
-              <li>
-                <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
-              </li>
-              <li>
-                <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
-              </li>
-              <li>
-                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
-              </li>
-              <li>
-                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
-              </li>
-              <li>
-                <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
-              </li>
-            </ul>
-          </div>
-          <div class="redes-sociais">
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
         <h3>Redes sociais</h3>
         <ul class="portal-redes">
             
@@ -1467,17 +1660,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </ul>
     </div>
+          </div>
         </div>
-      </div>
-    </div>
+      </nav>
 
-    <!-- Main Menu -->
-    
-    
-
-    <div id="beta"><a href="/sobre">Versão Beta</a></div>
-  </header><div id="portal-breadcrumbs-wrapper">
-    <div id="portal-breadcrumbs">
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
 
     <span id="breadcrumbs-you-are-here">Você está aqui:</span>
     <span id="breadcrumbs-home">
@@ -1495,14 +1686,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          
     </span>
 
-</div>
-  </div><div class="video"></div><div id="wrapper">
-    <!-- Columns -->
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
 
-    <div id="main">
-      
+      <div id="main">
+        
 
-      <main id="main-content" role="main">
+        <main id="main-content">
 
             <div id="viewlet-above-content">
 
@@ -2151,7 +2342,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       
 
       
-        <a class="imag" title="Mudança visa aprimorar a gestão do programa, que tem ações e projetos como grandes características">
+        <a class="imag" aria-hidden="true" title="Mudança visa aprimorar a gestão do programa, que tem ações e projetos como grandes características">
           <img src="https://www.gov.br/casacivil/pt-br/patriavoluntaria/patria-voluntaria/@@govbr.institucional.tile.nitf/b065b2f1-4855-4f46-8bb8-b35fe52a0d9b/@@images/9c67d347-9488-42cf-8d3a-f10002e8f04f.jpeg" width="1150" height="766" class="left" alt="Pátria Voluntária passa a ser coordenado pela Casa Civil" />
         </a>
       
@@ -2983,9 +3174,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             
 
-            <div id="viewlet-below-content"><div class="voltar-topo">
-    <a href="#wrapper">Voltar ao topo</a>
-</div>
+            <div id="viewlet-below-content">
 
 
 
@@ -3009,26 +3198,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     $(tile).find('img').each(function(){
                         imagem = $(this).attr('src');
                     });
-                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><i class="fab fa-telegram-plane"></i></a>');
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><span class="fab fa-telegram-plane"></span></a>');
                     $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
-                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><i class="fab fa-whatsapp"></i></a>');
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><span class="fab fa-whatsapp"></span></a>');
                     $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
-                    var link_facebook = $('<a title="Facebook"><i class="fab fa-facebook-f"></i></a>');
+                    var link_facebook = $('<a title="Facebook"><span class="fab fa-facebook-f"></span></a>');
                     $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
-                    var link_twitter = $('<a title="Twitter"><i class="fab fa-twitter"></i></a>');
+                    var link_twitter = $('<a title="Twitter"><span class="fab fa-twitter"></span></a>');
                     $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
-                    var link_linkedin = $('<a title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>');
+                    var link_linkedin = $('<a title="LinkedIn"><span class="fab fa-linkedin-in"></span></a>');
                     $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
-                    var link_google = $('<a title="Google+"><i class="fab fa-google-plus-g"></i></a>');
+                    var link_google = $('<a title="Google+"><span class="fab fa-google-plus-g"></span></a>');
                     $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
-                    var link_email = $('<a title="E-mail"><i class="fas fa-at"></i></a>');
+                    var link_email = $('<a title="E-mail"><span class="fas fa-at"></span></a>');
                     $(link_email).attr('href', url+'/sendto_form');
-                    var link_pinterest = $('<a title="Pinterest"><i class="fab fa-pinterest-p"></i></a>');
+                    var link_pinterest = $('<a title="Pinterest"><span class="fab fa-pinterest-p"></span></a>');
                     $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
-                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><i class="fas fa-link"></i></a>');
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><span class="fas fa-link"></span></a>');
                     $(link_clipboard).attr('href', url);
                     $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
-                    var link_x = $('<a class="toggle-social-links"><i class="fas fa-share-alt"></i><i class="fas fa-times"></i></a>');
+                    var link_x = $('<a class="toggle-social-links"><span class="fas fa-share-alt"></span><span class="fas fa-times"></span></a>');
                     var div_principal = $('<div class="social-links"></div>');
                     $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
                     $(div_principal).append(link_clipboard);
@@ -3066,26 +3255,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     $(tile).find('img').each(function(){
                         imagem = $(this).attr('src');
                     });
-                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><i class="fab fa-telegram-plane"></i></a>');
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><span class="fab fa-telegram-plane"></span></a>');
                     $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
-                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><i class="fab fa-whatsapp"></i></a>');
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><span class="fab fa-whatsapp"></span></a>');
                     $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
-                    var link_facebook = $('<a title="Facebook"><i class="fab fa-facebook-f"></i></a>');
+                    var link_facebook = $('<a title="Facebook"><span class="fab fa-facebook-f"></span></a>');
                     $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
-                    var link_twitter = $('<a title="Twitter"><i class="fab fa-twitter"></i></a>');
+                    var link_twitter = $('<a title="Twitter"><span class="fab fa-twitter"></span></a>');
                     $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
-                    var link_linkedin = $('<a title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>');
+                    var link_linkedin = $('<a title="LinkedIn"><span class="fab fa-linkedin-in"></span></a>');
                     $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
-                    var link_google = $('<a title="Google+"><i class="fab fa-google-plus-g"></i></a>');
+                    var link_google = $('<a title="Google+"><span class="fab fa-google-plus-g"></span></a>');
                     $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
-                    var link_email = $('<a title="E-mail"><i class="fas fa-at"></i></a>');
+                    var link_email = $('<a title="E-mail"><span class="fas fa-at"></span></a>');
                     $(link_email).attr('href', url+'/sendto_form');
-                    var link_pinterest = $('<a title="Pinterest"><i class="fab fa-pinterest-p"></i></a>');
+                    var link_pinterest = $('<a title="Pinterest"><span class="fab fa-pinterest-p"></span></a>');
                     $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
-                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><i class="fas fa-link"></i></a>');
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><span class="fas fa-link"></span></a>');
                     $(link_clipboard).attr('href', url);
                     $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
-                    var link_x = $('<a class="toggle-social-links"><i class="fas fa-share-alt"></i><i class="fas fa-times"></i></a>');
+                    var link_x = $('<a class="toggle-social-links"><span class="fas fa-share-alt"></span><span class="fas fa-times"></span></a>');
                     var div_principal = $('<div class="social-links"></div>');
                     $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
                     $(div_principal).append(link_clipboard);
@@ -3106,9 +3295,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 
 
-  <div class="texto-copyright">
-    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
-  </div>
+  
 
 
 
@@ -3117,16 +3304,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
         </main>
-      
-    </div>
-    <div class="conteudo-relacionado"></div>
 
-    <footer class="portal-footer">
-      <div class="footer-wrapper">
-        <div class="govbr-logo"></div>
-        <!--<div class="colunas-rodape">
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
               <div class="coluna-menu">-->
-        <ul class="list-navigation"><li id="portaltab-composicao" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/composicao" title="" class="plain">Composição</a>
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/composicao" title="" class="plain">Composição</a>
                 <ul class="submenu">
                     <li>
 
@@ -3141,16 +3330,77 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
 
-<li>
+<li class="dropdown-submenu">
 
     
 
-        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro" title="" class="state-published">
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro" title="" class="state-published hasDropDown">
             
             Gabinete do ministro
         </a>
 
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
         
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro/perfis-dos-cargos" title="" class="state-published">
+            
+            Perfis dos cargos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro/quem-e-quem" title="" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/gabinete-do-ministro/curriculos" title="" class="state-published">
+            
+            Currículos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
     
 </li>
 
@@ -3168,6 +3418,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/perfis-dos-cargos" title="" class="state-published">
+            
+            Perfis dos cargos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/quem-e-quem" title="" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/secretaria-executiva/curriculos" title="" class="state-published">
+            
+            Currículos
+        </a>
+
+        
+    
+</li>
 
 <li>
 
@@ -3208,6 +3510,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
 
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/perfis-dos-cargos" title="" class="state-published">
+            
+            Perfis dos cargos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/quem-e-quem" title="" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/curriculos" title="" class="state-published">
+            
+            Currículos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
         <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-especial/autoridade" title="" class="state-published">
             
             Autoridade
@@ -3238,6 +3592,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social/competencias" title="" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social/perfis-dos-cargos" title="" class="state-published">
+            
+            Perfis dos cargos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/composicao/assessoria-de-comunicacao-social/quem-e-quem" title="" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
 
 <li>
 
@@ -3333,7 +3726,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-canais_atendimento" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/canais_atendimento" title="" class="plain">Canais de Atendimento</a>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/canais_atendimento" title="" class="plain">Canais de Atendimento</a>
                 <ul class="submenu">
                     <li>
 
@@ -3374,7 +3767,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-acesso-a-informacao" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao" title="" class="plain">Acesso à informação</a>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/acesso-a-informacao" title="" class="plain">Acesso à informação</a>
                 <ul class="submenu">
                     <li>
 
@@ -3567,9 +3960,48 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
                 </ul>
-            </li><li id="portaltab-assuntos" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/assuntos" title="" class="plain">Assuntos</a>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/assuntos" title="" class="plain">Assuntos</a>
                 <ul class="submenu">
                     <li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/noticias" title="" class="state-published">
+            
+            Notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/500dias" title="" class="state-published">
+            
+            500 Dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/agendamaisbrasil/" title="" class="state-published">
+            
+            Agenda Mais Brasil
+        </a>
+
+        
+    
+</li>
+
+<li>
 
     
 
@@ -3582,38 +4014,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 </li>
 
-<li class="dropdown-submenu">
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/assuntos/operacao-acolhida" title="" class="state-published hasDropDown">
-            
-            Operação Acolhida
-        </a>
-
-        <ul class="submenu navTree navTreeLevel1">
-            
-
-
-
-
 <li>
 
     
 
-        <a href="https://www.gov.br/casacivil/pt-br/assuntos/operacao-acolhida/historico" title="" class="state-published">
+        <a href="https://www.gov.br/acolhida/" title="" class="state-published">
             
-            Histórico
+            Operação Acolhida
         </a>
 
         
     
 </li>
 
+<li>
 
+    
 
+        <a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria/" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
 
-        </ul>
+        
     
 </li>
 
@@ -3829,34 +4252,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ul>
     
 </li>
-
-<li>
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/assuntos/noticias" title="" class="state-published">
-            
-            Notícias
-        </a>
-
-        
-    
-</li>
-
-<li>
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/assuntos/500dias" title="" class="state-published">
-            
-            500 Dias
-        </a>
-
-        
-    
-</li>
                 </ul>
-            </li><li id="portaltab-centrais-de-conteudo" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo" title="conteudo do menu central de conteudos" class="plain">Centrais de Conteúdo</a>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo" title="conteudo do menu central de conteudos" class="plain">Centrais de Conteúdo</a>
                 <ul class="submenu">
                     <li class="dropdown-submenu">
 
@@ -3905,67 +4302,48 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ul>
     
 </li>
-                </ul>
-            </li><li id="portaltab-patriavoluntaria" class="selected"><a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria" title="" class="plain">Pátria voluntária</a></li><li id="portaltab-ocde" class="plain dropdown-submenu"><a href="https://www.gov.br/casacivil/pt-br/ocde" title="" class="plain">OCDE</a>
-                <ul class="submenu">
-                    <li>
+
+<li class="dropdown-submenu">
 
     
 
-        <a href="https://www.gov.br/casacivil/pt-br/ocde/inicio-1" title="" class="state-published">
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/legislacao" title="" class="state-published hasDropDown">
             
-            Início
+            Legislação
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/centrais-de-conteudo/legislacao/portarias-em-vigor" title="" class="state-published">
+            
+            Portarias em vigor
         </a>
 
         
     
 </li>
 
-<li>
 
-    
 
-        <a href="https://www.gov.br/casacivil/pt-br/ocde/sobre-a-ocde" title="" class="state-published">
-            
-            Sobre a OCDE
-        </a>
 
-        
-    
-</li>
-
-<li>
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/ocde/brasil-na-ocde" title="" class="state-published">
-            
-            Brasil na OCDE
-        </a>
-
-        
-    
-</li>
-
-<li>
-
-    
-
-        <a href="https://www.gov.br/casacivil/pt-br/ocde/conselho-brasil-ocde" title="" class="state-published">
-            
-            Conselho Brasil-OCDE
-        </a>
-
-        
+        </ul>
     
 </li>
                 </ul>
-            </li></ul>
-        <!--</div>
+            </li><li class="selected"><a href="https://www.gov.br/casacivil/pt-br/patriavoluntaria" title="" class="plain">Pátria voluntária</a></li></ul>
+          <!--</div>
             </div>-->
 
-        <div class="redes-e-logos">
-          <div class="redes-sociais">
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
         <h3>Redes sociais</h3>
         <ul class="portal-redes">
             
@@ -3979,87 +4357,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </ul>
     </div>
-          <div id="footer-brasil"></div>
+            <div id="footer-brasil"></div>
+          </div>
         </div>
-      </div>
-    <div class="texto-copyright">
+
+        <div class="texto-copyright">
     <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
-  </div></footer>
-  </div><!-- [Teste Datas Relativas] --><!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
-      <script>
-        moment().format();
-        moment.locale(document.documentElement.getAttribute('lang'));
-      </script> --><!-- [/Teste Datas Relativas] -->
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
     
     
       <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
     
-<script>
-    function onYouTubeIframeAPIReady() {
-      $(function () {
-        var $container = $(
-          ".portaltype-liveblog.template-view .linha-destaquetopo"
-        );
-        if ($container.length === 0) {
-          return;
-        }
-        var by = new govbrtheme.Youtube($container);
-        by.iframeIsReady();
-      });
-    }
-  </script><script>
-    var $buoop = {
-      api: 2019.11,
-
-      required: { e: 16, f: 52, o: 54, s: 11, c: 68 },
-      // Specifies required browser versions
-      // Browsers older than this will be notified.
-      // f:22 ---> Firefox < 22 gets notified
-      // Negative numbers specify how much versions behind current version.
-      // c:-5 ---> Chrome < 35  gets notified if latest Chrome version is 40.
-      // more details (in english)
-
-      reminder: 24,
-      // after how many hours should the message reappear
-      // 0 = show all the time
-
-      reminderClosed: 150,
-      // if the user explicitly closes message it reappears after x hours
-
-      //   l: document.documentElement.getAttribute('lang'),
-      // test: true,
-      text:
-        '<p>Seu navegador da web (<strong>{brow_name}</strong>) est&#225; desatualizado ou n&#227;o &#233; compat&#237;vel com este site.</p><p class="info">Alguns recursos podem n&#227;o funcionar ou serem exibidos incorretamente.</p><div class="buttons"><a{up_but}>Mais informa&#231;&#245;es</a> <a{ignore_but}>Ignorar</a></div>',
-      text_en:
-        '<p>Your web browser (<strong>{brow_name}</strong>) is outdated or is not compatible with this site.</p><p class="info">Some features may not work or be displayed properly.</p><div class="buttons"><a{up_but}>Read more</a> <a{ignore_but}>ignore</a></div>',
-      text_es:
-        '<p>Su navegador web (<strong>{brow_name}</strong>) est&#225; desactualizado o no es compatible con este sitio.</p><p class="info">Algunas caracter&#237;sticas pueden no funcionar o mostrarse incorrectamente.</p><div class="buttons"><a{up_but}>Mas informaciones</a> <a{ignore_but}>ignorar</a></div>',
-      url:
-        document.body.getAttribute("data-portal-url") +
-        "/" +
-        document.documentElement.getAttribute("lang") +
-        "/browser-info",
-      //   newwindow: false,
-      //   no_permanent_hide: true,
-      onshow: function () {
-        document.body.setAttribute("data-browser-version-msg", "true");
-      },
-      onclose: function () {
-        document.body.setAttribute("data-browser-version-msg", "false");
-      }
-    };
-
-    function $buo_f() {
-      var e = document.createElement("script");
-      e.src = "//browser-update.org/update.min.js";
-      document.body.appendChild(e);
-    }
-    try {
-      document.addEventListener("DOMContentLoaded", $buo_f, false);
-    } catch (e) {
-      window.attachEvent("onload", $buo_f);
-    }
-  </script><script type="text/javascript" src="/casacivil/++theme++padrao_govbr/++theme++padrao_govbr/govbrtheme-803327f.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" src="/casacivil/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-84622159-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -4068,5 +4386,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   gtag('config', 'UA-84622159-1');
 </script></div></body>
-
 </html>

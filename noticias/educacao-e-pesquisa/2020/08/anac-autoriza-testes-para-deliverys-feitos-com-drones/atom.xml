@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones/atom.xml" type="application/atom+xml" />
+  <title type="html">Anac autoriza testes para deliverys feitos com drones</title>
+  <subtitle>Para realizar os voos experimentais, o operador da precisa seguir as regras previstas no Regulamento Brasileiro de Aviação Civil Especial</subtitle>
+  <updated>2020-08-11T16:00:43-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones/"/>
+  <id>urn:syndication:9d5e4ee93e534a72a7e884488e616268</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>ANAC autoriza testes para deliverys feitos com drone</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones/a715a1b4-7651-46f6-bc08-982929406a66.png/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones/a715a1b4-7651-46f6-bc08-982929406a66.png/@@download/image/a715a1b4-7651-46f6-bc08-982929406a66.png" length="352515" type="image/png" />
+      <id>urn:syndication:f21468b86c7c4ed1abd49301a85518ac</id>
+      <summary>O drone desenvolvido e autorizado para operações de transporte de carga. A aeronave pode transportar produtos de até 2kg, com velocidade de 32km/h. Inicialmente, operações ocorrerão somente durante o dia e a uma distância máxima de 2,5 km do ponto de decolagem.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones/a715a1b4-7651-46f6-bc08-982929406a66.png/@@images/image" title="ANAC autoriza testes para deliverys feitos com drone" alt="ANAC autoriza testes para deliverys feitos com drone" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>SpeedBird</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones/a715a1b4-7651-46f6-bc08-982929406a66.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/anac-autoriza-testes-para-deliverys-feitos-com-drones/a715a1b4-7651-46f6-bc08-982929406a66.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-11T14:07:19-03:00</published>
+
+      <updated>2020-08-11T14:07:19-03:00</updated>
+
+      
+        <category term="drones"/>
+      
+        <category term="ANAC"/>
+      
+        <category term="DECEA"/>
+      
+        <category term="Tecnologia"/>
+      
+
+    </entry>
+
+  
+
+</feed>

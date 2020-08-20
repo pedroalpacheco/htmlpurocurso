@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/atom.xml" type="application/atom+xml" />
+  <title type="html">Mais de 151 mil indígenas foram beneficiados pelo Auxílio Emergencial</title>
+  <subtitle>Benefício do Governo Federal se soma à entrega de alimentos e a instalação de barreiras sanitárias para ajudar a combater os efeitos da pandemia</subtitle>
+  <updated>2020-08-12T16:15:19-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/"/>
+  <id>urn:syndication:2e8b43ce8127401eab91ce337f3fe0e9</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Mais de 151 mil indígenas foram beneficiados pelo Auxílio Emergencial</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/@@download/image/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg" length="46389" type="image/jpeg" />
+      <id>urn:syndication:91600e24bc2044d9b453f7270eb8fe2e</id>
+      <summary>Repasses do Governo Federal para população indígena já ultrapassou ps R$ 233,5 milhões.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/@@images/image" title="Mais de 151 mil indígenas foram beneficiados pelo Auxílio Emergencial" alt="Mais de 151 mil indígenas foram beneficiados pelo Auxílio Emergencial" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Mauro Vieira/Min. Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-12T14:48:47-03:00</published>
+
+      <updated>2020-08-12T14:48:47-03:00</updated>
+
+      
+        <category term="#Covid-19"/>
+      
+        <category term="Auxílio Emergencial"/>
+      
+        <category term="Assistência a povos Indígenas"/>
+      
+        <category term="´Funai"/>
+      
+
+    </entry>
+
+  
+
+</feed>

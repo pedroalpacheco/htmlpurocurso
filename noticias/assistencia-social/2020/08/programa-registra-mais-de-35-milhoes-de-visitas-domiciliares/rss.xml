@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link rel="self"                type="application/rss+xml" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/rss.xml" />
+    <title>Programa registra mais de 35 milhões de visitas domiciliares</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares</link>
+    <description>As visitas visam estimular o desenvolvimento infantil cognitivo, linguístico, motor, socioemocional e também intensificar o vinculo familiar</description>
+
+    <language>pt-br</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Criança Feliz: Mais de 35 milhões de visitas foram registradas pelo programa</title>
+      <description>884 mil crianças e 184 mil gestantes recebem atendimento semanal pelo programa</description>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+          <![CDATA[
+          
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/@@images/image" title="Criança Feliz: Mais de 35 milhões de visitas foram registradas pelo programa" alt="Criança Feliz: Mais de 35 milhões de visitas foram registradas pelo programa" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Divulgação/Ministério da Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+          ]]>
+      </content:encoded>
+      <pubDate>Tue, 11 Aug 2020 14:18:26 -0300</pubDate>
+      <guid>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/programa-registra-mais-de-35-milhoes-de-visitas-domiciliares/0702.jpg/view</guid>
+    </item>
+  </channel>
+</rss>

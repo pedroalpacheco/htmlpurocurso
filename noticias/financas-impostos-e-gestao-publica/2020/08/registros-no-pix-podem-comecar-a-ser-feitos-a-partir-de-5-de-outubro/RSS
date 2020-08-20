@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/registros-no-pix-podem-comecar-a-ser-feitos-a-partir-de-5-de-outubro/RSS">
+  <title>Registros no PIX podem começar a ser feitos a partir de 5 de outubro</title>
+  <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/registros-no-pix-podem-comecar-a-ser-feitos-a-partir-de-5-de-outubro</link>
+  <description>O sistema vai permitir transferências eletrônicas em tempo real a qualquer momento do dia ou da noite, inclusive aos finais de semana e feriados</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/registros-no-pix-podem-comecar-a-ser-feitos-a-partir-de-5-de-outubro/paying-bills-by-scanning-qr-code-is-faster-and-eas-stecwfk.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/registros-no-pix-podem-comecar-a-ser-feitos-a-partir-de-5-de-outubro/paying-bills-by-scanning-qr-code-is-faster-and-eas-stecwfk.jpg/view">
+    <title>Registros no PIX podem começar a ser feitos a partir de 5 de outubro</title>
+    <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/registros-no-pix-podem-comecar-a-ser-feitos-a-partir-de-5-de-outubro/paying-bills-by-scanning-qr-code-is-faster-and-eas-stecwfk.jpg/view</link>
+    <description>Os pagamentos ocorrerão de forma segura apartir da leitura de um QR Code ou apenas informando dados da Chaves PIX</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/registros-no-pix-podem-comecar-a-ser-feitos-a-partir-de-5-de-outubro/paying-bills-by-scanning-qr-code-is-faster-and-eas-stecwfk.jpg/@@images/image" title="Registros no PIX podem começar a ser feitos a partir de 5 de outubro" alt="Registros no PIX podem começar a ser feitos a partir de 5 de outubro" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Banco de Imagens</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/registros-no-pix-podem-comecar-a-ser-feitos-a-partir-de-5-de-outubro/paying-bills-by-scanning-qr-code-is-faster-and-eas-stecwfk.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/registros-no-pix-podem-comecar-a-ser-feitos-a-partir-de-5-de-outubro/paying-bills-by-scanning-qr-code-is-faster-and-eas-stecwfk.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Banco de Imagens</dc:rights>
+    
+      <dc:subject>PIX</dc:subject>
+    
+      <dc:subject>Banco Central</dc:subject>
+    
+      <dc:subject>QR Code</dc:subject>
+    
+      <dc:subject>Pagamentos</dc:subject>
+    
+    <dc:date>2020-08-12T21:32:10Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

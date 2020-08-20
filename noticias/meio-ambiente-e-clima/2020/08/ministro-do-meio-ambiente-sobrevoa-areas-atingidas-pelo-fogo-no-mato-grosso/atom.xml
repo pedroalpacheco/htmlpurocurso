@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/atom.xml" type="application/atom+xml" />
+  <title type="html">Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso</title>
+  <subtitle>Salles disse que governos estão alinhados no combate às queimadas na região</subtitle>
+  <updated>2020-08-18T20:06:12-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/"/>
+  <id>urn:syndication:aa11e014f38e4269b4e6a344aca506e5</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/@@download/image/5a81face4cab598150f7bbe0a810e1f0_XL.jpg" length="481753" type="image/jpeg" />
+      <id>urn:syndication:c5701288c59540e8a12d235c133ccb45</id>
+      <summary>Ministro do Meio Ambiente sobrevoou regiões afetadas pelos incêndios no estado do Mato Grosso</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/@@images/image" title="Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso" alt="Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Ministério do Meio Ambiente</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/ministro-do-meio-ambiente-sobrevoa-areas-atingidas-pelo-fogo-no-mato-grosso/5a81face4cab598150f7bbe0a810e1f0_xl.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-18T20:05:15-03:00</published>
+
+      <updated>2020-08-18T20:05:15-03:00</updated>
+
+      
+        <category term="Meio Ambiente"/>
+      
+        <category term="#combateaincêndios"/>
+      
+        <category term="Queimadas"/>
+      
+        <category term="Ministério do Meio Ambiente"/>
+      
+
+    </entry>
+
+  
+
+</feed>

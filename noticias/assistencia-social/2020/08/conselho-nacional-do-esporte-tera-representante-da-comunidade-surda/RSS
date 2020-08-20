@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/conselho-nacional-do-esporte-tera-representante-da-comunidade-surda/RSS">
+  <title>Conselho Nacional do Esporte terá representante da comunidade surda</title>
+  <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/conselho-nacional-do-esporte-tera-representante-da-comunidade-surda</link>
+  <description>A Confederação Brasileira de Desportos de Surdos passa a fazer parte do quadro de integrantes do colegiado a partir de 24 de agosto</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/conselho-nacional-do-esporte-tera-representante-da-comunidade-surda/c88fbf53-0089-4553-a152-a067ea0dffc2.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/conselho-nacional-do-esporte-tera-representante-da-comunidade-surda/c88fbf53-0089-4553-a152-a067ea0dffc2.jpeg/view">
+    <title>Conselho Nacional do Esporte terá representante da comunidade surda</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/conselho-nacional-do-esporte-tera-representante-da-comunidade-surda/c88fbf53-0089-4553-a152-a067ea0dffc2.jpeg/view</link>
+    <description>A partir do próximo dia 24, a CBDS passa a contar com uma representante no grupo, a presidente Diana Kyosen.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/conselho-nacional-do-esporte-tera-representante-da-comunidade-surda/c88fbf53-0089-4553-a152-a067ea0dffc2.jpeg/@@images/image" title="Conselho Nacional do Esporte terá representante da comunidade surda" alt="Conselho Nacional do Esporte terá representante da comunidade surda" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Ministério da Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/conselho-nacional-do-esporte-tera-representante-da-comunidade-surda/c88fbf53-0089-4553-a152-a067ea0dffc2.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/conselho-nacional-do-esporte-tera-representante-da-comunidade-surda/c88fbf53-0089-4553-a152-a067ea0dffc2.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Ministério da Cidadania</dc:rights>
+    
+      <dc:subject>Comunidade Surda</dc:subject>
+    
+      <dc:subject>Conselho Nacional do Esporte</dc:subject>
+    
+      <dc:subject>CBDS</dc:subject>
+    
+    <dc:date>2020-08-14T15:07:52Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

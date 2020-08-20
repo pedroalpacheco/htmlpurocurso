@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia/atom.xml" type="application/atom+xml" />
+  <title type="html">Governo autoriza prorrogação automática do auxílio-doença durante pandemia</title>
+  <subtitle>Além disso, segurado do INSS pode transferir pagamento para conta corrente</subtitle>
+  <updated>2020-04-30T12:36:58-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia/"/>
+  <id>urn:syndication:6b2bb0bb92594c0998073b3f1829c4b8</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Governo autoriza prorrogação automática do auxílio-doença durante pandemia</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia/966943-07072015-dsc_5170.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia/966943-07072015-dsc_5170.jpg/@@download/image/966943-07072015-dsc_5170.jpg" length="126219" type="image/jpeg" />
+      <id>urn:syndication:1e8b823049814567a0471f785697fa76</id>
+      <summary>O beneficiário poderá solicitar a transferência para depósito em conta corrente para evitar deslocamento e aglomeração em bancos.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia/966943-07072015-dsc_5170.jpg/@@images/image" title="Governo autoriza prorrogação automática do auxílio-doença durante pandemia" alt="Governo autoriza prorrogação automática do auxílio-doença durante pandemia" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Marcelo Camargo/Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia/966943-07072015-dsc_5170.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/04/governo-autoriza-prorrogacao-automatica-do-auxilio-doenca-durante-pandemia/966943-07072015-dsc_5170.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-04-29T19:19:41-03:00</published>
+
+      <updated>2020-04-29T19:19:41-03:00</updated>
+
+      
+        <category term="auxílio-doença"/>
+      
+        <category term="#Coronavirus"/>
+      
+        <category term="#CoronavirusNoBrasil"/>
+      
+
+    </entry>
+
+  
+
+</feed>

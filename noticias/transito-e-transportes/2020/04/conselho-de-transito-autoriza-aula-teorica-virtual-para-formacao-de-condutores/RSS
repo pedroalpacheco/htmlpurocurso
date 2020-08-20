@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/04/conselho-de-transito-autoriza-aula-teorica-virtual-para-formacao-de-condutores/RSS">
+  <title>Conselho Nacional de Trânsito autoriza aula teórica virtual para formação de condutores</title>
+  <link>https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/04/conselho-de-transito-autoriza-aula-teorica-virtual-para-formacao-de-condutores</link>
+  <description>Determinação será válida enquanto durar a epidemia do coronavírus</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/04/conselho-de-transito-autoriza-aula-teorica-virtual-para-formacao-de-condutores/female-designer-working-on-computer-p2stngt.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/04/conselho-de-transito-autoriza-aula-teorica-virtual-para-formacao-de-condutores/female-designer-working-on-computer-p2stngt.jpg/view">
+    <title>Conselho de Trânsito autoriza aula teórica virtual para formação de condutores</title>
+    <link>https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/04/conselho-de-transito-autoriza-aula-teorica-virtual-para-formacao-de-condutores/female-designer-working-on-computer-p2stngt.jpg/view</link>
+    <description>Aulas virtuais deverão seguir os mesmos padrões das aulas presenciais.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/04/conselho-de-transito-autoriza-aula-teorica-virtual-para-formacao-de-condutores/female-designer-working-on-computer-p2stngt.jpg/@@images/image" title="Conselho de Trânsito autoriza aula teórica virtual para formação de condutores" alt="Conselho de Trânsito autoriza aula teórica virtual para formação de condutores" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Reprodução</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/04/conselho-de-transito-autoriza-aula-teorica-virtual-para-formacao-de-condutores/female-designer-working-on-computer-p2stngt.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/04/conselho-de-transito-autoriza-aula-teorica-virtual-para-formacao-de-condutores/female-designer-working-on-computer-p2stngt.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Reprodução</dc:rights>
+    
+      <dc:subject>Autoescolas</dc:subject>
+    
+      <dc:subject>Contran</dc:subject>
+    
+      <dc:subject>#Coronavirus</dc:subject>
+    
+      <dc:subject>#CoronavirusNoBrasil</dc:subject>
+    
+    <dc:date>2020-04-30T18:22:00Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

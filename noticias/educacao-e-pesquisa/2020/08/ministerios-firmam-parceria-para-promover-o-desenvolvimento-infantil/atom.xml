@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/atom.xml" type="application/atom+xml" />
+  <title type="html">Ministérios firmam parceria para promover o desenvolvimento infantil</title>
+  <subtitle>Objetivo é integrar as ações dos programas Criança Feliz, do Ministério da Cidadania, e do Conta pra Mim, do Ministério da Educação</subtitle>
+  <updated>2020-08-13T15:25:31-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/"/>
+  <id>urn:syndication:52ee52e35e97447ead3861ddf482a3d1</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Ministérios firmam parceria para promover o desenvolvimento infantil</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/@@download/image/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg" length="61986" type="image/jpeg" />
+      <id>urn:syndication:6bb3228ba24c4356b6457b2c9cdba564</id>
+      <summary>Programas buscam estimular a participação da família no processo de alfabetização da criança.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/@@images/image" title="Ministérios firmam parceria para promover o desenvolvimento infantil" alt="Ministérios firmam parceria para promover o desenvolvimento infantil" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Francisco Medeiros/Min. Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/ministerios-firmam-parceria-para-promover-o-desenvolvimento-infantil/0bed1c7a-9481-46c0-9b35-3ef6b7fddace.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-13T14:33:54-03:00</published>
+
+      <updated>2020-08-13T14:33:54-03:00</updated>
+
+      
+        <category term="Conta Pra Mim"/>
+      
+        <category term="Criança Feliz"/>
+      
+        <category term="Ministério da Cidadania"/>
+      
+        <category term="Ministério da Educação"/>
+      
+        <category term="PNA"/>
+      
+
+    </entry>
+
+  
+
+</feed>

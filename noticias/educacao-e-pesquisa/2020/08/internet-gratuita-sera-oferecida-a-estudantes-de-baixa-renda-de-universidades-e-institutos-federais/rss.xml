@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link rel="self"                type="application/rss+xml" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/rss.xml" />
+    <title>Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais</title>
+    <link>https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais</link>
+    <description>Nos primeiros seis meses, a medida deve beneficiar, pelo menos, 400 mil alunos com renda familiar mensal de até meio salário mínimo</description>
+
+    <language>pt-br</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais</title>
+      <description>Os alunos que já tem algum tipo de pacote de internet particular vão receber bônus de dados móveis extras</description>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+          <![CDATA[
+          
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/@@images/image" title="Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais" alt="Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+          ]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Aug 2020 20:20:02 -0300</pubDate>
+      <guid>https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/08/internet-gratuita-sera-oferecida-a-estudantes-de-baixa-renda-de-universidades-e-institutos-federais/estudante_computador.jpeg/view</guid>
+    </item>
+  </channel>
+</rss>

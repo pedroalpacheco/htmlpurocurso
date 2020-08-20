@@ -1,0 +1,3943 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/wnobre" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias/RSS" title="Últimas Notícias - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias/rss.xml" title="Últimas Notícias - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias/atom.xml" title="Últimas Notícias - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-financas-impostos-e-gestao-publica subsection-financas-impostos-e-gestao-publica-ultimas-noticias userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica">Economia e Gestão Pública</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">23/05/2018 10h24</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">22/08/2019 16h16</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/caixa-anuncia-pacote-de-estimulo-ao-setor-imobiliario">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/caixa-anuncia-pacote-de-estimulo-ao-setor-imobiliario/couple-moving-into-new-house-p3hbqyd.jpg/@@images/2c35c4ab-ae49-4488-ba06-a4f32834922b.jpeg" alt="Casa p´rópria" title="Casa p´rópria" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">CRÉDITO IMOBILIÁRIO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/caixa-anuncia-pacote-de-estimulo-ao-setor-imobiliario" title="collective.nitf.content">Caixa anuncia pacote de estímulo ao setor imobiliário</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Registro da escritura do imóvel poderá ser feito online e banco vai financiar ITBI e custas cartorárias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid-19" class="link-category" rel="nofollow tag">covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=coronavirus" class="link-category" rel="nofollow tag">coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=crédito imobiliário" class="link-category" rel="nofollow tag">crédito imobiliário</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CEF" class="link-category" rel="nofollow tag">CEF</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caixa" class="link-category" rel="nofollow tag">Caixa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=governo federal" class="link-category" rel="nofollow tag">governo federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pedro Guimarães" class="link-category" rel="nofollow tag">Pedro Guimarães</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/balanca-comercial-registra-superavit-de-us-7-46-bilhoes-em-junho">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/balanca-comercial-registra-superavit-de-us-7-46-bilhoes-em-junho/exportacoes_agbrasil.jpg/@@images/d2eead50-df30-447f-8c05-e3ea0f36eb28.jpeg" alt="Balança Comercial registra superávit de US$ 7,46 bilhões em junho" title="Balança Comercial registra superávit de US$ 7,46 bilhões em junho" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Economia</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/balanca-comercial-registra-superavit-de-us-7-46-bilhoes-em-junho" title="collective.nitf.content">Balança Comercial registra superávit de US$ 7,46 bilhões em junho</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">É o melhor saldo comercial para o mês de junho desde o início da série histórica</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Balança Comercial" class="link-category" rel="nofollow tag">Balança Comercial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Superavit" class="link-category" rel="nofollow tag">Superavit</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agronegócio" class="link-category" rel="nofollow tag">Agronegócio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Exportações" class="link-category" rel="nofollow tag">Exportações</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Série Histórica" class="link-category" rel="nofollow tag">Série Histórica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pandemia" class="link-category" rel="nofollow tag">Pandemia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/mais-de-um-milhao-de-brasileiros-que-cairam-na-malha-fina-podem-regularizar-situacao-pela-internet">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/mais-de-um-milhao-de-brasileiros-que-cairam-na-malha-fina-podem-regularizar-situacao-pela-internet/serpro.png/@@images/2b67349a-af49-40bc-b0af-294883f0ec2e.png" alt="Imposto de renda 2020" title="Imposto de renda 2020" height="61" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Imposto de Renda</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/mais-de-um-milhao-de-brasileiros-que-cairam-na-malha-fina-podem-regularizar-situacao-pela-internet" title="collective.nitf.content">Mais de um milhão de brasileiros que caíram na malha fina podem regularizar situação pela internet</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Quase 32 milhões de declarações foram entregues dentro do prazo. A partir de agora, o contribuinte pagará multa pelo atraso</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Imposto de renda" class="link-category" rel="nofollow tag">Imposto de renda</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=IR" class="link-category" rel="nofollow tag">IR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=restituição" class="link-category" rel="nofollow tag">restituição</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=retificadora" class="link-category" rel="nofollow tag">retificadora</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=leão" class="link-category" rel="nofollow tag">leão</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h27
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/70-milhoes-de-brasileiros-usam-servicos-digitais-do-governo-federal">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/70-milhoes-de-brasileiros-usam-servicos-digitais-do-governo-federal/gov-br.jpg/@@images/4eb9f132-cf6f-446b-8922-c880af1491c0.jpeg" alt="gov.br" title="gov.br" height="82" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Governo Digital</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/70-milhoes-de-brasileiros-usam-servicos-digitais-do-governo-federal" title="collective.nitf.content">Cerca de 70 milhões de brasileiros usam serviços digitais do Governo Federal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Um em cada três brasileiros já tem conta na plataforma Gov.Br</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h15
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/receita-prorroga-prazo-de-suspensao-das-acoes-de-cobranca-ate-31-de-julho">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/receita-prorroga-prazo-de-suspensao-das-acoes-de-cobranca-ate-31-de-julho/mca_abr_21031913348.jpg/@@images/a0d7b461-e573-49b0-a5b0-6e6337352b90.jpeg" alt="Receita Federal prorroga até 31 de julho suspensão das ações de cobrança" title="Receita Federal prorroga até 31 de julho suspensão das ações de cobrança" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/receita-prorroga-prazo-de-suspensao-das-acoes-de-cobranca-ate-31-de-julho" title="collective.nitf.content">Receita prorroga prazo de suspensão das ações de cobrança até 31 de julho</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Órgão mantém atendimento presencial para os serviços essenciais</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h40
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/abono-salarial-comeca-a-ser-pago-nesta-terca-feira-30">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/abono-salarial-comeca-a-ser-pago-nesta-terca-feira-30/abono_caixa.jpg/@@images/a43341f2-d1de-4d0b-baa9-ec09a546dc54.jpeg" alt="Abono salarial começa a ser pago nesta terça-feira (30)" title="Abono salarial começa a ser pago nesta terça-feira (30)" height="64" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Benefício</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/abono-salarial-comeca-a-ser-pago-nesta-terca-feira-30" title="collective.nitf.content">Abono salarial começa a ser pago nesta terça-feira (30)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Pagamento estará disponível para correntistas da Caixa e do Banco do Brasil</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Abono Salarial" class="link-category" rel="nofollow tag">Abono Salarial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PIS/Pasep" class="link-category" rel="nofollow tag">PIS/Pasep</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caixa Econômica" class="link-category" rel="nofollow tag">Caixa Econômica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Banco do Brasil" class="link-category" rel="nofollow tag">Banco do Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Trabalhador" class="link-category" rel="nofollow tag">Trabalhador</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h07
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/cartao-internacional-de-vacinacao-pode-ser-feito-por-plataforma-digital">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/cartao-internacional-de-vacinacao-pode-ser-feito-por-plataforma-digital/f03bd049-2b97-4df7-9266-017ce13c545f.jpeg/@@images/c8d752c6-a751-40e7-9053-25c4fd5fa88e.jpeg" alt="Cartão Internacional de Vacinação pode ser feito por plataforma digital" title="Cartão Internacional de Vacinação pode ser feito por plataforma digital" height="80" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Governo digital</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/cartao-internacional-de-vacinacao-pode-ser-feito-por-plataforma-digital" title="collective.nitf.content">Cartão Internacional de Vacinação pode ser feito em plataforma digital</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Plataforma do Governo Federal disponibiliza 750 serviços para o cidadão desde o ano passado</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo digital" class="link-category" rel="nofollow tag">Governo digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Secretaria-Geral da Presidência da República" class="link-category" rel="nofollow tag">Secretaria-Geral da Presidência da República</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/novo-presidente-da-comissao-de-etica-publica-da-presidencia-toma-posse">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/novo-presidente-da-comissao-de-etica-publica-da-presidencia-toma-posse/comissao_etica_videoconferencia.jpeg/@@images/f0fd3d0d-4410-4e67-82e0-bb04f5095c10.jpeg" alt="Novo presidente da Comissão de Ética Pública da Presidência toma posse" title="Novo presidente da Comissão de Ética Pública da Presidência toma posse" height="66" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Posse</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/novo-presidente-da-comissao-de-etica-publica-da-presidencia-toma-posse" title="collective.nitf.content">Novo presidente da Comissão de Ética Pública da Presidência toma posse</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A comissão tem como objetivo atuar como instância consultiva do presidente e ministros em matéria de ética pública</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=André Ramos Tavares" class="link-category" rel="nofollow tag">André Ramos Tavares</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Comissão de Ética Pública" class="link-category" rel="nofollow tag">Comissão de Ética Pública</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Presidência da República" class="link-category" rel="nofollow tag">Presidência da República</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Administração pública" class="link-category" rel="nofollow tag">Administração pública</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h36
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/saque-emergencial-para-nascidos-em-janeiro-comeca-nesta-segunda-29">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/saque-emergencial-para-nascidos-em-janeiro-comeca-nesta-segunda-29/happy-male-worker-choosing-toolbox-in-tool-store-rdr35ww.jpg/@@images/831cf072-6aaf-405b-b20d-f14921112a3b.jpeg" alt="Trabalhadores nascidos em janeiro poderão sacar benefício" title="Trabalhadores nascidos em janeiro poderão sacar benefício" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">FGTS</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/saque-emergencial-para-nascidos-em-janeiro-comeca-nesta-segunda-29" title="collective.nitf.content">Saque emergencial para nascidos em janeiro começa nesta segunda (29)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo a Caixa Econômica, 4,9 milhões de trabalhadores têm direito ao saque</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caixa" class="link-category" rel="nofollow tag">Caixa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=FGTS" class="link-category" rel="nofollow tag">FGTS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saque do fgts" class="link-category" rel="nofollow tag">Saque do fgts</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio emergencial" class="link-category" rel="nofollow tag">Auxílio emergencial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=calendário de pagamento" class="link-category" rel="nofollow tag">calendário de pagamento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/correios-ampliam-produtos-para-captar-doacoes-e-vendas-online-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/correios-ampliam-produtos-para-captar-doacoes-e-vendas-online-durante-pandemia/correios_minhas_mensagens_mao-edit.jpg/@@images/cbd3ad29-7e1a-4bc7-945a-40672a690604.jpeg" alt="Correios" title="Correios" height="128" width="115" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SOLUÇÕES DIGITAIS</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/correios-ampliam-produtos-para-captar-doacoes-e-vendas-online-durante-pandemia" title="collective.nitf.content">Correios ampliam produtos para captar doações e vendas online durante pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Estatal lançou o site AproxiME com dicas gratuitas e vídeos de e-commerce para novos empreendedores</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Correios" class="link-category" rel="nofollow tag">Correios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=e-commerce" class="link-category" rel="nofollow tag">e-commerce</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=AproxiME" class="link-category" rel="nofollow tag">AproxiME</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Entrega Digital" class="link-category" rel="nofollow tag">Entrega Digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=App Correios" class="link-category" rel="nofollow tag">App Correios</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h16
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/secretaria-de-governo-transfere-mais-de-r-500-milhoes-para-investimentos-no-pais">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/secretaria-de-governo-transfere-mais-de-r-500-milhoes-para-investimentos-no-pais/reais-dinheiro-money2.jpg/@@images/3bb6f8f7-a91a-4a2a-af8d-04703d737f13.jpeg" alt="Secretaria de Governo transfere mais de R$ 500 milhões para investimentos no País" title="Secretaria de Governo transfere mais de R$ 500 milhões para investimentos no País" height="43" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Recursos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/secretaria-de-governo-transfere-mais-de-r-500-milhoes-para-investimentos-no-pais" title="collective.nitf.content">Secretaria de Governo transfere mais de R$ 500 milhões para investimentos no País</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Emenda Constitucional (EC) 105/2019 que autoriza a transferência de recursos federais a Estados, ao Distrito Federal e a Municípios mediante emendas ao projeto de lei orçamentária anual.</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Secretaria de Governo da Presidência da República" class="link-category" rel="nofollow tag">Secretaria de Governo da Presidência da República</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Emenda Constitucional" class="link-category" rel="nofollow tag">Emenda Constitucional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Recursos" class="link-category" rel="nofollow tag">Recursos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/banco-central-anuncia-medidas-para-facilitar-credito-a-micro-pequenas-e-medias-empresas">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/banco-central-anuncia-medidas-para-facilitar-credito-a-micro-pequenas-e-medias-empresas/pequena_empresa_ebc.jpg/@@images/9aa0373d-8389-4be3-93d4-e096f5a75ccf.jpeg" alt="Banco Central anuncia medidas para facilitar crédito a micro, pequenas e médias empresas" title="Banco Central anuncia medidas para facilitar crédito a micro, pequenas e médias empresas" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Economia</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/banco-central-anuncia-medidas-para-facilitar-credito-a-micro-pequenas-e-medias-empresas" title="collective.nitf.content">Banco Central anuncia medidas para facilitar crédito a micro, pequenas e médias empresas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Entre as ações, BC autoriza o uso de imóveis como garantia em mais de um empréstimo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Banco Central" class="link-category" rel="nofollow tag">Banco Central</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Economia" class="link-category" rel="nofollow tag">Economia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Crédito" class="link-category" rel="nofollow tag">Crédito</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pequenas Empresas" class="link-category" rel="nofollow tag">Pequenas Empresas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Micro Empresas" class="link-category" rel="nofollow tag">Micro Empresas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pandemia" class="link-category" rel="nofollow tag">Pandemia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        23/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h27
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/linha-de-credito-emergencial-do-fne-atinge-r-495-milhoes">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/linha-de-credito-emergencial-do-fne-atinge-r-495-milhoes/dressmaker-or-seamstress-works-using-sewing-machin-ywmsd3v.jpg/@@images/40b2a224-4e2c-40d8-b526-0af052549cde.jpeg" alt="Linha de crédito emergencial do FNE atinge R$ 495 milhões" title="Linha de crédito emergencial do FNE atinge R$ 495 milhões" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Fundo do Nordeste</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/linha-de-credito-emergencial-do-fne-atinge-r-495-milhoes" title="collective.nitf.content">Linha de crédito emergencial atinge R$ 495 milhões</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Valor foi contratado até o dia 12 de junho, segundo relatório do Banco do Nordeste</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=FNE" class="link-category" rel="nofollow tag">FNE</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SUdene" class="link-category" rel="nofollow tag">SUdene</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Crédito emergencial" class="link-category" rel="nofollow tag">Crédito emergencial</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h43
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/brasil-registra-saldo-de-quase-700-mil-empresas-abertas-nos-primeiros-quatro-meses-do-ano">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/brasil-registra-saldo-de-quase-700-mil-empresas-abertas-nos-primeiros-quatro-meses-do-ano/large.png/@@images/8e29e404-cbf9-4382-84a2-8e93cb9c650b.png" alt="large.png" title="large.png" height="61" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Mapa de Empresas</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/brasil-registra-saldo-de-quase-700-mil-empresas-abertas-nos-primeiros-quatro-meses-do-ano" title="collective.nitf.content">Brasil registra saldo de quase 700 mil empresas abertas nos primeiros quatro meses do ano</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">De acordo com Mapa de Empresas, está menor o tempo médio para abertura de um negócio</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=- Empreendedorismo" class="link-category" rel="nofollow tag">- Empreendedorismo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mapa de Empresas" class="link-category" rel="nofollow tag">Mapa de Empresas</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h57
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-simplifica-assinatura-eletronica-de-documentos-publicos">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-simplifica-assinatura-eletronica-de-documentos-publicos/womans-hands-working-on-laptop-computer-pj9d2es.jpg/@@images/9d662867-e954-4dbb-b687-05c675baa6ca.jpeg" alt="Governo simplifica assinatura eletrônica de documentos públicos" title="Governo simplifica assinatura eletrônica de documentos públicos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Digital</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-simplifica-assinatura-eletronica-de-documentos-publicos" title="collective.nitf.content">Governo simplifica assinatura eletrônica de documentos públicos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Medida Provisória visa desburocratizar as operações para o acesso da população a serviços públicos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo digital" class="link-category" rel="nofollow tag">Governo digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Assinatura eletrônica" class="link-category" rel="nofollow tag">Assinatura eletrônica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h11
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/receita-investiga-fraude-na-importacao-de-produtos-asiaticos">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/receita-investiga-fraude-na-importacao-de-produtos-asiaticos/cardboard-boxes-on-warehouse-storage-shelves-backg-l4fsl7m.jpg/@@images/a9153a4e-6358-4e1a-936c-8ee370018921.jpeg" alt="Receita" title="Receita" height="49" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">COMBATE A FRAUDES</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/receita-investiga-fraude-na-importacao-de-produtos-asiaticos" title="collective.nitf.content">Receita investiga fraude na importação de produtos asiáticos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Prejuízo aos cofres públicos é superior a meio bilhão de reais e o volume de recursos enviado de forma ilícita ao exterior supera R$ 5 bilhões</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Receita Federal" class="link-category" rel="nofollow tag">Receita Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Polícia Federal" class="link-category" rel="nofollow tag">Polícia Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate a Fraudes" class="link-category" rel="nofollow tag">Combate a Fraudes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=sonegação de impostos" class="link-category" rel="nofollow tag">sonegação de impostos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação Ásia" class="link-category" rel="nofollow tag">Operação Ásia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h51
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/fabio-faria-toma-posse-no-ministerio-das-comunicacoes">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/fabio-faria-toma-posse-no-ministerio-das-comunicacoes/posse_ministro_comunicacoes.jpeg/@@images/ceaba880-ec07-428c-ab4b-9c08e58be1cb.jpeg" alt="Fábio Faria toma posse no Ministério das Comunicações" title="Fábio Faria toma posse no Ministério das Comunicações" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Governo</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/fabio-faria-toma-posse-no-ministerio-das-comunicacoes" title="collective.nitf.content">Fábio Faria toma posse no Ministério das Comunicações</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo ele, é prioritário promover a inclusão digital porque ainda há uma grande parcela da população sem acesso à internet</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério das Comunicações" class="link-category" rel="nofollow tag">Ministério das Comunicações</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=5G" class="link-category" rel="nofollow tag">5G</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Internet" class="link-category" rel="nofollow tag">Internet</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fábio Faria" class="link-category" rel="nofollow tag">Fábio Faria</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Posse" class="link-category" rel="nofollow tag">Posse</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministro" class="link-category" rel="nofollow tag">Ministro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inclusão Digital" class="link-category" rel="nofollow tag">Inclusão Digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Banda Larga" class="link-category" rel="nofollow tag">Banda Larga</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=EBC" class="link-category" rel="nofollow tag">EBC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Correios" class="link-category" rel="nofollow tag">Correios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Anatel" class="link-category" rel="nofollow tag">Anatel</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Telecomunicações" class="link-category" rel="nofollow tag">Telecomunicações</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/caixa-comeca-a-operar-linha-de-credito-emergencial-para-micro-e-pequenos-empresarios">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/caixa-comeca-a-operar-linha-de-credito-emergencial-para-micro-e-pequenos-empresarios/6ad5db81-9718-4c75-9fa8-dbadd3144204.jpeg/@@images/33eb0a97-f9ad-47f3-8f50-a801d7227826.jpeg" alt="6ad5db81-9718-4c75-9fa8-dbadd3144204.jpeg" title="6ad5db81-9718-4c75-9fa8-dbadd3144204.jpeg" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Pronampe</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/caixa-comeca-a-operar-linha-de-credito-emergencial-para-micro-e-pequenos-empresarios" title="collective.nitf.content">Caixa começa a operar linha de crédito emergencial para micro e pequenos empresários</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Programa tem como objetivo ajudar os pequenos empresários durante pandemia</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PRONAMP" class="link-category" rel="nofollow tag">PRONAMP</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caixa" class="link-category" rel="nofollow tag">Caixa</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        16/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h52
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-federal-prioriza-agenda-de-investimentos-e-concessoes-publicas-diz-ppi">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-federal-prioriza-agenda-de-investimentos-e-concessoes-publicas-diz-ppi/ppi_reproducao.jpg/@@images/bf6c39a5-4ac4-487d-aaa8-8ff7304d8aff.jpeg" alt="PPI" title="PPI" height="128" width="118" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">INVESTIMENTOS</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-federal-prioriza-agenda-de-investimentos-e-concessoes-publicas-diz-ppi" title="collective.nitf.content">Governo Federal prioriza agenda de investimentos e concessões públicas, diz PPI</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Programa de parcerias de investimentos do Governo Federal busca atrair investidores nacionais e estrangeiros ao país</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PPI" class="link-category" rel="nofollow tag">PPI</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=concessões" class="link-category" rel="nofollow tag">concessões</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desestatização" class="link-category" rel="nofollow tag">Desestatização</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=parceria público-privada" class="link-category" rel="nofollow tag">parceria público-privada</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=investimentos" class="link-category" rel="nofollow tag">investimentos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h05
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/economia-anuncia-o-fundo-garantidor-de-operacoes-para-micro-e-pequenas-empresas">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/economia-anuncia-o-fundo-garantidor-de-operacoes-para-micro-e-pequenas-empresas/whatsapp-image-2020-06-10-at-12-22-13.jpeg/@@images/415a7ec3-99d0-48d6-a030-24215abae89b.jpeg" alt="WhatsApp Image 2020-06-10 at 12.22.13.jpeg" title="WhatsApp Image 2020-06-10 at 12.22.13.jpeg" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Retomada</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/economia-anuncia-o-fundo-garantidor-de-operacoes-para-micro-e-pequenas-empresas" title="collective.nitf.content">Economia anuncia o Fundo Garantidor de Operações para micro e pequenas empresas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Empresas com receita bruta de até R$ 4,8 milhões terão acesso à linha de crédito; valor liberado corresponderá a até 30% da receita bruta anual calculada com base no exercício de 2019</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Retomada econômica" class="link-category" rel="nofollow tag">Retomada econômica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Linha de crédito" class="link-category" rel="nofollow tag">Linha de crédito</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MICRO E PEQUENAS EMPRESAS" class="link-category" rel="nofollow tag">MICRO E PEQUENAS EMPRESAS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/estados-municipios-e-df-recebem-1a-parcela-de-auxilio-do-governo-federal">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/estados-municipios-e-df-recebem-1a-parcela-de-auxilio-do-governo-federal/reais-dinheiro-ebc.jpg/@@images/cd323fbd-04e1-4283-a5e7-be5f41450973.jpeg" alt="Estados, municípios e DF recebem 1ª parcela de auxílio do Governo Federal" title="Estados, municípios e DF recebem 1ª parcela de auxílio do Governo Federal" height="67" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/estados-municipios-e-df-recebem-1a-parcela-de-auxilio-do-governo-federal" title="collective.nitf.content">Estados, municípios e DF recebem 1ª parcela de auxílio do Governo Federal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Serão repassados mais de R$ 60 bilhões, em quatro parcelas, para apoio durante pandemia</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=União" class="link-category" rel="nofollow tag">União</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estados" class="link-category" rel="nofollow tag">Estados</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Municípios" class="link-category" rel="nofollow tag">Municípios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Distrito Federal" class="link-category" rel="nofollow tag">Distrito Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio Financeiro" class="link-category" rel="nofollow tag">Auxílio Financeiro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Recursos" class="link-category" rel="nofollow tag">Recursos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Lei" class="link-category" rel="nofollow tag">Lei</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Banco do Brasil" class="link-category" rel="nofollow tag">Banco do Brasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h43
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/ferramenta-on-line-mostra-uso-de-imoveis-pela-uniao">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/ferramenta-on-line-mostra-uso-de-imoveis-pela-uniao/pilotis_camara.jpg/@@images/21a6c32a-27f3-4d80-8bc6-f4d2b57f07b4.jpeg" alt="pilotis" title="pilotis" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Painel de Raio-X</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/ferramenta-on-line-mostra-uso-de-imoveis-pela-uniao" title="collective.nitf.content">Ferramenta on-line mostra uso de imóveis pela União</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Mais de 51 mil imóveis estão sob uso da União, dos quais mais de 49 mil são próprios e 1.501 são locados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list= SPU" class="link-category" rel="nofollow tag"> SPU</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=União" class="link-category" rel="nofollow tag">União</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=imóvel" class="link-category" rel="nofollow tag">imóvel</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Painel do Raio X" class="link-category" rel="nofollow tag">Painel do Raio X</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h04
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/inmetro-%20nova-portaria-determina-que-taximetros-nao-precisarao-ser-trocadosinmetro-publica-nova-portaria-para-padronizacao-de-instalacao-de-sensores-em-taximetros">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/inmetro-%20nova-portaria-determina-que-taximetros-nao-precisarao-ser-trocadosinmetro-publica-nova-portaria-para-padronizacao-de-instalacao-de-sensores-em-taximetros/WhatsAppImage20200609at16.45.32.jpeg/@@images/8e0711e3-d334-440b-abc4-cac3adbbc6ea.jpeg" alt="" title="" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Regulamentação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/inmetro-%20nova-portaria-determina-que-taximetros-nao-precisarao-ser-trocadosinmetro-publica-nova-portaria-para-padronizacao-de-instalacao-de-sensores-em-taximetros" title="collective.nitf.content">Inmetro: nova portaria determina que taxímetros não precisarão ser trocados</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Somente instrumentos que utilizam informações dos ABS precisarão ser reinstalados até 2022. Os demais, apenas quando o veículo for trocado</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Taxímetros" class="link-category" rel="nofollow tag">Taxímetros</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inmetro" class="link-category" rel="nofollow tag">Inmetro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Padronização" class="link-category" rel="nofollow tag">Padronização</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=sensores de velocidade" class="link-category" rel="nofollow tag">sensores de velocidade</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/fornecedores-contratados-pelo-governo-federal-poderao-adiar-cobranca-de-multas">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/fornecedores-contratados-pelo-governo-federal-poderao-adiar-cobranca-de-multas/accounting-puddq6e.jpg/@@images/b663e056-b1a5-4d8d-801f-7151bf98331a.jpeg" alt="contratos administrativos" title="contratos administrativos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">CONTRATOS</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/fornecedores-contratados-pelo-governo-federal-poderao-adiar-cobranca-de-multas" title="collective.nitf.content">Fornecedores contratados pelo Governo Federal poderão adiar pagamento de multas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Além do adiamento para 2021, será possível fazer o parcelamento total ou parcial da multa administrativa</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Economia " class="link-category" rel="nofollow tag">Economia </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=contratos administrativos" class="link-category" rel="nofollow tag">contratos administrativos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/bndes-anuncia-novas-medida-para-fortalecer-a-economia-durante-a-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/bndes-anuncia-novas-medida-para-fortalecer-a-economia-durante-a-pandemia/montezano_16071919207.jpg/@@images/8bab8de6-bff8-4318-ac4a-e2990c8f446d.jpeg" alt="Gustavo Montezano" title="Gustavo Montezano" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/bndes-anuncia-novas-medida-para-fortalecer-a-economia-durante-a-pandemia" title="collective.nitf.content">BNDES anuncia novas medidas para fortalecer a economia durante a pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Entre as medidas, está a suspensão, até dezembro, dos pagamentos relativos a financiamentos com o banco, dos estados, Distrito Federal e municípios</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=COVID-19" class="link-category" rel="nofollow tag">COVID-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=BNDES" class="link-category" rel="nofollow tag">BNDES</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=coronavirus" class="link-category" rel="nofollow tag">coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PEAC" class="link-category" rel="nofollow tag">PEAC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cadeias Produtivas da Agropecuária" class="link-category" rel="nofollow tag">Cadeias Produtivas da Agropecuária</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PASS" class="link-category" rel="nofollow tag">PASS</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h56
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/economia-lanca-ferramenta-que-da-match-entre-profissionais-e-empresas-que-atuam-no-combate-a-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/economia-lanca-ferramenta-que-da-match-entre-profissionais-e-empresas-que-atuam-no-combate-a-covid-19/sinesaude.jpeg/@@images/a649e563-8bc4-4b2d-acf4-562ff6b5b00c.jpeg" alt="Sine" title="Sine" height="65" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SineSaúde</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/economia-lanca-ferramenta-que-da-match-entre-profissionais-e-empresas-que-atuam-no-combate-a-covid-19" title="collective.nitf.content">Economia lança ferramenta para dar match entre profissionais e empresas que atuam no combate à Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">As empresas e os profissionais precisam se cadastrar na plataforma Todos por Todos para que haja "encontro" entre eles</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sine" class="link-category" rel="nofollow tag">Sine</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Trabalho" class="link-category" rel="nofollow tag">Ministério do Trabalho</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SineSaúde" class="link-category" rel="nofollow tag">SineSaúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h04
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-lanca-programa-emergencial-para-ajudar-pequenas-e-medias-empresas-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-lanca-programa-emergencial-para-ajudar-pequenas-e-medias-empresas-durante-pandemia/49681126912_9807c74e3d_o.jpg/@@images/9440553d-e2fa-4a2a-b9f9-3fb4a3c3565a.jpeg" alt="49681126912_9807c74e3d_o.jpg" title="49681126912_9807c74e3d_o.jpg" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/governo-lanca-programa-emergencial-para-ajudar-pequenas-e-medias-empresas-durante-pandemia" title="collective.nitf.content">Governo lança Programa Emergencial para ajudar pequenas e médias empresas durante pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Iniciativa do Ministério da Economia com BNDES quer facilitar o acesso ao crédito e reduzir o risco das empresas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list= Empresas" class="link-category" rel="nofollow tag"> Empresas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Crédito" class="link-category" rel="nofollow tag">Crédito</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h59
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/receita-federal-prorroga-restricao-para-atendimento-presencial-ate-30-de-junho">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/receita-federal-prorroga-restricao-para-atendimento-presencial-ate-30-de-junho/cpf_divulgacao.jpeg/@@images/c7363d1e-e346-4870-a21e-39c4631e7242.jpeg" alt="CPF" title="CPF" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/receita-federal-prorroga-restricao-para-atendimento-presencial-ate-30-de-junho" title="collective.nitf.content">Receita prorroga restrição para atendimento presencial até 30 de junho</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Unidades mantêm atendimento presencial apenas para serviços considerados essenciais, como a regularização do CPF</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=receita federal" class="link-category" rel="nofollow tag">receita federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=economia" class="link-category" rel="nofollow tag">economia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=atendimento presencial" class="link-category" rel="nofollow tag">atendimento presencial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid-19" class="link-category" rel="nofollow tag">covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h10
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/mapa-de-empresas-traz-informacoes-sobre-atividade-produtiva-do-pais">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/mapa-de-empresas-traz-informacoes-sobre-atividade-produtiva-do-pais/627ebe05-7694-4f2f-a53b-8b90542a2e5a.png/@@images/45463b8e-4902-4428-9a46-46b2c5265f00.jpeg" alt="627ebe05-7694-4f2f-a53b-8b90542a2e5a.png" title="627ebe05-7694-4f2f-a53b-8b90542a2e5a.png" height="63" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Empreendedorismo</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/mapa-de-empresas-traz-informacoes-sobre-atividade-produtiva-do-pais" title="collective.nitf.content">Mapa de Empresas traz informações sobre atividade produtiva do País</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Pela internet, é possível consultar, por exemplo, o número de negócios que estão abertos e fechados e o local</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list= Empresas" class="link-category" rel="nofollow tag"> Empresas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=empreendedorismo" class="link-category" rel="nofollow tag">empreendedorismo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Digital" class="link-category" rel="nofollow tag">Governo Digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h17
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/comissao-aprova-us-4-bilhoes-de-credito-para-apoio-a-afetados-pela-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/comissao-aprova-us-4-bilhoes-de-credito-para-apoio-a-afetados-pela-pandemia/background-of-new-us-dollars-banknotes-bills-knstlw3.jpg/@@images/cfb039d1-64b8-4358-a720-0652baff24ba.jpeg" alt="Comissão de Financiamentos Externos aprova US$ 4 bilhões de crédito para apoio a afetados pela pandemia" title="Comissão de Financiamentos Externos aprova US$ 4 bilhões de crédito para apoio a afetados pela pandemia" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Financiamentos externos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/06/comissao-aprova-us-4-bilhoes-de-credito-para-apoio-a-afetados-pela-pandemia" title="collective.nitf.content">Comissão aprova US$ 4 bilhões de crédito para apoio a afetados pela pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Recursos de bancos multilaterais e agências de desenvolvimento serão utilizados em ações de proteção a populações vulneráveis</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Economia" class="link-category" rel="nofollow tag">Ministério da Economia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Crédito externo" class="link-category" rel="nofollow tag">Crédito externo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Comissão de Financiamentos Externos" class="link-category" rel="nofollow tag">Comissão de Financiamentos Externos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cofiex" class="link-category" rel="nofollow tag">Cofiex</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h08
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=30">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=0">1</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=30">2</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>3</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=90">4</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=120">5</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=150">6</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=180">7</a>
+        </li>
+        <!-- Link to last -->
+        
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=630">22</a>
+            </li>
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias?b_start:int=90">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

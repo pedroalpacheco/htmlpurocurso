@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/agentes-de-seguranca-publica-recebem-equipamentos-de-seguranca/RSS">
+  <title>Agentes de Segurança Pública recebem Equipamentos de Proteção Individual</title>
+  <link>https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/agentes-de-seguranca-publica-recebem-equipamentos-de-seguranca</link>
+  <description>Nesta quarta-feira (29), material começou a ser entregue a integrantes da Força Nacional de Segurança Pública</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/agentes-de-seguranca-publica-recebem-equipamentos-de-seguranca/cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/agentes-de-seguranca-publica-recebem-equipamentos-de-seguranca/cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg/view">
+    <title>cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg</title>
+    <link>https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/agentes-de-seguranca-publica-recebem-equipamentos-de-seguranca/cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg/view</link>
+    <description>Mais de três mil agentes de segurança pública recebem, desde o dia 10, Equipamentos de Proteção Individual Foto: MJSP</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/agentes-de-seguranca-publica-recebem-equipamentos-de-seguranca/cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg/@@images/image" title="cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg" alt="cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg" />
+    <div class="discreet">
+        <div>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/agentes-de-seguranca-publica-recebem-equipamentos-de-seguranca/cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/04/agentes-de-seguranca-publica-recebem-equipamentos-de-seguranca/cd6372f9-9f75-4e1c-bd0e-dd7819228ab3.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights></dc:rights>
+    
+      <dc:subject>#Coronavirus</dc:subject>
+    
+      <dc:subject>#CoronavirusNoBrasil</dc:subject>
+    
+      <dc:subject>Ministério da Justiça e Segurança Pública</dc:subject>
+    
+      <dc:subject>Força Nacional de Segurança Pública</dc:subject>
+    
+    <dc:date>2020-04-29T21:44:18Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

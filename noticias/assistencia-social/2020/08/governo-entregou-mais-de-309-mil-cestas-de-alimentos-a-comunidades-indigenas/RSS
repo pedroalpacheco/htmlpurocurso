@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-entregou-mais-de-309-mil-cestas-de-alimentos-a-comunidades-indigenas/RSS">
+  <title>Governo entregou mais de 309 mil cestas de alimentos a comunidades indígenas</title>
+  <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-entregou-mais-de-309-mil-cestas-de-alimentos-a-comunidades-indigenas</link>
+  <description>A maior parte das cestas foram entregues nas regiões Norte e Nordeste</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-entregou-mais-de-309-mil-cestas-de-alimentos-a-comunidades-indigenas/1bf203af-19ac-410a-ba0e-32c2fb0d3b6b.png/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-entregou-mais-de-309-mil-cestas-de-alimentos-a-comunidades-indigenas/1bf203af-19ac-410a-ba0e-32c2fb0d3b6b.png/view">
+    <title>Governo ja entregou mais de 309 mil cestas a povos tradicionais</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-entregou-mais-de-309-mil-cestas-de-alimentos-a-comunidades-indigenas/1bf203af-19ac-410a-ba0e-32c2fb0d3b6b.png/view</link>
+    <description>As entregas fazem parte do Plano de Contingência para Populações Vulneráveis</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-entregou-mais-de-309-mil-cestas-de-alimentos-a-comunidades-indigenas/1bf203af-19ac-410a-ba0e-32c2fb0d3b6b.png/@@images/image" title="Governo ja entregou mais de 309 mil cestas a povos tradicionais" alt="Governo ja entregou mais de 309 mil cestas a povos tradicionais" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>FUNAI</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-entregou-mais-de-309-mil-cestas-de-alimentos-a-comunidades-indigenas/1bf203af-19ac-410a-ba0e-32c2fb0d3b6b.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/governo-entregou-mais-de-309-mil-cestas-de-alimentos-a-comunidades-indigenas/1bf203af-19ac-410a-ba0e-32c2fb0d3b6b.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>FUNAI</dc:rights>
+    
+      <dc:subject>#povostradicionais</dc:subject>
+    
+      <dc:subject>índios</dc:subject>
+    
+      <dc:subject>Cestas de Alimentos</dc:subject>
+    
+    <dc:date>2020-08-12T14:56:52Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

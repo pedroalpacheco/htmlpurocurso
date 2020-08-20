@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/pequenos-empresarios-contrataram-r-1-3-bilhao-ate-o-mes-de-julho/RSS">
+  <title>Pequenos empresários contrataram R$ 1,3 bilhão até o mês de julho</title>
+  <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/pequenos-empresarios-contrataram-r-1-3-bilhao-ate-o-mes-de-julho</link>
+  <description>Recursos criados para os Fundos Constitucionais de Financiamento atendem empreendedores das regiões Norte, Nordeste e Centro-Oeste, visando a diminuição dos impactos econômicos causados pela  pandemia de Covid-19</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/pequenos-empresarios-contrataram-r-1-3-bilhao-ate-o-mes-de-julho/shop-assistant-using-a-digital-tablet-in-the-shop-vdptkae.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/pequenos-empresarios-contrataram-r-1-3-bilhao-ate-o-mes-de-julho/shop-assistant-using-a-digital-tablet-in-the-shop-vdptkae.jpg/view">
+    <title>Governo apoia pequenos comerciantes com R$ 1,3 bilhão em linhas de crédito na pandemia</title>
+    <link>https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/pequenos-empresarios-contrataram-r-1-3-bilhao-ate-o-mes-de-julho/shop-assistant-using-a-digital-tablet-in-the-shop-vdptkae.jpg/view</link>
+    <description>A iniciativa do Governo Federal visa mitigar os impactos econômicos da pandemia de Covid-19</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/pequenos-empresarios-contrataram-r-1-3-bilhao-ate-o-mes-de-julho/shop-assistant-using-a-digital-tablet-in-the-shop-vdptkae.jpg/@@images/image" title="Governo apoia pequenos comerciantes com R$ 1,3 bilhão em linhas de crédito na pandemia" alt="Governo apoia pequenos comerciantes com R$ 1,3 bilhão em linhas de crédito na pandemia" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Banco de Imagens</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/pequenos-empresarios-contrataram-r-1-3-bilhao-ate-o-mes-de-julho/shop-assistant-using-a-digital-tablet-in-the-shop-vdptkae.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/pequenos-empresarios-contrataram-r-1-3-bilhao-ate-o-mes-de-julho/shop-assistant-using-a-digital-tablet-in-the-shop-vdptkae.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Banco de Imagens</dc:rights>
+    
+      <dc:subject>Financiamento</dc:subject>
+    
+      <dc:subject>#Covid-19</dc:subject>
+    
+      <dc:subject>Pequenos empreendedores</dc:subject>
+    
+      <dc:subject>Ministério do Desenvolvimento Regional</dc:subject>
+    
+      <dc:subject>Empréstimo</dc:subject>
+    
+    <dc:date>2020-08-11T16:46:08Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

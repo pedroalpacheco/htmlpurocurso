@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia/atom.xml" type="application/atom+xml" />
+  <title type="html">Peritos dos Estados Unidos chegam a Brasília</title>
+  <subtitle>Os especialistas em incêndios das Forças Armadas americanas vão ajudar nas investigações para identificar como começou o fogo</subtitle>
+  <updated>2019-09-13T19:14:19-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia/"/>
+  <id>urn:syndication:aeb745ff9795452db67978a103018e3d</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Peritos dos Estados Unidos chegam a Brasília</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia/americanos.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia/americanos.jpeg/@@download/image/americanos.jpeg" length="205756" type="image/jpeg" />
+      <id>urn:syndication:595cf16a066e4d82a61dc8efef052d2a</id>
+      
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia/americanos.jpeg/@@images/image" title="Peritos dos Estados Unidos chegam a Brasília" alt="Peritos dos Estados Unidos chegam a Brasília" />
+    <div class="discreet">
+        <div>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia/americanos.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil/09/peritos-dos-estados-unidos-chegam-a-brasilia/americanos.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2019-09-13T19:12:14-03:00</published>
+
+      <updated>2019-09-13T19:12:14-03:00</updated>
+
+      
+        <category term="OperaçãoVerdeBrasil"/>
+      
+        <category term="Estados Unidos"/>
+      
+        <category term="Militares"/>
+      
+        <category term="Combate a Queimadas"/>
+      
+        <category term="Ministério da Defesa"/>
+      
+
+    </entry>
+
+  
+
+</feed>

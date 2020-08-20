@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas/atom.xml" type="application/atom+xml" />
+  <title type="html">Governo lança campanha contra queimadas</title>
+  <subtitle>A ação é uma iniciativa do Conselho Nacional da Amazônia Legal e dos órgãos que o integram</subtitle>
+  <updated>2020-08-19T07:08:56-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas/"/>
+  <id>urn:syndication:52b1ffa62f604273894103a4c83ef62a</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Governo lança campanha contra queimadas</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas/atualizado-banner-queimadas-1500-px-x-500-px.png/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas/atualizado-banner-queimadas-1500-px-x-500-px.png/@@download/image/Atualizado-Banner-queimadas 1500 px x 500 px.png" length="1144771" type="image/png" />
+      <id>urn:syndication:f68ed26ed2b74f0ca8c4f2c48d825afe</id>
+      <summary>A iniciativa tem como objetivo manter a vigilância contínua contra as queimadas</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas/atualizado-banner-queimadas-1500-px-x-500-px.png/@@images/image" title="Governo lança campanha contra queimadas" alt="Governo lança campanha contra queimadas" />
+    <div class="discreet">
+        <div>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas/atualizado-banner-queimadas-1500-px-x-500-px.png/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-lanca-campanha-contra-queimadas/atualizado-banner-queimadas-1500-px-x-500-px.png/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-18T20:03:52-03:00</published>
+
+      <updated>2020-08-18T20:03:52-03:00</updated>
+
+      
+
+    </entry>
+
+  
+
+</feed>

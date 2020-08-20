@@ -1,0 +1,3788 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Trânsito e Transportes — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/Governo do Brasil" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias/RSS" title="Últimas Notícias - Trânsito e Transportes - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias/rss.xml" title="Últimas Notícias - Trânsito e Transportes - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias/atom.xml" title="Últimas Notícias - Trânsito e Transportes - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-transito-e-transportes subsection-transito-e-transportes-ultimas-noticias userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes">Infraestrutura</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Trânsito e Transportes</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Trânsito e Transportes</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">21/08/2019 20h39</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">11/10/2019 19h51</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/no-para-ministro-assina-contratos-de-arrendamento-de-portos-e-inaugura-trecho-da-transamazonica">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/no-para-ministro-assina-contratos-de-arrendamento-de-portos-e-inaugura-trecho-da-transamazonica/whatsapp_image_2019-12-18_at_16-59-58.jpeg/@@images/8d41f30e-a501-4bbc-a250-fb3411b5a51e.jpeg" alt="Transamazônica | Foto: Alberto Ruy/ MINFRA" title="Transamazônica | Foto: Alberto Ruy/ MINFRA" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">TRANSAMAZÔNICA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/no-para-ministro-assina-contratos-de-arrendamento-de-portos-e-inaugura-trecho-da-transamazonica" title="collective.nitf.content">No Pará, ministro assina contratos de arrendamento de portos e inaugura trecho da Transamazônica</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Tarcísio Freitas afirmou que entregas do governo Bolsonaro vão beneficiar a economia da região e do país</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Transamazônica" class="link-category" rel="nofollow tag">Transamazônica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tarcísio Freitas" class="link-category" rel="nofollow tag">Tarcísio Freitas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h17
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/ministro-do-desenvolvimento-regional-entrega-528-novas-moradias-no-distrito-federal">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/ministro-do-desenvolvimento-regional-entrega-528-novas-moradias-no-distrito-federal/18_12_habitacao_sao_sebastiao-1.jpg/@@images/a2d384a3-0fbe-4c0c-bcd7-2eeb3fb7d309.jpeg" alt="Ministro do Desenvolvimento Regional entrega 528 novas moradias no Distrito Federal" title="Ministro do Desenvolvimento Regional entrega 528 novas moradias no Distrito Federal" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">HABITAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/ministro-do-desenvolvimento-regional-entrega-528-novas-moradias-no-distrito-federal" title="collective.nitf.content">Mais de duas mil pessoas são beneficiadas com a entrega de 528 novas moradias no Distrito Federal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Os imóveis foram destinados a famílias com renda mensal de até R$ 1,8 mil</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Moradias" class="link-category" rel="nofollow tag">Moradias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Distrito Federal" class="link-category" rel="nofollow tag">Distrito Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h57
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/antt-inaugura-centro-de-informacoes-para-auxiliar-a-fiscalizacao-de-rodovias-no-pais">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/antt-inaugura-centro-de-informacoes-para-auxiliar-a-fiscalizacao-de-rodovias-no-pais/inauguracao-do-centro-nacional-de-supervisao-operacional-cnso-em-brasilia-df-foto-2.png/@@images/663af392-a0c4-4afe-af1f-5fb8cf2c6da7.png" alt="ANTT inaugura centro de informações para auxiliar a fiscalização de rodovias no país" title="ANTT inaugura centro de informações para auxiliar a fiscalização de rodovias no país" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Fiscalização</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/antt-inaugura-centro-de-informacoes-para-auxiliar-a-fiscalizacao-de-rodovias-no-pais" title="collective.nitf.content">ANTT inaugura centro de informações para auxiliar a fiscalização de rodovias no país</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O centro receberá imagens das câmeras instaladas nas estradas e ferrovias brasileiras</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ANTT" class="link-category" rel="nofollow tag">ANTT</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estradas" class="link-category" rel="nofollow tag">Estradas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rodovias" class="link-category" rel="nofollow tag">Rodovias</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        17/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h34
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/concessoes-e-obras-marcam-o-ano-na-area-de-infraestrutura">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/concessoes-e-obras-marcam-o-ano-na-area-de-infraestrutura/infra2.jpg/@@images/5876fd4c-5aed-4d80-9ae5-be3cc6e63b4c.jpeg" alt="Concessões e obras marcam o ano na área de infraestrutura" title="Concessões e obras marcam o ano na área de infraestrutura" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Infraestrutura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/concessoes-e-obras-marcam-o-ano-na-area-de-infraestrutura" title="collective.nitf.content">Concessões e obras marcam o ano na área de infraestrutura</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Expectativa para 2020 é leiloar 44 ativos de infraestrutura e entregar o equivalente a uma obra pública por semana</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Obras" class="link-category" rel="nofollow tag">Obras</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Aeroportos" class="link-category" rel="nofollow tag">Aeroportos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Terminais" class="link-category" rel="nofollow tag">Terminais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rodovias" class="link-category" rel="nofollow tag">Rodovias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Concessões" class="link-category" rel="nofollow tag">Concessões</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        13/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-investe-mais-de-r-939-milhoes-para-obras-de-habitacao-saneamento-e-seguranca-hidrica">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-investe-mais-de-r-939-milhoes-para-obras-de-habitacao-saneamento-e-seguranca-hidrica/11_12_mdr.jpg/@@images/6a4be897-3eb6-46d5-94c8-0ef6bff4441c.jpeg" alt="Governo investe mais de R$ 939 milhões para obras de habitação, saneamento e segurança hídrica" title="Governo investe mais de R$ 939 milhões para obras de habitação, saneamento e segurança hídrica" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Desenvolvimento</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-investe-mais-de-r-939-milhoes-para-obras-de-habitacao-saneamento-e-seguranca-hidrica" title="collective.nitf.content">Governo investe mais de R$ 939 milhões para obras de habitação, saneamento e segurança hídrica</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Maior parcela dos recursos garante a continuidade de 230 mil moradias em construção no País. Investimentos da Pasta já superam R$ 7,2 bilhões em 2019</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Investimentos" class="link-category" rel="nofollow tag">Investimentos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Habitação" class="link-category" rel="nofollow tag">Habitação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saneamento" class="link-category" rel="nofollow tag">Saneamento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/aeroporto-de-salvador-celebra-conclusao-da-1a-etapa-de-obras">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/aeroporto-de-salvador-celebra-conclusao-da-1a-etapa-de-obras/aeroporto-de-salvador.jpeg/@@images/af4a715f-2561-4f5d-88f3-522067b30c3d.jpeg" alt="Aeroporto de Salvador celebra conclusão da 1ª etapa de obras" title="Aeroporto de Salvador celebra conclusão da 1ª etapa de obras" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">INVESTIMENTO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/aeroporto-de-salvador-celebra-conclusao-da-1a-etapa-de-obras" title="collective.nitf.content">Aeroporto de Salvador conclui 1ª etapa das obras de ampliação e melhorias</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A segunda etapa das obras deve estar concluída até outubro de 2021</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Aeroporto" class="link-category" rel="nofollow tag">Aeroporto</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Salvador" class="link-category" rel="nofollow tag">Salvador</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/sistema-nacional-de-informacoes-sobre-saneamento-permite-aos-cidadaos-acompanhar-a-realidade-do-setor-no-pais">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/sistema-nacional-de-informacoes-sobre-saneamento-permite-aos-cidadaos-acompanhar-a-realidade-do-setor-no-pais/49198859293_579eb498f7_5k.jpg/@@images/e1b7fc5d-25b0-4696-98fa-98d3f42b8cdb.jpeg" alt="Sistema Nacional de Informações sobre Saneamento permite aos cidadãos acompanhar a realidade do setor no país" title="Sistema Nacional de Informações sobre Saneamento permite aos cidadãos acompanhar a realidade do setor no país" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Saneamento</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/sistema-nacional-de-informacoes-sobre-saneamento-permite-aos-cidadaos-acompanhar-a-realidade-do-setor-no-pais" title="collective.nitf.content">Sistema Nacional de Informações permite acompanhar a realidade do setor no país</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministro Gustavo Canuto disse que as informações serão ferramentas importantes para os cidadãos reivindicarem melhores serviços</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saneamento" class="link-category" rel="nofollow tag">Saneamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sistema Nacional de Informações" class="link-category" rel="nofollow tag">Sistema Nacional de Informações</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento regional" class="link-category" rel="nofollow tag">Desenvolvimento regional</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        10/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h38
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-federal-aprova-duas-propostas-para-reforcar-mobilidade-urbana-em-curitiba-pr">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-federal-aprova-duas-propostas-para-reforcar-mobilidade-urbana-em-curitiba-pr/06_12_curitiba_avancar_cidades.jpeg/@@images/37dd75d6-25c1-4224-801d-02887f55d15a.jpeg" alt="Governo Federal aprova duas propostas para reforçar mobilidade urbana em Curitiba (PR)" title="Governo Federal aprova duas propostas para reforçar mobilidade urbana em Curitiba (PR)" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Mobilidade</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-federal-aprova-duas-propostas-para-reforcar-mobilidade-urbana-em-curitiba-pr" title="collective.nitf.content">Governo Federal aprova duas propostas para reforçar mobilidade urbana em Curitiba (PR)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Capital paranaense terá acesso a R$ 1,65 milhão. Serão elaborados projetos executivos para intervenções em vias públicas e construção de terminal de ônibus</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento Regional" class="link-category" rel="nofollow tag">Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=investimento" class="link-category" rel="nofollow tag">investimento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mobilidade Urbana" class="link-category" rel="nofollow tag">Mobilidade Urbana</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Avançar Cidades" class="link-category" rel="nofollow tag">Avançar Cidades</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h28
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/ministerios-formalizam-parceria-para-desenvolver-solucoes-voltadas-a-cidades-inteligentes-sustentaveis">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/ministerios-formalizam-parceria-para-desenvolver-solucoes-voltadas-a-cidades-inteligentes-sustentaveis/05_12_camara_cidades_inteligentes_sustentaveis.jpg/@@images/8ede3df6-0062-485a-9189-581ad8376198.jpeg" alt="Ministérios formalizam parceria para desenvolver soluções voltadas a cidades inteligentes sustentáveis" title="Ministérios formalizam parceria para desenvolver soluções voltadas a cidades inteligentes sustentáveis" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Sustentabilidade</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/ministerios-formalizam-parceria-para-desenvolver-solucoes-voltadas-a-cidades-inteligentes-sustentaveis" title="collective.nitf.content">Ministérios formalizam parceria para desenvolver soluções voltadas a cidades inteligentes sustentáveis</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Documento foi assinado na quinta-feira (05) pelos ministros Gustavo Canuto, do Desenvolvimento Regional, e Marcos Pontes, da Ciência, Tecnologia, Inovações e Comunicações</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Câmara das Cidades 4.0" class="link-category" rel="nofollow tag">Câmara das Cidades 4.0</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cidades inteligentes sustentáveis" class="link-category" rel="nofollow tag">Cidades inteligentes sustentáveis</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h01
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-federal-simplifica-regras-para-beneficiarios-do-passe-livre-interestadual">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-federal-simplifica-regras-para-beneficiarios-do-passe-livre-interestadual/transf_dig.jpeg/@@images/229e9e01-634d-4f2a-bc76-d96fa0834562.jpeg" alt="Governo Federal simplifica regras para beneficiários do Passe Livre Interestadual" title="Governo Federal simplifica regras para beneficiários do Passe Livre Interestadual" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Desburocratização</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/12/governo-federal-simplifica-regras-para-beneficiarios-do-passe-livre-interestadual" title="collective.nitf.content">Governo Federal simplifica regras para beneficiários do Passe Livre Interestadual</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A partir de agora, pessoas com deficiência cadastradas no Benefício de Prestação Continuada (BPC), da Assistência Social, estão dispensadas de comprovar renda e atestado médico</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Passe Livre" class="link-category" rel="nofollow tag">Passe Livre</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pessoa com Deficiência" class="link-category" rel="nofollow tag">Pessoa com Deficiência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SImplificação" class="link-category" rel="nofollow tag">SImplificação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Digital" class="link-category" rel="nofollow tag">Governo Digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desburocratização" class="link-category" rel="nofollow tag">Desburocratização</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/12/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h32
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/uniao-vai-receber-r-1-2-bilhao-de-pagamento-da-ferrovia-centro-atlantica-s-a">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/uniao-vai-receber-r-1-2-bilhao-de-pagamento-da-ferrovia-centro-atlantica-s-a/ferrovia_norte-sul.jpg/@@images/c0519d65-209b-4719-bc35-952d5597b89f.jpeg" alt="União vai receber R$ 1,2 bilhão de pagamento da Ferrovia Centro-Atlântica S/A" title="União vai receber R$ 1,2 bilhão de pagamento da Ferrovia Centro-Atlântica S/A" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">INVESTIMENTO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/uniao-vai-receber-r-1-2-bilhao-de-pagamento-da-ferrovia-centro-atlantica-s-a" title="collective.nitf.content">União vai receber R$ 1,2 bilhão de pagamento da Ferrovia Centro-Atlântica S/A</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">É o maior valor recebido pela União referente a pendências em contratos de concessões ferroviárias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ferrovia Centro-Atlântica S/A" class="link-category" rel="nofollow tag">Ferrovia Centro-Atlântica S/A</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério Público Federal" class="link-category" rel="nofollow tag">Ministério Público Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ANTT" class="link-category" rel="nofollow tag">ANTT</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h56
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/denatran-lanca-piloto-de-sistema-que-aumenta-seguranca-na-transferencia-de-veiculos-para-lojistas">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/denatran-lanca-piloto-de-sistema-que-aumenta-seguranca-na-transferencia-de-veiculos-para-lojistas/carros-patio-montadora-sao_bernargo_sp1-marcelo_camargo.jpg/@@images/02e1da85-4fd4-49f8-8ec6-a2f24a41fc97.jpeg" alt="Denatran lança piloto de sistema que aumenta segurança na transferência de veículos para lojistas" title="Denatran lança piloto de sistema que aumenta segurança na transferência de veículos para lojistas" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">RENAVE</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/denatran-lanca-piloto-de-sistema-que-aumenta-seguranca-na-transferencia-de-veiculos-para-lojistas" title="collective.nitf.content">Denatran lança piloto de sistema que aumenta segurança na transferência de veículos para lojistas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Projeto piloto lançado em parceria com o Detran-SC e o Serpro vai reduzir em 75% valor da taxa para transação de compra e venda realizada em lojas e concessionárias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Denatran" class="link-category" rel="nofollow tag">Denatran</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Renave" class="link-category" rel="nofollow tag">Renave</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tranferência de veículos" class="link-category" rel="nofollow tag">Tranferência de veículos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MInfra" class="link-category" rel="nofollow tag">MInfra</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/dnit-finaliza-pavimentacao-que-faltava-para-interligar-novo-progresso-ate-miritituba-na-br-163-pa">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/dnit-finaliza-pavimentacao-que-faltava-para-interligar-novo-progresso-ate-miritituba-na-br-163-pa/77e79487-4fc9-43e5-9392-40d1e492699a.jpeg/@@images/d9e1f2ac-c056-461f-b28a-1550254b3488.jpeg" alt="DNIT finaliza pavimentação que faltava para interligar Novo Progresso até Miritituba, na BR-163/PA" title="DNIT finaliza pavimentação que faltava para interligar Novo Progresso até Miritituba, na BR-163/PA" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PAVIMENTAÇĀO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/dnit-finaliza-pavimentacao-que-faltava-para-interligar-novo-progresso-ate-miritituba-na-br-163-pa" title="collective.nitf.content">Dnit finaliza pavimentação que faltava para interligar Novo Progresso até Miritituba, na BR-163/PA</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Essa é uma das principais entregas do Governo Federal para 2019</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Dnit" class="link-category" rel="nofollow tag">Dnit</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=BR-163/PA" class="link-category" rel="nofollow tag">BR-163/PA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pavimentaçao" class="link-category" rel="nofollow tag">Pavimentaçao</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/porto-de-santos-bate-recorde-historico-de-movimentacao-em-outubro">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/porto-de-santos-bate-recorde-historico-de-movimentacao-em-outubro/whatsapp_image_2019-11-26_at_18-00-39.jpeg/@@images/9c058a2c-f911-489c-a266-a39519e7b629.jpeg" alt="Porto de Santos bate recorde histórico de movimentação em outubro" title="Porto de Santos bate recorde histórico de movimentação em outubro" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">OPERAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/porto-de-santos-bate-recorde-historico-de-movimentacao-em-outubro" title="collective.nitf.content">Porto de Santos bate recorde histórico de movimentação em outubro</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Alteração no zoneamento e liberação de berços aumentaram em 12% atracações em outubro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Porto de Santos" class="link-category" rel="nofollow tag">Porto de Santos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Recorde" class="link-category" rel="nofollow tag">Recorde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h06
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-da-infraestrutura-lanca-aplicativo-para-monitoramento-de-licencas-ambientais">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-da-infraestrutura-lanca-aplicativo-para-monitoramento-de-licencas-ambientais/ruy_4293.jpg/@@images/109b96c5-a3d0-4a1c-93d7-cb65ffde7e75.jpeg" alt="Ministério da Infraestrutura lança aplicativo para monitoramento de licenças ambientais" title="Ministério da Infraestrutura lança aplicativo para monitoramento de licenças ambientais" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Licença ambiental</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-da-infraestrutura-lanca-aplicativo-para-monitoramento-de-licencas-ambientais" title="collective.nitf.content">Ministério da Infraestrutura lança aplicativo para monitoramento de licenças ambientais</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Tecnologia é gratuita e permite informações sobre o licenciamento de empreendimentos de transportes terrestre</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sigesa" class="link-category" rel="nofollow tag">Sigesa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/municipios-podem-elaborar-planos-de-mobilidade-urbana-ate-abril-de-2021">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/municipios-podem-elaborar-planos-de-mobilidade-urbana-ate-abril-de-2021/21_11_pmu.jpg/@@images/48fb67ac-b536-4cb3-a6ea-9bcbeddfe8bf.jpeg" alt="21_11_PMU.jpg" title="21_11_PMU.jpg" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">cidades</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/municipios-podem-elaborar-planos-de-mobilidade-urbana-ate-abril-de-2021" title="collective.nitf.content">Municípios podem elaborar Planos de Mobilidade Urbana até abril de 2021</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Decisão do Governo Federal em estender o prazo consta da Medida Provisória nº 906/2019, publicada no Diário Oficial da União</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mobilidade Urbana " class="link-category" rel="nofollow tag">Mobilidade Urbana </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h41
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/nova-carteira-digital-de-transito-conta-com-aviso-de-vencimento-e-necessidade-de-recall">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/nova-carteira-digital-de-transito-conta-com-aviso-de-vencimento-e-necessidade-de-recall/aplicativo-da-carteira-digital-de-transito.png/@@images/e5d0d9ba-f482-436d-8606-3eb792088dbf.png" alt="Nova Carteira Digital de Trânsito conta com aviso de vencimento e necessidade de recall" title="Nova Carteira Digital de Trânsito conta com aviso de vencimento e necessidade de recall" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Trânsito</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/nova-carteira-digital-de-transito-conta-com-aviso-de-vencimento-e-necessidade-de-recall" title="collective.nitf.content">Nova Carteira Digital de Trânsito conta com aviso de vencimento e necessidade de recall</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Nova versão do aplicativo já está à disposição dos motoristas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Carteira Digital de Trânsito" class="link-category" rel="nofollow tag">Carteira Digital de Trânsito</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CDT" class="link-category" rel="nofollow tag">CDT</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Trânsito" class="link-category" rel="nofollow tag">Trânsito</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h57
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-do-desenvolvimento-regional-institui-o-nucleo-de-seguranca-hidrica">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-do-desenvolvimento-regional-institui-o-nucleo-de-seguranca-hidrica/torneira.jpeg/@@images/1dfeb8b8-96a6-4342-8b54-13ac1b5b6a2f.jpeg" alt="Ministério do Desenvolvimento Regional institui o Núcleo de Segurança Hídrica" title="Ministério do Desenvolvimento Regional institui o Núcleo de Segurança Hídrica" height="78" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Água</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-do-desenvolvimento-regional-institui-o-nucleo-de-seguranca-hidrica" title="collective.nitf.content">Ministério do Desenvolvimento Regional institui o Núcleo de Segurança Hídrica</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Estratégia busca integrar esforços para garantir acesso sustentável à água em quantidade e qualidade suficientes ao desenvolvimento socioeconômico</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento Regional" class="link-category" rel="nofollow tag">Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança Hídrica" class="link-category" rel="nofollow tag">Segurança Hídrica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Água" class="link-category" rel="nofollow tag">Água</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h43
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/conselho-do-ppi-qualifica-cinco-novos-projetos-de-infraestrutura">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/conselho-do-ppi-qualifica-cinco-novos-projetos-de-infraestrutura/ppi11.jpg/@@images/2101cee0-fdad-44a0-99d4-619d856b8943.jpeg" alt="Conselho do PPI qualifica cinco novos projetos de infraestrutura" title="Conselho do PPI qualifica cinco novos projetos de infraestrutura" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PPI</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/conselho-do-ppi-qualifica-cinco-novos-projetos-de-infraestrutura" title="collective.nitf.content">Conselho do PPI qualifica cinco novos projetos de infraestrutura</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A lista inclui arrendamentos portuários, terminal marítimo de passageiros e estudos para duas rodovias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PPI" class="link-category" rel="nofollow tag">PPI</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa de Parcerias de Investimentos" class="link-category" rel="nofollow tag">Programa de Parcerias de Investimentos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h35
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-da-infraestrutura-lanca-nova-carteira-digital-de-transito">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-da-infraestrutura-lanca-nova-carteira-digital-de-transito/uehara2.jpg/@@images/9570e31f-9311-438f-bf7c-588f1b99adf5.jpeg" alt="Secretário Nacional de Transportes Terrestres Marcello da Costa. Foto: Fredy Uehara/Uehara Fotografia" title="Secretário Nacional de Transportes Terrestres Marcello da Costa. Foto: Fredy Uehara/Uehara Fotografia" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">CARTEIRA DIGITAL DE TRÂNSITO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/ministerio-da-infraestrutura-lanca-nova-carteira-digital-de-transito" title="collective.nitf.content">Ministério da Infraestrutura lança nova Carteira Digital de Trânsito</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Aplicativo gratuito traz, além de outras funcionalidades, as versões eletrônicas da carteira de habilitação e do documento do veículo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Trânsito" class="link-category" rel="nofollow tag">Trânsito</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Carteira Digital de Trânsito" class="link-category" rel="nofollow tag">Carteira Digital de Trânsito</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CDT" class="link-category" rel="nofollow tag">CDT</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h41
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/uso-de-energia-solar-reduzira-custos-de-operacao-no-projeto-sao-francisco">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/uso-de-energia-solar-reduzira-custos-de-operacao-no-projeto-sao-francisco/energia-solar.jpeg/@@images/b79b3476-429d-41bd-a856-cffd63876449.jpeg" alt="Uso de energia solar reduzirá custos de operação no Projeto São Francisco" title="Uso de energia solar reduzirá custos de operação no Projeto São Francisco" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">INVESTIMENTO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/uso-de-energia-solar-reduzira-custos-de-operacao-no-projeto-sao-francisco" title="collective.nitf.content">Uso de energia solar reduzirá custos de operação no Projeto São Francisco</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo o MDR, utilizar energia de placas solares para bombear água poderá reduzir o custo da operação em até 25% para Pernambuco, Ceará, Paraíba e Rio Grande do Norte</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa de Parcerias de Investimentos" class="link-category" rel="nofollow tag">Programa de Parcerias de Investimentos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PPI" class="link-category" rel="nofollow tag">PPI</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Energia solar" class="link-category" rel="nofollow tag">Energia solar</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/pesquisa-revela-que-aeroportos-tem-a-melhor-avaliacao-da-serie-historica">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/pesquisa-revela-que-aeroportos-tem-a-melhor-avaliacao-da-serie-historica/aeroportodegoiania.jpg/@@images/dbf3ad9c-36ab-45d4-ae49-8240cb9857b3.jpeg" alt="Pesquisa revela que aeroportos têm a melhor avaliação da série histórica" title="Pesquisa revela que aeroportos têm a melhor avaliação da série histórica" height="56" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">INFRAESTRUTURA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/pesquisa-revela-que-aeroportos-tem-a-melhor-avaliacao-da-serie-historica" title="collective.nitf.content">Pesquisa revela que aeroportos têm a melhor avaliação da série histórica</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Para 91% dos passageiros entrevistados entre julho e setembro, os 20 principais aeródromos do País são “bons” ou “muito bons”</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Secretaria Nacional de Aviação Civil" class="link-category" rel="nofollow tag">Secretaria Nacional de Aviação Civil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Aeroportos" class="link-category" rel="nofollow tag">Aeroportos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pesquisa de Satisfação do Passageiro" class="link-category" rel="nofollow tag">Pesquisa de Satisfação do Passageiro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/nova-base-comandante-ferraz-recebeu-us-100-milhoes-em-investimentos">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/nova-base-comandante-ferraz-recebeu-us-100-milhoes-em-investimentos/nova-base-comandante-ferraz-na-antartica-foto-1.jpg/@@images/ea3848b7-af1e-4b8d-bf45-6342e5ff0b56.jpeg" alt="Nova Base Comandante Ferraz recebeu US$ 100 milhões em investimentos" title="Nova Base Comandante Ferraz recebeu US$ 100 milhões em investimentos" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PESQUISA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/11/nova-base-comandante-ferraz-recebeu-us-100-milhoes-em-investimentos" title="collective.nitf.content">Nova Base Comandante Ferraz recebeu US$ 100 milhões em investimentos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Reinauguração do centro de pesquisas brasileiro na Antártica está prevista para janeiro de 2020. O local pegou fogo em 2012 e perdeu 70% de sua estrutura</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Base Comandante Ferraz" class="link-category" rel="nofollow tag">Base Comandante Ferraz</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Antártica" class="link-category" rel="nofollow tag">Antártica</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/taxa-adicional-cobrada-na-tarifa-de-embarque-internacional-vai-ser-eliminada-no-pais">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/taxa-adicional-cobrada-na-tarifa-de-embarque-internacional-vai-ser-eliminada-no-pais/ministro-da-infraestrurua-tarcisio-gomes-de-freitas-na-abertura-do-forum-de-lideres-da-associacao-latino-americana-de-transporte-aereo-alta-em-brasilia.png/@@images/adae357e-2ace-4eab-83c6-caa6ab62b163.png" alt="Taxa adicional cobrada na tarifa de embarque internacional vai ser eliminada no país" title="Taxa adicional cobrada na tarifa de embarque internacional vai ser eliminada no país" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">TRANSPORTE AÉREO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/taxa-adicional-cobrada-na-tarifa-de-embarque-internacional-vai-ser-eliminada-no-pais" title="collective.nitf.content">Taxa adicional cobrada na tarifa de embarque internacional vai ser eliminada no país</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A medida deve ser formalmente anunciada pelo governo nos próximos dias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tarifa de embarque" class="link-category" rel="nofollow tag">Tarifa de embarque</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tarcísio Gomes de Freitas" class="link-category" rel="nofollow tag">Tarcísio Gomes de Freitas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Turismo" class="link-category" rel="nofollow tag">Turismo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/antt-desburocratiza-e-preve-economia-de-r-590-mi">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/antt-desburocratiza-e-preve-economia-de-r-590-mi/caminhao.jpg/@@images/9d396d59-cf0c-4db6-a3a2-b33502795bb6.jpeg" alt="ANTT desburocratiza e prevê economia de R$ 590 mi" title="ANTT desburocratiza e prevê economia de R$ 590 mi" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ECONOMIA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/antt-desburocratiza-e-preve-economia-de-r-590-mi" title="collective.nitf.content">ANTT desburocratiza e prevê economia de R$ 590 mi</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Foram avaliadas e classificadas 6.077 resoluções e revogadas 1.419</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agência Nacional de Transportes Terrestres" class="link-category" rel="nofollow tag">Agência Nacional de Transportes Terrestres</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ANTT" class="link-category" rel="nofollow tag">ANTT</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desburocratização" class="link-category" rel="nofollow tag">Desburocratização</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/submarino-humaita-entra-em-fase-final-de-montagem">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/submarino-humaita-entra-em-fase-final-de-montagem/submarino1.jpeg/@@images/fd5973f9-ba9f-4dee-a668-d4722a78f52f.jpeg" alt="Submarino Humaitá entra em fase final de montagem" title="Submarino Humaitá entra em fase final de montagem" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Embarcação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/submarino-humaita-entra-em-fase-final-de-montagem" title="collective.nitf.content">Submarino Humaitá entra em fase final de montagem</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A construção faz parte do Programa de Desenvolvimento de Submarinos, da Marinha do Brasil</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Embarcação" class="link-category" rel="nofollow tag">Embarcação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Humaitá" class="link-category" rel="nofollow tag">Humaitá</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Submarino" class="link-category" rel="nofollow tag">Submarino</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio de Janeiro" class="link-category" rel="nofollow tag">Rio de Janeiro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h03
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/governo-destina-r-16-6-milhoes-para-obras-do-cinturao-das-aguas-do-ceara">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/governo-destina-r-16-6-milhoes-para-obras-do-cinturao-das-aguas-do-ceara/ceara2.jpg/@@images/15427b52-29bf-4f9c-81cd-bc03961bd33f.jpeg" alt="Governo destina R$ 16,6 milhões para obras do Cinturão das Águas do Ceará" title="Governo destina R$ 16,6 milhões para obras do Cinturão das Águas do Ceará" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Desenvolvimento Regional</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/governo-destina-r-16-6-milhoes-para-obras-do-cinturao-das-aguas-do-ceara" title="collective.nitf.content">Governo destina R$ 16,6 milhões para obras do Cinturão das Águas do Ceará</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Empreendimento abastecerá a região metropolitana de Fortaleza a partir do Eixo Norte do Projeto São Francisco. Cerca de 4,5 milhões de pessoas serão atendidas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento Regional" class="link-category" rel="nofollow tag">Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ceará" class="link-category" rel="nofollow tag">Ceará</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=São Francisco" class="link-category" rel="nofollow tag">São Francisco</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/governo-aprova-r-105-7-milhoes-para-obras-de-mobilidade-em-11-municipios">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/governo-aprova-r-105-7-milhoes-para-obras-de-mobilidade-em-11-municipios/09_10_mobilidade.jpg/@@images/f1fa62e1-8819-45d5-8b89-a8ad471ac1cd.jpeg" alt="Governo Federal aprova R$ 105,7 milhões para obras de mobilidade em 11 municípios" title="Governo Federal aprova R$ 105,7 milhões para obras de mobilidade em 11 municípios" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Acessibilidade</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/governo-aprova-r-105-7-milhoes-para-obras-de-mobilidade-em-11-municipios" title="collective.nitf.content">Governo aprova R$ 105,7 milhões para obras de mobilidade em 11 municípios</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Os financiamentos são feitos por meio do Programa Avançar Cidades e vão atender localidades com até 250 mil habitantes</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Avançar Cidades – Mobilidade Urbana" class="link-category" rel="nofollow tag">Programa Avançar Cidades – Mobilidade Urbana</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Acessibilidade" class="link-category" rel="nofollow tag">Acessibilidade</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h37
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/projetos-de-infraestrutura-do-brasil-vao-acessar-mercado-verde-mundial-de-financiamentos">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/projetos-de-infraestrutura-do-brasil-vao-acessar-mercado-verde-mundial-de-financiamentos/1106473-ferro1_1-1.jpg/@@images/1ae32bf5-08a2-4a37-ab95-54d0c9deccd8.jpeg" alt="Projetos de infraestrutura do Brasil vão acessar mercado verde mundial de financiamentos" title="Projetos de infraestrutura do Brasil vão acessar mercado verde mundial de financiamentos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Sustentabilidade</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/10/projetos-de-infraestrutura-do-brasil-vao-acessar-mercado-verde-mundial-de-financiamentos" title="collective.nitf.content">Projetos de infraestrutura do Brasil vão acessar mercado verde mundial de financiamentos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Governo brasileiro firmou em setembro, nos EUA, um memorando de entendimento com o Climate Bonds Initiative</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Títulos verdes" class="link-category" rel="nofollow tag">Títulos verdes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sustentabilidade" class="link-category" rel="nofollow tag">Sustentabilidade</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h27
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/09/governo-apresenta-oportunidades-de-investimentos-a-espanhois">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/09/governo-apresenta-oportunidades-de-investimentos-a-espanhois/infraestrutura-jpg_large-1.jpeg/@@images/55cdfb21-5efe-41a2-b9cd-08d6a20220a5.jpeg" alt="Governo apresenta oportunidades de investimentos a espanhóis" title="Governo apresenta oportunidades de investimentos a espanhóis" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Infraestrutura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2019/09/governo-apresenta-oportunidades-de-investimentos-a-espanhois" title="collective.nitf.content">Governo apresenta oportunidades de investimentos a espanhóis</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">No início desta semana, Tarcísio de Freitas teve uma série de encontros com operadores de infraestrutura europeus</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Espanha" class="link-category" rel="nofollow tag">Espanha</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h01
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=120">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=0">1</a>
+            </li>
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=60">3</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=90">4</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=120">5</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>6</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=180">7</a>
+        </li>
+        <!-- Link to last -->
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=180">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

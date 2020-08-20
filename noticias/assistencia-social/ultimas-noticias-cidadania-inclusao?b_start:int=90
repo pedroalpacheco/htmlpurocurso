@@ -1,0 +1,3928 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas notícias - Cidadania &amp; Inclusão — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/Governo do Brasil" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao/RSS" title="Últimas notícias - Cidadania &amp; Inclusão - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao/rss.xml" title="Últimas notícias - Cidadania &amp; Inclusão - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao/atom.xml" title="Últimas notícias - Cidadania &amp; Inclusão - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-assistencia-social subsection-assistencia-social-ultimas-noticias-cidadania-inclusao userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social">Cidadania e Assistência Social</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas notícias - Cidadania &amp; Inclusão</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas notícias - Cidadania &amp; Inclusão</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">23/05/2018 18h08</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">16/10/2018 11h28</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-lanca-plano-para-diminuir-impacto-na-vida-de-pessoas-com-deficiencia-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-lanca-plano-para-diminuir-impacto-na-vida-de-pessoas-com-deficiencia-durante-pandemia/1ff8f1e9-d2b5-493c-9894-b0d52e98a5e9.jpeg/@@images/c7a98f94-1688-419e-8900-6e6e91d1afa2.jpeg" alt="Governo lança plano para diminuir impacto na vida de pessoas com deficiência" title="Governo lança plano para diminuir impacto na vida de pessoas com deficiência" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Direitos Humanos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-lanca-plano-para-diminuir-impacto-na-vida-de-pessoas-com-deficiencia-durante-pandemia" title="collective.nitf.content">Governo lança plano para diminuir impacto na vida de pessoas com deficiência durante pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">“Neste tempo de pandemia, é todo mundo cuidando de todo mundo”, disse a ministra Damares Alves</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pessoas com Deficiência" class="link-category" rel="nofollow tag">Pessoas com Deficiência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estatuto" class="link-category" rel="nofollow tag">Estatuto</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Legislação" class="link-category" rel="nofollow tag">Legislação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Damares Alves" class="link-category" rel="nofollow tag">Damares Alves</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio" class="link-category" rel="nofollow tag">Auxílio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Lei Maria da Penha" class="link-category" rel="nofollow tag">Lei Maria da Penha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inclusão" class="link-category" rel="nofollow tag">Inclusão</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Michele Bolsonaro" class="link-category" rel="nofollow tag">Michele Bolsonaro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/patria-voluntaria-incentiva-doacao-com-campanha-do-agasalho">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/patria-voluntaria-incentiva-doacao-com-campanha-do-agasalho/pv_divulga.jpeg/@@images/f2993382-5a23-4fa3-967b-15f650d7bd82.jpeg" alt="Doações" title="Doações" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Voluntariado</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/patria-voluntaria-incentiva-doacao-com-campanha-do-agasalho" title="collective.nitf.content">Pátria Voluntária incentiva doação com campanha do agasalho</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Pontos de coleta foram instalados em diversos pontos da Esplanada dos Ministérios; doações podem ser feitas até 13 de julho</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid-19" class="link-category" rel="nofollow tag">covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Pátria Voluntária" class="link-category" rel="nofollow tag">Programa Pátria Voluntária</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pátria Voluntária" class="link-category" rel="nofollow tag">Pátria Voluntária</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo federal" class="link-category" rel="nofollow tag">Governo federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/cidades-afetadas-por-ciclone-poderao-acessar-recursos-federais-mais-rapido">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/cidades-afetadas-por-ciclone-poderao-acessar-recursos-federais-mais-rapido/50065142178_9b746a0023_c.jpg/@@images/bb97770d-97a6-4c78-88d8-b30e8537f9c5.jpeg" alt="Praia de Canasvieiras" title="Praia de Canasvieiras" height="77" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Projeto-piloto</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/cidades-afetadas-por-ciclone-poderao-acessar-recursos-federais-mais-rapido" title="collective.nitf.content">Cidades afetadas por ciclone poderão acessar recursos federais mais rápido</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Defesa Civil  Nacional vai criar um canal de comunicação direto entre os governos federal e local</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Defesa Civil" class="link-category" rel="nofollow tag">Defesa Civil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ciclone" class="link-category" rel="nofollow tag">Ciclone</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Santa Catarina" class="link-category" rel="nofollow tag">Santa Catarina</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h11
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/fiscalizacao-do-auxilio-emergencial-garante-mais-transparencia-ao-beneficio">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/fiscalizacao-do-auxilio-emergencial-garante-mais-transparencia-ao-beneficio/lancamento_do_aplicativo_caixa_auxilio_emergencial_0407201845.jpg/@@images/1301f153-8210-4f17-bb83-d86a32753924.jpeg" alt="App Meu Auxílio" title="App Meu Auxílio" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Gestão pública</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/fiscalizacao-do-auxilio-emergencial-garante-mais-transparencia-ao-beneficio" title="collective.nitf.content">Fiscalização do auxílio emergencial garante mais transparência ao benefício</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Relação de todas as pessoas que receberam o benefício foi divulgada pelo Portal da Transparência; benefício já chega a mais da metade da população</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid-19" class="link-category" rel="nofollow tag">covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio Emergencial" class="link-category" rel="nofollow tag">Auxílio Emergencial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cidadania" class="link-category" rel="nofollow tag">Cidadania</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Cidadania" class="link-category" rel="nofollow tag">Ministério da Cidadania</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h30
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/auxilio-emergencial-alcanca-mais-da-metade-da-populacao-do-pais">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/auxilio-emergencial-alcanca-mais-da-metade-da-populacao-do-pais/real_moeda_020120a84t47435215.jpg/@@images/aebff016-066b-48c2-8844-c4742f81458c.jpeg" alt="Auxílio Emergencial alcança mais da metade da população nacional" title="Auxílio Emergencial alcança mais da metade da população nacional" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Benefício</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/auxilio-emergencial-alcanca-mais-da-metade-da-populacao-do-pais" title="collective.nitf.content">Auxílio Emergencial alcança mais da metade da população do País</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Programa já creditou mais de R$ 116 bilhões para os beneficiários</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio Emergencial" class="link-category" rel="nofollow tag">Auxílio Emergencial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Dataprev" class="link-category" rel="nofollow tag">Dataprev</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Cidadania" class="link-category" rel="nofollow tag">Ministério da Cidadania</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h14
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/mais-de-250-mil-cestas-de-alimentos-foram-entregues-em-comunidades-indigenas">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/mais-de-250-mil-cestas-de-alimentos-foram-entregues-em-comunidades-indigenas/araguaiato-topo.png/@@images/832c3e68-30ae-4eb2-8819-a74957d3f429.png" alt="Funai" title="Funai" height="88" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Assistência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/mais-de-250-mil-cestas-de-alimentos-foram-entregues-em-comunidades-indigenas" title="collective.nitf.content">Mais de 250 mil cestas de alimentos chegam às comunidades indígenas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ação da Funai faz parte das medidas de enfrentamento da pandemia do novo coronavírus</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid-19" class="link-category" rel="nofollow tag">covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=FUNAI" class="link-category" rel="nofollow tag">FUNAI</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#terrasindígenas" class="link-category" rel="nofollow tag">#terrasindígenas</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-federal-acompanha-de-perto-situacao-de-santa-catarina-apos-ciclone">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-federal-acompanha-de-perto-situacao-de-santa-catarina-apos-ciclone/ciclone_sc_gov.jpg/@@images/24ae3cd4-5275-4256-83da-a388a2cc7964.jpeg" alt="Governo Federal acompanha de perto situação de Santa Catarina após ciclone" title="Governo Federal acompanha de perto situação de Santa Catarina após ciclone" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Defesa Civil</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/governo-federal-acompanha-de-perto-situacao-de-santa-catarina-apos-ciclone" title="collective.nitf.content">Governo Federal acompanha de perto situação de Santa Catarina após ciclone</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Técnicos da Defesa Civil estão no estado e se reuniram com representantes do governo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Defesa Civil" class="link-category" rel="nofollow tag">Defesa Civil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Santa Catarina" class="link-category" rel="nofollow tag">Santa Catarina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ciclone" class="link-category" rel="nofollow tag">Ciclone</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desastres Naturais" class="link-category" rel="nofollow tag">Desastres Naturais</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h45
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/programa-de-aquisicao-de-alimentos-vai-levar-leite-a-familias-de-baixa-renda">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/programa-de-aquisicao-de-alimentos-vai-levar-leite-a-familias-de-baixa-renda/vacaleiteira-large.jpg/@@images/36d0c7d2-684f-4ef9-8e68-4b1da7188e25.jpeg" alt="produtor rural" title="produtor rural" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SEGURANÇA ALIMENTAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/programa-de-aquisicao-de-alimentos-vai-levar-leite-a-familias-de-baixa-renda" title="collective.nitf.content">Programa de Aquisição de Alimentos vai levar leite a famílias de baixa renda</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Leite deverá ser comprado de pequenos produtores para fortalecer setor produtivo local</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Assistência Social " class="link-category" rel="nofollow tag">Assistência Social </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cidadania" class="link-category" rel="nofollow tag">Cidadania</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=PAA" class="link-category" rel="nofollow tag">PAA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Doação de leite" class="link-category" rel="nofollow tag">Doação de leite</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Bolsa Família" class="link-category" rel="nofollow tag">Bolsa Família</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=- segurança alimentar " class="link-category" rel="nofollow tag">- segurança alimentar </a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        03/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h03
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/populacao-em-situacao-de-rua-de-brasilia-df-recebe-doacao-de-agasalhos">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/populacao-em-situacao-de-rua-de-brasilia-df-recebe-doacao-de-agasalhos/526b9531-0acb-41c8-85ff-75336506115f.jpeg/@@images/7b572b8b-43c1-4625-9139-be2e9274b3ce.jpeg" alt="População em situação de rua de Brasília (DF) recebe doação de agasalhos" title="População em situação de rua de Brasília (DF) recebe doação de agasalhos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Arrecadação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/populacao-em-situacao-de-rua-de-brasilia-df-recebe-doacao-de-agasalhos" title="collective.nitf.content">População em situação de rua de Brasília (DF) recebe doação de agasalhos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Foram entregues 200 mantas, 50 cobertores e 200 pares de chinelos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Pátria Voluntária" class="link-category" rel="nofollow tag">Programa Pátria Voluntária</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Nacional de Incentivo ao Voluntariado" class="link-category" rel="nofollow tag">Programa Nacional de Incentivo ao Voluntariado</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Michelle Bolsonaro" class="link-category" rel="nofollow tag">Michelle Bolsonaro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=População em situação de rua" class="link-category" rel="nofollow tag">População em situação de rua</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h29
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/sistema-nacional-da-juventude-esta-com-vagas-abertas-para-mobilizadores">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/sistema-nacional-da-juventude-esta-com-vagas-abertas-para-mobilizadores/jovens_agbrasil.jpg/@@images/492f5e22-28fe-4f20-9177-792b58e04881.jpeg" alt="Sistema Nacional da Juventude está com vagas abertas para mobilizadores" title="Sistema Nacional da Juventude está com vagas abertas para mobilizadores" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Juventude</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/sistema-nacional-da-juventude-esta-com-vagas-abertas-para-mobilizadores" title="collective.nitf.content">Sistema Nacional da Juventude está com vagas abertas para mobilizadores</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ferramenta foi criada para estimular a cooperação entre União, estados, Distrito Federal e municípios na promoção de políticas públicas para a juventude</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sinajuve" class="link-category" rel="nofollow tag">Sinajuve</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Juventude" class="link-category" rel="nofollow tag">Juventude</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Jovens" class="link-category" rel="nofollow tag">Jovens</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cidadania" class="link-category" rel="nofollow tag">Cidadania</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mobilizadores" class="link-category" rel="nofollow tag">Mobilizadores</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Políticas públicas" class="link-category" rel="nofollow tag">Políticas públicas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Mulher, da Família e dos Direitos Humanos" class="link-category" rel="nofollow tag">Ministério da Mulher, da Família e dos Direitos Humanos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/indigenas-contam-com-central-de-atendimento-especifica-para-combate-a-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/indigenas-contam-com-central-de-atendimento-especifica-para-combate-a-covid-19/capa-yanomami.png/@@images/37c12578-95cc-4da4-a592-42be9f1ec6bf.png" alt="Indígenas contam com central de atendimento específica para combate à covid-19" title="Indígenas contam com central de atendimento específica para combate à covid-19" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">FUNAI</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/indigenas-contam-com-central-de-atendimento-especifica-para-combate-a-covid-19" title="collective.nitf.content">Indígenas contam com central de atendimento específica para combate à covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Socilitações podem ser encaminhadas por telefone ou e-mail</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/cartorios-podem-regularizar-cpf-para-solicitacao-do-auxilio-emergencial">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/cartorios-podem-regularizar-cpf-para-solicitacao-do-auxilio-emergencial/agenacre.jpg/@@images/dc7cf468-f9b3-4ea0-8de7-45e183f5947d.jpeg" alt="cartório civil" title="cartório civil" height="84" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Benefício</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/cartorios-podem-regularizar-cpf-para-solicitacao-do-auxilio-emergencial" title="collective.nitf.content">Cartórios podem regularizar CPF para solicitação do auxílio emergencial</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Num primeiro momento, apenas os cartórios de São Paulo estão autorizados a fazer a regularização</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio emergencial" class="link-category" rel="nofollow tag">Auxílio emergencial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=cartório" class="link-category" rel="nofollow tag">cartório</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CPF" class="link-category" rel="nofollow tag">CPF</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=serviços" class="link-category" rel="nofollow tag">serviços</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=coronavirus" class="link-category" rel="nofollow tag">coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h30
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/prorrogado-prazo-de-adesao-ao-repasse-emergencial-do-sistema-unico-de-assistencia-social">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/prorrogado-prazo-de-adesao-ao-repasse-emergencial-do-sistema-unico-de-assistencia-social/epis_agbrasil.jpg/@@images/6e41a030-2786-432f-85f4-9cb8080089b9.jpeg" alt="Prorrogado prazo de adesão ao repasse emergencial do Sistema Único de Assistência Social" title="Prorrogado prazo de adesão ao repasse emergencial do Sistema Único de Assistência Social" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">suas</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/prorrogado-prazo-de-adesao-ao-repasse-emergencial-do-sistema-unico-de-assistencia-social" title="collective.nitf.content">Prorrogado prazo de adesão ao repasse emergencial do Sistema Único de Assistência Social</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Já foi liberado um total de R$ 854,7 milhões para atender a 5.133 cidades brasileiras</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Assistência Social" class="link-category" rel="nofollow tag">Assistência Social</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SUAS" class="link-category" rel="nofollow tag">SUAS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CadSuas" class="link-category" rel="nofollow tag">CadSuas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estados" class="link-category" rel="nofollow tag">Estados</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Municípios" class="link-category" rel="nofollow tag">Municípios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Distrito Federal" class="link-category" rel="nofollow tag">Distrito Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/comunidades-tradicionais-receberam-mais-de-200-mil-cestas-de-alimentos">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/comunidades-tradicionais-receberam-mais-de-200-mil-cestas-de-alimentos/1f047600-8f65-4282-99c1-2041a7bb075a.jpeg/@@images/e469b75f-938c-4652-9d51-723250908e19.jpeg" alt="Mais de 200 mil cestas de alimentos já foram distribuídas para povos tradicionais no País" title="Mais de 200 mil cestas de alimentos já foram distribuídas para povos tradicionais no País" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Assistência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/07/comunidades-tradicionais-receberam-mais-de-200-mil-cestas-de-alimentos" title="collective.nitf.content">Comunidades tradicionais receberam mais de 200 mil cestas de alimentos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Governo Federal investe R$ 4,7 bilhões em políticas para minimizar efeitos da pandemia</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Funai" class="link-category" rel="nofollow tag">Funai</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Mulher, da Família dos Direitos Humanos" class="link-category" rel="nofollow tag">Ministério da Mulher, da Família dos Direitos Humanos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Sesai" class="link-category" rel="nofollow tag">Sesai</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conab" class="link-category" rel="nofollow tag">Conab</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/07/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-anuncia-a-prorrogacao-do-auxilio-emergencial-por-dois-meses">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-anuncia-a-prorrogacao-do-auxilio-emergencial-por-dois-meses/whatsapp-image-2020-06-30-at-19-42-25.jpeg/@@images/25121ad5-b82a-416e-acc3-63dd813a4c7e.jpeg" alt="WhatsApp Image 2020-06-30 at 19.42.25.jpeg" title="WhatsApp Image 2020-06-30 at 19.42.25.jpeg" height="75" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">COVID-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-anuncia-a-prorrogacao-do-auxilio-emergencial-por-dois-meses" title="collective.nitf.content">Governo anuncia a prorrogação do Auxílio Emergencial por dois meses</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">64,5 milhões de brasileiros já foram beneficiados até o momento</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=auxílio emergencial" class="link-category" rel="nofollow tag">auxílio emergencial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Jair Bolsonaro" class="link-category" rel="nofollow tag">Jair Bolsonaro</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h26
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-anuncia-prorrogacao-do-auxilio-emergencial">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-anuncia-prorrogacao-do-auxilio-emergencial/50063127071_42e20f5da9_o.jpg/@@images/bc13943a-ae38-44c2-85aa-9594d0854c5b.jpeg" alt="Governo anuncia prorrogação do Auxílio Emergencial" title="Governo anuncia prorrogação do Auxílio Emergencial" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prorrogação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-anuncia-prorrogacao-do-auxilio-emergencial" title="collective.nitf.content">Governo anuncia prorrogação do Auxílio Emergencial</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">De acordo com ministro Onyx Lorenzoni, auxílio será prorrogado por mais dois meses</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio Emergencial" class="link-category" rel="nofollow tag">Auxílio Emergencial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h19
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-destinara-r-160-milhoes-para-ajudar-asilos-no-combate-a-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-destinara-r-160-milhoes-para-ajudar-asilos-no-combate-a-covid-19/elderly-woman-trying-to-stand-up-p2p5lvv.jpg/@@images/1b1af29c-58e9-4d58-a10d-5d08b3279631.jpeg" alt="Governo destinará R$ 160 milhões para ajudar asilos no combate à Covid-19" title="Governo destinará R$ 160 milhões para ajudar asilos no combate à Covid-19" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Assistência Social</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-destinara-r-160-milhoes-para-ajudar-asilos-no-combate-a-covid-19" title="collective.nitf.content">Governo destinará R$ 160 milhões para ajudar asilos no combate à Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Lei foi sancionada pelo presidente Jair Bolsonaro nesta terça-feira (30)</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Instituições de Longa Permanência para Idosos" class="link-category" rel="nofollow tag">Instituições de Longa Permanência para Idosos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ILPIs" class="link-category" rel="nofollow tag">ILPIs</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Mulher, da Família dos Direitos Humanos" class="link-category" rel="nofollow tag">Ministério da Mulher, da Família dos Direitos Humanos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h12
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/programa-roda-bem-caminhoneiro-abre-2-etapa-de-adesao">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/programa-roda-bem-caminhoneiro-abre-2-etapa-de-adesao/rodabem.jpeg/@@images/bb0cfc65-7a11-43fd-b9e0-2a67155fb943.jpeg" alt="Programa Roda Bem Caminhoneiro abre 2ª etapa de adesão" title="Programa Roda Bem Caminhoneiro abre 2ª etapa de adesão" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Autônomos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/programa-roda-bem-caminhoneiro-abre-2-etapa-de-adesao" title="collective.nitf.content">Programa Roda Bem Caminhoneiro abre 2ª etapa de adesão</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A relação dos aprovados será divulgada na primeira quinzena do mês de agosto</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Roda bem camnhoneiro" class="link-category" rel="nofollow tag">Roda bem camnhoneiro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CIdadania" class="link-category" rel="nofollow tag">CIdadania</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Cidadania" class="link-category" rel="nofollow tag">Ministério da Cidadania</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=governo federal" class="link-category" rel="nofollow tag">governo federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inclusão" class="link-category" rel="nofollow tag">Inclusão</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/denuncias-de-violacoes-de-direitos-humanos-podem-ser-feitas-pelo-telegram">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/denuncias-de-violacoes-de-direitos-humanos-podem-ser-feitas-pelo-telegram/4ba476be-8d2a-403f-9143-ba9206b4b627.png/@@images/b7b41f6e-8f26-4ad2-80d3-d15d114c2a8d.png" alt="Denúncias de violações de direitos humanos podem ser feitas pelo Telegram" title="Denúncias de violações de direitos humanos podem ser feitas pelo Telegram" height="101" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Direitos Humanos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/denuncias-de-violacoes-de-direitos-humanos-podem-ser-feitas-pelo-telegram" title="collective.nitf.content">Denúncias de violações de direitos humanos podem ser feitas pelo Telegram</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Com o Telegram, agora existem quatro ferramentas para o atendimento de vítimas e o registro de denúncias de violações de direitos humanos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Direitos Humanos" class="link-category" rel="nofollow tag">Direitos Humanos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Mulher, da Família dos Direitos Humanos" class="link-category" rel="nofollow tag">Ministério da Mulher, da Família dos Direitos Humanos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Telegram" class="link-category" rel="nofollow tag">Telegram</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/novo-lote-do-auxilio-emergencial-e-liberado-para-mais-de-um-milhao-de-pessoas">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/novo-lote-do-auxilio-emergencial-e-liberado-para-mais-de-um-milhao-de-pessoas/f0837598-64a2-4b91-b523-161f47d4af46.jpeg/@@images/92eef1d9-2f3f-4f8d-862f-64190e0d8ee4.jpeg" alt="Novo lote do Auxílio Emergencial é liberado para mais de um milhão de pessoas" title="Novo lote do Auxílio Emergencial é liberado para mais de um milhão de pessoas" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Beneficio</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/novo-lote-do-auxilio-emergencial-e-liberado-para-mais-de-um-milhao-de-pessoas" title="collective.nitf.content">Novo lote do Auxílio Emergencial é liberado para mais de um milhão de pessoas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Pedidos feitos entre 27 de maio e 16 de junho foram encaminhados pelo Ministério da Cidadania à Caixa</span>
+          </p>
+
+          
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/programa-municipio-amigo-da-familia-abre-inscricoes-a-partir-de-1o-de-julho">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/programa-municipio-amigo-da-familia-abre-inscricoes-a-partir-de-1o-de-julho/family-picnic-outdoors-togetherness-relaxation-hap-w6drqss.jpg/@@images/d3d8e36f-4070-4321-8a28-ab6d80e7750e.jpeg" alt="Família" title="Família" height="67" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Direitos Humanos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/programa-municipio-amigo-da-familia-abre-inscricoes-a-partir-de-1o-de-julho" title="collective.nitf.content">Programa Município Amigo da Família abre inscrições a partir de 1º de julho</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Objetivo é incentivar a promoção de ações destinadas à implementação integrada de políticas públicas familiares</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Mulher, da Família e dos Direitos Humanos" class="link-category" rel="nofollow tag">Ministério da Mulher, da Família e dos Direitos Humanos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Mulher, da Família dos Direitos Humanos" class="link-category" rel="nofollow tag">Ministério da Mulher, da Família dos Direitos Humanos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MMFDH" class="link-category" rel="nofollow tag">MMFDH</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Amigo da Família" class="link-category" rel="nofollow tag">Amigo da Família</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h38
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/instituicao-de-acolhimento-de-criancas-e-adolescentes-recebe-doacao-de-mascaras-em-criciuma-sc-1">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/instituicao-de-acolhimento-de-criancas-e-adolescentes-recebe-doacao-de-mascaras-em-criciuma-sc-1/damares.jpeg/@@images/a5fead6c-7153-439a-b8dd-9c308f5ef64d.jpeg" alt="Damares na Nossa Casa" title="Damares na Nossa Casa" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Assistência social</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/instituicao-de-acolhimento-de-criancas-e-adolescentes-recebe-doacao-de-mascaras-em-criciuma-sc-1" title="collective.nitf.content">Ministra Damares Alves participa de doação de máscaras em Criciúma (SC)</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Foram entregues 300 máscaras de proteção à Nossa Casa, instituição que cuida de crianças e adolescentes</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#MMDH" class="link-category" rel="nofollow tag">#MMDH</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list= Cidadania" class="link-category" rel="nofollow tag"> Cidadania</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Damares Alves" class="link-category" rel="nofollow tag">Damares Alves</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo federal" class="link-category" rel="nofollow tag">Governo federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h38
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/funai-entregou-215-mil-cestas-de-alimentos-a-familias-indigenas">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/funai-entregou-215-mil-cestas-de-alimentos-a-familias-indigenas/indigenas_alimentos_funai.png/@@images/a7da19df-9c00-4391-b58c-452ea7580105.png" alt="Funai entregou 215 mil cestas de alimentos a famílias indígenas" title="Funai entregou 215 mil cestas de alimentos a famílias indígenas" height="68" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prevenção</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/funai-entregou-215-mil-cestas-de-alimentos-a-familias-indigenas" title="collective.nitf.content">Funai entregou 215 mil cestas de alimentos a famílias indígenas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Desde o início da pandemia, a fundação já investiu R$ 22,7 milhões em ações de combate ao novo coronavírus nas comunidades</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Funai" class="link-category" rel="nofollow tag">Funai</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Alimentos" class="link-category" rel="nofollow tag">Alimentos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Aldeias" class="link-category" rel="nofollow tag">Aldeias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Indígenas" class="link-category" rel="nofollow tag">Indígenas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conab" class="link-category" rel="nofollow tag">Conab</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Prevenção" class="link-category" rel="nofollow tag">Prevenção</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h28
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/pagamento-da-terceira-parcela-do-auxilio-emergencial-comeca-no-sabado">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/pagamento-da-terceira-parcela-do-auxilio-emergencial-comeca-no-sabado/caixa_agbrasil.jpg/@@images/333780c5-24ca-440b-b2c6-1985a0cb4d5b.jpeg" alt="Pagamento da terceira parcela do auxílio emergencial começa no sábado" title="Pagamento da terceira parcela do auxílio emergencial começa no sábado" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Auxílio Emergencial</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/pagamento-da-terceira-parcela-do-auxilio-emergencial-comeca-no-sabado" title="collective.nitf.content">Pagamento da terceira parcela do auxílio emergencial começa no sábado</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Serão atendidas, inicialmente, 31 milhões de pessoas. Também será feito pagamento de novos lotes das parcelas 1 e 2 do benefício</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio Emergencial" class="link-category" rel="nofollow tag">Auxílio Emergencial</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caixa Econômica" class="link-category" rel="nofollow tag">Caixa Econômica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cidadania" class="link-category" rel="nofollow tag">Cidadania</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Bolsa Família" class="link-category" rel="nofollow tag">Bolsa Família</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Terceira Parcela" class="link-category" rel="nofollow tag">Terceira Parcela</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        26/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h51
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/aguas-do-sao-francisco-chegam-ao-ceara-nesta-sexta-feira">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/aguas-do-sao-francisco-chegam-ao-ceara-nesta-sexta-feira/integracao.jpg/@@images/d22776e0-a558-4cb6-882c-aee96770385b.jpeg" alt="Transposição do Rio São Francisco" title="Transposição do Rio São Francisco" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Segurança Hídrica</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/aguas-do-sao-francisco-chegam-ao-ceara-nesta-sexta-feira" title="collective.nitf.content">Águas do São Francisco chegam ao Ceará nesta sexta-feira</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Esta semana, MDR liberou recursos para obras hídricas em Pernambuco, Paraíba e Rio Grande do Norte</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=obras segurança hídrica" class="link-category" rel="nofollow tag">obras segurança hídrica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Roberto Marinho" class="link-category" rel="nofollow tag">Roberto Marinho</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio São Francisco" class="link-category" rel="nofollow tag">Rio São Francisco</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        25/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h58
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-distribui-cestas-de-alimentos-em-mato-grosso-e-goias">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-distribui-cestas-de-alimentos-em-mato-grosso-e-goias/quilombolas.jpeg/@@images/635dbd4a-9302-4744-9c37-ee6e54da98c7.jpeg" alt="Quilombolas" title="Quilombolas" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Comunidades tradicionais</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-distribui-cestas-de-alimentos-em-mato-grosso-e-goias" title="collective.nitf.content">Governo distribui cestas de alimentos em Mato Grosso e Goiás</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ações fazem parte do Plano de Contingência para Populações Vulneráveis, do Ministério da Mulher, da Família e do Direitos Humanos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Damares Alves" class="link-category" rel="nofollow tag">Damares Alves</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cartilha Grupos Populacionais TradicionaisIndígenasQuilombolasRibeirinhosExtrativistas Pescadores artesanaisAgricultores familiaresAssentadosAcampados Pessoas em situação de rua" class="link-category" rel="nofollow tag">Cartilha Grupos Populacionais TradicionaisIndígenasQuilombolasRibeirinhosExtrativistas Pescadores artesanaisAgricultores familiaresAssentadosAcampados Pessoas em situação de rua</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Quilombolas" class="link-category" rel="nofollow tag">Quilombolas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Comunidades Indígenas" class="link-category" rel="nofollow tag">Comunidades Indígenas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=cestas básicas" class="link-category" rel="nofollow tag">cestas básicas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid-19" class="link-category" rel="nofollow tag">covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        24/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h13
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/mais-de-25-mil-brasileiros-ja-foram-repatriados-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/mais-de-25-mil-brasileiros-ja-foram-repatriados-durante-pandemia/whatsapp-image-2020-06-18-at-18-27-38.jpeg/@@images/70b30d47-f8dd-49bf-ad97-550fd0d3c974.jpeg" alt="Mais de 25 mil brasileiros já foram repatriados desde o início da pandemia" title="Mais de 25 mil brasileiros já foram repatriados desde o início da pandemia" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Repatriação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/mais-de-25-mil-brasileiros-ja-foram-repatriados-durante-pandemia" title="collective.nitf.content">Mais de 25 mil brasileiros já foram repatriados durante a pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O número de brasileiros que ainda aguardam repatriação é cerca de 1,3 mil</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério das Relações Exteriores" class="link-category" rel="nofollow tag">Ministério das Relações Exteriores</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MRE" class="link-category" rel="nofollow tag">MRE</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Itamaraty" class="link-category" rel="nofollow tag">Itamaraty</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Repatriados" class="link-category" rel="nofollow tag">Repatriados</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        24/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h13
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-libera-recursos-para-obras-de-seguranca-hidrica-na-paraiba-e-em-pernambuco">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-libera-recursos-para-obras-de-seguranca-hidrica-na-paraiba-e-em-pernambuco/ts8042.jpg/@@images/64d6074e-25e3-4cd4-8c3c-87df7a1f6963.jpeg" alt="Programa Água Doce" title="Programa Água Doce" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Nordeste</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-libera-recursos-para-obras-de-seguranca-hidrica-na-paraiba-e-em-pernambuco" title="collective.nitf.content">Governo libera recursos para obras de segurança hídrica na Paraíba e em Pernambuco</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministro do Desenvolvimento Regional visitou obras e também assinou repasse para Companhia Brasileira de Trens Urbanos nos estados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Água Doce" class="link-category" rel="nofollow tag">Programa Água Doce</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        23/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-federal-anuncia-recursos-para-abrigos-de-idosos">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-federal-anuncia-recursos-para-abrigos-de-idosos/grandmother-sitting-and-looking-at-her-husband-39-pegbnpv.jpg/@@images/a8c95ef0-3508-43b2-a342-74c911e94bfb.jpeg" alt="Idosa" title="Idosa" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-federal-anuncia-recursos-para-abrigos-de-idosos" title="collective.nitf.content">Governo Federal anuncia recursos para abrigos de idosos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Instituições devem preencher formulário online para receber auxílio. Ação é parte da campanha Solidarize-se</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=governo federal" class="link-category" rel="nofollow tag">governo federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=campanha Solidarize-se" class="link-category" rel="nofollow tag">campanha Solidarize-se</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MMFDH" class="link-category" rel="nofollow tag">MMFDH</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Direitos Humanos" class="link-category" rel="nofollow tag">Direitos Humanos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SNDPI" class="link-category" rel="nofollow tag">SNDPI</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estatuto do Idoso" class="link-category" rel="nofollow tag">Estatuto do Idoso</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        23/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h04
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-institui-observatorio-nacional-da-familia-para-subsidiar-politicas-publicas">
+              <img src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-institui-observatorio-nacional-da-familia-para-subsidiar-politicas-publicas/familia_ebc.png/@@images/8645b92d-b014-49f8-a127-b3e2cf09bbc8.png" alt="Governo institui Observatório Nacional da Família para subsidiar políticas" title="Governo institui Observatório Nacional da Família para subsidiar políticas" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Pesquisa</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/06/governo-institui-observatorio-nacional-da-familia-para-subsidiar-politicas-publicas" title="collective.nitf.content">Governo institui Observatório Nacional da Família para subsidiar políticas públicas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Observatório visa a incentivar o desenvolvimento de pesquisas e fortalecer o diálogo entre a comunidade acadêmica e gestores de políticas voltadas à família</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Observatório Nacional da Família" class="link-category" rel="nofollow tag">Observatório Nacional da Família</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Portaria" class="link-category" rel="nofollow tag">Portaria</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Mulher, da Família e dos Direitos Humanos" class="link-category" rel="nofollow tag">Ministério da Mulher, da Família e dos Direitos Humanos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pesquisa" class="link-category" rel="nofollow tag">Pesquisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Políticas Públicas" class="link-category" rel="nofollow tag">Políticas Públicas</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        23/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h01
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=60">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=0">1</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=30">2</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=60">3</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>4</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=120">5</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=150">6</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=180">7</a>
+        </li>
+        <!-- Link to last -->
+        
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=480">17</a>
+            </li>
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/assistencia-social/ultimas-noticias-cidadania-inclusao?b_start:int=120">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

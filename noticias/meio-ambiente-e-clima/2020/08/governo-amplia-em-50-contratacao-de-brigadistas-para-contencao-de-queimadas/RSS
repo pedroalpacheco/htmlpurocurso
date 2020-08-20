@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-amplia-em-50-contratacao-de-brigadistas-para-contencao-de-queimadas/RSS">
+  <title>Governo amplia em 50% contratação de brigadistas para contenção de queimadas</title>
+  <link>https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-amplia-em-50-contratacao-de-brigadistas-para-contencao-de-queimadas</link>
+  <description>Foram contratados 1.481 brigadistas pelo Ibama e 1.660 pelo ICMBio</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-amplia-em-50-contratacao-de-brigadistas-para-contencao-de-queimadas/930003-incendio_queimada_4.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-amplia-em-50-contratacao-de-brigadistas-para-contencao-de-queimadas/930003-incendio_queimada_4.jpg/view">
+    <title>Governo amplia em 50% a admissão de brigadistas para a contenção de queimadas</title>
+    <link>https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-amplia-em-50-contratacao-de-brigadistas-para-contencao-de-queimadas/930003-incendio_queimada_4.jpg/view</link>
+    <description>São 507 brigadistas a mais em relação ao ano passado</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-amplia-em-50-contratacao-de-brigadistas-para-contencao-de-queimadas/930003-incendio_queimada_4.jpg/@@images/image" title="Governo amplia em 50% a admissão de brigadistas para a contenção de queimadas" alt="Governo amplia em 50% a admissão de brigadistas para a contenção de queimadas" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-amplia-em-50-contratacao-de-brigadistas-para-contencao-de-queimadas/930003-incendio_queimada_4.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2020/08/governo-amplia-em-50-contratacao-de-brigadistas-para-contencao-de-queimadas/930003-incendio_queimada_4.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Agência Brasil</dc:rights>
+    
+      <dc:subject>Brigadistas</dc:subject>
+    
+      <dc:subject>ICMBio</dc:subject>
+    
+      <dc:subject>Ibama</dc:subject>
+    
+      <dc:subject>Incêndios Florestais</dc:subject>
+    
+    <dc:date>2020-08-13T15:39:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

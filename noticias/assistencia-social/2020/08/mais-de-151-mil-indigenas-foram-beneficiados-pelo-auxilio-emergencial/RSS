@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/RSS">
+  <title>Mais de 151 mil indígenas foram beneficiados pelo Auxílio Emergencial</title>
+  <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial</link>
+  <description>Benefício do Governo Federal se soma à entrega de alimentos e a instalação de barreiras sanitárias para ajudar a combater os efeitos da pandemia</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/view">
+    <title>Mais de 151 mil indígenas foram beneficiados pelo Auxílio Emergencial</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/view</link>
+    <description>Repasses do Governo Federal para população indígena já ultrapassou ps R$ 233,5 milhões.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/@@images/image" title="Mais de 151 mil indígenas foram beneficiados pelo Auxílio Emergencial" alt="Mais de 151 mil indígenas foram beneficiados pelo Auxílio Emergencial" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Mauro Vieira/Min. Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/mais-de-151-mil-indigenas-foram-beneficiados-pelo-auxilio-emergencial/f3bc023a-833c-4a48-816c-280f1537caf0.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Mauro Vieira/Min. Cidadania</dc:rights>
+    
+      <dc:subject>#Covid-19</dc:subject>
+    
+      <dc:subject>Auxílio Emergencial</dc:subject>
+    
+      <dc:subject>Assistência a povos Indígenas</dc:subject>
+    
+      <dc:subject>´Funai</dc:subject>
+    
+    <dc:date>2020-08-12T17:48:47Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

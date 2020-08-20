@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/governo-brasileiro-envia-ajuda-humanitaria-ao-libano/RSS">
+  <title>Governo brasileiro envia ajuda humanitária ao Líbano</title>
+  <link>https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/governo-brasileiro-envia-ajuda-humanitaria-ao-libano</link>
+  <description>Missão brasileira leva medicamentos, insumos, equipamentos médico-hospitalares, arroz e doações para apoiar o país</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/governo-brasileiro-envia-ajuda-humanitaria-ao-libano/whatsapp-image-2020-08-12-at-11-08-10.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/governo-brasileiro-envia-ajuda-humanitaria-ao-libano/whatsapp-image-2020-08-12-at-11-08-10.jpeg/view">
+    <title>Ministérios divulgam nota conjunta sobre Missão humanitária ao Líbano</title>
+    <link>https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/governo-brasileiro-envia-ajuda-humanitaria-ao-libano/whatsapp-image-2020-08-12-at-11-08-10.jpeg/view</link>
+    <description>Duas aeronaves da Força Aérea Brasileira levarão cerca de seis toneladas entre medicamentos e insumos para apoiar o país.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/governo-brasileiro-envia-ajuda-humanitaria-ao-libano/whatsapp-image-2020-08-12-at-11-08-10.jpeg/@@images/image" title="Ministérios divulgam nota conjunta sobre Missão humanitária ao Líbano" alt="Ministérios divulgam nota conjunta sobre Missão humanitária ao Líbano" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Clauber Cleber Caetano/PR</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/governo-brasileiro-envia-ajuda-humanitaria-ao-libano/whatsapp-image-2020-08-12-at-11-08-10.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/governo-brasileiro-envia-ajuda-humanitaria-ao-libano/whatsapp-image-2020-08-12-at-11-08-10.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Clauber Cleber Caetano/PR</dc:rights>
+    
+      <dc:subject>Ministério da Defesa</dc:subject>
+    
+      <dc:subject>Ministério das Relações Exteriores</dc:subject>
+    
+      <dc:subject>Ministério da Saúde</dc:subject>
+    
+      <dc:subject>Missão humanitária</dc:subject>
+    
+      <dc:subject>Líbano</dc:subject>
+    
+    <dc:date>2020-08-12T17:14:23Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

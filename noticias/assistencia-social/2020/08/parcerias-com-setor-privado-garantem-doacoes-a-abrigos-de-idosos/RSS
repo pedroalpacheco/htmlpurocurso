@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/parcerias-com-setor-privado-garantem-doacoes-a-abrigos-de-idosos/RSS">
+  <title>Parcerias com setor privado garantem doações a abrigos de idosos</title>
+  <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/parcerias-com-setor-privado-garantem-doacoes-a-abrigos-de-idosos</link>
+  <description>Já foram destinados, aproximadamente,  50 toneladas de alimentos e insumos de higiene e proteção a mais de 50 abrigos</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/parcerias-com-setor-privado-garantem-doacoes-a-abrigos-de-idosos/7c0fecda-9cd1-428a-95ca-cf871268056a.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/parcerias-com-setor-privado-garantem-doacoes-a-abrigos-de-idosos/7c0fecda-9cd1-428a-95ca-cf871268056a.jpeg/view">
+    <title>Governo Federal promove doações de alimentos a instituições que atendem idosos</title>
+    <link>https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/parcerias-com-setor-privado-garantem-doacoes-a-abrigos-de-idosos/7c0fecda-9cd1-428a-95ca-cf871268056a.jpeg/view</link>
+    <description>Mais de 50 Instituições de Longa Permanência de Idosos já foram contempladas com alimentos e insumos proporcionados pela parceria do Ministério da Cidadania com instituições privadas.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/parcerias-com-setor-privado-garantem-doacoes-a-abrigos-de-idosos/7c0fecda-9cd1-428a-95ca-cf871268056a.jpeg/@@images/image" title="Governo Federal promove doações de alimentos a instituições que atendem idosos" alt="Governo Federal promove doações de alimentos a instituições que atendem idosos" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Ministério da Cidadania</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/parcerias-com-setor-privado-garantem-doacoes-a-abrigos-de-idosos/7c0fecda-9cd1-428a-95ca-cf871268056a.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/assistencia-social/2020/08/parcerias-com-setor-privado-garantem-doacoes-a-abrigos-de-idosos/7c0fecda-9cd1-428a-95ca-cf871268056a.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Ministério da Cidadania</dc:rights>
+    
+      <dc:subject>#assistência</dc:subject>
+    
+      <dc:subject>ILPIs</dc:subject>
+    
+      <dc:subject>Ministério da Cidadania</dc:subject>
+    
+    <dc:date>2020-08-12T18:45:37Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

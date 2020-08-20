@@ -1,0 +1,3980 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Trânsito e Transportes — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/Governo do Brasil" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias/RSS" title="Últimas Notícias - Trânsito e Transportes - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias/rss.xml" title="Últimas Notícias - Trânsito e Transportes - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias/atom.xml" title="Últimas Notícias - Trânsito e Transportes - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-transito-e-transportes subsection-transito-e-transportes-ultimas-noticias userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes">Infraestrutura</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Trânsito e Transportes</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Trânsito e Transportes</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">21/08/2019 20h39</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">11/10/2019 19h51</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/06/obras-e-concessoes-publicas-integram-pais-e-garantem-empregos-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/06/obras-e-concessoes-publicas-integram-pais-e-garantem-empregos-durante-pandemia/truck-and-highway-at-sunset-phzzhss.jpg/@@images/b8b79f8d-45c8-459c-8272-e8e859f6ea6c.jpeg" alt="estrada" title="estrada" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Infraestrutura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/06/obras-e-concessoes-publicas-integram-pais-e-garantem-empregos-durante-pandemia" title="collective.nitf.content">Obras e concessões públicas integram País e garantem empregos durante pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo o MInfra, em média duas obras de infraestrutura por semana foram entregues nos últimos 90 dias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#infraestrutura" class="link-category" rel="nofollow tag">#infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=rodovias federais" class="link-category" rel="nofollow tag">rodovias federais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=AEROPORTOS" class="link-category" rel="nofollow tag">AEROPORTOS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Concessões" class="link-category" rel="nofollow tag">Concessões</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h19
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/06/obras-em-rodovias-auxiliam-escoamento-de-producao-e-logistica-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/06/obras-em-rodovias-auxiliam-escoamento-de-producao-e-logistica-durante-pandemia/a500d323-ac83-47ab-8791-491d22e09117.jpeg/@@images/dfff9d94-8b53-4d34-a7db-e21f03ddfe98.jpeg" alt="a500d323-ac83-47ab-8791-491d22e09117.jpeg" title="a500d323-ac83-47ab-8791-491d22e09117.jpeg" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Infraestrutura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/06/obras-em-rodovias-auxiliam-escoamento-de-producao-e-logistica-durante-pandemia" title="collective.nitf.content">Obras em rodovias auxiliam escoamento de produção e logística durante pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Entre março e maio, foram concluídas obras de pavimentação, duplicação e restauração de rodovias federais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#infraestrutura" class="link-category" rel="nofollow tag">#infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Obras" class="link-category" rel="nofollow tag">Obras</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rodovias" class="link-category" rel="nofollow tag">Rodovias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=DNIT" class="link-category" rel="nofollow tag">DNIT</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/06/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h16
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/projeto-de-transposicao-do-sao-francisco-avanca-e-agua-deve-chegar-em-junho-ao-ceara">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/projeto-de-transposicao-do-sao-francisco-avanca-e-agua-deve-chegar-em-junho-ao-ceara/28_05_eixo_norte.jpg/@@images/1ebb2ab7-bf37-4dfb-9f90-fe07a4358177.jpeg" alt="28_05_Eixo_Norte.jpg" title="28_05_Eixo_Norte.jpg" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Integração</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/projeto-de-transposicao-do-sao-francisco-avanca-e-agua-deve-chegar-em-junho-ao-ceara" title="collective.nitf.content">Projeto de transposição do São Francisco avança e água deve chegar em junho ao Ceará</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministério do Desenvolvimento Regional informou que foram concluídas as obras que garantem funcionalidade ao Eixo Norte</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio São Francisco" class="link-category" rel="nofollow tag">Rio São Francisco</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=recursos hídricos" class="link-category" rel="nofollow tag">recursos hídricos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h56
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-liberou-em-maio-mais-de-r-30-milhoes-para-obras-de-saneamento">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-liberou-em-maio-mais-de-r-30-milhoes-para-obras-de-saneamento/21_05_eixo_leste.jpg/@@images/b5e24ac2-b418-4a34-bf9e-bc007a46f0c5.jpeg" alt="Governo liberou em maio mais de R$ 30 milhões para obras de saneamento" title="Governo liberou em maio mais de R$ 30 milhões para obras de saneamento" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Saneamento</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-liberou-em-maio-mais-de-r-30-milhoes-para-obras-de-saneamento" title="collective.nitf.content">Governo liberou em maio mais de R$ 30 milhões para obras de saneamento</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">De acordo com ministério do Desenvolvimento Regional, quase dois milhões de famílias serão atendidas com obras de saneamento em 2020</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saneamento" class="link-category" rel="nofollow tag">Saneamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento Regional" class="link-category" rel="nofollow tag">Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/investimentos-sao-aliados-a-politicas-publicas-para-enfrentar-a-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/investimentos-sao-aliados-a-politicas-publicas-para-enfrentar-a-pandemia/28_05_eixo_norte.jpg/@@images/30743a47-abe7-40b8-9e82-d76f7abe532e.jpeg" alt="Investimentos são aliados a políticas públicas para enfrentar a pandemia" title="Investimentos são aliados a políticas públicas para enfrentar a pandemia" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Desenvolvimento Regional</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/investimentos-sao-aliados-a-politicas-publicas-para-enfrentar-a-pandemia" title="collective.nitf.content">Investimentos são aliados a políticas públicas para enfrentar a pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministério do Desenvolvimento Regional investe em obras como saneamento e habitação além de medidas para de apoio ao trabalhador</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Avançar Cidades" class="link-category" rel="nofollow tag">Avançar Cidades</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Políticas Públicas" class="link-category" rel="nofollow tag">Políticas Públicas</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/brasil-planeja-atrair-r-250-bilhoes-nos-proximos-anos">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/brasil-planeja-atrair-r-250-bilhoes-nos-proximos-anos/ppi_ferrovia.jpg/@@images/8439d8f4-3f9d-4063-9611-a8f4debc29ea.jpeg" alt="Ferrovias" title="Ferrovias" height="84" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Investimento privado</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/brasil-planeja-atrair-r-250-bilhoes-nos-proximos-anos" title="collective.nitf.content">Brasil planeja atrair R$ 250 bilhões nos próximos anos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Presidente do BNDES, Gustavo Montezano, e ministro da Infraestrutura, Tarcísio de Gomes Freitas, debateram a estruturação de projetos para desestatização em transportes</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Investimento estrangeiro" class="link-category" rel="nofollow tag">Investimento estrangeiro</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=BNDES" class="link-category" rel="nofollow tag">BNDES</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Transportes" class="link-category" rel="nofollow tag">Transportes</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h59
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/novo-contrato-de-concessao-ferroviaria-da-malha-paulista-e-assinado">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/novo-contrato-de-concessao-ferroviaria-da-malha-paulista-e-assinado/whatsapp_image_2020-05-27_at_11-18-09.jpeg/@@images/25bfe4cd-bbe7-44dd-8eaa-c524039fb640.jpeg" alt="Novo contrato de concessão ferroviária da Malha Paulista é assinado" title="Novo contrato de concessão ferroviária da Malha Paulista é assinado" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Ferrovias</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/novo-contrato-de-concessao-ferroviaria-da-malha-paulista-e-assinado" title="collective.nitf.content">Novo contrato de concessão ferroviária da Malha Paulista é assinado</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Concessionária irá investir mais de R$ 6 bilhões em obras, trilhos, vagões e locomotivas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Malha Paulista" class="link-category" rel="nofollow tag">Malha Paulista</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ANTT" class="link-category" rel="nofollow tag">ANTT</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/ferramenta-permite-consultar-acoes-de-logistica-do-governo-federal-contra-a-covid-1">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/ferramenta-permite-consultar-acoes-de-logistica-do-governo-federal-contra-a-covid-1/painel_ilustrativa.jpeg/@@images/16b2019b-0261-4c38-9e10-987623aca3d5.jpeg" alt="Monitoramento ações coronavírus" title="Monitoramento ações coronavírus" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Transparência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/ferramenta-permite-consultar-acoes-de-logistica-do-governo-federal-contra-a-covid-1" title="collective.nitf.content">Ferramenta permite consultar ações de logística do Governo Federal contra a Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Nos Painéis de Monitoramento sobre o Coronavírus, população pode pesquisar sobre distribuição de medicamentos, materiais de saúde e itens hospitalares</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MInfra" class="link-category" rel="nofollow tag">MInfra</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Painel de monitoramento" class="link-category" rel="nofollow tag">Painel de monitoramento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#infraestrutura" class="link-category" rel="nofollow tag">#infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=logística" class="link-category" rel="nofollow tag">logística</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h17
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-adia-entrega-de-planos-de-mobilidade-urbana-para-abril-de-2023">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-adia-entrega-de-planos-de-mobilidade-urbana-para-abril-de-2023/rvrsa_abr_ebc_mobilidade_urbana_8.jpg/@@images/0df1c9f0-ae89-440b-be00-83aaf3fa90e8.jpeg" alt="Governo adia entrega de Planos de Mobilidade Urbana para abril de 2023" title="Governo adia entrega de Planos de Mobilidade Urbana para abril de 2023" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Mobilidade Urbana</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-adia-entrega-de-planos-de-mobilidade-urbana-para-abril-de-2023" title="collective.nitf.content">Governo adia entrega de Planos de Mobilidade Urbana para abril de 2023</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Mais de 1,8 mil municípios poderão enviar os planos para contar com auxílios do governo federal</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mobilidade Urbana" class="link-category" rel="nofollow tag">Mobilidade Urbana</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Municípios" class="link-category" rel="nofollow tag">Municípios</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Planejamento" class="link-category" rel="nofollow tag">Planejamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento Regional" class="link-category" rel="nofollow tag">Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Planejamento urbano" class="link-category" rel="nofollow tag">Planejamento urbano</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cidades" class="link-category" rel="nofollow tag">Cidades</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h08
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviacao-civil-adota-novas-regras-sanitarias-para-voos-e-aeroportos">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviacao-civil-adota-novas-regras-sanitarias-para-voos-e-aeroportos/whatsapp-image-2020-05-20-at-15-50-49.jpeg/@@images/aa7743e2-92fe-4e00-a010-5eaa1cd62023.jpeg" alt="Aeroporto" title="Aeroporto" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviacao-civil-adota-novas-regras-sanitarias-para-voos-e-aeroportos" title="collective.nitf.content">Aviação civil adota novas regras sanitárias para voos e aeroportos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Passageiros e funcionários devem usar máscara de proteção por todo o voo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=aviação civil" class="link-category" rel="nofollow tag">aviação civil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Anac" class="link-category" rel="nofollow tag">#Anac</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#infraestrutura" class="link-category" rel="nofollow tag">#infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h12
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/cidades-gauchas-atingidas-pela-estiagem-receberam-auxilio-federal-de-r-2-2-milhoes">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/cidades-gauchas-atingidas-pela-estiagem-receberam-auxilio-federal-de-r-2-2-milhoes/15589222018_3e5b5ac9fa_o.jpg/@@images/ed2657ea-1a57-4ad1-b87f-776905c63770.jpeg" alt="Governo Federal investe R$ 2,2 milhões em auxílio para municípios atingidos pela estiagem" title="Governo Federal investe R$ 2,2 milhões em auxílio para municípios atingidos pela estiagem" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Situação de emergência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/cidades-gauchas-atingidas-pela-estiagem-receberam-auxilio-federal-de-r-2-2-milhoes" title="collective.nitf.content">Cidades gaúchas atingidas pela estiagem receberam auxílio federal de R$ 2,2 milhões</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Recursos atenderam 23 municípios do Rio Grande do Sul e garantiram apoio a centenas de famílias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Situação de emergência" class="link-category" rel="nofollow tag">Situação de emergência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Emergência" class="link-category" rel="nofollow tag">Emergência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estiagem" class="link-category" rel="nofollow tag">Estiagem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Seca" class="link-category" rel="nofollow tag">Seca</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento Regional" class="link-category" rel="nofollow tag">Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Auxílio federal" class="link-category" rel="nofollow tag">Auxílio federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio Grande do Sul" class="link-category" rel="nofollow tag">Rio Grande do Sul</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Defesa Civil" class="link-category" rel="nofollow tag">Defesa Civil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviacao-anac-flexibiliza-resolucao-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviacao-anac-flexibiliza-resolucao-durante-pandemia/7742232710_594ea1af64_c.jpg/@@images/8ac22be7-8ef6-4de8-958e-07cc125978dd.jpeg" alt="Inspeção da Anac" title="Inspeção da Anac" height="89" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Aéreas</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviacao-anac-flexibiliza-resolucao-durante-pandemia" title="collective.nitf.content">Aviação: Anac flexibiliza resolução durante pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ideia é equilibrar os serviços do transporte aéreo mantendo direitos do passageiro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Anac" class="link-category" rel="nofollow tag">Anac</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=COVID-19" class="link-category" rel="nofollow tag">COVID-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#aviação" class="link-category" rel="nofollow tag">#aviação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Anac" class="link-category" rel="nofollow tag">#Anac</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h42
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/pernambuco-e-ceara-receberao-r-61-5-milhoes-para-obras-de-distribuicao-de-agua">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/pernambuco-e-ceara-receberao-r-61-5-milhoes-para-obras-de-distribuicao-de-agua/20768483215_a90961b92d_o.jpg/@@images/4844a9c6-697d-4d73-9bfa-69a18758dea2.jpeg" alt="MDR garante R$ 61,5 milhões para obras de distribuição de água no Nordeste" title="MDR garante R$ 61,5 milhões para obras de distribuição de água no Nordeste" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Abastecimento</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/pernambuco-e-ceara-receberao-r-61-5-milhoes-para-obras-de-distribuicao-de-agua" title="collective.nitf.content">Pernambuco e Ceará receberão R$ 61,5 milhões para obras de distribuição de água</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Obras vão garantir abastecimento de água em localidades que sofrem com longos períodos de seca</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Abastecimento de água" class="link-category" rel="nofollow tag">Abastecimento de água</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=segurança hídrica" class="link-category" rel="nofollow tag">segurança hídrica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=água para todos" class="link-category" rel="nofollow tag">água para todos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento Regional" class="link-category" rel="nofollow tag">Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ANA" class="link-category" rel="nofollow tag">ANA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio São Francisco" class="link-category" rel="nofollow tag">Rio São Francisco</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h49
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/mais-facilidade-na-distribuicao-de-medicamentos-pelo-pais">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/mais-facilidade-na-distribuicao-de-medicamentos-pelo-pais/f610ee95-4c80-4293-8938-f559426d1476.jpeg/@@images/5d9ae6be-b51e-4596-af5a-8a9c75166c9e.jpeg" alt="f610ee95-4c80-4293-8938-f559426d1476.jpeg" title="f610ee95-4c80-4293-8938-f559426d1476.jpeg" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Logística</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/mais-facilidade-na-distribuicao-de-medicamentos-pelo-pais" title="collective.nitf.content">Mais facilidade na distribuição de medicamentos pelo País</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Em meio à pandemia, instituições públicas e privadas podem contar com Correio Log Farma</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#transporte" class="link-category" rel="nofollow tag">#transporte</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=logística" class="link-category" rel="nofollow tag">logística</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Correios" class="link-category" rel="nofollow tag">Correios</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        13/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        21h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-avanca-com-obras-nas-rodovias-de-todo-o-pais">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-avanca-com-obras-nas-rodovias-de-todo-o-pais/dnit-br226.jpeg/@@images/eedb2f2b-ff17-4fec-b844-4ebc041b19b9.jpeg" alt="Obras na BR/226" title="Obras na BR/226" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Infraestrutura rodoviária</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-avanca-com-obras-nas-rodovias-de-todo-o-pais" title="collective.nitf.content">Governo Federal avança com obras nas rodovias de todo o País</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Executadas pelo Departamento Nacional de Infraestrutura de Transportes (DNIT), as obras são, na maioria, de manutenção de estradas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#infraestrutura" class="link-category" rel="nofollow tag">#infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#governofederal" class="link-category" rel="nofollow tag">#governofederal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#dnit" class="link-category" rel="nofollow tag">#dnit</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#estradaserodovias" class="link-category" rel="nofollow tag">#estradaserodovias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=DNIT" class="link-category" rel="nofollow tag">DNIT</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        13/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-destina-mais-r-41-1-milhoes-para-obras-de-seguranca-hidrica-no-ceara">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-destina-mais-r-41-1-milhoes-para-obras-de-seguranca-hidrica-no-ceara/imagem18.jpg/@@images/28cb5d90-313b-46ec-a447-3259d4a3ceec.jpeg" alt="Governo Federal destina mais R$ 41,1 milhões para obras de segurança hídrica no Ceará" title="Governo Federal destina mais R$ 41,1 milhões para obras de segurança hídrica no Ceará" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Água para todos</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-destina-mais-r-41-1-milhoes-para-obras-de-seguranca-hidrica-no-ceara" title="collective.nitf.content">Governo Federal destina mais R$ 41,1 milhões para obras de segurança hídrica no Ceará</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Medida visa garantir continuidade às obras do Cinturão das Águas do Ceará. Empreendimento vai beneficiar cerca de 4,5 milhões de moradores na Região Metropolitana de Fortaleza</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Segurança Hídrica" class="link-category" rel="nofollow tag">Segurança Hídrica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Abastecimento de água" class="link-category" rel="nofollow tag">Abastecimento de água</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rio São Francisco" class="link-category" rel="nofollow tag">Rio São Francisco</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ceará" class="link-category" rel="nofollow tag">Ceará</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fortaleza" class="link-category" rel="nofollow tag">Fortaleza</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=recursos hídricos" class="link-category" rel="nofollow tag">recursos hídricos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministério do Desenvolvimento Regional</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        13/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h20
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-mantem-cronograma-de-leiloes-na-infraestrutura">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-mantem-cronograma-de-leiloes-na-infraestrutura/rodovias-1.jpg/@@images/d6a909ad-e50b-4c24-8327-a515cd6ed7f2.jpeg" alt="Governo mantém leilões de concessões na infraestrutura" title="Governo mantém leilões de concessões na infraestrutura" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Concessão</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-mantem-cronograma-de-leiloes-na-infraestrutura" title="collective.nitf.content">Governo mantém cronograma de leilões na infraestrutura</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo ministro Tarcísio Gomes de Freitas, processos seguem cronograma estabelecido e há condições para que ocorram no prazo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Leilões" class="link-category" rel="nofollow tag">Leilões</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Concessões" class="link-category" rel="nofollow tag">Concessões</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tarcísio Gomes de Freitas" class="link-category" rel="nofollow tag">Tarcísio Gomes de Freitas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novo Coronavírus" class="link-category" rel="nofollow tag">Novo Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h19
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-libera-r-16-5-milhoes-para-obras-de-saneamento-em-15-estados">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-libera-r-16-5-milhoes-para-obras-de-saneamento-em-15-estados/the-storm-water-system-of-the-bridge-p9y7qmd.jpg/@@images/2568ec30-c42a-4681-95ae-bb7b82f3bbfb.jpeg" alt="Sistema pluvial de uma ponte" title="Sistema pluvial de uma ponte" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Obras de Saneamento Básico</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-libera-r-16-5-milhoes-para-obras-de-saneamento-em-15-estados" title="collective.nitf.content">Governo Federal libera R$ 16,5 milhões para obras de saneamento em 15 estados</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Recursos serão usados em obras de abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e de águas pluviais e saneamento básico e em estudos e projetos de saneamento</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saneamento Básico" class="link-category" rel="nofollow tag">Saneamento Básico</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=- Recursos " class="link-category" rel="nofollow tag">- Recursos </a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo federal" class="link-category" rel="nofollow tag">Governo federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h19
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/mais-de-15-milhoes-de-mascaras-da-china-chegam-ao-brasil">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/mais-de-15-milhoes-de-mascaras-da-china-chegam-ao-brasil/0328487f-2dff-4ff9-bbb8-a1c8d741d081.jpeg/@@images/6c99038d-af85-4dd9-82df-d6500d8b06e0.jpeg" alt="Avião fretado pelas Americanas" title="Avião fretado pelas Americanas" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/mais-de-15-milhoes-de-mascaras-da-china-chegam-ao-brasil" title="collective.nitf.content">Mais de 15 milhões de máscaras da China chegam ao Brasil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Este é o primeiro voo com equipamentos de combate à Covid-19 fretado pela Americanas, em apoio aos ministério da Infraestrutura e da Saúde</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=covid" class="link-category" rel="nofollow tag">covid</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=COVID-19" class="link-category" rel="nofollow tag">COVID-19</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-entrega-mais-8km-de-pista-restaurada-da-br-080-go">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-entrega-mais-8km-de-pista-restaurada-da-br-080-go/whatsapp_image_2020-05-08_at_12-35-30.jpeg/@@images/c50224a3-bb3d-4983-ad3d-c30b35b7e29b.jpeg" alt="Governo Federal entrega mais 8km de pista restaurada da BR-080/GO" title="Governo Federal entrega mais 8km de pista restaurada da BR-080/GO" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Rodovia</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-entrega-mais-8km-de-pista-restaurada-da-br-080-go" title="collective.nitf.content">Governo Federal entrega mais 8 km de pista restaurada da BR-080/GO</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Trecho na divisa entre Distrito Federal e Padre Bernardo (GO) passou por alargamento de pista e correção de curvas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Rodovia" class="link-category" rel="nofollow tag">Rodovia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=BR-080/GO" class="link-category" rel="nofollow tag">BR-080/GO</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h14
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-publica-editais-de-leiloes-para-concessao-de-terminais-no-porto-de-santos">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-publica-editais-de-leiloes-para-concessao-de-terminais-no-porto-de-santos/images-31.jpeg/@@images/865e121a-d105-4ccc-930b-7a9ddc58c0d5.jpeg" alt="Governo publica editais de leilões para concessão de terminais no Porto de Santos" title="Governo publica editais de leilões para concessão de terminais no Porto de Santos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Programa de concessões</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-publica-editais-de-leiloes-para-concessao-de-terminais-no-porto-de-santos" title="collective.nitf.content">Governo publica editais de leilões para concessão de terminais no Porto de Santos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Os terminais terão investimentos de R$ 420 milhões e serão leiloados em agosto</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Concessões" class="link-category" rel="nofollow tag">Concessões</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Concessão" class="link-category" rel="nofollow tag">Concessão</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Leilão" class="link-category" rel="nofollow tag">Leilão</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Porto de Santos" class="link-category" rel="nofollow tag">Porto de Santos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Portos" class="link-category" rel="nofollow tag">Portos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h29
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-suspende-parcelas-de-financiamentos-do-fgts-para-empresas-de-saneamento-basico">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-suspende-parcelas-de-financiamentos-do-fgts-para-empresas-de-saneamento-basico/fiscalizacao-nas-empresas-de-saneamento-768x432.jpg/@@images/1a282ef1-e36a-4f10-8f94-3eeb04002f8e.jpeg" alt="Governo Federal suspende parcelas de financiamentos do FGTS para empresas de saneamento" title="Governo Federal suspende parcelas de financiamentos do FGTS para empresas de saneamento" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Saneamento básico</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-suspende-parcelas-de-financiamentos-do-fgts-para-empresas-de-saneamento-basico" title="collective.nitf.content">Governo Federal suspende parcelas de financiamentos do FGTS para empresas de saneamento básico</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A expectativa é gerar um alívio mensal no caixa de R$ 658,2 milhões para empresas e concessionárias do setor</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saneamento" class="link-category" rel="nofollow tag">Saneamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saneamento Básico" class="link-category" rel="nofollow tag">Saneamento Básico</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Desenvolvimento Regional" class="link-category" rel="nofollow tag">Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=FGTS" class="link-category" rel="nofollow tag">FGTS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Empresas Públicas" class="link-category" rel="nofollow tag">Empresas Públicas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Caixa" class="link-category" rel="nofollow tag">Caixa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fundo de Garantia de Tempo de Serviço" class="link-category" rel="nofollow tag">Fundo de Garantia de Tempo de Serviço</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saneamento para todos" class="link-category" rel="nofollow tag">Saneamento para todos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h47
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/4-4-milhoes-de-mascaras-compradas-pelo-governo-federal-chegam-ao-brasil">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/4-4-milhoes-de-mascaras-compradas-pelo-governo-federal-chegam-ao-brasil/exx22ravaaanaxy.jpg/@@images/6b819f2f-1da5-4fd8-8d19-d8acb0a9e764.jpeg" alt="4,4 milhões de máscaras compradas pelo Governo Federal chegam ao Brasil" title="4,4 milhões de máscaras compradas pelo Governo Federal chegam ao Brasil" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao novo coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/4-4-milhoes-de-mascaras-compradas-pelo-governo-federal-chegam-ao-brasil" title="collective.nitf.content">4,3 milhões de máscaras compradas pelo Governo Federal chegam ao Brasil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Esse é o primeiro lote da carga de 240 milhões de máscaras compradas na China</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Máscaras" class="link-category" rel="nofollow tag">Máscaras</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=EPIs" class="link-category" rel="nofollow tag">EPIs</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Equipamento de proteção individual" class="link-category" rel="nofollow tag">Equipamento de proteção individual</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate ao coronavírus" class="link-category" rel="nofollow tag">Combate ao coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate ao novo coronavírus" class="link-category" rel="nofollow tag">Combate ao novo coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=China" class="link-category" rel="nofollow tag">China</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Parceria" class="link-category" rel="nofollow tag">Parceria</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h18
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/projetos-de-infraestrutura-continuarao-durante-a-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/projetos-de-infraestrutura-continuarao-durante-a-pandemia/49ac1c5d-37b4-4536-a477-a047502bf85c.jpeg/@@images/64e5a0c7-2149-4b3f-855a-2a9e5cb86f9f.jpeg" alt="Projetos de infraestrutura continuarão durante a pandemia" title="Projetos de infraestrutura continuarão durante a pandemia" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Infraestrutura</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/projetos-de-infraestrutura-continuarao-durante-a-pandemia" title="collective.nitf.content">Ministério da Infraestrutura retoma obras da Transamazônica</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministro, por meio de videoconferência, assinou, nesta terça (5), Ordem de Serviço na presença da bancada federal da Paraíba</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Departamento Nacional de Infraestrutura de Transportes" class="link-category" rel="nofollow tag">Departamento Nacional de Infraestrutura de Transportes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Infraestrutura" class="link-category" rel="nofollow tag">Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MInfra" class="link-category" rel="nofollow tag">MInfra</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Concessões" class="link-category" rel="nofollow tag">Concessões</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Economia" class="link-category" rel="nofollow tag">Economia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Abastecimento" class="link-category" rel="nofollow tag">Abastecimento</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h58
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-autoriza-investimento-de-r-1-bilhao-para-obras-de-saneamento-em-sp">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-autoriza-investimento-de-r-1-bilhao-para-obras-de-saneamento-em-sp/sabesp-investimentos-em-itapevi.jpeg/@@images/660b1e29-1927-46b7-a682-217d60a977f7.jpeg" alt="Governo Federal autoriza investimento de R$ 1 bilhão para ampliação e melhoria do abastecimento de água e coleta de esgoto em SP" title="Governo Federal autoriza investimento de R$ 1 bilhão para ampliação e melhoria do abastecimento de água e coleta de esgoto em SP" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Saneamento básico</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-federal-autoriza-investimento-de-r-1-bilhao-para-obras-de-saneamento-em-sp" title="collective.nitf.content">Governo Federal autoriza investimento de R$ 1 bilhão para obras de saneamento em SP</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Projetos devem beneficiar 8,6 milhões de pessoas, 27 cidades, além de gerar 22 mil novas vagas de empregos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saneamento Básico" class="link-category" rel="nofollow tag">Saneamento Básico</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Qualidade de vida" class="link-category" rel="nofollow tag">Qualidade de vida</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Qualidade da água" class="link-category" rel="nofollow tag">Qualidade da água</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=tratamento de esgoto" class="link-category" rel="nofollow tag">tratamento de esgoto</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h50
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/infraestrutura-prorroga-passe-livre-interestadual-para-pessoas-com-deficiencia">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/infraestrutura-prorroga-passe-livre-interestadual-para-pessoas-com-deficiencia/230320152.jpg/@@images/736392e2-e283-4463-ab7e-398384fbb43c.jpeg" alt="Infraestrutura prorroga passe livre interestadual para pessoas com deficiência" title="Infraestrutura prorroga passe livre interestadual para pessoas com deficiência" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/infraestrutura-prorroga-passe-livre-interestadual-para-pessoas-com-deficiencia" title="collective.nitf.content">Infraestrutura prorroga passe livre interestadual para pessoas com deficiência</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A medida deve beneficiar cerca de 80 mil pessoas que utilizam o transporte interestadual</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Passe Livre" class="link-category" rel="nofollow tag">Passe Livre</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Transporte Interestadual" class="link-category" rel="nofollow tag">Transporte Interestadual</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Infraestrutura" class="link-category" rel="nofollow tag">Ministério da Infraestrutura</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h33
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-envia-mais-de-30-toneladas-de-material-de-saude-a-manaus-em-menos-de-48h">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-envia-mais-de-30-toneladas-de-material-de-saude-a-manaus-em-menos-de-48h/kc390_fab.jpg/@@images/28993dcc-47ed-4e76-beb6-2bbbb44d53ab.jpeg" alt="KC-390 Millennium" title="KC-390 Millennium" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-envia-mais-de-30-toneladas-de-material-de-saude-a-manaus-em-menos-de-48h" title="collective.nitf.content">Em menos de 48h, Governo Federal envia mais de 30 toneladas de material de saúde a Manaus</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">No sábado (2), dois aviões KC-390 Millennium chegaram à cidade com equipamentos de proteção e álcool em gel. Já no domingo (3), uma aeronave C-130 Hércules reforçou o suprimento de álcool em gel</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#FAB" class="link-category" rel="nofollow tag">#FAB</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Defesa" class="link-category" rel="nofollow tag">Ministério da Defesa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Departamento de Ciência e Tecnologia do Ministério da Saúde" class="link-category" rel="nofollow tag">Departamento de Ciência e Tecnologia do Ministério da Saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h58
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviao-da-china-com-500-mil-kits-de-testes-rapidos-e-200-mil-mascaras-chega-ao-brasil">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviao-da-china-com-500-mil-kits-de-testes-rapidos-e-200-mil-mascaras-chega-ao-brasil/49720284286_061a5b17b5_c.jpg/@@images/56889c99-0771-4467-ab43-3f1bded19a7b.jpeg" alt="Primeira carga vindo da China" title="Primeira carga vindo da China" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/aviao-da-china-com-500-mil-kits-de-testes-rapidos-e-200-mil-mascaras-chega-ao-brasil" title="collective.nitf.content">Doação de 500 mil kits de testes rápidos e 200 mil máscaras chega ao Brasil</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A carga vinda da China foi comprada  pela Vale para doação ao Governo Federal</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=materiais de saúde" class="link-category" rel="nofollow tag">materiais de saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#infraestrutura" class="link-category" rel="nofollow tag">#infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=máscaras" class="link-category" rel="nofollow tag">máscaras</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=- Infraestrutura" class="link-category" rel="nofollow tag">- Infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo federal" class="link-category" rel="nofollow tag">Governo federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h56
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-promove-campanha-maio-amarelo-digital">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-promove-campanha-maio-amarelo-digital/card-lancamento-da-campanha.png/@@images/8559d031-29c3-4943-93d3-2ddb0cbbf45e.png" alt="Campanha Maio Amarelo será digital" title="Campanha Maio Amarelo será digital" height="64" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">CONSCIENTIZAÇÃO NO TRÂNSITO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/governo-promove-campanha-maio-amarelo-digital" title="collective.nitf.content">Governo promove Campanha Maio Amarelo Digital</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A ação de conscientização sobre responsabilidade no trânsito tem como público-alvo profissionais que prestam serviços essenciais para o Brasil durante a pandemia</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conscientização" class="link-category" rel="nofollow tag">Conscientização</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Maio Amarelo" class="link-category" rel="nofollow tag">Maio Amarelo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#denatran" class="link-category" rel="nofollow tag">#denatran</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=DENATRAN" class="link-category" rel="nofollow tag">DENATRAN</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#infraestrutura" class="link-category" rel="nofollow tag">#infraestrutura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Departamento Nacional de Infraestrutura de Transportes" class="link-category" rel="nofollow tag">Departamento Nacional de Infraestrutura de Transportes</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        02/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h56
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/crlv-digital-esta-disponivel-para-impressao-por-donos-de-veiculos-de-13-estados-e-df">
+              <img src="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/crlv-digital-esta-disponivel-para-impressao-por-donos-de-veiculos-de-13-estados-e-df/43929449240_8692a2c43e_c.jpg/@@images/568cd338-cd2b-4285-8f2c-d85b81e14b53.jpeg" alt="Para obter o CRLV digital é preciso baixar o aplicativo Carteira Nacional de Trânsito  (CNT)" title="Para obter o CRLV digital é preciso baixar o aplicativo Carteira Nacional de Trânsito  (CNT)" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">SERVIÇO DIGITAL</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/2020/05/crlv-digital-esta-disponivel-para-impressao-por-donos-de-veiculos-de-13-estados-e-df" title="collective.nitf.content">CRLV digital está disponível para impressão por donos de veículos em 13 estados e no DF</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A autenticidade do documento digital é garantida por QR Code</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#serviços" class="link-category" rel="nofollow tag">#serviços</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=serviço digital" class="link-category" rel="nofollow tag">serviço digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CRLV digital" class="link-category" rel="nofollow tag">CRLV digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#carteiradigitaltransito" class="link-category" rel="nofollow tag">#carteiradigitaltransito</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CRLV-e" class="link-category" rel="nofollow tag">CRLV-e</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=multa de transito" class="link-category" rel="nofollow tag">multa de transito</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#denatran" class="link-category" rel="nofollow tag">#denatran</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=DENATRAN" class="link-category" rel="nofollow tag">DENATRAN</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h24
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=30">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=0">1</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=30">2</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>3</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=90">4</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=120">5</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=150">6</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=180">7</a>
+        </li>
+        <!-- Link to last -->
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/transito-e-transportes/ultimas-noticias?b_start:int=90">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

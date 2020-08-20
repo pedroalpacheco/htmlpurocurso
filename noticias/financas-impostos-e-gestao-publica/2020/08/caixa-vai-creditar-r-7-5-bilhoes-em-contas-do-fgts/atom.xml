@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts/atom.xml" type="application/atom+xml" />
+  <title type="html">Caixa vai creditar R$ 7,5 bilhões em contas do FGTS</title>
+  <subtitle>Aproximadamente 167 milhões de contas receberão o crédito da distribuição dos resultados de 2019</subtitle>
+  <updated>2020-08-17T18:07:02-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts/"/>
+  <id>urn:syndication:265a538dec1844beb9446854b2c8f407</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Caixa credita R$ 7,5 bilhões em contas do FGTS, resultado do fundo em 2019</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts/2020-05-14t120838z_1_lynxmpeg4d12p_rtroptp_4_saude-coronavirus-caixa-pausa.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts/2020-05-14t120838z_1_lynxmpeg4d12p_rtroptp_4_saude-coronavirus-caixa-pausa.jpg/@@download/image/2020-05-14t120838z_1_lynxmpeg4d12p_rtroptp_4_saude-coronavirus-caixa-pausa.jpg" length="69488" type="image/jpeg" />
+      <id>urn:syndication:2bd04190df3a4443a242769cf1670373</id>
+      <summary>O rendimento das contas foi de 4,9%, o que é superior a várias aplicações disponíveis no mercado e garantiu ganhos acima da inflação para o trabalhador.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts/2020-05-14t120838z_1_lynxmpeg4d12p_rtroptp_4_saude-coronavirus-caixa-pausa.jpg/@@images/image" title="Caixa credita R$ 7,5 bilhões em contas do FGTS, resultado do fundo em 2019" alt="Caixa credita R$ 7,5 bilhões em contas do FGTS, resultado do fundo em 2019" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Agência Brasil</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts/2020-05-14t120838z_1_lynxmpeg4d12p_rtroptp_4_saude-coronavirus-caixa-pausa.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/08/caixa-vai-creditar-r-7-5-bilhoes-em-contas-do-fgts/2020-05-14t120838z_1_lynxmpeg4d12p_rtroptp_4_saude-coronavirus-caixa-pausa.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-13T11:34:05-03:00</published>
+
+      <updated>2020-08-13T11:34:05-03:00</updated>
+
+      
+        <category term="FGTS"/>
+      
+        <category term="Caixa"/>
+      
+        <category term="Resultados"/>
+      
+
+    </entry>
+
+  
+
+</feed>

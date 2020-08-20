@@ -1,0 +1,3858 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Meio Ambiente — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/Governo do Brasil" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente/RSS" title="Últimas Notícias - Meio Ambiente - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente/rss.xml" title="Últimas Notícias - Meio Ambiente - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente/atom.xml" title="Últimas Notícias - Meio Ambiente - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-meio-ambiente-e-clima subsection-meio-ambiente-e-clima-ultimas-noticias-meio-ambiente userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima">Meio Ambiente</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Meio Ambiente</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Meio Ambiente</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">19/05/2018 10h20</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">16/10/2018 11h23</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/governo-investe-na-regularizacao-fundiaria-e-desenvolvimento-da-amazonia-legal">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/governo-investe-na-regularizacao-fundiaria-e-desenvolvimento-da-amazonia-legal/coletiva-de-imprensa-do-ministro-do-meio-ambiente-ricardo-salles-e-governadores-da-amazonia-legal-em-brasilia-nesta-quarta-feira.png/@@images/338decc9-9a32-4d97-a145-4064991bdfa1.png" alt="Governo investe na regularização fundiária e desenvolvimento da Amazônia Legal" title="Governo investe na regularização fundiária e desenvolvimento da Amazônia Legal" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Meio Ambiente</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/governo-investe-na-regularizacao-fundiaria-e-desenvolvimento-da-amazonia-legal" title="collective.nitf.content">Governo trabalha para regularização fundiária e desenvolvimento da Amazônia Legal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Foco é ir além do controle de atividades ilegais e levar emprego, renda aos moradores</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Amazônia Legal" class="link-category" rel="nofollow tag">Amazônia Legal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Regularização fundiária" class="link-category" rel="nofollow tag">Regularização fundiária</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h17
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/litoral-piauiense-esta-livre-de-oleo-afirma-nota-da-marinha">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/litoral-piauiense-esta-livre-de-oleo-afirma-nota-da-marinha/04_11_19_praiasne.jpeg/@@images/7b209711-8e64-4f0a-9d1d-c9f3e457c767.jpeg" alt="Litoral piauiense está livre de óleo, afirma nota da Marinha" title="Litoral piauiense está livre de óleo, afirma nota da Marinha" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Manchas do Litoral</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/litoral-piauiense-esta-livre-de-oleo-afirma-nota-da-marinha" title="collective.nitf.content">Litoral piauiense está livre de óleo, afirma nota da Marinha</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Equipe do Grupo de Acompanhamento e Avaliação sobrevoou as praias do estado e comprovou que não há vestígios de óleo na água</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha no Litoral" class="link-category" rel="nofollow tag">Mancha no Litoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Grupo de Acompanhamento e Avaliação" class="link-category" rel="nofollow tag">Grupo de Acompanhamento e Avaliação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h14
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/militares-fazem-acao-preventiva-na-costa-do-espirito-santo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/militares-fazem-acao-preventiva-na-costa-do-espirito-santo/oleo-no-mar.jpeg/@@images/d62a8b7a-dc42-46bd-ac89-c88cf0b22679.jpeg" alt="Militares fazem ação preventiva na costa do Espírito Santo" title="Militares fazem ação preventiva na costa do Espírito Santo" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/militares-fazem-acao-preventiva-na-costa-do-espirito-santo" title="collective.nitf.content">Militares realizam ação preventiva na costa do Espírito Santo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">30 fuzileiros navais ficarão baseados em Conceição da Barra e São Mateus para facilitar a atuação caso as manchas de óleo cheguem ao estado</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Óleo no mar" class="link-category" rel="nofollow tag">Óleo no mar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Monitoramento" class="link-category" rel="nofollow tag">Monitoramento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Prevenção" class="link-category" rel="nofollow tag">Prevenção</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/dois-maiores-navios-da-marinha-vao-combater-oleo-no-nordeste">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/dois-maiores-navios-da-marinha-vao-combater-oleo-no-nordeste/fiscalizacao-marinha.jpeg/@@images/e4b9cf70-b2b7-4487-8876-1df823973926.jpeg" alt="Dois maiores navios da Marinha vão combater óleo no Nordeste" title="Dois maiores navios da Marinha vão combater óleo no Nordeste" height="78" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/dois-maiores-navios-da-marinha-vao-combater-oleo-no-nordeste" title="collective.nitf.content">Dois maiores navios da Marinha vão combater óleo no Nordeste</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Embarcações vão se juntar aos 27 navios, 15 aeronaves e mais de dez mil pessoas envolvidos na Operação Amazônia Azul</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=óleo no mar" class="link-category" rel="nofollow tag">óleo no mar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Manchas de óleo" class="link-category" rel="nofollow tag">Manchas de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/especies-de-plantas-podem-ajudar-a-evitar-grandes-queimadas">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/especies-de-plantas-podem-ajudar-a-evitar-grandes-queimadas/suculentas.jpg/@@images/0d8df615-51ed-497e-97fc-3a5520e8cb57.jpeg" alt="Espécies de plantas podem ajudar a evitar grandes queimadas" title="Espécies de plantas podem ajudar a evitar grandes queimadas" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Wildfire</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/especies-de-plantas-podem-ajudar-a-evitar-grandes-queimadas" title="collective.nitf.content">Espécies de plantas podem ajudar a evitar grandes queimadas</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Resistência às chamas foi discutida na sétima edição da Conferência Internacional sobre Incêndios Florestais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Wildfire" class="link-category" rel="nofollow tag">Wildfire</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate ao fogo" class="link-category" rel="nofollow tag">Combate ao fogo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conferência" class="link-category" rel="nofollow tag">Conferência</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        20h49
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/governo-repassa-r-1-12-milhao-para-revitalizacao-da-bacia-do-araguaia">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/governo-repassa-r-1-12-milhao-para-revitalizacao-da-bacia-do-araguaia/rio_araguaia-foto-mdr-1.jpg/@@images/5c52aa9b-814d-4c0e-98ea-9cb5d7ee3cad.jpeg" alt="Governo repassa R$ 1,12 milhão para revitalização da Bacia do Araguaia" title="Governo repassa R$ 1,12 milhão para revitalização da Bacia do Araguaia" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PRESERVAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/11/governo-repassa-r-1-12-milhao-para-revitalizacao-da-bacia-do-araguaia" title="collective.nitf.content">Governo repassa R$ 1,12 milhão para revitalização da Bacia do Araguaia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">“Serão mais de 10 mil hectares com ações do governo”, adiantou o ministro do Desenvolvimento Regional, Gustavo Canuto.</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Alto Araguaia" class="link-category" rel="nofollow tag">Alto Araguaia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa Nacional de Revitalização de Bacias Hidrográficas" class="link-category" rel="nofollow tag">Programa Nacional de Revitalização de Bacias Hidrográficas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MDR" class="link-category" rel="nofollow tag">MDR</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h24
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/policia-federal-realiza-operacao-para-esclarecer-derramamento-de-oleo-1">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/policia-federal-realiza-operacao-para-esclarecer-derramamento-de-oleo-1/mancha-de-oleo.jpg/@@images/6c82ee7c-c476-42c3-a1de-f4b3ce9b937d.jpeg" alt="Polícia Federal realiza operação para esclarecer derramamento de óleo Foto: EBC" title="Polícia Federal realiza operação para esclarecer derramamento de óleo Foto: EBC" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/policia-federal-realiza-operacao-para-esclarecer-derramamento-de-oleo-1" title="collective.nitf.content">Polícia Federal realiza operação para esclarecer derramamento de óleo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Operação Mácula cumpre mandados de busca e apreensão em endereços ligados a representantes da empresa responsável pelo navio no qual teria ocorrido o vazamento</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Polícia Federal" class="link-category" rel="nofollow tag">Polícia Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Investigação" class="link-category" rel="nofollow tag">Investigação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        01/11/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conheca-tecnologias-que-podem-ajudar-no-controle-do-fogo-e-no-combate-a-incendios">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conheca-tecnologias-que-podem-ajudar-no-controle-do-fogo-e-no-combate-a-incendios/wildfire.jpeg/@@images/67a312b6-9865-4f25-974f-157e604175ce.jpeg" alt="Conheça tecnologias que podem ajudar no controle do fogo e no combate a incêndios" title="Conheça tecnologias que podem ajudar no controle do fogo e no combate a incêndios" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Wildfire</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conheca-tecnologias-que-podem-ajudar-no-controle-do-fogo-e-no-combate-a-incendios" title="collective.nitf.content">Conheça tecnologias que podem ajudar no controle do fogo e no combate a incêndios</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Empresas de várias partes do mundo apresentaram suas inovações durante a Wildfire 2019</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Wildfire" class="link-category" rel="nofollow tag">Wildfire</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibama" class="link-category" rel="nofollow tag">Ibama</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Incêndios florestais" class="link-category" rel="nofollow tag">Incêndios florestais</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h38
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conhecimentos-indigenas-ajudam-a-proteger-florestas-de-grandes-incendios">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conhecimentos-indigenas-ajudam-a-proteger-florestas-de-grandes-incendios/rubens.jpeg/@@images/ca4b4b9e-4f34-4e00-94f2-feb073c5ef75.jpeg" alt="Conhecimentos indígenas ajudam a proteger florestas de grandes incêndios" title="Conhecimentos indígenas ajudam a proteger florestas de grandes incêndios" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Wildfire</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conhecimentos-indigenas-ajudam-a-proteger-florestas-de-grandes-incendios" title="collective.nitf.content">Conhecimentos indígenas ajudam a proteger florestas de grandes incêndios</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Trabalho está sendo durante Conferência Wildfire que ocorre em Mato Grosso do Sul</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Wildfire" class="link-category" rel="nofollow tag">Wildfire</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Incêndios florestais" class="link-category" rel="nofollow tag">Incêndios florestais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibama" class="link-category" rel="nofollow tag">Ibama</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h22
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/pescadores-artesanais-do-nordeste-receberao-pelos-dias-nao-trabalhados">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/pescadores-artesanais-do-nordeste-receberao-pelos-dias-nao-trabalhados/pesca1.jpg/@@images/766702a7-3900-403a-a035-76f74786bbc8.jpeg" alt="Pescadores artesanais do Nordeste receberão pelos dias não trabalhados" title="Pescadores artesanais do Nordeste receberão pelos dias não trabalhados" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/pescadores-artesanais-do-nordeste-receberao-pelos-dias-nao-trabalhados" title="collective.nitf.content">Pescadores artesanais do Nordeste receberão pelos dias não trabalhados</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo a ministra Tereza Cristina, a pesca industrial de lagosta e camarão não será proibida em novembro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pesca" class="link-category" rel="nofollow tag">Pesca</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=óleo no mar" class="link-category" rel="nofollow tag">óleo no mar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Defeso" class="link-category" rel="nofollow tag">Defeso</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Tereza Cristina" class="link-category" rel="nofollow tag">Tereza Cristina</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura" class="link-category" rel="nofollow tag">Ministério da Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h13
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/grupo-de-avaliacao-e-acompanhamento-divulga-novo-balanco-sobre-as-acoes">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/grupo-de-avaliacao-e-acompanhamento-divulga-novo-balanco-sobre-as-acoes/oleo-no-mar.jpg/@@images/967dbc2e-b3c0-45ee-b7df-3528f308989a.jpeg" alt="Grupo de Avaliação e Acompanhamento divulga novo balanço sobre as açōes" title="Grupo de Avaliação e Acompanhamento divulga novo balanço sobre as açōes" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/grupo-de-avaliacao-e-acompanhamento-divulga-novo-balanco-sobre-as-acoes" title="collective.nitf.content">Grupo de Avaliação e Acompanhamento divulga novo balanço sobre as açōes</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo o GAA, já foram contabilizadas mais de 2000 toneladas de resíduos de óleo retirados das praias nordestinas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Manchas de óleo" class="link-category" rel="nofollow tag">Manchas de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marinha" class="link-category" rel="nofollow tag">Marinha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação" class="link-category" rel="nofollow tag">Operação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Grupo de Avaliação e Acompanhamento" class="link-category" rel="nofollow tag">Grupo de Avaliação e Acompanhamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        31/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/ibama-descarta-possibilidade-de-novas-manchas-de-oleo-no-sul-da-bahia">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/ibama-descarta-possibilidade-de-novas-manchas-de-oleo-no-sul-da-bahia/fiscalizacao-marinha.jpg/@@images/b3f4caf0-f855-4465-9f8f-89819d9fc8bc.jpeg" alt="Ibama descarta possibilidade de novas manchas de óleo no sul da Bahia" title="Ibama descarta possibilidade de novas manchas de óleo no sul da Bahia" height="43" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/ibama-descarta-possibilidade-de-novas-manchas-de-oleo-no-sul-da-bahia" title="collective.nitf.content">Ibama descarta possibilidade de novas manchas de óleo no sul da Bahia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Inspeção técnica comprovou que a possível suspeita não apresenta padrões texturais apropriados</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Óleo no mar" class="link-category" rel="nofollow tag">Óleo no mar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=IBAMA" class="link-category" rel="nofollow tag">IBAMA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/brasil-deve-cumprir-meta-de-reducao-das-emissoes-de-co2-em-2020">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/brasil-deve-cumprir-meta-de-reducao-das-emissoes-de-co2-em-2020/reducao-de-co2.jpg/@@images/f1feba6c-3608-4d16-8138-58b898229404.jpeg" alt="Brasil deve cumprir meta de redução das emissões de CO2 em 2020" title="Brasil deve cumprir meta de redução das emissões de CO2 em 2020" height="43" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">REDUÇÃO DE CO2</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/brasil-deve-cumprir-meta-de-reducao-das-emissoes-de-co2-em-2020" title="collective.nitf.content">Brasil deve cumprir meta de redução das emissões de CO2 em 2020</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Estudo do Ipea avalia o desempenho do país na prevenção contra as mudanças climáticas</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CO2" class="link-category" rel="nofollow tag">CO2</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Objetivo de Desenvolvimento Sustentável" class="link-category" rel="nofollow tag">Objetivo de Desenvolvimento Sustentável</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério do Meio Ambiente" class="link-category" rel="nofollow tag">Ministério do Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Efeito Estufa" class="link-category" rel="nofollow tag">Efeito Estufa</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        30/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        08h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-continua-trabalho-para-conter-manchas-de-oleo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-continua-trabalho-para-conter-manchas-de-oleo/mar-combate-oleo.jpg/@@images/785e6017-e23e-4701-be23-d4edfe377a9b.jpeg" alt="Governo continua trabalho para conter manchas de óleo" title="Governo continua trabalho para conter manchas de óleo" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Óleo do Mar</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-continua-trabalho-para-conter-manchas-de-oleo" title="collective.nitf.content">Governo continua trabalho para conter manchas de óleo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Investigação sobre vazamento de óleo segue concentrada em 30 navios de 11 países</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Litoral" class="link-category" rel="nofollow tag">Litoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/operacao-verde-brasil-aplica-cerca-de-r-142-milhoes-em-multas-e-combate-1-835-focos-de-incendio">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/operacao-verde-brasil-aplica-cerca-de-r-142-milhoes-em-multas-e-combate-1-835-focos-de-incendio/balanco-da-opertacao-verde-brasil-no-ministerio-da-defesa-em-brasilia-df.png/@@images/7af8564a-4292-48ed-a62d-e887bc6ff8f4.png" alt="Operação Verde Brasil aplica cerca de R$ 142 milhões em multas e combate 1.835 focos de incêndio" title="Operação Verde Brasil aplica cerca de R$ 142 milhões em multas e combate 1.835 focos de incêndio" height="60" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Verde Brasil</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/operacao-verde-brasil-aplica-cerca-de-r-142-milhoes-em-multas-e-combate-1-835-focos-de-incendio" title="collective.nitf.content">Operação Verde Brasil aplica cerca de R$ 142 milhões em multas e combate 1.835 focos de incêndio</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A operação autorizou o emprego das Forças Armadas para a Garantia da Lei e da Ordem entre os dias 24 de agosto e 24 de setembro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Operação Verde Brasil" class="link-category" rel="nofollow tag">Operação Verde Brasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Forças Armadas" class="link-category" rel="nofollow tag">Forças Armadas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Amazônia Legal" class="link-category" rel="nofollow tag">Amazônia Legal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/realizacao-da-wildfire-no-brasil-reflete-o-nosso-trabalho-de-combate-a-incendios-diz-presidente-do-ibama-1">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/realizacao-da-wildfire-no-brasil-reflete-o-nosso-trabalho-de-combate-a-incendios-diz-presidente-do-ibama-1/presidente-do-ibama-1.jpg/@@images/4ee705b8-d53d-4d23-b3ee-30077bf38d47.jpeg" alt="Realização da Wildfire no Brasil reflete o nosso trabalho de combate a incêndios, diz presidente do Ibama" title="Realização da Wildfire no Brasil reflete o nosso trabalho de combate a incêndios, diz presidente do Ibama" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Conferência Wildfire</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/realizacao-da-wildfire-no-brasil-reflete-o-nosso-trabalho-de-combate-a-incendios-diz-presidente-do-ibama-1" title="collective.nitf.content">Brasileiros e estrangeiros discutem trabalho de combate ao fogo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">"O resultado final é a redução dos incêndios florestais e a prevenção das perdas que eles provocam”, disse o presidente do Ibama</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Wildfire" class="link-category" rel="nofollow tag">Wildfire</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conferência" class="link-category" rel="nofollow tag">Conferência</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibama" class="link-category" rel="nofollow tag">Ibama</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate ao fogo" class="link-category" rel="nofollow tag">Combate ao fogo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        29/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-transfere-para-brasilia-estrutura-que-monitora-oleo-em-praias-do-nordeste">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-transfere-para-brasilia-estrutura-que-monitora-oleo-em-praias-do-nordeste/centro-de-operacoes-conjuntas-no-ministerio-da-defesa-em-brasilia.png/@@images/2ff7f330-5bbc-4353-b3aa-456002ba02aa.png" alt="Governo transfere para Brasília estrutura que monitora óleo em praias do Nordeste" title="Governo transfere para Brasília estrutura que monitora óleo em praias do Nordeste" height="71" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-transfere-para-brasilia-estrutura-que-monitora-oleo-em-praias-do-nordeste" title="collective.nitf.content">Governo transfere para Brasília estrutura que monitora óleo em praias do Nordeste</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O Grupo de Acompanhamento e Avaliação é formado pela Marinha, Ibama e ANP</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Óleo no mar" class="link-category" rel="nofollow tag">Óleo no mar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Manchas de óleo" class="link-category" rel="nofollow tag">Manchas de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Grupo de Acompanhamento e Avaliação" class="link-category" rel="nofollow tag">Grupo de Acompanhamento e Avaliação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=GAA" class="link-category" rel="nofollow tag">GAA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/inedita-no-brasil-conferencia-wildfire-2019-e-aberta-em-campo-grande">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/inedita-no-brasil-conferencia-wildfire-2019-e-aberta-em-campo-grande/img_3629.jpeg/@@images/407f4044-3eff-4b3a-9e7f-427fc8c122cc.jpeg" alt="Inédita no Brasil, conferência Wildfire 2019 é aberta em Campo Grande" title="Inédita no Brasil, conferência Wildfire 2019 é aberta em Campo Grande" height="45" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">WILDFIRE</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/inedita-no-brasil-conferencia-wildfire-2019-e-aberta-em-campo-grande" title="collective.nitf.content">Inédita no Brasil, conferência Wildfire 2019 é aberta em Campo Grande</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Um dos objetivos é a troca de conhecimentos entre profissionais de todas as nacionalidades ligados ao manejo do fogo e ao controle de incêndios florestais</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Conferência Internacional sobre Incêndios Florestais" class="link-category" rel="nofollow tag">Conferência Internacional sobre Incêndios Florestais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Wildfire" class="link-category" rel="nofollow tag">Wildfire</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Incêndios florestais" class="link-category" rel="nofollow tag">Incêndios florestais</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        28/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/analises-da-petrobras-apontam-que-o-oleo-que-atinge-o-litoral-do-nordeste-e-produzido-pela-venezuela">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/analises-da-petrobras-apontam-que-o-oleo-que-atinge-o-litoral-do-nordeste-e-produzido-pela-venezuela/presidente-petrobras.jpeg/@@images/927e4dd4-db90-4503-9279-de98411b3ece.jpeg" alt="Análises da Petrobras apontam que o óleo que atinge o litoral do Nordeste é produzido pela Venezuela" title="Análises da Petrobras apontam que o óleo que atinge o litoral do Nordeste é produzido pela Venezuela" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/analises-da-petrobras-apontam-que-o-oleo-que-atinge-o-litoral-do-nordeste-e-produzido-pela-venezuela" title="collective.nitf.content">Análises da Petrobras apontam que o óleo que atinge o litoral do Nordeste é produzido pela Venezuela</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Análise de 30 amostras do petróleo recolhido de praias do Nordeste permitiu concluir que ele foi extraído de três campos de produção na Venezuela</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=óleo no litoral" class="link-category" rel="nofollow tag">óleo no litoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo" class="link-category" rel="nofollow tag">Governo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Medidas de Proteção" class="link-category" rel="nofollow tag">Medidas de Proteção</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Petrobras" class="link-category" rel="nofollow tag">Petrobras</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        27/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        10h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/cartilha-recomenda-cuidados-em-relacao-ao-contato-com-residuos-oleosos-no-litoral-do-nordeste">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/cartilha-recomenda-cuidados-em-relacao-ao-contato-com-residuos-oleosos-no-litoral-do-nordeste/recomendacao-a-populacao-png_large/@@images/f887c754-68d6-4fc3-a076-83e800d33738.png" alt="Cartilha recomenda cuidados em relação ao contato com resíduos oleosos no litoral do Nordeste" title="Cartilha recomenda cuidados em relação ao contato com resíduos oleosos no litoral do Nordeste" height="64" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/cartilha-recomenda-cuidados-em-relacao-ao-contato-com-residuos-oleosos-no-litoral-do-nordeste" title="collective.nitf.content">Cartilha recomenda cuidados em relação ao contato com resíduos oleosos no litoral do Nordeste</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O Ministério da Saúde e Defesa Civil recomendam alguns cuidados em relação ao contato com as manchas de óleo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marcelo Álvaro Antônio" class="link-category" rel="nofollow tag">Marcelo Álvaro Antônio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Turismo" class="link-category" rel="nofollow tag">Turismo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fungetur" class="link-category" rel="nofollow tag">Fungetur</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        25/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h18
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/turismo-anuncia-linha-de-credito-para-setor-de-areas-atingidas-pelo-vazamento-de-oleo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/turismo-anuncia-linha-de-credito-para-setor-de-areas-atingidas-pelo-vazamento-de-oleo/ministro.jpeg/@@images/490bf087-0451-42ae-9a55-d6ba024147e7.jpeg" alt="Turismo anuncia linha de crédito para setor de áreas atingidas pelo vazamento de óleo" title="Turismo anuncia linha de crédito para setor de áreas atingidas pelo vazamento de óleo" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ÓLEO NO MAR</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/turismo-anuncia-linha-de-credito-para-setor-de-areas-atingidas-pelo-vazamento-de-oleo" title="collective.nitf.content">Turismo anuncia linha de crédito para setor de áreas atingidas pelo vazamento de óleo</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O objetivo é ajudar pequenos empreendimentos turísticos a superar um possível período de retração de suas atividades</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marcelo Álvaro Antônio" class="link-category" rel="nofollow tag">Marcelo Álvaro Antônio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Turismo" class="link-category" rel="nofollow tag">Turismo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        25/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/uniao-entre-poderes-na-limpeza-das-praias">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/uniao-entre-poderes-na-limpeza-das-praias/barra-de-sao-miguel-2.jpeg/@@images/8d0c5d54-f4bb-4025-b149-a6b893581819.jpeg" alt="União entre Governo Federal, estados e municípios ajuda limpeza nas praias" title="União entre Governo Federal, estados e municípios ajuda limpeza nas praias" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Óleo no Mar</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/uniao-entre-poderes-na-limpeza-das-praias" title="collective.nitf.content">União entre poderes federal, estadual e municipal ajudam na limpeza das praias</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Em Alagoas, ministro do Meio Ambiente disse que trabalho conjunto do Governo Federal com os poderes estaduais e municipais tem possibilitado a limpeza das praias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Óleo no Mar" class="link-category" rel="nofollow tag">Óleo no Mar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ambiente" class="link-category" rel="nofollow tag">Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Praias" class="link-category" rel="nofollow tag">Praias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        24/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h03
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conheca-o-site-mancha-no-litoral-e-acompanhe-todas-as-acoes-do-governo">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conheca-o-site-mancha-no-litoral-e-acompanhe-todas-as-acoes-do-governo/mancha-de-oleo.jpg/@@images/4f52e5f5-9736-45b4-959d-242949f1599a.jpeg" alt="Conheça o site &quot;Mancha no Litoral&quot; e acompanhe todas as ações do governo" title="Conheça o site &quot;Mancha no Litoral&quot; e acompanhe todas as ações do governo" height="56" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Óleo no Mar</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/conheca-o-site-mancha-no-litoral-e-acompanhe-todas-as-acoes-do-governo" title="collective.nitf.content">Ações de governo para combater o óleo no litoral estão reunidas em hotsite</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Para saber o que o Governo Federal vem fazendo sobre o vazamento do óleo acesse "gov.br/manchanolitoral"</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Litoral" class="link-category" rel="nofollow tag">Litoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ações do Governo" class="link-category" rel="nofollow tag">Ações do Governo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Governo Federal" class="link-category" rel="nofollow tag">Governo Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Preservação" class="link-category" rel="nofollow tag">Preservação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        24/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h30
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          
+
+          <span class="subtitle">Óleo no Mar</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-investiga-causas-do-vazamento-de-oleo-no-litoral" title="collective.nitf.content">Governo atua para conter vazamento de óleo no litoral</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Em pronunciamento, ministro do Meio Ambiente, Ricardo Salles, falou sobre o trabalho que está sendo feito de identificação, monitoramento e retirada do óleo das praias</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ricardo Salles" class="link-category" rel="nofollow tag">Ricardo Salles</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pronunciamento" class="link-category" rel="nofollow tag">Pronunciamento</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Óleo no mar" class="link-category" rel="nofollow tag">Óleo no mar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        23/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        22h19
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-federal-libera-r-2-5-milhoes-para-sergipe-e-reconhece-emergencia-na-bahia">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-federal-libera-r-2-5-milhoes-para-sergipe-e-reconhece-emergencia-na-bahia/canuto.jpg/@@images/8927b872-07b8-4eec-b5b2-2172d171a401.jpeg" alt="Governo Federal libera R$ 2,5 milhões para Sergipe e reconhece emergência na Bahia" title="Governo Federal libera R$ 2,5 milhões para Sergipe e reconhece emergência na Bahia" height="73" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">APOIO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-federal-libera-r-2-5-milhoes-para-sergipe-e-reconhece-emergencia-na-bahia" title="collective.nitf.content">Governo Federal libera R$ 2,5 milhões para Sergipe e reconhece emergência na Bahia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Os recursos federais poderão ser utilizados pelo estado de Sergipe em serviços complementares para limpeza de praias, viabilização de pontos estratégicos de coleta e transporte do material</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Limpeza" class="link-category" rel="nofollow tag">Limpeza</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Praias" class="link-category" rel="nofollow tag">Praias</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Secretaria Nacional de Proteção e Defesa Civil" class="link-category" rel="nofollow tag">Secretaria Nacional de Proteção e Defesa Civil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Bahia" class="link-category" rel="nofollow tag">Bahia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h09
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/sessenta-mil-pescadores-artesanais-do-nordeste-vao-receber-seguro-defeso-em-novembro">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/sessenta-mil-pescadores-artesanais-do-nordeste-vao-receber-seguro-defeso-em-novembro/secretario-seif.jpeg/@@images/8a9559c0-c192-47dd-ba81-df452e7393d5.jpeg" alt="Sessenta mil pescadores artesanais do Nordeste vão receber seguro defeso em novembro" title="Sessenta mil pescadores artesanais do Nordeste vão receber seguro defeso em novembro" height="91" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">PAGAMENTO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/sessenta-mil-pescadores-artesanais-do-nordeste-vao-receber-seguro-defeso-em-novembro" title="collective.nitf.content">Sessenta mil pescadores artesanais do Nordeste vão receber seguro defeso em novembro</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Governo Federal vai destinar R$ 59,9 milhões para o pagamento do benefício aos trabalhadores afetados pelo vazamento de óleo</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Seguro Defeso" class="link-category" rel="nofollow tag">Seguro Defeso</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Agricultura" class="link-category" rel="nofollow tag">Ministério da Agricultura</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/cerca-de-5-mil-militares-do-exercito-reforcam-operacao-para-conter-oleo-nas-praias">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/cerca-de-5-mil-militares-do-exercito-reforcam-operacao-para-conter-oleo-nas-praias/20191021-reuniao-vice-presidente.jpg/@@images/ffd8ae7a-fd37-4982-b41b-5044c0c8dfe1.jpeg" alt="Cerca de 5 mil militares do Exército reforçam operação para conter óleo nas praias" title="Cerca de 5 mil militares do Exército reforçam operação para conter óleo nas praias" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">COMBATE</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/cerca-de-5-mil-militares-do-exercito-reforcam-operacao-para-conter-oleo-nas-praias" title="collective.nitf.content">Cerca de 5 mil militares do Exército reforçam operação para conter óleo nas praias</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Além dos mais de 1,5 mil militares da Marinha e da Força Aérea, a operação contará também com efetivo do Exército Brasileiro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministro da Defesa" class="link-category" rel="nofollow tag">Ministro da Defesa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministro do Desenvolvimento Regional" class="link-category" rel="nofollow tag">Ministro do Desenvolvimento Regional</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fernando Azevedo e Silva" class="link-category" rel="nofollow tag">Fernando Azevedo e Silva</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Gustavo Canuto" class="link-category" rel="nofollow tag">Gustavo Canuto</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        22/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/mais-de-1500-militares-atuam-com-a-populacao-no-monitoramento-e-limpeza-do-litoral-do-nordeste">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/mais-de-1500-militares-atuam-com-a-populacao-no-monitoramento-e-limpeza-do-litoral-do-nordeste/limpeza-na-praia-de-japaratinga-al.jpg/@@images/80930b67-88a9-4353-b27f-6e955e6998c4.jpeg" alt="Limpeza na Praia de Japaratinga - AL Foto: Ministério da Defesa" title="Limpeza na Praia de Japaratinga - AL Foto: Ministério da Defesa" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">LITORAL</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/mais-de-1500-militares-atuam-com-a-populacao-no-monitoramento-e-limpeza-do-litoral-do-nordeste" title="collective.nitf.content">Mais de 1500 militares atuam com a população no monitoramento e limpeza do litoral do Nordeste</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Segundo a Marinha, já foram recolhidas 900 toneladas de resíduos nas praias. E a população pode contribuir avisando sobre as manchas de óleo pelo telefone 185</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marinha" class="link-category" rel="nofollow tag">Marinha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h15
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/agu-confirma-que-o-governo-federal-vem-atuando-desde-o-inicio-do-aparecimento-das-manchas-no-litoral">
+              <img src="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/agu-confirma-que-o-governo-federal-vem-atuando-desde-o-inicio-do-aparecimento-das-manchas-no-litoral/mancha-de-oleo.jpeg/@@images/6068a88a-116f-4dc7-ae29-be8ff3a7d9bc.jpeg" alt="AGU confirma que o Governo Federal vem atuando desde o início do aparecimento das manchas no litoral" title="AGU confirma que o Governo Federal vem atuando desde o início do aparecimento das manchas no litoral" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Meio Ambiente</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/agu-confirma-que-o-governo-federal-vem-atuando-desde-o-inicio-do-aparecimento-das-manchas-no-litoral" title="collective.nitf.content">AGU comprova que Governo Federal vem atuando desde o início do aparecimento das manchas no litoral</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Órgão confirmou as ações de monitoramento e redução de danos, desde o início do aparecimento das manchas no litoral nordestino</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Advocacia-Geral da União" class="link-category" rel="nofollow tag">Advocacia-Geral da União</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=AGU" class="link-category" rel="nofollow tag">AGU</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ibama" class="link-category" rel="nofollow tag">Ibama</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ANP" class="link-category" rel="nofollow tag">ANP</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marinha" class="link-category" rel="nofollow tag">Marinha</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mancha de óleo" class="link-category" rel="nofollow tag">Mancha de óleo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          
+
+          <span class="subtitle">Meio Ambiente</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/2019/10/governo-realiza-todas-as-acoes-para-conter-oleo-na-praia" title="collective.nitf.content">Governo realiza todas as ações para conter óleo na praia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">As medidas estão em pleno funcionamento desde o início de setembro, quando as primeiras manchas de óleo atingiram o litoral brasileiro</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Meio Ambiente" class="link-category" rel="nofollow tag">Meio Ambiente</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Óleo no litoral" class="link-category" rel="nofollow tag">Óleo no litoral</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Nordeste" class="link-category" rel="nofollow tag">Nordeste</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Manchanolitoral" class="link-category" rel="nofollow tag">#Manchanolitoral</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/10/2019
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h48
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=30">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=0">1</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=30">2</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>3</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=90">4</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=120">5</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=150">6</a>
+        </li>
+        <!-- Link to last -->
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/ultimas-noticias-meio-ambiente?b_start:int=90">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

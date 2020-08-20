@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/atom.xml" type="application/atom+xml" />
+  <title type="html">Educação antecipa repasse de R$ 364 milhões de programa de alimentação escolar</title>
+  <subtitle>Montante total já repassado a estados e municípios, em 2020, chega a R$ 1,4 bilhão</subtitle>
+  <updated>2020-04-30T17:13:00-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/"/>
+  <id>urn:syndication:a2236e4b6c034f688dcb56a15c365e92</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Educação antecipa repasse de R$ 364 milhões de programa de alimentação escolar</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/@@download/image/9e42e71b92350340b621a8d8d3209225_M.jpg" length="160924" type="image/jpeg" />
+      <id>urn:syndication:5f3c518973254a67b410a849ba1dfc82</id>
+      <summary>O Governo Federal adaptou a legislação do programa para possibilitar a entrega dos alimentos às famílias dos estudantes.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/@@images/image" title="Educação antecipa repasse de R$ 364 milhões de programa de alimentação escolar" alt="Educação antecipa repasse de R$ 364 milhões de programa de alimentação escolar" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>FNDE</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-04-30T15:53:30-03:00</published>
+
+      <updated>2020-04-30T15:53:30-03:00</updated>
+
+      
+        <category term="PNAE"/>
+      
+        <category term="Alimentação Escolar"/>
+      
+        <category term="FNDE"/>
+      
+        <category term="#Coronavirus"/>
+      
+        <category term="#CoronavirusNoBrasil"/>
+      
+
+    </entry>
+
+  
+
+</feed>

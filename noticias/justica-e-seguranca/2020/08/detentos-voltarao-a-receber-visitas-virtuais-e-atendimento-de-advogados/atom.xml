@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados" xml:lang="pt-br">
+  <link rel="self" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/atom.xml" type="application/atom+xml" />
+  <title type="html">Detentos voltarão a receber visitas virtuais e atendimento de advogados</title>
+  <subtitle>Decreto autorizou o retorno das atividades no Sistema Penitenciário Federal</subtitle>
+  <updated>2020-08-14T16:25:48-03:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/"/>
+  <id>urn:syndication:39cab04e2d37446ca94056aa4064858b</id>
+  <logo>https://www.gov.br/logo.png</logo>
+  <icon>https://www.gov.br/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Penitenciários voltarão a receber visitas virtuais e atendimento regular de advogados</title>
+      <link rel="alternate" type="text/html" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/view" />
+      <link rel="enclosure" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/@@download/image/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg" length="68966" type="image/jpeg" />
+      <id>urn:syndication:a0812ebc57454222b5b94a4a2608596d</id>
+      <summary>Atendimentos jurídicos serão limitados a quatro agendamentos diários de no máximo 30 minutos. Visitas podem ser realizadas por cônjuges de comprovada união estável, parentes e amigos.</summary>
+      <content type="xhtml" xml:base="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados" xml:lang="pt-br" xml:space="preserve">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/@@images/image" title="Penitenciários voltarão a receber visitas virtuais e atendimento regular de advogados" alt="Penitenciários voltarão a receber visitas virtuais e atendimento regular de advogados" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Departamento Penitenciário Nacional</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/detentos-voltarao-a-receber-visitas-virtuais-e-atendimento-de-advogados/0528119b-ed40-4395-bfc8-07bf05a1c3cf.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+
+        </div>
+      </content>
+
+      <author>
+        
+        <name>Governo do Brasil</name>
+        
+      </author>
+
+      <published>2020-08-14T16:08:41-03:00</published>
+
+      <updated>2020-08-14T16:08:41-03:00</updated>
+
+      
+        <category term="SPF"/>
+      
+        <category term="#Depen"/>
+      
+        <category term="#dpu"/>
+      
+        <category term="Ministério da Justiça e Segurança Pública"/>
+      
+
+    </entry>
+
+  
+
+</feed>

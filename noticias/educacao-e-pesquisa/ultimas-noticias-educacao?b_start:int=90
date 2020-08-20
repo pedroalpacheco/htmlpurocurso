@@ -1,0 +1,3969 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head><script id="google-tag-manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+<meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/26" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-f6458ffaf333df1b0a22614c57981d89.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/base-cachekey-1a6cdf931d7964d97c07c728c8c67cc7.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-c7f4e8300f83dccdf6eec6619e0f8e81.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-c69b828fc65db687cee00e359163410c.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-39a20076eadcec1d8d6b46001ec81778.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/ploneCustom.css" media="all" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-e2bcd26deafc540cc3550e96f8a19b38.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.gov.br/portal_css/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-64c81225253874ac2ac8f61ac8023e7e.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/portal_css/Sunburst%20Theme/resourcegovbr.portalcssportal-cachekey-91c6610672404f09fec84d96a17f335e.css" media="screen" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-6d3d00f49b313a8069d82cba2d0efc70.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-eaf0bf505bc69b43b3ea45317c77b6ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/register_function-cachekey-be67dce3a18b905136c2a1206baa2f5b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-46a7808aba0042a37ead2b274c17cbbc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-6c2fcebd476ee163f98a516a6bc8aade.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c2aca4512f8bdab2b91b214829f9f08.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c4a13771f22c3e43acb9e9a3c89c4b79.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-3cd5cec3778bd6e8892252654f55c40a.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-0f9727d69ab524f5c54d5fa1ce96b799.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsservico-cachekey-35be395eb704045030f5e2f320a2f942.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/portal_javascripts/Sunburst%20Theme/themegovbr.servicosjsdatepicker-cachekey-a5dab74012b83ef7b733348f4099be66.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/++resource++brasil.gov.portal/brasilgovportal-b9966f9.js"></script>
+
+
+
+<title>Últimas Notícias - Educação — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/pt-br/author/Governo do Brasil" title="Informações do Autor" />
+
+
+    <link rel="canonical" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao/RSS" title="Últimas Notícias - Educação - RSS 1.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao/rss.xml" title="Últimas Notícias - Educação - RSS 2.0" type="application/rss+xml" />
+
+    <link rel="alternate" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao/atom.xml" title="Últimas Notícias - Educação - Atom" type="application/rss+xml" />
+
+
+    <link rel="search" href="https://www.gov.br/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    <meta charset="utf-8" />
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/++theme++padrao_govbr/favicons/favicon-16x16.png" />
+    <link rel="mask-icon" href="/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <script src="https://www.youtube.com/iframe_api"></script>
+  <link href="/++theme++padrao_govbr/govbrtheme-2b07dcb.css" rel="stylesheet" /></head>
+
+  <body id="" class="default-header-template portal-govbr template-summary_view portaltype-collection site-pt-br section-noticias subsection-educacao-e-pesquisa subsection-educacao-e-pesquisa-ultimas-noticias-educacao userrole-anonymous" data-base-url="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao" data-portal-url="https://www.gov.br" dir="ltr"><!-- Google Tag Manager (noscript) --><noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden">
+          </iframe>
+        </noscript><!-- End Google Tag Manager (noscript) --><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><nav class="govbr-skip-menu" aria-label="Acesso rápido">
+      <a href="#wrapper"><span class="sr-only">Ir para o</span> Conteúdo </a>
+      <a href="#main-navigation"><span class="sr-only">Ir para o menu de</span> Navegação
+      </a>
+      <a href="#nolivesearchGadget"><span class="sr-only">Ir para a</span> Busca
+      </a>
+      <a href="#portal-footer"><span class="sr-only">Ir para o</span> Rodapé</a>
+      <a href="/"><span class="sr-only">Ir para a</span> Página Inicial</a>
+    </nav><!-- User --><!-- Header --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+      <div class="header-wrapper secondary">
+        <div class="portal-name">
+          <a href="https://www.gov.br/pt-br" class="portal-logo">
+            <span class="sr-only">Portal Gov.br</span>
+          </a>
+          
+        </div>
+
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <!-- TODO: Traduzir -->
+              <li class="titulo">Acesso Rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="/accessibility-info">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+              <!-- <li class="language-selection">
+                <a href="" class="currentLanguage language-pt-br">
+                  Portugu&#234;s
+                </a>
+                <ul>
+                  <li class="title">Idioma/Language</li>
+                  <li class="currentLanguage language-pt-br">
+                    <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                  </li>
+                  <li class="language-en">
+                    <a href="" title="English">English</a>
+                  </li>
+                  <li class="language-es">
+                    <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                  </li>
+                </ul>
+              </li> -->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust"></span>
+              </a>
+            </li>
+          </ul>
+
+          <a href="http://solicitacao.servicos.gov.br" class="link-acesso">
+            <span class="fas fa-user"></span>
+            Entrar
+          </a>
+        </div>
+      </div>
+
+      <div class="header-wrapper main">
+        <div class="site-name-wrapper">
+          <a class="ico-navegacao toggle-main-navigation" href="/++theme++padrao_govbr/">
+            <span class="sr-only">Navegação</span>
+            <span class="fa fa-bars" aria-hidden="true"></span>
+            <span class="fa fa-times" aria-hidden="true"></span>
+          </a>
+
+          <!-- <a href="/" class="site-name">Nome do site</a> -->
+          <!-- Usar nome completo -->
+          <a href="https://www.gov.br/pt-br" class="site-name" title="O portal do Brasil">Governo do Brasil</a>
+        </div>
+
+        <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.gov.br/pt-br/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+
+        <input name="SearchableText" type="text" size="18" title="O que você procura?" placeholder="O que você procura?" class="searchField" id="nolivesearchGadget" />
+
+        <input class="searchButton" type="submit" value="Buscar" />
+
+        
+
+        
+        </div>
+    </form>
+
+    
+
+</div>
+      </div>
+
+      <!-- Main Menu -->
+      <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+        <div class="navigation-content">
+          <div id="main-navigation" class="navigation-cell">
+            <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          </div>
+        </div>
+        <div class="navigation-content-extra">
+          <div class="links-redes-wrap">
+            <div class="links-uteis links-uteis-mobile">
+              <ul>
+                <li>
+                  <a href="#">Acessibilidade</a>
+                </li>
+                <!-- <li class="language-selection">
+                  <a href="" class="currentLanguage language-pt-br">
+                    Portugu&#234;s
+                  </a>
+                  <ul>
+                    <li class="title">Idioma/Language</li>
+                    <li class="currentLanguage language-pt-br">
+                      <a href="" title="Portugu&#234;s (Brasil)">Portugu&#234;s (Brasil)</a>
+                    </li>
+                    <li class="language-en">
+                      <a href="" title="English">English</a>
+                    </li>
+                    <li class="language-es">
+                      <a href="" title="Espa&#241;ol">Espa&#241;ol</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li>
+                  <a href="#" class="link-contraste">
+                    <span class="fas fa-adjust"></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="links-uteis">
+              <h3>
+                Links Úteis
+              </h3>
+              <ul>
+                <!-- <li>
+                  <a href="#">&#211;rg&#227;os do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <li>
+                  <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                </li>
+                <li>
+                  <a href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Menu -->
+      
+      
+    </header><div id="portal-breadcrumbs-wrapper">
+      <nav id="portal-breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.gov.br/pt-br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/pt-br/noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa">Educação e Pesquisa</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            
+            
+            <span id="breadcrumbs-current">Últimas Notícias - Educação</span>
+         
+    </span>
+
+</nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+      <!-- Columns -->
+
+      <div id="main">
+        
+
+        <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Últimas Notícias - Educação</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <!-- TODO: Traduzir este label -->
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01 
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">23/05/2018 11h54</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <!-- TODO: Traduzir este label -->
+        <span>Atualizado em</span>
+        <span class="value">21/08/2019 20h57</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+
+
+  
+
+  
+    
+      
+        
+    
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/hospital-universitario-desenvolve-equipamentos-de-protecao-para-pacientes-e-profissionais">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/hospital-universitario-desenvolve-equipamentos-de-protecao-para-pacientes-e-profissionais/foto-3.jpg/@@images/036d86a7-1024-4bbe-b11a-b72e47a3a888.jpeg" alt="Hospital universitário desenvolve equipamentos de proteção para pacientes e profissionais" title="Hospital universitário desenvolve equipamentos de proteção para pacientes e profissionais" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao novo coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/hospital-universitario-desenvolve-equipamentos-de-protecao-para-pacientes-e-profissionais" title="collective.nitf.content">Hospital universitário desenvolve equipamentos de proteção para pacientes e profissionais</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Equipamento de baixo custo auxilia na proteção de pacientes e profissionais durante atendimento e em procedimentos cirúrgicos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospital Universitário" class="link-category" rel="nofollow tag">Hospital Universitário</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospitais Universitários" class="link-category" rel="nofollow tag">Hospitais Universitários</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid box" class="link-category" rel="nofollow tag">Covid box</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Coronavírus" class="link-category" rel="nofollow tag">Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mec" class="link-category" rel="nofollow tag">Mec</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Universidade Federal do Ceará" class="link-category" rel="nofollow tag">Universidade Federal do Ceará</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        21/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h12
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ciencia-e-tecnologia-investe-r-352-8-milhoes-em-projetos-de-pesquisa">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ciencia-e-tecnologia-investe-r-352-8-milhoes-em-projetos-de-pesquisa/life-science-research-laboratory-rlfwtgy.jpg/@@images/17f7151d-c14d-4a47-af4a-a36776e546a8.jpeg" alt="laboratório" title="laboratório" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao Coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ciencia-e-tecnologia-investe-r-352-8-milhoes-em-projetos-de-pesquisa" title="collective.nitf.content">Ciência e Tecnologia investe R$ 352,8 milhões em projetos de pesquisa</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Investimentos serão para desenvolvimento de novos testes e materiais de saúde, estruturação de laboratórios e  instalação de internet em unidades de saúde</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=COVID-19" class="link-category" rel="nofollow tag">COVID-19</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h44
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/brasil-vai-iniciar-novos-testes-clinicos-com-nitazoxanida">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/brasil-vai-iniciar-novos-testes-clinicos-com-nitazoxanida/pontescb_c.jpg/@@images/2bf3ca3f-b67a-4b8b-b2b5-ea40515454ad.jpeg" alt="ministro Marcos Pontes" title="ministro Marcos Pontes" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/brasil-vai-iniciar-novos-testes-clinicos-com-nitazoxanida" title="collective.nitf.content">Brasil vai iniciar novos testes clínicos com nitazoxanida</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Pesquisadores ligados ao MCTIC vão testar eficácia do medicamento em pacientes com sintomas iniciais da Covid-19</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=nitazoxanida" class="link-category" rel="nofollow tag">nitazoxanida</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h01
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/inscritos-no-enem-poderao-opinar-sobre-as-datas-de-realizacao-da-prova">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/inscritos-no-enem-poderao-opinar-sobre-as-datas-de-realizacao-da-prova/joao-bittar-if-formiga-mg-2.jpg/@@images/69efeeb5-fca4-4e5a-9843-00d136632b2c.jpeg" alt="Estudantes inscritos no Enem poderão opinar nas datas de realização da prova" title="Estudantes inscritos no Enem poderão opinar nas datas de realização da prova" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Enem 2020</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/inscritos-no-enem-poderao-opinar-sobre-as-datas-de-realizacao-da-prova" title="collective.nitf.content">Inscritos no Enem poderão opinar sobre as datas de realização da prova</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Estudantes serão consultados pela Página do Participante</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem 2020" class="link-category" rel="nofollow tag">Enem 2020</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Exame Nacional do Ensino Médio" class="link-category" rel="nofollow tag">Exame Nacional do Ensino Médio</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem" class="link-category" rel="nofollow tag">Enem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=INEP" class="link-category" rel="nofollow tag">INEP</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Educação" class="link-category" rel="nofollow tag">Ministério da Educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MEC" class="link-category" rel="nofollow tag">MEC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inep" class="link-category" rel="nofollow tag">Inep</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem Digital" class="link-category" rel="nofollow tag">Enem Digital</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Educação Superior" class="link-category" rel="nofollow tag">Educação Superior</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        20/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-oferece-bolsas-de-iniciacao-cientifica">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-oferece-bolsas-de-iniciacao-cientifica/d530b836-e505-47a6-9add-56496cf98bfd.png/@@images/ed773ce1-113b-4740-83c3-ffeebeb5c68d.png" alt="d530b836-e505-47a6-9add-56496cf98bfd.png" title="d530b836-e505-47a6-9add-56496cf98bfd.png" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Ciência</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-oferece-bolsas-de-iniciacao-cientifica" title="collective.nitf.content">Governo oferece bolsas de iniciação científica</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">As bolsas serão destinadas a estudantes de graduação e do ensino médio</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Bolsa de Estudo" class="link-category" rel="nofollow tag">Bolsa de Estudo</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#pesquisa" class="link-category" rel="nofollow tag">#pesquisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Iniciação científica" class="link-category" rel="nofollow tag">Iniciação científica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CNPq" class="link-category" rel="nofollow tag">CNPq</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h44
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/enem-pessoas-com-deficiencias-visuais-podem-solicitar-leitura-em-tela-ate-dia-22">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/enem-pessoas-com-deficiencias-visuais-podem-solicitar-leitura-em-tela-ate-dia-22/braile.jpg/@@images/b9a1dc40-a568-43fb-865c-f4a0d9a894b0.jpeg" alt="Enem: pessoas com deficiências visuais podem solicitar leitura em tela até dia 22" title="Enem: pessoas com deficiências visuais podem solicitar leitura em tela até dia 22" height="87" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Exame</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/enem-pessoas-com-deficiencias-visuais-podem-solicitar-leitura-em-tela-ate-dia-22" title="collective.nitf.content">Enem: pessoas com deficiências visuais podem solicitar leitura em tela até dia 22</a>
+          </h2>
+
+          
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Exame Nacional do Ensino Médio" class="link-category" rel="nofollow tag">Exame Nacional do Ensino Médio</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h51
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ciencia-e-tecnologia-mais-recursos-para-combate-ao-coronavirus">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ciencia-e-tecnologia-mais-recursos-para-combate-ao-coronavirus/laboratorio_ceitec_mctic.jpg/@@images/54eb1611-bac9-4411-9ba8-ed96274502d1.jpeg" alt="Ciência e Tecnologia - mais recursos para combate ao coronavírus" title="Ciência e Tecnologia - mais recursos para combate ao coronavírus" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ciencia-e-tecnologia-mais-recursos-para-combate-ao-coronavirus" title="collective.nitf.content">Ciência e Tecnologia: mais recursos para o combate ao coronavírus</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Governo vai investir em produção nacional de equipamentos, testes e diagnósticos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Marcos Pontes" class="link-category" rel="nofollow tag">Marcos Pontes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Medida Provisória" class="link-category" rel="nofollow tag">Medida Provisória</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Recursos" class="link-category" rel="nofollow tag">Recursos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavírus" class="link-category" rel="nofollow tag">#Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Covid-19" class="link-category" rel="nofollow tag">#Covid-19</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h03
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/capes-lanca-edital-para-desenvolver-pos-graduacao-na-amazonia-legal">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/capes-lanca-edital-para-desenvolver-pos-graduacao-na-amazonia-legal/19052020_imagem_amazonia_legal.jpeg/@@images/06a672c6-3746-4d6f-89f6-17a4daca47b4.jpeg" alt="19052020_imagem_amazonia_legal.jpeg" title="19052020_imagem_amazonia_legal.jpeg" height="128" width="96" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Pesquisa</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/capes-lanca-edital-para-desenvolver-pos-graduacao-na-amazonia-legal" title="collective.nitf.content">CAPES lança edital para desenvolver pós-graduação na Amazônia Legal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Serão investidos até R$ 56,4 milhões em até 90 projetos de consolidação da pós-graduação nos estados da Região Norte, Maranhão e Mato Grosso. Ao todo, serão financiadas 720 bolsas de mestrado, doutorado e pós-doutorado</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=região amazônica" class="link-category" rel="nofollow tag">região amazônica</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CAPES" class="link-category" rel="nofollow tag">CAPES</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pós Graduação" class="link-category" rel="nofollow tag">Pós Graduação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        19/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h07
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mais-de-1-6-mil-profissionais-da-area-de-saude-tiveram-formatura-antecipada">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mais-de-1-6-mil-profissionais-da-area-de-saude-tiveram-formatura-antecipada/whatsapp_image_2020-04-30_at_15-02-44.jpeg/@@images/e62d19ae-6adf-4779-a9ba-8923d4c5819b.jpeg" alt="Mais de 1,6 mil profissionais da área de saúde tiveram formatura antecipada" title="Mais de 1,6 mil profissionais da área de saúde tiveram formatura antecipada" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Educação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mais-de-1-6-mil-profissionais-da-area-de-saude-tiveram-formatura-antecipada" title="collective.nitf.content">Mais de 1,6 mil profissionais da área de saúde tiveram formatura antecipada</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Profissionais podem ajudar no combate ao coronavírus</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Educação" class="link-category" rel="nofollow tag">Ministério da Educação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        18/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h25
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ministro-marcos-pontes-conhece-empresa-brasileira-responsavel-pela-fabricacao-de-respiradores">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ministro-marcos-pontes-conhece-empresa-brasileira-responsavel-pela-fabricacao-de-respiradores/whatsapp-image-2020-05-15-at-17-13-58.jpeg/@@images/accedfb2-3341-4302-a9cc-2699425e961a.jpeg" alt="WhatsApp Image 2020-05-15 at 17.13.58.jpeg" title="WhatsApp Image 2020-05-15 at 17.13.58.jpeg" height="90" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Respiradores</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/ministro-marcos-pontes-conhece-empresa-brasileira-responsavel-pela-fabricacao-de-respiradores" title="collective.nitf.content">Ministro Marcos Pontes conhece empresa brasileira responsável pela fabricação de respiradores</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Governo comprou de empresa nacional 6,5 mil aparelhos para reforçar rede pública</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Ciência, Tecnologia, Inovações e Comunicações" class="link-category" rel="nofollow tag">Ministério da Ciência, Tecnologia, Inovações e Comunicações</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        15/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h03
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mec-altera-datas-do-prouni-e-fies-para-o-primeiro-semestre-de-2020">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mec-altera-datas-do-prouni-e-fies-para-o-primeiro-semestre-de-2020/ebc-estudantes.jpeg/@@images/306006ae-291d-4494-8f3c-f530d475750d.jpeg" alt="MEC altera datas do Prouni e Fies para o primeiro semestre de 2020" title="MEC altera datas do Prouni e Fies para o primeiro semestre de 2020" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ENEM 2020</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mec-altera-datas-do-prouni-e-fies-para-o-primeiro-semestre-de-2020" title="collective.nitf.content">MEC altera datas do Prouni e Fies para o primeiro semestre de 2020</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Ministério alterou cronograma para que estudantes não sejam prejudicados por conta do período de isolamento causado pela pandemia do novo coronavírus</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem" class="link-category" rel="nofollow tag">Enem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=ProUni" class="link-category" rel="nofollow tag">ProUni</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Fies" class="link-category" rel="nofollow tag">Fies</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem 2020" class="link-category" rel="nofollow tag">Enem 2020</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Financiamento Estudantil" class="link-category" rel="nofollow tag">Financiamento Estudantil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Universidade para todos" class="link-category" rel="nofollow tag">Universidade para todos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Educação" class="link-category" rel="nofollow tag">Ministério da Educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Educação Superior" class="link-category" rel="nofollow tag">Educação Superior</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        15/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h01
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/apos-tres-anos-mec-anuncia-revalida-em-outubro">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/apos-tres-anos-mec-anuncia-revalida-em-outubro/medical-council-background-7w8dr2j.jpg/@@images/9c51dc15-88e5-4f69-aa2a-bb1122b5763a.jpeg" alt="médicos" title="médicos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">REVALIDA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/apos-tres-anos-mec-anuncia-revalida-em-outubro" title="collective.nitf.content">Após três anos, MEC anuncia Revalida em outubro</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Edital sai em julho e prova será aplicada no dia 11 de outubro; última edição do exame ocorreu em 2017</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Revalida" class="link-category" rel="nofollow tag">Revalida</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#MEC" class="link-category" rel="nofollow tag">#MEC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Educação" class="link-category" rel="nofollow tag">Educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Revalida" class="link-category" rel="nofollow tag">#Revalida</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Educação" class="link-category" rel="nofollow tag">Ministério da Educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MEC" class="link-category" rel="nofollow tag">MEC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Estudantes" class="link-category" rel="nofollow tag">Estudantes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Medicina" class="link-category" rel="nofollow tag">Medicina</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        15/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h31
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/alunos-e-professores-do-inatel-desenvolvem-ventilador-pulmonar">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/alunos-e-professores-do-inatel-desenvolvem-ventilador-pulmonar/embrapii-investe-e-ventilador-pulmonar-desenvolvido-no-inatel-ganha-mercado-5ebc4f9b8fb82.jpg/@@images/dd018576-f9d4-483e-8b87-a866e48530fb.jpeg" alt="Alunos e professores do Inatel desenvolvem ventilador pulmonar" title="Alunos e professores do Inatel desenvolvem ventilador pulmonar" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao novo coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/alunos-e-professores-do-inatel-desenvolvem-ventilador-pulmonar" title="collective.nitf.content">Alunos e professores do Inatel desenvolvem ventilador pulmonar</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Protótipo vai ser melhorado pela EMBRAPII para ser lançado no mercado nacional</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#inovação" class="link-category" rel="nofollow tag">#inovação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Respirador" class="link-category" rel="nofollow tag">Respirador</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        18h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-federal-antecipa-o-repasse-de-mais-de-r-364-milhoes-do-programa-de-alimentacao-escolar-para-estados-e-municipios">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-federal-antecipa-o-repasse-de-mais-de-r-364-milhoes-do-programa-de-alimentacao-escolar-para-estados-e-municipios/joao-bittar-merenda-escolar-3.jpg/@@images/41ac6fd1-0889-4257-86c7-808f5e23f196.jpeg" alt="Governo Federal antecipa o repasse de mais de R$ 364 milhões do programa de alimentação escolar para estados e municípios" title="Governo Federal antecipa o repasse de mais de R$ 364 milhões do programa de alimentação escolar para estados e municípios" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Alimentação escolar</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-federal-antecipa-o-repasse-de-mais-de-r-364-milhoes-do-programa-de-alimentacao-escolar-para-estados-e-municipios" title="collective.nitf.content">Programa de alimentação escolar recebe mais R$ 364 milhões</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O total já repassado para estados e municípios, em 2020, chega a R$ 1,4 bilhão</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pandemia" class="link-category" rel="nofollow tag">Pandemia</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Alimentação Escolar" class="link-category" rel="nofollow tag">Alimentação Escolar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Kit de Alimentação" class="link-category" rel="nofollow tag">Kit de Alimentação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Alimentação" class="link-category" rel="nofollow tag">Alimentação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Escolas Públicas" class="link-category" rel="nofollow tag">Escolas Públicas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Programa de Alimentação Escolar" class="link-category" rel="nofollow tag">Programa de Alimentação Escolar</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Alimentação Infantil" class="link-category" rel="nofollow tag">Alimentação Infantil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Educação" class="link-category" rel="nofollow tag">Ministério da Educação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h11
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/enem-portugal-mais-uma-instituicao-adere-ao-programa-e-passa-a-receber-alunos-brasileiros">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/enem-portugal-mais-uma-instituicao-adere-ao-programa-e-passa-a-receber-alunos-brasileiros/novosalunosfeuc2017_11.jpg/@@images/3a5cfe22-3510-4b78-a020-2014613ffaa1.jpeg" alt="Enem Portugal: Mais uma instituição adere ao programa e passa a receber alunos brasileiros" title="Enem Portugal: Mais uma instituição adere ao programa e passa a receber alunos brasileiros" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Exame Nacional do Ensino Médio</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/enem-portugal-mais-uma-instituicao-adere-ao-programa-e-passa-a-receber-alunos-brasileiros" title="collective.nitf.content">Enem Portugal: mais uma instituição adere ao programa  para receber alunos brasileiros</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Acordo selado entre o Inep e o IPAM vai possibilitar o ingresso de estudantes no ensino superior português utilizando a nota do Enem</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem" class="link-category" rel="nofollow tag">Enem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem Portugal" class="link-category" rel="nofollow tag">Enem Portugal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=INEP" class="link-category" rel="nofollow tag">INEP</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem 2020" class="link-category" rel="nofollow tag">Enem 2020</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Educação" class="link-category" rel="nofollow tag">Educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Educação" class="link-category" rel="nofollow tag">Ministério da Educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Educação Superior" class="link-category" rel="nofollow tag">Educação Superior</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=estudar no exterior" class="link-category" rel="nofollow tag">estudar no exterior</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        14/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h17
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/novos-caminhos-oferta-mais-8-330-vagas-em-cursos-de-qualificacao-profissional-a-distancia">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/novos-caminhos-oferta-mais-8-330-vagas-em-cursos-de-qualificacao-profissional-a-distancia/contemporary-learning-group-gsy2zwd.jpg/@@images/fad9bf00-7f6a-49e6-ab9e-e2ec81ff37ce.jpeg" alt="três instituições estão com vagas abertas" title="três instituições estão com vagas abertas" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/novos-caminhos-oferta-mais-8-330-vagas-em-cursos-de-qualificacao-profissional-a-distancia" title="collective.nitf.content">Institutos federais abrem vagas para cursos de qualificação profissional a distância</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Estão abertas 8.330 vagas por meio do programa Novos Caminhos, do Ministério da Educação (MEC)</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Novos Caminhos" class="link-category" rel="nofollow tag">Novos Caminhos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Curso técnico" class="link-category" rel="nofollow tag">Curso técnico</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Curso gratuito" class="link-category" rel="nofollow tag">Curso gratuito</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MEC" class="link-category" rel="nofollow tag">MEC</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        13/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        08h00
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/pesquisadores-vao-modificar-mascaras-de-mergulho-para-tratar-pacientes-da-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/pesquisadores-vao-modificar-mascaras-de-mergulho-para-tratar-pacientes-da-covid-19/megulhadores-scaled.jpg/@@images/719bed74-662c-4bda-9139-6eadd5e81da4.jpeg" alt="Pesquisadores vão modificar máscaras de mergulho para tratar pacientes da Covid-19" title="Pesquisadores vão modificar máscaras de mergulho para tratar pacientes da Covid-19" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Tecnologia</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/pesquisadores-vao-modificar-mascaras-de-mergulho-para-tratar-pacientes-da-covid-19" title="collective.nitf.content">Pesquisadores vão modificar máscaras de mergulho para tratar pacientes da Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Máscaras receberão uma válvula produzida em impressoras 3D para que possam ler ligadas aos aparelhos de oxigênio</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Mergulhadores" class="link-category" rel="nofollow tag">Mergulhadores</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Máscara de Mergulho" class="link-category" rel="nofollow tag">Máscara de Mergulho</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Respiradores" class="link-category" rel="nofollow tag">Respiradores</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate ao novo coronavírus" class="link-category" rel="nofollow tag">Combate ao novo coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Covid-19" class="link-category" rel="nofollow tag">Covid-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Coronavírus" class="link-category" rel="nofollow tag">Coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=SUS" class="link-category" rel="nofollow tag">SUS</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pesquisa" class="link-category" rel="nofollow tag">Pesquisa</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CIT" class="link-category" rel="nofollow tag">CIT</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Máscaras" class="link-category" rel="nofollow tag">Máscaras</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Equipamentos médicos" class="link-category" rel="nofollow tag">Equipamentos médicos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Insumos médicos" class="link-category" rel="nofollow tag">Insumos médicos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        16h19
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/receita-federal-destina-equipamentos-e-insumos-medicos-para-unifesp">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/receita-federal-destina-equipamentos-e-insumos-medicos-para-unifesp/female-doctor-using-her-digital-tablet-in-the-offi-9qj6zpe.jpg/@@images/7eaf8039-882b-4e24-aa0e-b7fb7827d654.jpeg" alt="Receita destina equipamentos e insumos médicos para Unifesp" title="Receita destina equipamentos e insumos médicos para Unifesp" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Hospitais Universitários</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/receita-federal-destina-equipamentos-e-insumos-medicos-para-unifesp" title="collective.nitf.content">Receita Federal destina equipamentos e insumos médicos para Unifesp</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">São mais de R$ 800 mil em equipamentos médicos e itens de informática destinados ao hospital universitário</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hospital Universitário" class="link-category" rel="nofollow tag">Hospital Universitário</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Insumos médicos" class="link-category" rel="nofollow tag">Insumos médicos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Receita Federal" class="link-category" rel="nofollow tag">Receita Federal</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Equipamentos médicos" class="link-category" rel="nofollow tag">Equipamentos médicos</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Universidades Federais" class="link-category" rel="nofollow tag">Universidades Federais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=São Paulo" class="link-category" rel="nofollow tag">São Paulo</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h13
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/laboratorio-da-embrapa-comeca-a-realizar-testes-de-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/laboratorio-da-embrapa-comeca-a-realizar-testes-de-covid-19/medical-laboratory-specialist-with-a-test-tube-wthvrj3.jpg/@@images/bedf9667-8301-4ede-827a-f445e9535828.jpeg" alt="Laboratório da Embrapa começa a realizar testes de Covid-19" title="Laboratório da Embrapa começa a realizar testes de Covid-19" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/laboratorio-da-embrapa-comeca-a-realizar-testes-de-covid-19" title="collective.nitf.content">Laboratório da Embrapa começa a realizar testes de Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">A partir desta semana, Empresa vai ajudar os laboratórios públicos nos diagnósticos de Covid-19</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate ao coronavírus" class="link-category" rel="nofollow tag">Combate ao coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=COVID-19" class="link-category" rel="nofollow tag">COVID-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=diagnóstico para COVID-19" class="link-category" rel="nofollow tag">diagnóstico para COVID-19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Teste coronavírus" class="link-category" rel="nofollow tag">Teste coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate ao novo coronavírus" class="link-category" rel="nofollow tag">Combate ao novo coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=EMBRAPA" class="link-category" rel="nofollow tag">EMBRAPA</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        12/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h01
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/estao-abertas-as-inscricoes-para-o-enem-2020">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/estao-abertas-as-inscricoes-para-o-enem-2020/31edb186-39c2-4cb5-a81a-84fd7591086f.jpeg/@@images/c9be314c-5186-4219-b0a9-71df03103b73.jpeg" alt="Estão abertas as inscrições para o Enem 2020" title="Estão abertas as inscrições para o Enem 2020" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Enem 2020</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/estao-abertas-as-inscricoes-para-o-enem-2020" title="collective.nitf.content">Estão abertas as inscrições para o Enem 2020</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Inscrições podem ser feitas até o dia 22 de maio no site ou no aplicativo oficial do exame</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Enem 2020" class="link-category" rel="nofollow tag">Enem 2020</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MEC" class="link-category" rel="nofollow tag">MEC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Exame Nacional do Ensino Médio" class="link-category" rel="nofollow tag">Exame Nacional do Ensino Médio</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h51
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/educacao-ja-liberou-mais-de-r-721-milhoes-para-escolas-publicas-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/educacao-ja-liberou-mais-de-r-721-milhoes-para-escolas-publicas-durante-pandemia/1008368-20160314-capa-_171151.jpg/@@images/dacf5c86-53c8-43c9-a9d9-0b68b703b1f5.jpeg" alt="Educação já liberou mais de R$ 721 milhões para escolas públicas durante pandemia" title="Educação já liberou mais de R$ 721 milhões para escolas públicas durante pandemia" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/educacao-ja-liberou-mais-de-r-721-milhoes-para-escolas-publicas-durante-pandemia" title="collective.nitf.content">Educação já liberou mais de R$ 721 milhões para escolas públicas durante pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Mais de 105 mil instituições foram beneficiadas. Dinheiro é usado na compra de produtos de higiene para facilitar retorno às aulas com segurança</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=FNDE" class="link-category" rel="nofollow tag">FNDE</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MEC" class="link-category" rel="nofollow tag">MEC</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        11/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        13h59
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/capes-vai-premiar-as-melhores-teses-de-doutorado-de-2019">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/capes-vai-premiar-as-melhores-teses-de-doutorado-de-2019/male-architect-in-office-ptv3cyy.jpg/@@images/7ace518d-6cf1-4101-92d8-1a400dcbcad7.jpeg" alt="Capes vai premiar as melhores teses de doutorado de 2019" title="Capes vai premiar as melhores teses de doutorado de 2019" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Prêmio Capes</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/capes-vai-premiar-as-melhores-teses-de-doutorado-de-2019" title="collective.nitf.content">Capes vai premiar as melhores teses de doutorado de 2019</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Inscrições começam no dia 16 de maio</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Prêmio Capes" class="link-category" rel="nofollow tag">Prêmio Capes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Educação" class="link-category" rel="nofollow tag">Educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Doutorado" class="link-category" rel="nofollow tag">Doutorado</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        09/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        14h30
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mec-incentiva-abertura-de-122-mil-vagas-em-cursos-de-qualificacao-profissional-online-durante-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mec-incentiva-abertura-de-122-mil-vagas-em-cursos-de-qualificacao-profissional-online-durante-pandemia/whatsapp-image-2020-05-08-at-13-49-12.jpeg/@@images/a5b9d01e-1014-4183-ae4f-35ddd5a42e7d.jpeg" alt="Uma das áreas disponíveis está a de desenvolvimento de jogos e aplicativos para mídias sociais" title="Uma das áreas disponíveis está a de desenvolvimento de jogos e aplicativos para mídias sociais" height="86" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/mec-incentiva-abertura-de-122-mil-vagas-em-cursos-de-qualificacao-profissional-online-durante-pandemia" title="collective.nitf.content">Qualificação profissional: instituições abrem 122 mil vagas em cursos online gratuitos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Para viabilizar a oferta, ministério investiu R$ 60 milhões por meio do programa Novos Caminhos</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#educação" class="link-category" rel="nofollow tag">#educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#MEC" class="link-category" rel="nofollow tag">#MEC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Curso técnico" class="link-category" rel="nofollow tag">Curso técnico</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=cursos on-line" class="link-category" rel="nofollow tag">cursos on-line</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        08/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h23
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/alunos-da-uab-farao-curso-online-de-recursos-educacionais-abertos">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/alunos-da-uab-farao-curso-online-de-recursos-educacionais-abertos/english-homework-3ksbafv.jpg/@@images/84567cf3-5c7a-4c5c-a94d-c5a15533abf4.jpeg" alt="Alunos da UAB farão curso online de Recursos Educacionais Abertos" title="Alunos da UAB farão curso online de Recursos Educacionais Abertos" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">ENSINO A DISTÂNCIA</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/alunos-da-uab-farao-curso-online-de-recursos-educacionais-abertos" title="collective.nitf.content">Alunos da UAB farão curso online de Recursos Educacionais Abertos</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Os Recursos Educacionais Abertos englobam materiais de ensino, aprendizado e pesquisa que estão sob domínio público</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=UAB" class="link-category" rel="nofollow tag">UAB</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Capes" class="link-category" rel="nofollow tag">Capes</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Recursos Educacionais Abertos" class="link-category" rel="nofollow tag">Recursos Educacionais Abertos</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h54
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/saeb-e-ampliado-e-podera-ser-usado-para-acesso-a-ensino-superior">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/saeb-e-ampliado-e-podera-ser-usado-para-acesso-a-ensino-superior/group-of-friends-studying-in-a-university-classroo-ate5zry.jpg/@@images/754f578e-7edf-492f-af8c-c7d9bd3ac0f7.jpeg" alt="Saeb é ampliado e poderá ser usado para acesso a ensino superior" title="Saeb é ampliado e poderá ser usado para acesso a ensino superior" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Educação Básica</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/saeb-e-ampliado-e-podera-ser-usado-para-acesso-a-ensino-superior" title="collective.nitf.content">Saeb é ampliado e poderá ser usado para acesso ao ensino superior</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Prova passará a ser anual e para todos as séries a partir do 2º ano do ensino fundamental</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Saeb" class="link-category" rel="nofollow tag">Saeb</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Educação" class="link-category" rel="nofollow tag">Educação</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h24
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/universidade-federal-produz-alcool-em-gel-a-partir-de-bebidas-alcoolicas-apreendidas-pela-receita-federal">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/universidade-federal-produz-alcool-em-gel-a-partir-de-bebidas-alcoolicas-apreendidas-pela-receita-federal/alcool_em_gel_280220_numero_de_serie_de_4_digitos_1.jpg/@@images/5ebee1c1-70a8-43f1-93df-cf8cf45a9768.jpeg" alt="Universidade Federal produz álcool em gel a partir de bebidas alcoólicas apreendidas pela Receita Federal" title="Universidade Federal produz álcool em gel a partir de bebidas alcoólicas apreendidas pela Receita Federal" height="76" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">Combate ao novo coronavírus</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/universidade-federal-produz-alcool-em-gel-a-partir-de-bebidas-alcoolicas-apreendidas-pela-receita-federal" title="collective.nitf.content">Universidade Federal produz álcool em gel a partir de bebidas alcoólicas apreendidas pela Receita Federal</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">O álcool em gel produzido será doado às instituições de saúde do Rio Grande Sul</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=álcool gel" class="link-category" rel="nofollow tag">álcool gel</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Bebidas Alcoólicas" class="link-category" rel="nofollow tag">Bebidas Alcoólicas</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Universidades Federais" class="link-category" rel="nofollow tag">Universidades Federais</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Combate ao novo coronavírus" class="link-category" rel="nofollow tag">Combate ao novo coronavírus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=RECEITA FEDERAL" class="link-category" rel="nofollow tag">RECEITA FEDERAL</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Receita Federal" class="link-category" rel="nofollow tag">Receita Federal</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        07/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        11h17
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-recebe-81-propostas-para-novos-equipamentos-de-protecao-contra-a-covid-19">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-recebe-81-propostas-para-novos-equipamentos-de-protecao-contra-a-covid-19/doctor-wearing-latex-gloves-medicine-and-health-co-pstfyd5.jpg/@@images/72617918-3bdd-4874-9d35-2733513b938e.jpeg" alt="Governo recebe 81 propostas para novos Equipamentos de Proteção contra a Covid-19" title="Governo recebe 81 propostas para novos Equipamentos de Proteção contra a Covid-19" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">inovação</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/governo-recebe-81-propostas-para-novos-equipamentos-de-protecao-contra-a-covid-19" title="collective.nitf.content">Governo recebe 81 propostas para novos Equipamentos de Proteção contra a Covid-19</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Os equipamentos de proteção individual poderão ser utilizados por profissionais de saúde, pacientes e público em geral</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Inovação" class="link-category" rel="nofollow tag">Inovação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=EPIs" class="link-category" rel="nofollow tag">EPIs</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=EPCs" class="link-category" rel="nofollow tag">EPCs</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        15h07
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/abertas-as-inscricoes-para-1o-hackathon-sobre-covid-19-nas-atividades-espaciais">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/abertas-as-inscricoes-para-1o-hackathon-sobre-covid-19-nas-atividades-espaciais/capturar.png/@@images/e200f922-1014-4882-8065-dd079e3ac57a.png" alt="Imagem de um satélite espacial próximo da Terra" title="Imagem de um satélite espacial próximo da Terra" height="72" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">INOVAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/abertas-as-inscricoes-para-1o-hackathon-sobre-covid-19-nas-atividades-espaciais" title="collective.nitf.content">Abertas as inscrições para 1º Hackathon sobre Covid-19 nas atividades espaciais</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">As inscrições podem ser feitas com equipes de até cinco estudantes do 8º ou 9º ano do Ensino Fundamental e do Ensino Médio, coordenadas por responsáveis, monitores ou professores acima de 18 anos.</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Hackaton" class="link-category" rel="nofollow tag">Hackaton</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=corona vírus covid-19 covid 19" class="link-category" rel="nofollow tag">corona vírus covid-19 covid 19</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=MCTIC" class="link-category" rel="nofollow tag">MCTIC</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=AEB" class="link-category" rel="nofollow tag">AEB</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Agência espacial" class="link-category" rel="nofollow tag">Agência espacial</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        06/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        12h05
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/divulgado-resultado-preliminar-para-programa-de-pos-graduacao-em-enfermagem-da-capes">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/divulgado-resultado-preliminar-para-programa-de-pos-graduacao-em-enfermagem-da-capes/young-nurse-working-at-the-hospital-7ldn2ph.jpg/@@images/6e08f154-a2f9-4356-ad68-3a72f0c3c76b.jpeg" alt="" title="" height="96" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">EDUCAÇÃO</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/divulgado-resultado-preliminar-para-programa-de-pos-graduacao-em-enfermagem-da-capes" title="collective.nitf.content">Divulgado resultado preliminar para programa de pós-graduação em enfermagem da Capes</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Serão investidos R$ 4,8 milhões para apoiar os programas de pós-graduação, que formarão até 180 enfermeiros</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Pos-graduação em saúde" class="link-category" rel="nofollow tag">Pos-graduação em saúde</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=enfermagem" class="link-category" rel="nofollow tag">enfermagem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=CAPES" class="link-category" rel="nofollow tag">CAPES</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Cofen" class="link-category" rel="nofollow tag">Cofen</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#enfermagem" class="link-category" rel="nofollow tag">#enfermagem</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#mestrado" class="link-category" rel="nofollow tag">#mestrado</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#educação" class="link-category" rel="nofollow tag">#educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=mestrado profissional" class="link-category" rel="nofollow tag">mestrado profissional</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        05/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        19h53
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+            
+              
+
+      <article class="tileItem visualIEFloatFix tile-collective-nitf-content">
+
+        <div class="tileContent">
+          
+          <div class="tileImage">
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/universidades-federais-formaram-1-241-novos-profissionais-da-saude-durante-a-pandemia">
+              <img src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/universidades-federais-formaram-1-241-novos-profissionais-da-saude-durante-a-pandemia/whatsapp_image_2020-04-30_at_17-07-51.jpeg/@@images/8d2f06e4-7f7f-463c-9116-69063da9ea99.jpeg" alt="Universidades federais formaram 1.241 novos profissionais da saúde durante a pandemia" title="Universidades federais formaram 1.241 novos profissionais da saúde durante a pandemia" height="85" width="128" class="tileImage" />
+            </a>
+          </div>
+
+          <span class="subtitle">covid-19</span>
+          <h2 class="tileHeadline">
+            <a class="summary url" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/05/universidades-federais-formaram-1-241-novos-profissionais-da-saude-durante-a-pandemia" title="collective.nitf.content">Universidades federais já formaram mais de 1,2 mil novos profissionais da saúde durante a pandemia</a>
+          </h2>
+
+          <p class="tileBody">
+            <span class="description">Profissionais reforçam quadros em um cenário de enfrentamento à Covid-19</span>
+          </p>
+
+          <div class="keywords">
+              tags:
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#Coronavirus" class="link-category" rel="nofollow tag">#Coronavirus</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=#CoronavirusNoBrasil" class="link-category" rel="nofollow tag">#CoronavirusNoBrasil</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Educação" class="link-category" rel="nofollow tag">Ministério da Educação</a>
+              </span>
+              <span>
+                  <a href="https://www.gov.br/@@search?Subject:list=Ministério da Saúde" class="link-category" rel="nofollow tag">Ministério da Saúde</a>
+              </span>
+          </div>
+
+        </div>
+
+        
+        <span class="documentByLine">
+            
+            
+            
+            
+            
+                
+                
+                    <span class="hiddenStructure">
+                        publicado
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-day"></i>
+                        04/05/2020
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-hour"></i>
+                        17h24
+                    </span>
+                    <span class="summary-view-icon">
+                        <i class="icon-news"></i>
+                        Notícias
+                    </span>
+                
+                <div class="visualClear"><!-- --></div>
+            
+        </span>
+
+      </article>
+
+      
+            
+          
+  
+
+        
+
+    <!-- Navigation -->
+
+    <ul class="paginacao listingBar">
+        <li>
+            <a class="anterior" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=60">
+                «
+                Anterior
+            </a>
+        </li>
+        <!-- Link to first -->
+        
+        <!-- Pagelist with links to previous pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=0">1</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=30">2</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=60">3</a>
+        </li>
+        <!-- Current page -->
+        <li>
+            <span>4</span>
+        </li>
+        <!-- Pagelist with links to next pages for quick navigation -->
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=120">5</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=150">6</a>
+        </li>
+        <li>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=180">7</a>
+        </li>
+        <!-- Link to last -->
+        
+            <li>
+                <span class="reticencias">
+                    ...
+                </span>
+            </li>
+            <li>
+                <a class="pagina" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=450">16</a>
+            </li>
+        
+        <li>
+            <a class="proximo" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/ultimas-noticias-educacao?b_start:int=120">
+                Próximo
+                »
+            </a>
+        </li>
+    </ul>
+
+
+
+
+
+      
+
+      
+        
+      
+
+    
+  
+
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+        </main>
+
+        
+      </div>
+
+      <div class="conteudo-relacionado"></div>
+
+      <footer id="portal-footer" class="portal-footer">
+        <div class="footer-wrapper">
+          <div class="govbr-logo"></div>
+          <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+          <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/servicos" title="" class="plain">Serviços</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por" title="" class="state-protected hasDropDown">
+            
+            Buscar serviços por
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/categorias" title="" class="state-published">
+            
+            Categorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_orgaos" title="" class="state-published">
+            
+            Órgãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos-estaduais" title="" class="state-published">
+            
+            Estados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo" title="" class="state-protected hasDropDown">
+            
+            Serviços por público alvo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos" title="" class="state-published">
+            
+            Cidadãos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas" title="" class="state-published">
+            
+            Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos" title="" class="state-published">
+            
+            Órgãos e Entidades Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros" title="" class="state-published">
+            
+            Demais segmentos (ONGs, organizações sociais, etc)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" title="" class="plain">Galeria de Aplicativos</a></li><li class="selected dropdown-submenu"><a href="https://www.gov.br/pt-br/noticias" title="" class="plain">Notícias</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/ultimas-noticias" title="" class="state-published">
+            
+            Últimas notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/coronavirus" title="" class="state-published">
+            
+            Coronavirus
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/acoes-2019" title="" class="state-published">
+            
+            Ações 2019
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria" title="" class="state-published">
+            
+            Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria" title="" class="state-published">
+            
+            Agricultura e Pecuária
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social" title="" class="state-published hasDropDown">
+            
+            Cidadania e Assistência Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/assistencia-social/patria-voluntaria" title="" class="state-published">
+            
+            Pátria Voluntária
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes" title="" class="state-published">
+            
+            Cultura e Esporte
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica" title="" class="state-published hasDropDown">
+            
+            Economia e Gestão Pública
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/400-dias" title="" class="state-published">
+            
+            400 dias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias" title="" class="state-published">
+            
+            500 dias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa" title="" class="state-published">
+            
+            Educação e Pesquisa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis" title="" class="state-published">
+            
+            Energia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes" title="" class="state-published">
+            
+            Infraestrutura
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca" title="" class="state-published">
+            
+            Justiça e Segurança
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima" title="" class="state-published hasDropDown">
+            
+            Meio Ambiente
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/operacao-verde-brasil" title="" class="state-published">
+            
+            Operação Verde Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia" title="" class="state-published">
+            
+            Trabalho e Previdência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo" title="" class="state-published">
+            
+            Turismo
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="/planalto" title="Notícias da Presidência da República" class="plain">Acompanhe o Planalto</a></li><li class="plain"><a href="https://www.gov.br/pt-br/arquivos-de-servicos" title="" class="plain">Arquivos de serviços</a></li><li class="plain"><a href="https://www.gov.br/pt-br/canais-do-executivo-federal" title="Acompanhe os principais canais do governo federal e fique por dentro do que está sendo feito para melhorar a vida dos brasileiros" class="plain">Canais do Poder Executivo Federal</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/pt-br/navegacao" title="" class="plain">Navegação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/accessibility-info" title="" class="state-published">
+            
+            Acessibilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/sitemap" title="" class="state-published">
+            
+            Mapa do Site
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/pt-br/termos-de-uso" title="" class="state-published">
+            
+            Termos de Uso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://gov.br/sobre" title="" class="state-published">
+            
+            Sobre o gov.br
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://solicitacao.servicos.gov.br/" title="" class="plain">Acesse sua conta gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br" title="Aprenda aqui o que cadastrar, a forma como é feito e dicas para melhorar o entendimento do seu conteúdo" class="plain">Guia de Edição de Serviços do Gov.br</a></li><li class="plain"><a href="https://www.gov.br/pt-br/orgaos-do-governo" title="Veja aqui os Órgãos que compõe a Administração Direta do Executivo Federal" class="plain">Órgãos do Governo</a></li><li class="plain"><a href="https://www.gov.br/pt-br/todosportodos" title="" class="plain">Todos por todos</a></li></ul>
+          <!--</div>
+            </div>-->
+
+          <div class="redes-e-logos">
+            <div class="redes-sociais">
+        <h3>Redes sociais</h3>
+        <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/govbr">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/user/CanalPortalBrasil">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/governodobrasil">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/palaciodoplanalto">Flickr</a>
+                </li>
+            
+        </ul>
+    </div>
+            <div id="footer-brasil"></div>
+          </div>
+        </div>
+
+        <div class="texto-copyright">
+    <span omit-tag="">Todo o conteúdo deste site está publicado sob a licença</span> <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+
+        <div class="back-to-top">
+          <a href="#wrapper">
+            <span class="fa fa-chevron-up"></span>
+            <span class="sr-only">Voltar ao topo</span>
+          </a>
+        </div>
+      </footer>
+    </div>
+    
+    
+      <script defer="defer" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+<script type="text/javascript" src="/++theme++padrao_govbr/govbrtheme-2b07dcb.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36');
+</script>
+</div></body>
+</html>

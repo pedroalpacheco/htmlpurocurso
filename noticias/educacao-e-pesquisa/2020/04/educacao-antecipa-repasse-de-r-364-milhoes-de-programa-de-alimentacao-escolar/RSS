@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/RSS">
+  <title>Educação antecipa repasse de R$ 364 milhões de programa de alimentação escolar</title>
+  <link>https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar</link>
+  <description>Montante total já repassado a estados e municípios, em 2020, chega a R$ 1,4 bilhão</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/view">
+    <title>Educação antecipa repasse de R$ 364 milhões de programa de alimentação escolar</title>
+    <link>https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/view</link>
+    <description>O Governo Federal adaptou a legislação do programa para possibilitar a entrega dos alimentos às famílias dos estudantes.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/@@images/image" title="Educação antecipa repasse de R$ 364 milhões de programa de alimentação escolar" alt="Educação antecipa repasse de R$ 364 milhões de programa de alimentação escolar" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>FNDE</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2020/04/educacao-antecipa-repasse-de-r-364-milhoes-de-programa-de-alimentacao-escolar/9e42e71b92350340b621a8d8d3209225_m.jpg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>FNDE</dc:rights>
+    
+      <dc:subject>PNAE</dc:subject>
+    
+      <dc:subject>Alimentação Escolar</dc:subject>
+    
+      <dc:subject>FNDE</dc:subject>
+    
+      <dc:subject>#Coronavirus</dc:subject>
+    
+      <dc:subject>#CoronavirusNoBrasil</dc:subject>
+    
+    <dc:date>2020-04-30T18:53:30Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

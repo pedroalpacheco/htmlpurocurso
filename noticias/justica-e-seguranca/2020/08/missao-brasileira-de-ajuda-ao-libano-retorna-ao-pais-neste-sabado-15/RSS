@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/missao-brasileira-de-ajuda-ao-libano-retorna-ao-pais-neste-sabado-15/RSS">
+  <title>Missão brasileira de ajuda ao Líbano retorna ao País neste sábado (15)</title>
+  <link>https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/missao-brasileira-de-ajuda-ao-libano-retorna-ao-pais-neste-sabado-15</link>
+  <description>Aeronaves levaram seis toneladas de alimentos e medicamentos para doações</description>
+  <image rdf:resource="https://www.gov.br/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/missao-brasileira-de-ajuda-ao-libano-retorna-ao-pais-neste-sabado-15/whatsapp-image-2020-08-12-at-11-08-10-2.jpeg/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/missao-brasileira-de-ajuda-ao-libano-retorna-ao-pais-neste-sabado-15/whatsapp-image-2020-08-12-at-11-08-10-2.jpeg/view">
+    <title>Aviões da missão humanitária ao Líbano retornam neste sábado</title>
+    <link>https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/missao-brasileira-de-ajuda-ao-libano-retorna-ao-pais-neste-sabado-15/whatsapp-image-2020-08-12-at-11-08-10-2.jpeg/view</link>
+    <description>Além das seis toneladas de alimentos e medicamentos enviados nos aviões, Líbano receberá quatro mil toneladas de arroz por via marítima.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        
+   
+  <div class="image-product">
+    <img style="max-width: 100%;" src="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/missao-brasileira-de-ajuda-ao-libano-retorna-ao-pais-neste-sabado-15/whatsapp-image-2020-08-12-at-11-08-10-2.jpeg/@@images/image" title="Aviões da missão humanitária ao Líbano retornam neste sábado" alt="Aviões da missão humanitária ao Líbano retornam neste sábado" />
+    <div class="discreet">
+        <div>
+            
+                <span>Foto:</span>
+                <span>Clauber Cleber Caetano/PR</span>
+            
+        </div>    
+        <div>
+            <a title="Download" href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/missao-brasileira-de-ajuda-ao-libano-retorna-ao-pais-neste-sabado-15/whatsapp-image-2020-08-12-at-11-08-10-2.jpeg/download">
+                <i class="fas fa-download"></i>
+            </a>
+            <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca/2020/08/missao-brasileira-de-ajuda-ao-libano-retorna-ao-pais-neste-sabado-15/whatsapp-image-2020-08-12-at-11-08-10-2.jpeg/image_view_fullscreen" title="title">
+            <i class="fas fa-expand"></i>
+            </a>
+        </div>
+    </div>
+    
+  </div>
+
+
+          
+        ]]>
+    </content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    
+    <dc:rights>Clauber Cleber Caetano/PR</dc:rights>
+    
+      <dc:subject>Defesa </dc:subject>
+    
+      <dc:subject>Ministério da Defesa</dc:subject>
+    
+      <dc:subject>Líbano</dc:subject>
+    
+      <dc:subject>Missão humanitária</dc:subject>
+    
+    <dc:date>2020-08-14T21:36:15Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>
