@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head><title>Teste de localização</title></head>
+<body>
+<br><br><br><br><br><br><br><br><h2>Teste de localização</h2>
+<button id='geo-button' onclick="getLocation()">Mostre minha Geo-localização</button>
+<p id="demo"></p>
+<script>
+var x = document.getElementById("demo");
+getLocation()
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition, showError);
+  } else { 
+    x.innerHTML = "Seu browser não suporta geolocalização";
+  }
+}
+
+function showPosition(position) {
+  x.innerHTML = "Latitude: " + position.coords.latitude + 
+  "<br>Longitude: " + position.coords.longitude;
+}
+
+function showError(error) {
+  switch(error.code) {
+    case error.PERMISSION_DENIED:
+      x.innerHTML = "Usuario proibido para geolocalização."
+      break;
+    case error.POSITION_UNAVAILABLE:
+      x.innerHTML = "Local informado não existe"
+      break;
+    case error.TIMEOUT:
+      x.innerHTML = "Tempo de requisição terminou!."
+      break;
+    case error.UNKNOWN_ERROR:
+      x.innerHTML = "Erro desconhecido."
+      break;
+  }
+}
+</script>
+</body>
+</html>
